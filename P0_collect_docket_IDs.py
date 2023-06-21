@@ -25,6 +25,13 @@ def compute(days_back, f1):
     m0 = target_date.month
     d0 = target_date.day
 
+    f_save = f1.parent / f"{y0:04d}_{int(m0):02d}_{int(d0):02d}.json"
+
+    if f_save.exists():
+        return f_save
+
+    print(f"Starting {f_save}")
+
     params = {
         "filter[documentType]": list(selected_documentType),
         "filter[postedDate]": f"{y0:04d}-{m0:02d}-{d0:02d}",
@@ -32,10 +39,6 @@ def compute(days_back, f1):
     }
 
     url = "https://api.regulations.gov/v4/documents"
-    f_save = f1.parent / f"{y0}_{int(m0):02d}_{int(d0):02d}.json"
-
-    if f_save.exists():
-        return f_save
 
     total_pages = None
     data = []
@@ -66,6 +69,7 @@ def compute(days_back, f1):
         FOUT.write(jsx)
 
     print(f"Saved {f_save}")
+
 
 session = utils.get_session()
 headers = utils.get_API_KEY()
