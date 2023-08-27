@@ -1,0 +1,943 @@
+[
+  {
+    "data": [
+      {
+        "id": "SSA-2012-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-04T14:08:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22445",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": "2013-11-19T04:59:59Z",
+          "title": "Medicare Determinations and Income Related Monthly Adjustment Amounts to Medicare Part B Premiums; Conforming Changes to Regulations",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "SSA-2012-0011",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429b8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2012-0011-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0463-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T16:27:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22620",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Cleveland, Ohio 1997 Annual and 2006 24-Hour PM 2.5 Redesignation and Maintenance Plan",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0463",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648142a06e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0463-0009"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2013-0511-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-09-18T13:42:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22617",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-10-19T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Missouri; Conformity of General Federal Actions to State Implementation Plans",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2013-0511",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429b8a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2013-0511-0001"
+        }
+      },
+      {
+        "id": "ED-2013-OSERS-0105-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T18:06:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22715",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Individuals with Disabilities Education Act Partnership Project: Final Waiver and Extension of Project Period",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "ED-2013-OSERS-0105",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429b8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2013-OSERS-0105-0002"
+        }
+      },
+      {
+        "id": "FAA-2013-0707-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T02:05:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22396",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-11-05T04:59:59Z",
+          "title": "Airworthiness Directives: Honeywell ASCa Inc. Emergency Locator Transmitters Installed on Various Transport Category Airplanes",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "FAA-2013-0707",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429cce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0707-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0337-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T16:43:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22623",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Steubenville-Weirton, Ohio - 1997 PM2.5 Annual and 2006 PM2.5 24-Hour Redesignation and Maintenance Plan",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0337",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429c9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0337-0008"
+        }
+      },
+      {
+        "id": "CMS-2013-0093-0093",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T13:08:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22686",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicaid Program: State Disproportionate Share Hospital Allotment Reductions",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "CMS-2013-0093",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429d05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2013-0093-0093"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2013-0511-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-10-22T01:03:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22619",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-10-19T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Missouri; Conformity of General Federal Actions to State Implementation Plan",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2013-0511",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429c60"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2013-0511-0002"
+        }
+      },
+      {
+        "id": "FTA-2013-0016-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-11-24T02:10:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "Environmental Impact and Related Procedures: Programmatic Agreements and Additional Categorical Exclusions",
+          "postedDate": "2013-09-19T00:00:00Z",
+          "docketId": "FTA-2013-0016",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648142b3be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2013-0016-0030"
+        }
+      },
+      {
+        "id": "APHIS-2011-0003-15373",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T13:35:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22616",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Animal Welfare: Retail Pet Stores and Licensing Exemptions",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "APHIS-2011-0003",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429d35"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2011-0003-15373"
+        }
+      },
+      {
+        "id": "NCUA-2013-0095-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T12:12:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22729",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Federal Credit Union Ownership of Fixed Assets",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "NCUA-2013-0095",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429db3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2013-0095-0001"
+        }
+      },
+      {
+        "id": "FDA-2011-N-0143-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-02-05T14:07:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22655",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Food and Drug Administration Food Safety Modernization Act:  Proposed Rules on Foreign Supplier Verification Programs and the Accreditation of Third-Party Auditors/Certification Bodies; Public Meetings",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "FDA-2011-N-0143",
+          "subtype": "Public Meeting",
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429d03"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2011-N-0143-0028"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0115-0079",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T14:28:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22701",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; Red Snapper Management Measures",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0115",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481429d7a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0115-0079"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0180-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T20:40:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22704",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Pollock in Statistical Area 630 in the Gulf of Alaska",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0180",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481429c64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0180-0035"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0101-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-12-12T02:01:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22736",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-12-11T04:59:59Z",
+          "title": "Atlantic Highly Migratory Species: 2006 Consolidated Highly Migratory Species Fishery Management Plan; Amendment 7",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0101",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429cd2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0101-0009"
+        }
+      },
+      {
+        "id": "COE-2013-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-11-05T04:43:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22614",
+          "withdrawn": false,
+          "agencyId": "COE",
+          "commentEndDate": "2013-10-29T03:59:59Z",
+          "title": "Danger Zones: York River and the Naval Weapons Station Yorktown-Cheatham Annex, Yorktown, VA",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "COE-2013-0012",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429bd1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COE-2013-0012-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2011-0868-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T16:26:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22620",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Cleveland, Ohio 1997 Annual and 2006 24-Hour PM 2.5 Redesignation and Maintenance Plan",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2011-0868",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429d32"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2011-0868-0009"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2012-0441-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T15:05:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22603",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Tolerances and Exemptions for Pesticide Chemical Residues in Food: Difenzoquat; Denial of Objections",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2012-0441",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429ca1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2012-0441-0008"
+        }
+      },
+      {
+        "id": "CDC_FRDOC_0001-0053",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T12:10:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22685",
+          "withdrawn": false,
+          "agencyId": "CDC",
+          "commentEndDate": null,
+          "title": "Distribution of Reference Biological Standards and Biological Preparations",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "CDC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429c61"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CDC_FRDOC_0001-0053"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0135-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-10-19T01:02:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22731",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-10-19T03:59:59Z",
+          "title": "Fisheries Off West Coast States: Coastal Pelagic Species Fisheries; Annual Specifications",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0135",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429db8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0135-0001"
+        }
+      },
+      {
+        "id": "ED-2012-OSERS-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-24T12:59:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22668",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": "2013-12-03T04:59:59Z",
+          "title": "Assistance to States for the Education of Children with Disabilities",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "ED-2012-OSERS-0020",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429c9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2012-OSERS-0020-0001"
+        }
+      },
+      {
+        "id": "FDA-2011-N-0146-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-09-18T14:57:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22655",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Food and Drug Administration Food Safety Modernization Act:  Proposed Rules on Foreign Supplier Verification Programs and the Accreditation of Third-Party Auditors/Certification Bodies; Public Meetings",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "FDA-2011-N-0146",
+          "subtype": "Public Meeting",
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648142a07f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2011-N-0146-0030"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2012-0911-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T20:25:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22597",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-11-19T04:59:59Z",
+          "title": "Pesticide Tolerances: Quinoxyfen",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2012-0911",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429bcf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2012-0911-0004"
+        }
+      },
+      {
+        "id": "USCG-2013-0010-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22611",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR:  Safety Zones: Grain-Shipment and Grain-Shipment Assist Vessels, Columbia and Willamette Rivers (Federal Register Publication)",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "USCG-2013-0010",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429c25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-0010-0006"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0108-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-10-19T01:02:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22737",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-10-19T03:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Annual Catch Limits and Accountability Measures",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0108",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429c9b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0108-0004"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0085-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-11-19T02:02:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22730",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-11-19T04:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Snapper-Grouper Fishery Off the Southern Atlantic States; Amendment 27",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0085",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429ccc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0085-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2012-0635-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T16:14:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22593",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-11-19T04:59:59Z",
+          "title": "Pesticide Tolerances: Chlorantraniliprole",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2012-0635",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429bd0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2012-0635-0004"
+        }
+      },
+      {
+        "id": "DOT-OST-2012-0147-0247",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-10-31T01:02:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22708",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2013-10-31T03:59:59Z",
+          "title": "Disadvantaged Business Enterprise: Program Implementation Modifications",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "DOT-OST-2012-0147",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429bca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2012-0147-0247"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0080-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-09-14T00:18:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22717",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-11-19T04:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Revisions to Headboat Reporting Requirements for Species Managed by the South Atlantic Fishery Management Council",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0080",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429d00"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0080-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0462-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T16:45:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22623",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Steubenville-Weirton, Ohio - 1997 PM2.5 Annual and 2006 PM2.5 24-Hour Redesignation and Maintenance Plan",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0462",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648142a392"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0462-0007"
+        }
+      },
+      {
+        "id": "ED-2013-OSERS-0104-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-18T18:03:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22714",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Final Waivers: Technical Assistance Coordination Center",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "ED-2013-OSERS-0104",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429bd2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2013-OSERS-0104-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2013-0383-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-11-16T21:08:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22601",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-11-19T04:59:59Z",
+          "title": "Tolerance Exemptions: 2,5-Furandione, Polymer with Ethenylbenzene, Hydrolyzed, 3-(Dimethylamino)propyl Imide, etc.",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2013-0383",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429c23"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2013-0383-0004"
+        }
+      },
+      {
+        "id": "FTC-2014-0013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-05T21:58:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-22638",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": "2013-10-19T03:59:59Z",
+          "title": "Children's Online Privacy Protection Rule Safe Harbor Proposed Self Regulatory Guidelines: kidSAFE Seal Program Application for Safe Harbor",
+          "postedDate": "2013-09-18T04:00:00Z",
+          "docketId": "FTC-2014-0013",
+          "subtype": null,
+          "commentStartDate": "2013-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481429d74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2014-0013-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 141,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 65,
+            "label": "Notice"
+          },
+          {
+            "docCount": 55,
+            "label": "Other"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 13,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Public Meeting"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 33,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "EPA"
+          },
+          {
+            "docCount": 7,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "ED"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "CDC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "COE"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-09-18",
+          "toDate": "2013-09-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "data": [
+      {
+        "id": "EERE-2006-TP-0104-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-09-24T14:55:42Z",
+          "highlightedContent": "",
+          "frDocNum": "03-5405",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2003-04-08T03:59:59Z",
+          "title": "2003-03-07  Office of Energy Efficiency and Renewable Energy; Energy Conservation Program for Consumer Products: Test Procedure for Refrigerators and Refrigerator-Freezers; Notice of proposed rulemaking.",
+          "postedDate": "2014-01-12T05:00:00Z",
+          "docketId": "EERE-2006-TP-0104",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814ffbc2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-TP-0104-0002"
+        }
+      },
+      {
+        "id": "FTA-2013-0016-0042",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-13T14:58:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "Environmental Impact and Related Procedures",
+          "postedDate": "2014-01-13T00:00:00Z",
+          "docketId": "FTA-2013-0016",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064815036e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2013-0016-0042"
+        }
+      },
+      {
+        "id": "EERE-2006-TP-0104-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-09-24T14:55:42Z",
+          "highlightedContent": "",
+          "frDocNum": "03-5404",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2003-04-08T03:59:59Z",
+          "title": "2003-03-07  Energy Conservation Program for Consumer Products: Test Procedure for Refrigerators and Refrigerator-Freezers; Direct final rule.",
+          "postedDate": "2014-01-12T05:00:00Z",
+          "docketId": "EERE-2006-TP-0104",
+          "subtype": "Final Rule",
+          "commentStartDate": "2014-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814ffbc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-TP-0104-0001"
+        }
+      },
+      {
+        "id": "EERE-2006-TP-0081-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-07-14T20:02:04Z",
+          "highlightedContent": "",
+          "frDocNum": "97-8937",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "1997-05-09T03:59:59Z",
+          "title": "1997-04-08  Energy Conservation Program for Consumer Products: Proposed Rule Adding Test Procedures for Externally Vented Refrigerators and Refrigerator-Freezers; Proposed rule.",
+          "postedDate": "2014-01-12T05:00:00Z",
+          "docketId": "EERE-2006-TP-0081",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "1997-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814fbac6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-TP-0081-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2014-01-12",
+          "toDate": "2014-01-12"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,820 @@
+[
+  {
+    "data": [
+      {
+        "id": "TREAS_FRDOC_0001-0209",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T13:36:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05804",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Trademarks, Trade Names, and Copyrights; CFR Correction",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665c8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0209"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2014-0118-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-14T14:02:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05523",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2014-04-15T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Iowa",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2014-0118",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665e1a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2014-0118-0003"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2013-0599-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-14T15:02:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05525",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2014-04-15T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California, San Francisco Bay Area and Chico Nonattainment Areas; Fine Particulate Matter Emission Inventories",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2013-0599",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665eac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2013-0599-0002"
+        }
+      },
+      {
+        "id": "AMS-FV-14-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-06-13T18:59:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05557",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2014-05-14T03:59:59Z",
+          "title": "Decreased Assessment Rates: Olives Grown in California",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "AMS-FV-14-0002",
+          "subtype": "Affirmation of an Interim Rule",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665eef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-14-0002-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2013-0423-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-04-24T01:03:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05743",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2014-04-15T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: West Virginia; Regional Haze Five-Year Progress Report",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2013-0423",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665ef0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2013-0423-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-0156-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-23T02:45:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05612",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2014-04-29T03:59:59Z",
+          "title": "Airworthiness Directives: Costruzioni Aeronautiche Tecnam srl Airplanes",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "FAA-2014-0156",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665c4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-0156-0001"
+        }
+      },
+      {
+        "id": "USCG-2013-1058-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-23T02:45:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05582",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2014-04-15T03:59:59Z",
+          "title": "NPRM:  Safety Zones: Webb Institute Fireworks, Long Island Sound, Glen Cove, NY (Federal Register Publication)",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "USCG-2013-1058",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665d73"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-1058-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2014-0118-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T14:04:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05512",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2014-04-15T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Iowa",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2014-0118",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665d0d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2014-0118-0004"
+        }
+      },
+      {
+        "id": "USCG-2014-0114-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T14:48:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05537",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operations: Lake Pontchartrain, Between Jefferson and St. Tammany Parishes, LA (Federal Register Publication)",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "USCG-2014-0114",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665e67"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2014-0114-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0986-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-14T13:55:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05688",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2014-04-29T03:59:59Z",
+          "title": "Establishment of Class E Airspace: Bois Blanc Island, MI",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "FAA-2013-0986",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665ea7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0986-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0170-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-04-15T01:04:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05581",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2014-04-15T03:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Dolphin and Wahoo Fishery Off the Atlantic States; Amendment 5",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0170",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665ef1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0170-0005"
+        }
+      },
+      {
+        "id": "FAA-2013-0977-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-05-25T00:26:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-04841",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "FAA-2013-0977",
+          "subtype": "Final Rule",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481667d9c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0977-0004"
+        }
+      },
+      {
+        "id": "FERC-2014-0294-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T13:37:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05583",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Electric Quarterly Report Data Dictionary Update",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665e16"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2014-0294-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0180-0047",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T16:42:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05647",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Pacific Cod by Catcher Vessels Using Hook-and-Line Gear in the Central Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0180",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665b72"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0180-0047"
+        }
+      },
+      {
+        "id": "USCG-2014-0115-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T14:43:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05546",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operations: Gulf Intracoastal Waterway, Galveston, TX (Federal Register Publication)",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "USCG-2014-0115",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665c8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2014-0115-0001"
+        }
+      },
+      {
+        "id": "USCBP-2014-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T17:56:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05804",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Trademarks, Trade Names, and Copyrights; CFR Correction",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "USCBP-2014-0009",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481665c8e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2014-0009-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-13-0098-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-21T14:18:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05586",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Onions Grown in South Texas: Continuance Referendum",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "AMS-FV-13-0098",
+          "subtype": "Request for Information",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665c94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-13-0098-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-13-0087-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-21T14:21:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05587",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2014-04-01T03:59:59Z",
+          "title": "Marketing Orders: Spearmint Oil Produced in the Far West; Salable Quantities, Allotment Percentages for 2014-2015 Marketing Year",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "AMS-FV-13-0087",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665cd6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-13-0087-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-13-0099-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-21T14:28:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05585",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Walnuts Grown in California: Continuance Referendum",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "AMS-FV-13-0099",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665d08"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-13-0099-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2013-0599-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-04-13T02:58:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05527",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2014-04-15T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California, San Francisco Bay Area and Chico Nonattainment Areas; Fine Particulate Matter Emissions Inventories",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2013-0599",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665d0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2013-0599-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0148-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T15:06:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05576",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "List of Fisheries for 2014",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0148",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665d6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0148-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2006-0318-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T14:53:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05697",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Regulation of Fuel and Fuel Additives: Reformulated Gasoline Requirements for the Atlanta Covered Area",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2006-0318",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481665b74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2006-0318-0007"
+        }
+      },
+      {
+        "id": "FAA-2014-0109-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-23T02:45:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-04274",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2014-05-10T03:59:59Z",
+          "title": "Airworthiness Directives: Agusta S.p.A. Helicopters",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "FAA-2014-0109",
+          "subtype": "Final Rule",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481667d98"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-0109-0001"
+        }
+      },
+      {
+        "id": "USPS-2014-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T13:34:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05572",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Service Standards for Destination Sectional Center Facility Rate Standard Mail; Correction",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665bba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2014-0022-0001"
+        }
+      },
+      {
+        "id": "VA-2013-VHA-0005-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-18T17:16:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05691",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AO45 - Final Rule - Disclosures to Participate in State Prescription Drug Monitoring Programs",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "VA-2013-VHA-0005",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481665bc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2013-VHA-0005-0006"
+        }
+      },
+      {
+        "id": "USCG-2014-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-03-14T14:44:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05578",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2014-04-15T03:59:59Z",
+          "title": "NPRM:  Special Local Regulations: Marine Events, Atlantic Ocean; Ocean City, MD (Federal Register Publication)",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "USCG-2014-0056",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665ccf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2014-0056-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0152-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-14T16:43:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05648",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Pacific Cod by Catcher Vessels Less Than 60 feet (18.3 meters) Length Overall Using Jig or Hook-and-Line Gear in the Bogoslof Pacific Cod Exemption Area in the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0152",
+          "subtype": null,
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665e6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0152-0007"
+        }
+      },
+      {
+        "id": "PHMSA-2010-0019-0076",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-28T03:04:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-05646",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2014-05-01T03:59:59Z",
+          "title": "Hazardous Materials: Adoption of ASME Code Section XII and the National Board Inspection Code",
+          "postedDate": "2014-03-14T04:00:00Z",
+          "docketId": "PHMSA-2010-0019",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2014-03-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481665c00"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2010-0019-0076"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 104,
+            "label": "Notice"
+          },
+          {
+            "docCount": 97,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 65,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Affirmation of an Interim Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Information"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 28,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "AMS"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2014-03-14",
+          "toDate": "2014-03-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 28,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 28,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

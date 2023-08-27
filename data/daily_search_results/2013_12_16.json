@@ -1,0 +1,797 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2013-0704-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T17:34:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29051",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0704",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1ccd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0704-0005"
+        }
+      },
+      {
+        "id": "DOS_FRDOC_0001-2647",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-16T14:38:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29861",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Acquisition Regulation",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "DOS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1bb0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS_FRDOC_0001-2647"
+        }
+      },
+      {
+        "id": "FAA-2013-0657-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T16:46:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29318",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Revocation of Class E Airspace: Danville, IL",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0657",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1bf7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0657-0002"
+        }
+      },
+      {
+        "id": "STB-2013-0186-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-12-16T14:40:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29806",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": "2014-05-13T03:59:59Z",
+          "title": "Rail Transportation of Grain; Rate Regulation Review",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1d5a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2013-0186-0001"
+        }
+      },
+      {
+        "id": "FDA-2013-N-0002-0043",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-16T17:30:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29810",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs for Use in Animal Feeds; Bambermycins",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FDA-2013-N-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1cc8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2013-N-0002-0043"
+        }
+      },
+      {
+        "id": "VA-2012-VHA-0028-0142",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T19:27:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29312",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AO47 - Withdrawal - Authorization for Non-VA Medical Services; Withdrawal",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "VA-2012-VHA-0028",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1b6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2012-VHA-0028-0142"
+        }
+      },
+      {
+        "id": "FCC-2013-0437-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-12-16T14:38:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-28828",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2014-01-01T04:59:59Z",
+          "title": "Petitions: Sprint Corp.; Reconsideration of Certain Rules Adopted for Internet Protocol Captioned Telephone Service",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1bf6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0437-0001"
+        }
+      },
+      {
+        "id": "CFPB-2013-0035-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-11-20T14:47:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29844",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Truth in Lending (Regulation Z)",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "CFPB-2013-0035",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1c4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB-2013-0035-0002"
+        }
+      },
+      {
+        "id": "COE-2013-0007-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-16T18:43:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29878",
+          "withdrawn": false,
+          "agencyId": "COE",
+          "commentEndDate": null,
+          "title": "Danger Zones: Pacific Ocean off the Pacific Missile Range Facility at Barking Sands, Island of Kauai, HI",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "COE-2013-0007",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1b69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COE-2013-0007-0009"
+        }
+      },
+      {
+        "id": "FAA-2013-0786-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T16:45:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29319",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E Airspace: Donlin Creek, AK",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0786",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1baf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0786-0002"
+        }
+      },
+      {
+        "id": "AMS-FV-13-0055-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-16T20:41:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29674",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Decreased Assessment Rates: Sweet Cherries Grown in Designated Counties in Washington",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "AMS-FV-13-0055",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1b6d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-13-0055-0002"
+        }
+      },
+      {
+        "id": "DARS-2012-0029-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-08T17:58:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29771",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements:Item Unique Indentifier Update",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "DARS-2012-0029",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1c8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2012-0029-0006"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0084-0055",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-16T02:02:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29857",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2014-01-16T04:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Northeast Multispecies Fishery; Year-Round Access for Northeast Multispecies Sector Vessels to Closed Areas",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0084",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1d21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0084-0055"
+        }
+      },
+      {
+        "id": "FAA-2013-0879-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-02-11T14:42:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29055",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2014-01-31T04:59:59Z",
+          "title": "Airworthiness Directives: General Electric Company Turbofan Engines",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0879",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1bae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0879-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0688-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T16:47:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29050",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: EADS CASA (Type Certificate Previously Held by Construcciones Aeronauticas, S.A.) Airplanes",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0688",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1bff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0688-0003"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2010-0566-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-16T14:59:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29555",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of Michigan\u2019s Part 19 and Part 1 rules except for Part 2 Air Use Approval and rescission of Michigan rule 336.1220.",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2010-0566",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1c8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2010-0566-0011"
+        }
+      },
+      {
+        "id": "VA-2012-VHA-0028-0141",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T19:24:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29311",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AO 46 - FInal Rule - Authorization for Non-VA Medical Services",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "VA-2012-VHA-0028",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1c90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2012-VHA-0028-0141"
+        }
+      },
+      {
+        "id": "IRS-2013-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-18T16:51:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29420",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2014-03-18T03:59:59Z",
+          "title": "Recourse Liabilities of a Partnership and Special Rules for Related Persons",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "IRS-2013-0041",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1b65"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2013-0041-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-1186-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T16:48:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29321",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E Airspace: Chatom, AL",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2012-1186",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1cc6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-1186-0002"
+        }
+      },
+      {
+        "id": "FAA-2013-0607-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T16:49:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29316",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E Airspace: Loup City, NE",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0607",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1cca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0607-0002"
+        }
+      },
+      {
+        "id": "FEC-2013-0065-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-16T14:40:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29597",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": null,
+          "title": "Special Primary Elections: New York; Date of Political Party Nominations of Candidates",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1cc7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2013-0065-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0725-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T16:42:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29682",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Maule Aerospace Technology, Inc. Airplanes",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0725",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1b64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0725-0004"
+        }
+      },
+      {
+        "id": "FAA-2013-0586-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T17:39:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29325",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace: Gainesville, TX",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0586",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1d1e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0586-0002"
+        }
+      },
+      {
+        "id": "NASA-2013-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-03-26T16:08:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29475",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": "2014-01-16T04:59:59Z",
+          "title": "Removal of Redundant Regulations",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "NASA-2013-0001",
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1c4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA-2013-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0255-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T17:40:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29323",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace: Chariton, IA",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0255",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1d55"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0255-0002"
+        }
+      },
+      {
+        "id": "FAA-2013-0724-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-12-17T16:47:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29679",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Piper Aircraft, Inc. Airplanes",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": "FAA-2013-0724",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1bf9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0724-0004"
+        }
+      },
+      {
+        "id": "FCC-2013-0439-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-12-16T14:40:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-28829",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2014-01-01T04:59:59Z",
+          "title": "Petitions: AT&T Services, Inc.; Provision of Muting for Speech-to-Speech Telephone Services",
+          "postedDate": "2013-12-16T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-12-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814c1ccf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0439-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 283,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 53,
+            "label": "Notice"
+          },
+          {
+            "docCount": 49,
+            "label": "Other"
+          },
+          {
+            "docCount": 23,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 11,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "VA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 1,
+            "value": "COE"
+          },
+          {
+            "docCount": 1,
+            "value": "DARS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FEC"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-12-16",
+          "toDate": "2013-12-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

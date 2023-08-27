@@ -1,0 +1,797 @@
+[
+  {
+    "data": [
+      {
+        "id": "FCC-2013-0248-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T13:10:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15297",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Connect America Fund",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341571"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0248-0001"
+        }
+      },
+      {
+        "id": "COLC-2013-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-01-29T19:19:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15016",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": "2013-07-27T03:59:59Z",
+          "title": "Authentication of Electronic Signatures on Electronically Filed Statements of Account",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "COLC-2013-0010",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341572"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2013-0010-0001"
+        }
+      },
+      {
+        "id": "USPS-2013-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T13:11:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15215",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Refunds and Exchanges",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341602"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2013-0041-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0926-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T13:31:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15135",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E Airspace: Port Townsend, WA",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "FAA-2012-0926",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341651"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0926-0002"
+        }
+      },
+      {
+        "id": "USCG-2013-0433-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15308",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Fourth of July Fireworks Display, Glenbrook NV (Federal Register Publication) (Notice of enforcement of regulation.)",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "USCG-2013-0433",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813413f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-0433-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0100-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-08-17T01:01:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15015",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-08-27T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife: Species Under the Jurisdiction of the National Marine Fisheries Service",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0100",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813413bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0100-0001"
+        }
+      },
+      {
+        "id": "DARS-2013-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T14:53:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15270",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Requirements for Acquisitions Pursuant to Multiple Award Contracts",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "DARS-2013-0020",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341487"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2013-0020-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2010-0889-0404",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T14:27:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15306",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerances: Sulfoxaflor; Technical Correction",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2010-0889",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813414cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2010-0889-0404"
+        }
+      },
+      {
+        "id": "FCC-2013-0247-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-06-26T13:10:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15172",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2013-07-16T03:59:59Z",
+          "title": "Connect America Cost Model Virtual Workshop: Addition of Discussion Topics by Wireline Competition Bureau",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813414cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0247-0001"
+        }
+      },
+      {
+        "id": "EERE-2012-BT-TP-0043-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-10-11T15:24:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15132",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2013-09-10T03:59:59Z",
+          "title": "2013-06-26  Energy Conservation Program: Test Procedures for Electric Motors; Notice of proposed rulemaking.",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "EERE-2012-BT-TP-0043",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813415c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2012-BT-TP-0043-0002"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2013-0007-0021",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T18:34:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15145",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; South Coast Air Basin; PM10 Maintenance Plan and Redesignation to Attainment for the PM10 Standard, etc.",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2013-0007",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648134164b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2013-0007-0021"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0212-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-06-26T17:28:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15301",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-07-27T03:59:59Z",
+          "title": "Supplemental Proposed Approval of the Parkersburg-Marietta, Ohio - 1997 PM2.5 Annual Standard redesignation and maintenance plan",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0212",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813413b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0212-0007"
+        }
+      },
+      {
+        "id": "FAA-2013-0447-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-08-07T01:01:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15001",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-08-13T03:59:59Z",
+          "title": "Airworthiness Directives: General Electric Company Turbofan Engines",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "FAA-2013-0447",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813413b8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0447-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2011-0044-5828",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-12-17T02:02:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15146",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-08-27T03:59:59Z",
+          "title": "Reconsideration of Certain Startup/Shutdown Issues: National Emission Standards for Hazardous Air Pollutants From Coal- and Oil-Fired Electric Utility Steam Generating Units, etc.",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2011-0044",
+          "subtype": null,
+          "commentStartDate": "2013-06-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648134215e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2011-0044-5828"
+        }
+      },
+      {
+        "id": "FAA-2013-0504-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-07-23T01:02:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15283",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-08-13T03:59:59Z",
+          "title": "Establishment, Modification and Cancellation of Air Traffic Service Routes: Northeast United States",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "FAA-2013-0504",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813415d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0504-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2013-0076-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-04-01T01:03:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15208",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2013-07-27T03:59:59Z",
+          "title": "New Car Assessment Program",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "NHTSA-2013-0076",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341604"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2013-0076-0001"
+        }
+      },
+      {
+        "id": "USCG-2012-1036-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15238",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones and Special Local Regulations: Recurring Marine Events in Captain of the Port Long Island Sound Zone (Federal Register Publication) (Notice of enforcement of regulation.)",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "USCG-2012-1036",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648134164e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-1036-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2010-0279-0134",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T14:43:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15032",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Significant New Use Rules on Certain Chemical Substances",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2010-0279",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813415ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2010-0279-0134"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0338-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-07-26T01:01:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15295",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-07-27T03:59:59Z",
+          "title": "Supplemental Proposed Approval of the Wheeling, Ohio - 1997 PM2.5 Annual Standard redesignation and maintenance plan",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0338",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813413b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0338-0007"
+        }
+      },
+      {
+        "id": "ATBCB-2013-0003-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-02-06T19:24:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "ATBCB",
+          "commentEndDate": "2014-01-25T04:59:59Z",
+          "title": "Proposed Guidelines with Figures and Advisory Sections",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "ATBCB-2013-0003",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481343113"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ATBCB-2013-0003-0007"
+        }
+      },
+      {
+        "id": "USCG-2013-0078-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15310",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "FR:  Safety Zones: Annual Independence Day Fireworks Displays, Skagway, Haines, and Wrangell, AK (Federal Register Publication)",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "USCG-2013-0078",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064813413f5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-0078-0003"
+        }
+      },
+      {
+        "id": "FAR-2013-0078-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-05-09T14:15:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15213",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulations: Federal Acquisition Circular 2005-68; Small Entity Compliance Guide",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "FAR-2013-0078",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341437"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2013-0078-0004"
+        }
+      },
+      {
+        "id": "DARS-2012-0026-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T15:27:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15271",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Technical Amendments",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "DARS-2012-0026",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341482"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2012-0026-0006"
+        }
+      },
+      {
+        "id": "FAR-2012-0017-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-09-04T01:02:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15212",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2013-08-27T03:59:59Z",
+          "title": "Federal Acquisition Regulations: Expansion of Applicability of the Senior Executive Compensation Benchmark; FAR Case 2012-017",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "FAR-2012-0017",
+          "subtype": "Notice of Interim Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341521"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2012-0017-0002"
+        }
+      },
+      {
+        "id": "FCIC-11-0002-0049",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-02-25T17:49:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15222",
+          "withdrawn": false,
+          "agencyId": "FCIC",
+          "commentEndDate": null,
+          "title": "Area Risk Protection Insurance Regulations and Area Risk Protection Insurance Crop Provisions",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "FCIC-11-0002",
+          "subtype": null,
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341579"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCIC-11-0002-0049"
+        }
+      },
+      {
+        "id": "FAA-2013-0505-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-26T13:28:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15137",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class D Airspace: El Monte, CA; Correction",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "FAA-2013-0505",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341601"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0505-0001"
+        }
+      },
+      {
+        "id": "FAR-2013-0076-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-05-09T14:37:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-15211",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulations: Federal Acquisition Circular 2005-68; Introduction",
+          "postedDate": "2013-06-26T04:00:00Z",
+          "docketId": "FAR-2013-0076",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-06-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481341607"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2013-0076-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 154,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 111,
+            "label": "Notice"
+          },
+          {
+            "docCount": 55,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Rule"
+          },
+          {
+            "docCount": 10,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Interim Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAR"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "DARS"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "ATBCB"
+          },
+          {
+            "docCount": 1,
+            "value": "COLC"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FCIC"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-06-26",
+          "toDate": "2013-06-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

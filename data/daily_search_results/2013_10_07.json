@@ -1,0 +1,216 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2013-0698-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-10-07T13:42:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-24321",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR:  Safety Zones: Port of Galveston, Pelican Island Bridge Repair (Federal Register Publication)",
+          "postedDate": "2013-10-07T04:00:00Z",
+          "docketId": "USCG-2013-0698",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2013-10-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481446fc7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-0698-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0130-0059",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-11-25T15:03:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-24390",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Snapper-Grouper Resources; South Atlantic; Trip Limit Reduction",
+          "postedDate": "2013-10-07T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0130",
+          "subtype": null,
+          "commentStartDate": "2013-10-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481447032"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0130-0059"
+        }
+      },
+      {
+        "id": "EERE-2006-TP-0050-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-10-12T18:40:34Z",
+          "highlightedContent": "",
+          "frDocNum": "94-05008",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "1994-03-04  Energy Conservation Program for Consumer Products; Availability of letters.",
+          "postedDate": "2013-10-07T04:00:00Z",
+          "docketId": "EERE-2006-TP-0050",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064814467c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-TP-0050-0002"
+        }
+      },
+      {
+        "id": "EERE-2006-DET-0075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-08-21T19:14:20Z",
+          "highlightedContent": "",
+          "frDocNum": "00-8893",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2000-05-27T03:59:59Z",
+          "title": "2000-04-26 Energy Efficiency Program for Certain Commercial and Industrial Equipment: Petition for Recognition of CSA International To Be a Nationally Recognized Certification Program for Electric Motor Efficiency; Public Notice and solicitation of comments.",
+          "postedDate": "2013-10-07T04:00:00Z",
+          "docketId": "EERE-2006-DET-0075",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2000-04-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064814473df"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-DET-0075-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 27,
+            "label": "Notice"
+          },
+          {
+            "docCount": 27,
+            "label": "Other"
+          },
+          {
+            "docCount": 10,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-10-07",
+          "toDate": "2013-10-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

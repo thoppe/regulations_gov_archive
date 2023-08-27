@@ -1,0 +1,223 @@
+[
+  {
+    "data": [
+      {
+        "id": "EERE-2006-STD-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-04-12T20:11:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "1985-05-24  Energy Conservation Program for Consumer Products; State Petitions for Exemption From Federal Preemption of State Standards for Water Heaters, Furnaces, Clothes Dryers, and Kitchen Ranges and Ovens; Notice of proposed rulemakings and public hearing.",
+          "postedDate": "2014-01-26T00:00:00Z",
+          "docketId": "EERE-2006-STD-0025",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481525e01"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-STD-0025-0001"
+        }
+      },
+      {
+        "id": "FDA-2012-N-1210-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-06-25T01:01:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29632",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2014-01-25T05:00:00Z",
+          "docketId": "FDA-2012-N-1210",
+          "subtype": "Approval",
+          "commentStartDate": "2014-01-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481527db4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2012-N-1210-0001"
+        }
+      },
+      {
+        "id": "FDA-2005-N-0345-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-26T00:26:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29632",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2014-01-25T05:00:00Z",
+          "docketId": "FDA-2005-N-0345",
+          "subtype": "Approval",
+          "commentStartDate": "2014-01-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481527db7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2005-N-0345-0006"
+        }
+      },
+      {
+        "id": "FDA-1988-N-0019-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-25T23:50:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29632",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2014-01-25T05:00:00Z",
+          "docketId": "FDA-1988-N-0019",
+          "subtype": "Approval",
+          "commentStartDate": "2014-01-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481527db3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1988-N-0019-0028"
+        }
+      },
+      {
+        "id": "FDA-1992-N-0407-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-26T00:29:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-29632",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2014-01-25T05:00:00Z",
+          "docketId": "FDA-1992-N-0407",
+          "subtype": "Approval",
+          "commentStartDate": "2014-01-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481527db8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1992-N-0407-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Other"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Approval"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2014-01-25",
+          "toDate": "2014-01-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]
