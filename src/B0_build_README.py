@@ -20,8 +20,9 @@ content = [
 content.append(f'+ {len(df):,d} total documents')
 content.append(f'+ Unique agencies: {n_agency:,}')
 content.append(f'+ Unique dockets : {n_dockets:,}')
-content.append(f'+ Earliest date  : {first_date}')
 content.append(f'+ Latest date    : {last_date}')
+content.append(f'+ Earliest date  : {first_date}')
+
 
 content = '\n'.join(content)
 
