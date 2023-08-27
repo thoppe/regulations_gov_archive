@@ -11,8 +11,8 @@ Regulations are organized by five document types:
 + Other
 + Supporting & Related Material
 
-This project only collects information on the first two document types: `Rule` and `Proposed Rule`.
+This project only collects documents on the first two types: `Rule` and `Proposed Rule`.
 
 ## Artifacts
 
-+ [All `Rule` and `Proposed Rules`](artifacts/LISTING_rules_and_posted_rules.csv)
++ [All documents under `Rule` and `Proposed Rules`](artifacts/LISTING_rules_and_posted_rules.csv)
