@@ -1,0 +1,873 @@
+[
+  {
+    "data": [
+      {
+        "id": "AID-2022-0003-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-14T19:45:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12569",
+          "withdrawn": false,
+          "agencyId": "AID",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulations: Foreign Tax Reporting, Conference Planning, and Trade and Investment Activities",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "AID-2022-0003",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a29"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AID-2022-0003-0004"
+        }
+      },
+      {
+        "id": "PBGC-2023-0003-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-26T18:34:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12751",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "PBGC-2023-0003",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b2195a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC-2023-0003-0003"
+        }
+      },
+      {
+        "id": "NASA-2023-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T14:22:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "14CFR_1204_AE70",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "NASA-2023-0003",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b22720"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA-2023-0003-0001"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-29699",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T12:19:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12936",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Tolerances and Exemptions for Pesticide Chemical Residues in Food; CFR Correction",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21ade"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-29699"
+        }
+      },
+      {
+        "id": "PTO-P-2022-0008-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T14:29:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12712",
+          "withdrawn": false,
+          "agencyId": "PTO",
+          "commentEndDate": null,
+          "title": "Standardization of the Patent Term Adjustment Statement Regarding Information Disclosure Statements",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "PTO-P-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PTO-P-2022-0008-0014"
+        }
+      },
+      {
+        "id": "CFTC-2023-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-15T12:18:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12832",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2023-07-01T03:59:59Z",
+          "title": "Derivatives Clearing Organization Risk Management Regulations to Account for the Treatment of Separate Accounts by Futures Commission Merchants",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2023-0043-0001"
+        }
+      },
+      {
+        "id": "FAA-2019-0218-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:01:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12454",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "High Elevation Airport Operations",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2019-0218",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0218-0012"
+        }
+      },
+      {
+        "id": "FAA-2023-0333-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:06:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12784",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Carthage, TX",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2023-0333",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21b2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0333-0002"
+        }
+      },
+      {
+        "id": "FAA-2022-1444-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:04:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12795",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Williams, AZ",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2022-1444",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21b26"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1444-0003"
+        }
+      },
+      {
+        "id": "FAA-2023-0914-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:07:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12782",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Madison Dane County Regional Airport-Truax Field, WI",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2023-0914",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21b6c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0914-0002"
+        }
+      },
+      {
+        "id": "USCG-2023-0465-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:02:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12750",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Upper Mississippi River, Prairie du Chien, WI",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "USCG-2023-0465",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485b21bbd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0465-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2023-0195-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T16:03:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12699",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Idaho; Inspection and Maintenance Program Removal",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "EPA-R10-OAR-2023-0195",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a92"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2023-0195-0006"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0117-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T17:58:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12711",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Pacific Island Pelagic Fisheries: 2023 U.S. Territorial Longline Bigeye Tuna Catch Limits",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0117",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485b21b6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0117-0008"
+        }
+      },
+      {
+        "id": "AMS-SC-22-0068-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-16T13:48:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12770",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Increased Assessment Rate: Tart Cherries Grown in the States of Michigan, New York, Pennsylvania, Oregon, Utah, Washington, and Wisconsin",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "AMS-SC-22-0068",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21b6e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-22-0068-0002"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2019-0647-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-07-14T01:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12700",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-07-18T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: WA; Excess Emissions, Startup, Shutdown, and Malfunction Revisions",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "EPA-R10-OAR-2019-0647",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2019-0647-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2023-0040-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-13T01:03:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12825",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-08-15T03:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Snow Crab Rebuilding Plan in the Bering Sea and Aleutian Islands",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0040",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21adf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0040-0003"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2020-0425-0142",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T20:12:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12634",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Sacramento Metro, California; Contingency Measures for 2008 Ozone Standards",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2020-0425",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a23"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2020-0425-0142"
+        }
+      },
+      {
+        "id": "USCG-2023-0475-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T12:58:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12817",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones; Annual Events in the Captain of the Port Buffalo Zone",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "USCG-2023-0475",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485b21bbb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0475-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-0720-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:08:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12816",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Elberton, GA",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2023-0720",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21bb7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0720-0002"
+        }
+      },
+      {
+        "id": "USCG-2023-0462-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-15T13:10:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12749",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2023-07-01T03:59:59Z",
+          "title": "Special Local Regulation: Back River, Baltimore County, MD",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "USCG-2023-0462",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21bfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0462-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2023-0092-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T14:50:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12635",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Eastern Kern Air Pollution Control District; Oxides of Nitrogen",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2023-0092",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21bbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2023-0092-0006"
+        }
+      },
+      {
+        "id": "NRC-2023-0050-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T14:22:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12709",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "List of Approved Spent Fuel Storage Casks: TN Americas, LLC; NUHOMS EOS Dry Spent Fuel Storage System; Certificate of Compliance No. 1042, Amendment No. 3",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "NRC-2023-0050",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2023-0050-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2023-0022-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-19T19:38:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12804",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "International Affairs: Antarctic Marine Living Resources Convention Act",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0022",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485b21bb9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0022-0008"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0094-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-18T21:35:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12836",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Rock Sole, Flathead Sole, Alaska Plaice, and Other Flatfish in the Herring Savings Areas of the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0094",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21a8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0094-0028"
+        }
+      },
+      {
+        "id": "FAA-2023-0614-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:00:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12781",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Artesia, NM",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2023-0614",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21955"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0614-0002"
+        }
+      },
+      {
+        "id": "FAA-2023-0854-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:03:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12809",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: A.P. Hill, VA",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2023-0854",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21ae3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0854-0002"
+        }
+      },
+      {
+        "id": "FAA-2023-0947-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T13:04:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12783",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Berclair, TX",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2023-0947",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21b25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0947-0003"
+        }
+      },
+      {
+        "id": "FAA-2023-1299-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-15T13:06:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12746",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-08-01T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Eastern United States",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "FAA-2023-1299",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21b28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1299-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2023-0007-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-16T12:22:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12633",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; Amendment 54",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0007",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21ae2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0007-0023"
+        }
+      },
+      {
+        "id": "NRC-2021-0024-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-15T14:24:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12696",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Revision of Fee Schedules; Fee Recovery for Fiscal Year 2023",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "NRC-2021-0024",
+          "subtype": null,
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21bf9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2021-0024-0009"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2022-0493-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-15T01:03:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12544",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-08-15T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Mefenoxam",
+          "postedDate": "2023-06-15T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2022-0493",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485b21bb6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2022-0493-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 101,
+            "label": "Other"
+          },
+          {
+            "docCount": 48,
+            "label": "Notice"
+          },
+          {
+            "docCount": 46,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 25,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 31,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "FAA"
+          },
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 5,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "AID"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "PTO"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-06-15",
+          "toDate": "2023-06-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 31,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 31,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

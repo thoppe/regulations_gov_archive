@@ -1,0 +1,958 @@
+[
+  {
+    "data": [
+      {
+        "id": "NCPC-2017-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T11:48:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20614",
+          "withdrawn": false,
+          "agencyId": "NCPC",
+          "commentEndDate": null,
+          "title": "National Environmental Policy Act Regulations",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b1a4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCPC-2017-0008-0001"
+        }
+      },
+      {
+        "id": "USCG-2017-0874-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T15:06:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20931",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Allegheny River Miles 0.0\u20131.0, Pittsburgh, PA",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "USCG-2017-0874",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482b8b1f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0874-0001"
+        }
+      },
+      {
+        "id": "FTA-2013-0016-0204",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-10-16T15:17:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20565",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "Environmental Impacts and Related Procedures",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "FTA-2013-0016",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b200"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2013-0016-0204"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2017-0267-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-10-24T01:01:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20965",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-10-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgation: Iowa; Elements of the Infrastructure Requirements for the 2010 Sulfur Dioxide National Ambient Air Quality Standard",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2017-0267",
+          "subtype": "Approval",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b24a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2017-0267-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2017-0517-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-09-29T13:21:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20825",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-10-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgation: Iowa Air Quality Implementation Plans; Elements of the Infrastructure SIP Requirements for the 2012 Annual Fine Particulate Matter (PM2.5) National Ambient Air Quality Standard",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2017-0517",
+          "subtype": "Approval",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b250"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2017-0517-0001"
+        }
+      },
+      {
+        "id": "FHWA-2015-0011-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-11-30T02:05:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20565",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2017-11-29T04:59:59Z",
+          "title": "Environmental Impacts and Related Procedures",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "FHWA-2015-0011",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b201"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2015-0011-0017"
+        }
+      },
+      {
+        "id": "NHTSA-2013-0009-0122",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-10-02T14:29:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-21085",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Federal Motor Vehicle Safety Standards; CFR Correction",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "NHTSA-2013-0009",
+          "subtype": "Correction",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2013-0009-0122"
+        }
+      },
+      {
+        "id": "SEC-2017-1611-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T11:44:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20654",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Adoption of Updated EDGAR Filer Manual",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac72"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2017-1611-0001"
+        }
+      },
+      {
+        "id": "DEA-2017-0008-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T14:09:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20919",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Schedules of Controlled Substances: Removal of Naldemedine from Control",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "DEA-2017-0008",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482b8ac78"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2017-0008-0010"
+        }
+      },
+      {
+        "id": "EPA-R02-OAR-2016-0413-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-11-16T17:04:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20821",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-10-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: New Jersey; Regional Haze Five-Year Progress Report State Implementation Plan",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R02-OAR-2016-0413",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-OAR-2016-0413-0010"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2016-0362-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T16:21:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20325",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: North Carolina; Miscellaneous Rules",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2016-0362",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b116"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2016-0362-0005"
+        }
+      },
+      {
+        "id": "USCG-2017-0172-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T15:15:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20902",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Pacific Ocean, Kilauea Lava Flow Ocean Entry on Southeast Side of Island of Hawaii, HI",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "USCG-2017-0172",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482b8b118"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0172-0004"
+        }
+      },
+      {
+        "id": "EPA-R02-OAR-2015-0498-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-28T18:55:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20823",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: New York; Regional Haze Five-Year Progress Report State Implementation Plan",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R02-OAR-2015-0498",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b1a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-OAR-2015-0498-0004"
+        }
+      },
+      {
+        "id": "CSB-2017-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T11:46:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20853",
+          "withdrawn": false,
+          "agencyId": "CSB",
+          "commentEndDate": null,
+          "title": "Freedom of Information Act Program",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b11b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CSB-2017-0006-0001"
+        }
+      },
+      {
+        "id": "CFTC-2017-0050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T11:49:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20924",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Commission Delegated Authority Provisions for Designated Contract Markets' System Safeguards Requirements",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b24e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2017-0050-0001"
+        }
+      },
+      {
+        "id": "HRSA_FRDOC_0001-0321",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T11:43:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20911",
+          "withdrawn": false,
+          "agencyId": "HRSA",
+          "commentEndDate": null,
+          "title": "340B Drug Pricing Program Ceiling Price and Manufacturer Civil Monetary Penalties",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "HRSA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8abe9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HRSA_FRDOC_0001-0321"
+        }
+      },
+      {
+        "id": "USBC-2017-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-10-06T01:06:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20920",
+          "withdrawn": false,
+          "agencyId": "USBC",
+          "commentEndDate": "2017-11-29T04:59:59Z",
+          "title": "Foreign Trade Regulations: Clarification on Collection and Confidentiality of Kimberley Process Certificates",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "USBC-2017-0003",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USBC-2017-0003-0001"
+        }
+      },
+      {
+        "id": "USCG-2017-0679-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T15:11:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20900",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; North Atlantic Ocean, Ocean City, NJ",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "USCG-2017-0679",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482b8b24c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0679-0002"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2017-0517-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-10-28T13:00:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20829",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-10-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: Iowa Air Quality Implementation Plans; Elements of the Infrastructure SIP Requirements for the 2012 Annual Fine Particulate Matter (PM2.5) National Ambient Air Quality Standard",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2017-0517",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac73"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2017-0517-0002"
+        }
+      },
+      {
+        "id": "FWS-R5-ES-2016-0030-0069",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-09-29T13:11:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-21052",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Listing Kenk's Amphipod; Withdrawal",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "FWS-R5-ES-2016-0030",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac79"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R5-ES-2016-0030-0069"
+        }
+      },
+      {
+        "id": "FRA-2009-0031-0182",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-10-19T18:42:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20565",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Environmental Impacts and Related Procedures",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "FRA-2009-0031",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b15e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0031-0182"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2016-0598-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T15:50:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20832",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Revision of Federal Implementation Plan Requirements for Interstate Transport of Fine Particulate Matter",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2016-0598",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482b8abee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2016-0598-0016"
+        }
+      },
+      {
+        "id": "ED_FRDOC_0001-0789",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T11:44:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20844",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Federal Student Aid Programs",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "ED_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED_FRDOC_0001-0789"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2017-0024-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-29T18:31:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20950",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "International Fisheries: Pacific Tuna Fisheries; Revised 2017 Fishing Restrictions for Tropical Tuna in the Eastern Pacific Ocean",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "NOAA-NMFS-2017-0024",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b252"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2017-0024-0005"
+        }
+      },
+      {
+        "id": "FAA-2017-0901-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-11-14T02:03:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20830",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-11-14T04:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "FAA-2017-0901",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b162"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0901-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2017-0383-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-10-31T01:01:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20963",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-10-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Anti-Idling Regulations",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2017-0383",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b1ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2017-0383-0001"
+        }
+      },
+      {
+        "id": "DOD-2017-HA-0039-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-11-29T02:02:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20392",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2017-11-29T04:59:59Z",
+          "title": "Establishment of TRICARE Select and Other TRICARE Reforms",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "DOD-2017-HA-0039",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac2d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2017-HA-0039-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2017-0267-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-10-28T13:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20964",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-10-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: Iowa; Elements of the Infrastructure Requirements for the 2010 Sulfur Dioxide National Ambient Air Quality Standard",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2017-0267",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8ac2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2017-0267-0002"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2017-0398-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-09-29T13:52:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20837",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-10-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: Maryland; Nonattainment New Source Review Requirements for the 2008 8-Hour Ozone Standard",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2017-0398",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b115"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2017-0398-0002"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2017-0398-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-10-28T13:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20834",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-10-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: Maryland; Nonattainment New Source Review Requirements for the 2008 8-Hour Ozone Standard",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2017-0398",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b15d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2017-0398-0001"
+        }
+      },
+      {
+        "id": "AMS-SC-16-0011-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-10-02T11:16:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20347",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Marketing Orders: Raisins Produced From Grapes Grown in California",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "AMS-SC-16-0011",
+          "subtype": "Amendment",
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b163"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-16-0011-0005"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0514",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:46:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-20911",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "340B Drug Pricing Program Ceiling Price and Manufacturer Civil Monetary Penalties",
+          "postedDate": "2017-09-29T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2017-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482b8b1f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0514"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 98,
+            "label": "Other"
+          },
+          {
+            "docCount": 64,
+            "label": "Notice"
+          },
+          {
+            "docCount": 55,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 21,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Approval"
+          },
+          {
+            "docCount": 2,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Amendment"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "CSB"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "HRSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NCPC"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USBC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2017-09-29",
+          "toDate": "2017-09-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

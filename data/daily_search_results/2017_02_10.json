@@ -1,0 +1,699 @@
+[
+  {
+    "data": [
+      {
+        "id": "TREAS_FRDOC_0001-0295",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T12:53:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-01637",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Inflation Adjustment of Civil Monetary Penalties",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8cad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0295"
+        }
+      },
+      {
+        "id": "FINCEN-2017-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-14T17:07:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-01637",
+          "withdrawn": false,
+          "agencyId": "FINCEN",
+          "commentEndDate": null,
+          "title": "Inflation Adjustment of Civil Monetary Penalties",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FINCEN-2017-0003",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8cef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FINCEN-2017-0003-0001"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-0832",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T12:50:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-01637",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Inflation Adjustment of Civil Monetary Penalties",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8b4f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-0832"
+        }
+      },
+      {
+        "id": "USCG-2016-0916-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-12T13:02:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02683",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2017-05-12T03:59:59Z",
+          "title": "Anchorages; Captain of the Port Puget Sound Zone, WA",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "USCG-2016-0916",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8c17"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0916-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9050-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-16T02:00:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-01778",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FAA-2016-9050",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8c4f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9050-0006"
+        }
+      },
+      {
+        "id": "FAA-2016-6670-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T14:28:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-01824",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FAA-2016-6670",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8b52"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-6670-0009"
+        }
+      },
+      {
+        "id": "APHIS-2015-0057-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-11T22:07:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02783",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Importation, Interstate Movement, and Environmental Release of Certain Genetically Engineered Organisms",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "APHIS-2015-0057",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064824b8c1a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2015-0057-0016"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0108-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T16:11:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02782",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Takes of Marine Mammals: Rehabilitation of the Jetty System at the Mouth of the Columbia River-Jetty A, North Jetty, and South Jetty, in Washington and Oregon",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0108",
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8c1b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0108-0006"
+        }
+      },
+      {
+        "id": "FAA-2013-0259-1488",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-08-16T15:13:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02487",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures: Miscellaneous Amendments",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FAA-2013-0259",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8caf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0259-1488"
+        }
+      },
+      {
+        "id": "FAA-2016-9266-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-02-10T15:03:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02490",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class E Airspace; Amendments: Kill Devil Hills, NC; Withdrawal",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FAA-2016-9266",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8cee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9266-0003"
+        }
+      },
+      {
+        "id": "FWS-R3-ES-2015-0112-0246",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T14:10:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02865",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Rusty Patched Bumble Bee; Delay of Effective Date",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FWS-R3-ES-2015-0112",
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8b50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R3-ES-2015-0112-0246"
+        }
+      },
+      {
+        "id": "LSC-2017-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T12:50:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02718",
+          "withdrawn": false,
+          "agencyId": "LSC",
+          "commentEndDate": null,
+          "title": "Use of Non-LSC Funds, Transfers of LSC Funds, Program Integrity; Subgrants and Membership Fees or Dues; Cost Standards and Procedures",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8b4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/LSC-2017-0005-0001"
+        }
+      },
+      {
+        "id": "FDA-1995-N-0306-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-17T18:13:25Z",
+          "highlightedContent": "",
+          "frDocNum": "95-23241",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1995-11-21T04:59:59Z",
+          "title": "Maltodextrin; Food Chemicals Codex Specifications",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FDA-1995-N-0306",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "1995-09-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480599a23"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1995-N-0306-0001"
+        }
+      },
+      {
+        "id": "FDA-1995-N-0306-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-17T18:16:36Z",
+          "highlightedContent": "",
+          "frDocNum": "04\u201326234",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Withdrawal of Certain Proposed Rules and Other Proposed Actions",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FDA-1995-N-0306",
+          "subtype": "Withdrawal",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480599a29"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1995-N-0306-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0058-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-25T13:45:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02786",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; Yellowtail Snapper Management Measures",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0058",
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8c4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0058-0007"
+        }
+      },
+      {
+        "id": "FAA-2013-0259-1487",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-08-16T15:12:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02491",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures: Miscellaneous Amendments",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FAA-2013-0259",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8cac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0259-1487"
+        }
+      },
+      {
+        "id": "FAA-2016-5040-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-18T22:17:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-01776",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FAA-2016-5040",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8cf1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-5040-0004"
+        }
+      },
+      {
+        "id": "FWS-R7-MB-2016-0136-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-14T13:02:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02688",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2017-03-14T03:59:59Z",
+          "title": "Migratory Bird Hunting: Subsistence Harvest in Alaska During the 2017 Season",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FWS-R7-MB-2016-0136",
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8b9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R7-MB-2016-0136-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9382-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T14:35:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-01769",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Alexander Schleicher GmbH and Co. Gliders",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FAA-2016-9382",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8b9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9382-0003"
+        }
+      },
+      {
+        "id": "APHIS-2016-0022-0029",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-10T20:26:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02781",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Imports: Hass Avocados From Colombia",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "APHIS-2016-0022",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064824b8c12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2016-0022-0029"
+        }
+      },
+      {
+        "id": "PTO-T-2016-0002-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T14:03:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02796",
+          "withdrawn": false,
+          "agencyId": "PTO",
+          "commentEndDate": null,
+          "title": "Affidavits or Declarations of Use, Continued Use, or Excusable Nonuse in Trademark Cases; Delay of Effective Date",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "PTO-T-2016-0002",
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8c13"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PTO-T-2016-0002-0017"
+        }
+      },
+      {
+        "id": "FAA-2016-7415-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T14:42:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-01772",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Helicopters Deutschland GmbH Helicopters",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "FAA-2016-7415",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8c18"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-7415-0004"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0013-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-02-22T14:00:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-02787",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2017-03-14T03:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish, Spiny Lobster, and Corals and Reef Associated Plants and Invertebrates Fishery Management Plans of Puerto Rico and the U.S. Virgin Islands",
+          "postedDate": "2017-02-10T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0013",
+          "subtype": null,
+          "commentStartDate": "2017-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824b8b9d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0013-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 69,
+            "label": "Other"
+          },
+          {
+            "docCount": 58,
+            "label": "Notice"
+          },
+          {
+            "docCount": 32,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 15,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 23,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "FINCEN"
+          },
+          {
+            "docCount": 1,
+            "value": "LSC"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          },
+          {
+            "docCount": 1,
+            "value": "PTO"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 21,
+            "label": "Today",
+            "fromDate": "2023-06-23 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 74,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 92,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-17 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 226,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-09 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 443,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-25 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 1377,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-26 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2017-02-10",
+          "toDate": "2017-02-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 23,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 23,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

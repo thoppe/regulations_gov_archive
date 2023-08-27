@@ -1,0 +1,1369 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOI_FRDOC_0001-0130",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:43:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02028",
+          "withdrawn": false,
+          "agencyId": "DOI",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DOI_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee1aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOI_FRDOC_0001-0130"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-29288",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:42:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02033",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Fall 2022 Unified Agenda of Regulatory and Deregulatory Actions",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee10c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-29288"
+        }
+      },
+      {
+        "id": "HHS_FRDOC_0001-0887",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:44:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03621",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Medicare Secondary Payer and Certain Civil Money Penalties; Extension of Timeline for Publication of Final Rule",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "HHS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee28b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS_FRDOC_0001-0887"
+        }
+      },
+      {
+        "id": "TREAS_FRDOC_0001-0429",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:44:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02032",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Semiannual Agenda and Regulatory Plan",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee28a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0429"
+        }
+      },
+      {
+        "id": "DOC_FRDOC_0001-0083",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:41:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02455",
+          "withdrawn": false,
+          "agencyId": "DOC",
+          "commentEndDate": null,
+          "title": "Fall 2021 Semiannual Agenda of Regulations",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DOC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ed88c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOC_FRDOC_0001-0083"
+        }
+      },
+      {
+        "id": "SEC-2023-0208-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:42:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02043",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Regulatory Flexibility Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee15c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2023-0208-0001"
+        }
+      },
+      {
+        "id": "GSA_FRDOC_0001-2000",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-27T15:29:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02034",
+          "withdrawn": false,
+          "agencyId": "GSA",
+          "commentEndDate": null,
+          "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "GSA_FRDOC_0001",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee1fb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GSA_FRDOC_0001-2000"
+        }
+      },
+      {
+        "id": "CPSC-2023-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-23T15:43:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02038",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "CPSC-2023-0007",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ece2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2023-0007-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0828-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-05T14:42:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0828",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea590"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0828-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0949-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-05T14:50:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0949",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea593"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0949-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0579-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-05T14:41:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03147",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0579",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ebf46"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0579-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2021-0486-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-21T01:01:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2021-0486",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea5c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2021-0486-0001"
+        }
+      },
+      {
+        "id": "DOE-HQ-2023-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-08T14:43:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02270",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Fall 2022 Unified Agenda of Regulatory and Deregulatory Actions",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DOE-HQ-2023-0019",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee1ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2023-0019-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0965-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-05T15:00:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0965",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea594"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0965-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-5129-0031",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-24T19:23:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02031",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": null,
+          "title": "Department Regulatory and Deregulatory Agenda; Semiannual Summary",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DOT-OST-1999-5129",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2023-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ece30"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-5129-0031"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-2784",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:42:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02023",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda, Fall 2022",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ed8cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-2784"
+        }
+      },
+      {
+        "id": "FCC-2023-0042-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-02-22T21:44:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03553",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Order Denying Petition for Reconsideration of 2020 Internet Protocol Captioned Telephone Service Compensation Order",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee289"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0042-0002"
+        }
+      },
+      {
+        "id": "FCC-2023-0058-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:42:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02039",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ed8ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0058-0001"
+        }
+      },
+      {
+        "id": "DOJ_FRDOC_0001-0274",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:43:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02029",
+          "withdrawn": false,
+          "agencyId": "DOJ",
+          "commentEndDate": null,
+          "title": "Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DOJ_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee1fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOJ_FRDOC_0001-0274"
+        }
+      },
+      {
+        "id": "ED_FRDOC_0001-1015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:42:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02025",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "ED_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee112"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED_FRDOC_0001-1015"
+        }
+      },
+      {
+        "id": "HHS_FRDOC_0001-0886",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:43:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02026",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "HHS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee1ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS_FRDOC_0001-0886"
+        }
+      },
+      {
+        "id": "RISC-2023-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:42:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02113",
+          "withdrawn": false,
+          "agencyId": "RISC",
+          "commentEndDate": null,
+          "title": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2022",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee111"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RISC-2023-0001-0001"
+        }
+      },
+      {
+        "id": "NLRB_FRDOC_0001-0167",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:44:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02042",
+          "withdrawn": false,
+          "agencyId": "NLRB",
+          "commentEndDate": null,
+          "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "NLRB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee24b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NLRB_FRDOC_0001-0167"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0964-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-05T14:51:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0964",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856e9f92"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0964-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0319-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-05T14:39:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03147",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0319",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea52d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0319-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0527-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-05T14:40:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03147",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0527",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea58f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0527-0007"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0854-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-05T14:47:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0854",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea591"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0854-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2022-0834-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-05T21:30:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2023\u201303590",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "NPDES Small MS4 Urbanized Area Clarification; Withdrawal of Direct Final Rule",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OW-2022-0834",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856eaa6c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2022-0834-0016"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2018-0747-0081",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-05T08:58:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2023\u201303562",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: Miscellaneous Coating Manufacturing Technology Review",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2018-0747",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856eab04"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2018-0747-0081"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2023-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-05T15:26:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2023-0021",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ec06a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2023-0021-0001"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-29287",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-30T16:31:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03562",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Copy already posted to docket EPA-HQ-OAR-2018-0747 on 2.22.23 - National Emission Standards for Hazardous Air Pollutants: Miscellaneous Coating Manufacturing Technology Review",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ed8c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-29287"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0948-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-05T14:49:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0948",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856e9f91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0948-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0947-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-05T14:48:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0947",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea592"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0947-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0968-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-21T01:01:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0968",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea595"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0968-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0966-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-25T01:00:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Proposed Deletion From the National Priorities List",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0966",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856e9f93"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0966-0001"
+        }
+      },
+      {
+        "id": "DOD-2023-OS-0001-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-23T19:51:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02024",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Improving Government Regulations; Unified Agenda of Federal Regulatory and Deregulatory Actions",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DOD-2023-OS-0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ed894"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2023-OS-0001-0005"
+        }
+      },
+      {
+        "id": "DOD-2023-OS-0001-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-23T19:47:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02036",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DOD-2023-OS-0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee15f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2023-OS-0001-0004"
+        }
+      },
+      {
+        "id": "ED-2022-OPE-0157-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-29T01:00:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03670",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": "2023-03-25T03:59:59Z",
+          "title": "Direct Grant Programs, State-Administered Formula Grant Programs Proposed Rule",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "ED-2022-OPE-0157",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ea198"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2022-OPE-0157-0001"
+        }
+      },
+      {
+        "id": "CFPB_FRDOC_0001-1090",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:44:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02037",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "CFPB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee28f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB_FRDOC_0001-1090"
+        }
+      },
+      {
+        "id": "OPM_FRDOC_0001-2405",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:41:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02245",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": null,
+          "title": "Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "OPM_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ece34"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM_FRDOC_0001-2405"
+        }
+      },
+      {
+        "id": "DOL_FRDOC_0001-2051",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:41:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02030",
+          "withdrawn": false,
+          "agencyId": "DOL",
+          "commentEndDate": null,
+          "title": "Semiannual Agenda of Regulations",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DOL_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ed891"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOL_FRDOC_0001-2051"
+        }
+      },
+      {
+        "id": "SBA_FRDOC_0001-0446",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:44:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02035",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "SBA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee28c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA_FRDOC_0001-0446"
+        }
+      },
+      {
+        "id": "FRS-2023-0042-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:44:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02040",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Flexibility Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee28e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2023-0042-0001"
+        }
+      },
+      {
+        "id": "STB-2023-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-22T21:44:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02022",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": null,
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee291"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2023-0026-0001"
+        }
+      },
+      {
+        "id": "CMS-2013-0266-0085",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-24T17:02:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03621",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Secondary Payer and Certain Civil Money Penalties; Extension of Timeline for Publication of Final Rule",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "CMS-2013-0266",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064856ee165"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2013-0266-0085"
+        }
+      },
+      {
+        "id": "DHS-2023-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-01T14:53:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-02027",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "DHS-2023-0010",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064856ee113"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2023-0010-0001"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-29289",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-30T16:28:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03590",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Copy already posted to docket EPA-HQ-OW-2022-0834 on 2.22.23 - National Pollutant Discharge Elimination System Small MS4 Urbanized Area Clarification; Withdrawal",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee10d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-29289"
+        }
+      },
+      {
+        "id": "EERE-2019-BT-STD-0018-0072",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-01T23:38:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03547",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2023-03-28T03:59:59Z",
+          "title": "2023-02-22  Energy Conservation Program: Energy Conservation Standards for Distribution Transformers; Extension of Public Comment Period; Notice of proposed rulemaking; extension of public comment period",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "EERE-2019-BT-STD-0018",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee245"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2019-BT-STD-0018-0072"
+        }
+      },
+      {
+        "id": "VA-2018-VHA-0003-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-25T01:00:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03339",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2023-04-25T03:59:59Z",
+          "title": "AQ08-Final Rule-Reimbursement for Emergency Treatment",
+          "postedDate": "2023-02-22T05:00:00Z",
+          "docketId": "VA-2018-VHA-0003",
+          "subtype": null,
+          "commentStartDate": "2023-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064856ee203"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2018-VHA-0003-0015"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 160,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 58,
+            "label": "Notice"
+          },
+          {
+            "docCount": 42,
+            "label": "Other"
+          },
+          {
+            "docCount": 40,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          },
+          {
+            "docCount": 1,
+            "label": "Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 49,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 19,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "DOD"
+          },
+          {
+            "docCount": 2,
+            "value": "ED"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "DOI"
+          },
+          {
+            "docCount": 1,
+            "value": "DOJ"
+          },
+          {
+            "docCount": 1,
+            "value": "DOL"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "GSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NLRB"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "RISC"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-02-22",
+          "toDate": "2023-02-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 49,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 49,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

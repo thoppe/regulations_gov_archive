@@ -1,0 +1,588 @@
+[
+  {
+    "data": [
+      {
+        "id": "NARA_FRDOC_0001-0818",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-06-08T01:00:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-09353",
+          "withdrawn": false,
+          "agencyId": "NARA",
+          "commentEndDate": "2020-06-30T03:59:59Z",
+          "title": "Administrative Guidance Procedures",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "NARA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b7147"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NARA_FRDOC_0001-0818"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2018-0321-0141",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T12:34:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-10435",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Small Manufacturer Definition Update for Reporting and Recordkeeping Requirements Under the Toxic Substances Control Act (TSCA) Section 8(a)",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2018-0321",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064846b6f1a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2018-0321-0141"
+        }
+      },
+      {
+        "id": "TSA-2013-0001-0178",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-06-24T13:24:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-11576",
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": null,
+          "title": "Arrival Restrictions Applicable to Flights Carrying Persons Who Have Recently Traveled From or Were Otherwise Present Within the Federative Republic of Brazil",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "TSA-2013-0001",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b7141"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2013-0001-0178"
+        }
+      },
+      {
+        "id": "OCC-2020-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-03T01:00:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-11525",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": "2020-07-14T03:59:59Z",
+          "title": "Director, Shareholder, and Member Meetings",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "OCC-2020-0020",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b702f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2020-0020-0001"
+        }
+      },
+      {
+        "id": "USDA-2020-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T13:23:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-09568",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Regulations for Grants and Agreements: Update of Citations",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "USDA-2020-0004",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b6f83"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA-2020-0004-0001"
+        }
+      },
+      {
+        "id": "NCUA-2020-0054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-06-30T01:01:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-11384",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": "2020-06-30T03:59:59Z",
+          "title": "Temporary Regulatory Relief in Response to COVID-19-Prompt Corrective Action",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "NCUA-2020-0054",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b6efa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2020-0054-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0042-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-06-09T01:02:35Z",
+          "highlightedContent": "",
+          "frDocNum": "01-8276",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Amendments to Vehicle  Inspection Maintenance Program Requirements Incorporating the Onboard Diagnostic Check",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0042",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b4023"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0042-0003"
+        }
+      },
+      {
+        "id": "USCBP-2020-0032-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T15:11:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-11576",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Notification of Arrival Restrictions Applicable to Flights Carrying Persons Who Have Recently Traveled From or Were Otherwise Present Within the Federative Republic of Brazil",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "USCBP-2020-0032",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b70e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2020-0032-0001"
+        }
+      },
+      {
+        "id": "FCC-2020-0215-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-05-28T11:55:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-11320",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2020-07-28T03:59:59Z",
+          "title": "Unlicensed Use of the 6 GHz Band",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b7146"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2020-0215-0002"
+        }
+      },
+      {
+        "id": "VA-2018-VHA-0010-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T12:39:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-10012",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "Technical Correction to Reimbursement of Qualifying Adoption Expenses for Certain Veterans",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "VA-2018-VHA-0010",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064846b70e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2018-VHA-0010-0009"
+        }
+      },
+      {
+        "id": "FCC-2020-0217-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-05-28T11:55:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-11368",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2020-06-30T03:59:59Z",
+          "title": "Assessment and Collection of Regulatory Fees for Fiscal Year 2020",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b7145"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2020-0217-0001"
+        }
+      },
+      {
+        "id": "IRS-2019-0039-8391",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T16:22:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-11465",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Guidance Under Section 6033 Regarding the Reporting Requirements of Exempt Organizations",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "IRS-2019-0039",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b6f82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0039-8391"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2019-0250-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T21:47:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-10565",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2020-07-28T03:59:59Z",
+          "title": "Pesticide Tolerances: Flonicamid",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2019-0250",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b7143"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2019-0250-0006"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2019-0074-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-06-17T22:55:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-11470",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Alaska Plaice in the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "NOAA-NMFS-2019-0074",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b6f1f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2019-0074-0018"
+        }
+      },
+      {
+        "id": "FCIC-19-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-07-28T01:01:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-10240",
+          "withdrawn": false,
+          "agencyId": "FCIC",
+          "commentEndDate": "2020-07-28T03:59:59Z",
+          "title": "Common Crop Insurance Regulations: Canola and Rapeseed Crop Insurance Provisions",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "FCIC-19-0007",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b6f7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCIC-19-0007-0001"
+        }
+      },
+      {
+        "id": "USCG-2015-1118-0133",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T14:43:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-10100",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Anchorage Grounds; Lower Chesapeake Bay, Cape Charles, VA",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "USCG-2015-1118",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b6fd4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-1118-0133"
+        }
+      },
+      {
+        "id": "COLC-2020-0001-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T13:42:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-09490",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": null,
+          "title": "Group Registration of Newsletters",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": "COLC-2020-0001",
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b6fd9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2020-0001-0003"
+        }
+      },
+      {
+        "id": "FRS-2020-0154-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-05-28T11:56:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-09665",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Single-Counterparty Credit Limits for Bank Holding Companies and Foreign Banking Organizations",
+          "postedDate": "2020-05-28T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2020-05-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064846b71b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2020-0154-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 62,
+            "label": "Notice"
+          },
+          {
+            "docCount": 53,
+            "label": "Other"
+          },
+          {
+            "docCount": 35,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 18,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "COLC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NARA"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "TSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2020-05-28",
+          "toDate": "2020-05-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 18,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 18,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

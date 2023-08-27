@@ -1,0 +1,813 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-1995-N-0127-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-14T15:18:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1996-03-22T04:59:59Z",
+          "title": "Protection of Human Subjects; Informed Consent; Proposed Rule",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "FDA-1995-N-0127",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648056e51e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1995-N-0127-0001"
+        }
+      },
+      {
+        "id": "CMS-2015-0081-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-19T13:48:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2015-07-16T03:59:59Z",
+          "title": "Medicare Program; Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Part B for CY 2016 . Display version of FR 1631-P (7-8-15)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "CMS-2015-0081",
+          "subtype": null,
+          "commentStartDate": "2015-07-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b74e5f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2015-0081-0001"
+        }
+      },
+      {
+        "id": "USCG-2015-0612-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-10T13:42:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16804",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Lake Metroparks Stand-Up Paddleboard Race, Lake Erie, Fairport Harbor, OH (Federal Register Publication)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "USCG-2015-0612",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b7546a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0612-0001"
+        }
+      },
+      {
+        "id": "USCG-2015-0601-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-10T13:48:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16762",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operations: Milford Haven, Grimstead and Gwynn's Island, VA (Federal Register Publication)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "USCG-2015-0601",
+          "subtype": "Notice of Interim Rule",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75503"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0601-0001"
+        }
+      },
+      {
+        "id": "USCG-2012-0403-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-10T13:39:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16522",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulations: Annual Bayview Mackinac Race (Federal Register Publication)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "USCG-2012-0403",
+          "subtype": "Notice of Interim Rule",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b74f8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0403-0005"
+        }
+      },
+      {
+        "id": "USCG-2015-0613-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-10T13:44:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16805",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Cleveland Yachting Club Annual Regatta Fireworks Display, Lake Erie, Rocky River, OH (Federal Register Publication)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "USCG-2015-0613",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75472"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0613-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-08-14T13:14:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16574",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2015-09-18T03:59:59Z",
+          "title": "Takes and Importation of Marine Mammals: Northeast Fisheries Science Center Fisheries Research",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0078",
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75420"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0078-0001"
+        }
+      },
+      {
+        "id": "DNFSB-2015-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-09T13:05:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16756",
+          "withdrawn": false,
+          "agencyId": "DNFSB",
+          "commentEndDate": "2015-08-11T03:59:59Z",
+          "title": "Freedom of Information Act Fee Schedule Update",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75471"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DNFSB-2015-0007-0001"
+        }
+      },
+      {
+        "id": "EERE-2014-BT-STD-0027-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-24T01:30:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16336",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2015-09-09T03:59:59Z",
+          "title": "2015-07-09  Energy Conservation Program: Energy Conservation Standards for Commercial Prerinse Spray Valves; notice of proposed rulemaking (NOPR) and announcement of public meeting.",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "EERE-2014-BT-STD-0027",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b754c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2014-BT-STD-0027-0020"
+        }
+      },
+      {
+        "id": "USCG-2015-0509-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-10T13:49:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16806",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2015-08-11T03:59:59Z",
+          "title": "Safety Zones: Incredoubleman Triathlon, Henderson Bay, Lake Ontario, Sackets Harbor, NY (Federal Register Publication)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "USCG-2015-0509",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b7555a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0509-0001"
+        }
+      },
+      {
+        "id": "CMS-2015-0079-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-28T15:14:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare and Medicaid Programs; CY 2016 Home Health Prospective Payment System Rate Update; Home Health Value-Based Purchasing Model; and Home Health Quality Reporting Requirements (CMS-1625-P)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "CMS-2015-0079",
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b74e62"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2015-0079-0001"
+        }
+      },
+      {
+        "id": "USCG-2015-0051-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-02-25T21:34:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16808",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2015-08-11T03:59:59Z",
+          "title": "Regulated Navigation Areas: Ice Covered Waterways in the Fifth Coast Guard District",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "USCG-2015-0051",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b754bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0051-0001"
+        }
+      },
+      {
+        "id": "FFIEC-2014-0001-0083",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-01-14T22:00:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16760",
+          "withdrawn": false,
+          "agencyId": "FFIEC",
+          "commentEndDate": null,
+          "title": "Regulatory Publication and Review under the Economic Growth and Regulatory Paperwork Reduction Act",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "FFIEC-2014-0001",
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75557"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FFIEC-2014-0001-0083"
+        }
+      },
+      {
+        "id": "FDIC-2015-0081-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-09T13:06:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16760",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Regulatory Publication and Review under the Economic Growth and Regulatory Paperwork Reduction Act",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75559"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2015-0081-0001"
+        }
+      },
+      {
+        "id": "RUS-15-AGENCY-0022-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-15T12:39:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16758",
+          "withdrawn": false,
+          "agencyId": "RUS",
+          "commentEndDate": "2015-07-10T03:59:59Z",
+          "title": "Biorefinery, Renewable Chemicals, and Biobased Product Manufacturing Assistance Program; Correction",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "RUS-15-AGENCY-0022",
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b74f8a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RUS-15-AGENCY-0022-0002"
+        }
+      },
+      {
+        "id": "ITC-2015-0162-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-09T13:03:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16435",
+          "withdrawn": false,
+          "agencyId": "ITC",
+          "commentEndDate": null,
+          "title": "Investigations Relating to Global and Bilateral Safeguard Actions, Market Disruption, Trade Diversion, and Review of Relief Actions; Investigations with Respect to Commercial Availability of Textile Fabric andYarn in Sub-Saharan African Countries; Trade Remedy Assistance",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b753d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ITC-2015-0162-0001"
+        }
+      },
+      {
+        "id": "DOD-2015-OS-0063-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-08-16T01:30:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16575",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2015-09-09T03:59:59Z",
+          "title": "Privacy Act; Implementation",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "DOD-2015-OS-0063",
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b7555f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2015-OS-0063-0001"
+        }
+      },
+      {
+        "id": "RBS-15-BUSINESS-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-13T14:21:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16758",
+          "withdrawn": false,
+          "agencyId": "RBS",
+          "commentEndDate": null,
+          "title": "Biorefinery, Renewable Chemicals, and Biobased Product Manufacturing Assistance Program; Correction",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "RBS-15-BUSINESS-0025",
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75556"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RBS-15-BUSINESS-0025-0001"
+        }
+      },
+      {
+        "id": "ED-2014-OPE-0161-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-08-18T01:30:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16623",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": "2015-08-11T03:59:59Z",
+          "title": "Student Assistance General Provisions, Federal Family Education Loan Program, and William D. Ford Federal Direct Loan Program",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "ED-2014-OPE-0161",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b753d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2014-OPE-0161-0002"
+        }
+      },
+      {
+        "id": "USCG-2015-0578-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-10T13:41:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16809",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operations: Saugus River, Saugus, MA (Federal Register Publication)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "USCG-2015-0578",
+          "subtype": "Notice of Interim Rule",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b753d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0578-0001"
+        }
+      },
+      {
+        "id": "FRS-2015-0229-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-09T13:05:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16760",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Regulatory Publication and Review under the Economic Growth and Regulatory Paperwork Reduction Act",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75506"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2015-0229-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-2459-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-08-25T01:30:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16766",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-08-25T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "FAA-2015-2459",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75509"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-2459-0001"
+        }
+      },
+      {
+        "id": "USCG-2015-0554-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-10T13:50:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16803",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Captain of the Port Boston Fireworks Display Zone, Boston Harbor, Boston, MA (Federal Register Publication)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "USCG-2015-0554",
+          "subtype": "Notice of Interim Rule",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b7559d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0554-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-2460-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-08-22T01:30:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16763",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-08-25T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "FAA-2015-2460",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b7555d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-2460-0001"
+        }
+      },
+      {
+        "id": "EERE-2011-BT-TP-0071-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-05T01:30:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16477",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2015-08-11T03:59:59Z",
+          "title": "2015-07-09  Energy Conservation Program: Test Procedures for Integrated Light-Emitting Diode Lamps; Supplemental notice of proposed rulemaking.",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "EERE-2011-BT-TP-0071",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b7559f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2011-BT-TP-0071-0040"
+        }
+      },
+      {
+        "id": "CSOSA-2015-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-09T13:04:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-16007",
+          "withdrawn": false,
+          "agencyId": "CSOSA",
+          "commentEndDate": null,
+          "title": "Community Supervision: Administrative Sanctions and  GPS Monitoring as a Supervision Tool; Correction",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b75424"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CSOSA-2015-0003-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2015-0162-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-09T20:28:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "U.S. DOT/PHMSA - Final Rule: Transportation of Natural and Other Gas by Pipeline; Design of Pipeling Components, General Requirements (PS-78)",
+          "postedDate": "2015-07-09T04:00:00Z",
+          "docketId": "PHMSA-2015-0162",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481b771af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2015-0162-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 171,
+            "label": "Other"
+          },
+          {
+            "docCount": 59,
+            "label": "Notice"
+          },
+          {
+            "docCount": 31,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 16,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice of Interim Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "CMS"
+          },
+          {
+            "docCount": 2,
+            "value": "EERE"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CSOSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DNFSB"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FFIEC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "ITC"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "RBS"
+          },
+          {
+            "docCount": 1,
+            "value": "RUS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2015-07-09",
+          "toDate": "2015-07-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

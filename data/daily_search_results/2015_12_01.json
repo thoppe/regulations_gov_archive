@@ -1,0 +1,682 @@
+[
+  {
+    "data": [
+      {
+        "id": "USA-2015-HQ-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-02T12:14:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30454",
+          "withdrawn": false,
+          "agencyId": "USA",
+          "commentEndDate": "2016-02-02T04:59:59Z",
+          "title": "Army Privacy Program",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "USA-2015-HQ-0036",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c4d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USA-2015-HQ-0036-0001"
+        }
+      },
+      {
+        "id": "USCG-2015-0729-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-01T22:00:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30406",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2016-02-02T04:59:59Z",
+          "title": "Port of Miami Anchorage Area; Atlantic Ocean, Miami Beach, FL",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "USCG-2015-0729",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c0ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0729-0001"
+        }
+      },
+      {
+        "id": "VA-2015-VHA-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-29T20:00:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-29865",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2016-03-31T03:59:59Z",
+          "title": "AP60 - Interim Final Rule - Expanded Access to Non-VA Care through the Veterans Choice Program",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "VA-2015-VHA-0029",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c73f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2015-VHA-0029-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2009-0234-20497",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-14T19:00:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30360",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-01-16T04:59:59Z",
+          "title": "Supplemental Finding that it is Appropriate and Necessary to Regulate Hazardous Air Pollutants from Coal- and Oil-Fired Electric Utility Steam Generating Units",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2009-0234",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c7df"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2009-0234-20497"
+        }
+      },
+      {
+        "id": "ARS_FRDOC_0001-0159",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-01T13:52:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30449",
+          "withdrawn": false,
+          "agencyId": "ARS",
+          "commentEndDate": null,
+          "title": "Changes to Fees and Payment Methods",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "ARS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c0ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ARS_FRDOC_0001-0159"
+        }
+      },
+      {
+        "id": "FRS-2015-0398-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-01T13:54:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30095",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": "2016-02-03T04:59:59Z",
+          "title": "Liquidity Coverage Ratio: Public Disclosure Requirements; Extension of Compliance Period for Certain Companies to Meet the Liquidity Coverage Ratio Requirements",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c9c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2015-0398-0001"
+        }
+      },
+      {
+        "id": "NRC-2015-0239-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-01T14:44:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30153",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Miscellaneous Corrections",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "NRC-2015-0239",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481d7c947"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2015-0239-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2015-0500-0066",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-01T16:22:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30489",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Cross-State Air Pollution Rule Update for the 2008 Ozone NAAQS; Public Hearing",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2015-0500",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481d7c97a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2015-0500-0066"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2010-0682-0700",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-01T16:12:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-26486",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Petroleum Refinery Sector Risk and Technology Review and New Source Performance Standards",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2010-0682",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481d7c6cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2010-0682-0700"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0160-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-06T19:04:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30447",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Bluefish Fishery; Quota Transfer",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0160",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c978"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0160-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0011-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-11T20:37:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30464",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Atlantic Highly Migratory Species: Atlantic Bluefin Tuna Fisheries",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0011",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c6cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0011-0008"
+        }
+      },
+      {
+        "id": "NPS-2015-0004-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-01T14:17:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30349",
+          "withdrawn": false,
+          "agencyId": "NPS",
+          "commentEndDate": null,
+          "title": "Special Regulations: Areas of the National Park System, Lake Chelan National Recreation Area, Solid Waste Disposal",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "NPS-2015-0004",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c6e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NPS-2015-0004-0002"
+        }
+      },
+      {
+        "id": "FTC-2015-0120-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-12T22:00:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30359",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": "2016-02-13T04:59:59Z",
+          "title": "Trade Regulation: Preservation of Consumers' Claims and Defenses",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "FTC-2015-0120",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c79a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2015-0120-0001"
+        }
+      },
+      {
+        "id": "NRC-2015-0230-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-01T14:42:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30355",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Uninterruptible Monitoring of Coolant and Fuel in Reactors and Spent Fuel Pools; Notice of Docketing of Petition for Rulemaking",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "NRC-2015-0230",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481d7c79b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2015-0230-0008"
+        }
+      },
+      {
+        "id": "FSA-2015-0011-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-02T21:56:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30331",
+          "withdrawn": false,
+          "agencyId": "FSA",
+          "commentEndDate": "2016-03-01T04:59:59Z",
+          "title": "Highly Fractionated Indian Land Loan Program",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "FSA-2015-0011",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c8b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSA-2015-0011-0002"
+        }
+      },
+      {
+        "id": "CPSC-2015-0027-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-01-07T22:00:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30407",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2016-01-07T04:59:59Z",
+          "title": "Protection of Human Subjects",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "CPSC-2015-0027",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c948"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2015-0027-0004"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0310",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-01T13:54:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30221",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Allocation of Assets in Single-Employer Plans: Valuation of Benefits and Assets; Expected Retirement Age",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7ca09"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0310"
+        }
+      },
+      {
+        "id": "FCC-2015-0388-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-01T13:53:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30477",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Petitions for Reconsideration and Clarification of Action in Rulemaking Proceeding",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c73e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2015-0388-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-5806-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-08-27T20:53:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30274",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-02-02T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "FAA-2015-5806",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c814"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-5806-0001"
+        }
+      },
+      {
+        "id": "NOAA-NOS-2012-0228-1149",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-23T19:21:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30434",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Boundary Expansions: Greater Farallones and Cordell Bank National Marine Sanctuaries; Delay of Discharge Requirements for U.S. Coast Guard Activities",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "NOAA-NOS-2012-0228",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c97b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NOS-2012-0228-1149"
+        }
+      },
+      {
+        "id": "NPS-2015-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-02T22:00:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30348",
+          "withdrawn": false,
+          "agencyId": "NPS",
+          "commentEndDate": "2016-02-02T04:59:59Z",
+          "title": "Special Regulations: Areas of the National Park System, Rocky Mountain National Park",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "NPS-2015-0007",
+          "subtype": null,
+          "commentStartDate": "2015-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481d7c6b8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NPS-2015-0007-0001"
+        }
+      },
+      {
+        "id": "VA-2014-VACO-0030-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-01T15:06:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-30346",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AP03 - Final Rule - Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards; Updating References",
+          "postedDate": "2015-12-01T05:00:00Z",
+          "docketId": "VA-2014-VACO-0030",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481d7c799"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2014-VACO-0030-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 243,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 201,
+            "label": "Other"
+          },
+          {
+            "docCount": 88,
+            "label": "Notice"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 22,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "NPS"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 2,
+            "value": "VA"
+          },
+          {
+            "docCount": 1,
+            "value": "ARS"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "FSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "USA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2015-12-01",
+          "toDate": "2015-12-01"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 22,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 22,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

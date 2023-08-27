@@ -1,0 +1,835 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2015-1602-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-05T12:37:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24705",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2015-12-05T04:59:59Z",
+          "title": "Rules of Practice",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cafc81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2015-1602-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0259-0989",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-05T13:16:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25192",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Change in EST Usage in Notice to Airmen",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "FAA-2013-0259",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cafcc8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0259-0989"
+        }
+      },
+      {
+        "id": "OSHA-S215-2006-0063-0668",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-07T20:44:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25062",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": null,
+          "title": "Electrical Safety-Related Work Practices; Electric Power Generation,\nTransmission, and Distribution; Electrical Protective Equipment;\nCorrections",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "OSHA-S215-2006-0063",
+          "subtype": "Correction",
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481caffca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-S215-2006-0063-0668"
+        }
+      },
+      {
+        "id": "FRS-2015-0318-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-05T12:39:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25258",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Meetings: Regulatory Publication and Review under the Economic Growth and Regulatory Paperwork Reduction Act",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb021b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2015-0318-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2015-0510-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-14T05:15:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25160",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Antelope Valley Air Quality Management District; Revisions",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2015-0510",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb025b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2015-0510-0001"
+        }
+      },
+      {
+        "id": "OSM-2015-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-11-16T19:07:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25255",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Alabama Regulatory Program",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "OSM-2015-0005",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb025f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2015-0005-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-1482-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-05T13:19:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25275",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: Gulfstream Model GVII-G500 Airplanes, Automatic Speed Protection for Design Dive Speed",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "FAA-2015-1482",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb01e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-1482-0002"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2014-0442-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-14T05:08:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24860",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Georgia; Infrastructure  Requirements for the Lead NAAQS",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2014-0442",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb019c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2014-0442-0008"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2015-0542-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-14T05:17:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25140",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Feather River Air Quality Management District Stationary Source Permits; Revisions",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2015-0542",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb021c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2015-0542-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-1496-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-05T13:21:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25276",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: Gulfstream Model GVII-G500 Airplanes, Side-Stick Controllers; Controllability and Maneuverability",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "FAA-2015-1496",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb021d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-1496-0002"
+        }
+      },
+      {
+        "id": "CMS-2015-0060-0195",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-19T19:59:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25267",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: FY 2016 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Requirements; Correction",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "CMS-2015-0060",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cafcce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2015-0060-0195"
+        }
+      },
+      {
+        "id": "CMS-2015-0047-0057",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-19T19:59:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25268",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Prospective Payment System and Consolidated Billing for Skilled Nursing Facilitiesfor FY 2016, SNF Value-Based Purchasing Program, SNF Quality Reporting Program, and Staffing Data Collection; Correction",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "CMS-2015-0047",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb01e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2015-0047-0057"
+        }
+      },
+      {
+        "id": "OSHA-S016-2006-0646-0126",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-07T20:43:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25062",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": null,
+          "title": "Electrical Safety-Related Work Practices; Electric Power Generation,\nTransmission, and Distribution; Electrical Protective Equipment; \nCorrections",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "OSHA-S016-2006-0646",
+          "subtype": "Correction",
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb0215"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-S016-2006-0646-0126"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2014-0134-0042",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-08T15:57:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25291",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2016-01-01T04:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Exchange of Flatfish in the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "NOAA-NMFS-2014-0134",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb0219"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2014-0134-0042"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2015-0279-0067",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-14T05:13:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25165",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California;  Mammoth Lakes; Redesignation; PM10 Maintenance Plan",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2015-0279",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb0259"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2015-0279-0067"
+        }
+      },
+      {
+        "id": "FAA-2015-3877-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-09T20:17:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25217",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-12-05T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "FAA-2015-3877",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb010e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-3877-0001"
+        }
+      },
+      {
+        "id": "SEC-2015-1606-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-05T12:38:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24707",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2015-12-05T04:59:59Z",
+          "title": "Rules of Practice",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb0196"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2015-1606-0001"
+        }
+      },
+      {
+        "id": "FEMA-2015-0001-0147",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-05T13:27:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25222",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "FEMA-2015-0001",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481cb0197"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2015-0001-0147"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2015-0008-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-14T05:08:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25158",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Direct Final Approval of the Illinois VOM definition update (R14-16)",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2015-0008",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb021a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2015-0008-0002"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2015-0542-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-14T05:17:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25141",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Feather River Air Quality Management District; Stationary Source Permits",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2015-0542",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cafc84"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2015-0542-0002"
+        }
+      },
+      {
+        "id": "CMS-2015-0049-0334",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-19T19:59:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25269",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long Term Care Hospital Prospective Payment System Policy Changes and Fiscal Year 2016 Rates; Revisions of Quality Reporting Requirements for Specific Providers, etc.; Correction",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "CMS-2015-0049",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb010d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2015-0049-0334"
+        }
+      },
+      {
+        "id": "SBA-2015-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-05T21:39:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25232",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2015-12-05T04:59:59Z",
+          "title": "Small Business Investment Companies: Passive Business Expansion and Technical Clarifications",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "SBA-2015-0016",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb0111"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2015-0016-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2015-0594-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-11-11T02:31:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25163",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Clean Air Act Title V Operating Permit Program Revision; West Virginia",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2015-0594",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb0154"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2015-0594-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2015-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-14T05:08:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25154",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Proposed Approval of the Illinois VOM definition update (R14-16)",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2015-0008",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cafc0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2015-0008-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-RCRA-2014-0452-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-14T05:11:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24459",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Hazardous Waste Management System: Identification and Listing of Hazardous Waste",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R07-RCRA-2014-0452",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cb0156"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-RCRA-2014-0452-0004"
+        }
+      },
+      {
+        "id": "FFIEC-2014-0001-0101",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-09T16:09:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25258",
+          "withdrawn": false,
+          "agencyId": "FFIEC",
+          "commentEndDate": null,
+          "title": "Meetings: Regulatory Publication and Review under the Economic Growth and Regulatory Paperwork Reduction Act",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "FFIEC-2014-0001",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481caf00f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FFIEC-2014-0001-0101"
+        }
+      },
+      {
+        "id": "FDIC-2015-0127-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-05T12:37:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25258",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Meetings: Regulatory Publication and Review under the Economic Growth and Regulatory Paperwork Reduction Act",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cafc7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2015-0127-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2015-0510-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-10-14T05:17:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25161",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-11-05T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Antelope Valley Air Quality Management District; Revisions",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2015-0510",
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cafc87"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2015-0510-0002"
+        }
+      },
+      {
+        "id": "FCC-2015-0308-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-05T12:38:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-25094",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2015-10-09T03:59:59Z",
+          "title": "Lifeline and Link Up Reform and Modernization; Telecommunications Carriers Eligible for Universal Service Support; Connect America Fund",
+          "postedDate": "2015-10-05T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-10-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481cafcca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2015-0308-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 101,
+            "label": "Other"
+          },
+          {
+            "docCount": 69,
+            "label": "Notice"
+          },
+          {
+            "docCount": 61,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 17,
+            "label": "Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "CMS"
+          },
+          {
+            "docCount": 2,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 2,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FFIEC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSM"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2015-10-05",
+          "toDate": "2015-10-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

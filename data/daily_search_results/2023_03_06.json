@@ -1,0 +1,868 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2022-1580-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-07T13:58:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04466",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2022-1580",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c15"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1580-0004"
+        }
+      },
+      {
+        "id": "DEA-2020-0038-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-07T14:27:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04364",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Schedules of Controlled Substances: Placement of Brorphine in Schedule I",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "DEA-2020-0038",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064857608c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2020-0038-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2021-0568-0050",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T12:51:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04157",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Significant New Use Rules on Certain Chemical Substances (21-3.5e)",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2021-0568",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485762124"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2021-0568-0050"
+        }
+      },
+      {
+        "id": "FAA-2023-0138-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-06T13:54:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04425",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-04-21T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Calvert, KY",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2023-0138",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c19"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0138-0001"
+        }
+      },
+      {
+        "id": "FCC-2023-0070-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T12:25:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04387",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Television Broadcasting Services: Yuma, AZ",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0070-0001"
+        }
+      },
+      {
+        "id": "PRC-2023-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-06T12:24:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04473",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": "2023-04-11T03:59:59Z",
+          "title": "Competitive Postal Products",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c49"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2023-0005-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2022-0513-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-27T01:00:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04375",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-04-21T03:59:59Z",
+          "title": "Request From States for Removal of Gasoline Volatility Waiver",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2022-0513",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c1e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2022-0513-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-0189-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-22T22:47:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04373",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-04-21T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Shelbyville, TN",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2023-0189",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064857608ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0189-0001"
+        }
+      },
+      {
+        "id": "NRC-2018-0291-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-21T01:01:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03742",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2023-05-06T03:59:59Z",
+          "title": "American Society of Mechanical Engineers Code Cases and Update Frequency",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "NRC-2018-0291",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2018-0291-0002"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2022-0279-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-29T01:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04487",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-04-06T03:59:59Z",
+          "title": "OK041.01 Air Quality State Implementation Plans; Approvals and Promulgations: Oklahoma; Updates to the State Implementation Plan Incorporation by Reference Provisions, Proposed rule, 4 pages",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "EPA-R06-OAR-2022-0279",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485762125"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2022-0279-0001"
+        }
+      },
+      {
+        "id": "SEC-2023-0242-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T12:25:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03566",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Shortening the Securities Transaction Settlement Cycle",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2023-0242-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-0328-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-06T13:56:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04372",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-04-21T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Greene County, MS",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2023-0328",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064857608cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0328-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-0424-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T13:53:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04631",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Cirrus Design Corporation Airplanes",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2023-0424",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c1a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0424-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-1573-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T13:52:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04467",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2022-1573",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485762123"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1573-0005"
+        }
+      },
+      {
+        "id": "EERE-2021-BT-TP-0036-0036",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T13:35:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03987",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2023-03-06  Energy Conservation Program: Test Procedure for Air Cleaners; Final rule",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "EERE-2021-BT-TP-0036",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485761c18"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2021-BT-TP-0036-0036"
+        }
+      },
+      {
+        "id": "FAA-2022-1578-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-07T13:15:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04464",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2022-1578",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485762170"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1578-0004"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2022-0837-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T15:56:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04392",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Ventura County Air Pollution Control District",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2022-0837",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064857621b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2022-0837-0015"
+        }
+      },
+      {
+        "id": "USCG-2023-0073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-06T01:00:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04306",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2023-04-06T03:59:59Z",
+          "title": "Safety Zone: South Fork Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0517, Offshore Rhode Island, Atlantic Ocean",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "USCG-2023-0073",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c16"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0073-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2023-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-07T01:00:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04316",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-04-06T03:59:59Z",
+          "title": "Atlantic Highly Migratory Species: Bluefin Tuna General Category Restricted-Fishing Days",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0016",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485762127"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0016-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2021-0480-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-06T01:01:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04488",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-04-06T03:59:59Z",
+          "title": "TX233.01 Air Quality State Implementation Plans; Approvals and Promulgations: Texas; New Source Review Updates for Project Emissions Accounting, Proposed rule, 4 pages",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "EPA-R06-OAR-2021-0480",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064857608ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2021-0480-0001"
+        }
+      },
+      {
+        "id": "CPSC-2019-0025-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-06T01:01:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04398",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2023-04-06T03:59:59Z",
+          "title": "Safety Standard for Non-Full-Size Baby Cribs",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "CPSC-2019-0025",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2019-0025-0016"
+        }
+      },
+      {
+        "id": "BIS-2023-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T20:31:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04558",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Additions and Revisions of Entities to the Entity List",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "BIS-2023-0012",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2023-0012-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2018-0794-5532",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T12:41:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03574",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units-Revocation of the 2020 Reconsideration and Affirmation of the Appropriate and Necessary Supplemental Finding",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2018-0794",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648576216e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2018-0794-5532"
+        }
+      },
+      {
+        "id": "DOS_FRDOC_0001-6103",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T12:26:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04405",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Visas: Procedures for Issuing Visas",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "DOS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648576216b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS_FRDOC_0001-6103"
+        }
+      },
+      {
+        "id": "FCC-2023-0071-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-06T12:26:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-03588",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2023-04-21T03:59:59Z",
+          "title": "Television Broadcasting Services: Coos Bay, OR",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648576216f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0071-0001"
+        }
+      },
+      {
+        "id": "NTIA_FRDOC_0001-0184",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T12:24:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04358",
+          "withdrawn": false,
+          "agencyId": "NTIA",
+          "commentEndDate": null,
+          "title": "Manual of Regulations and Procedures for Federal Radio Frequency Management",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "NTIA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NTIA_FRDOC_0001-0184"
+        }
+      },
+      {
+        "id": "NRC-2023-0028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-25T01:00:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04460",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2023-04-06T03:59:59Z",
+          "title": "Draft Regulatory Guide: Sizing of Large Lead-Acid Storage Batteries",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "NRC-2023-0028",
+          "subtype": null,
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c1c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2023-0028-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-1575-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-06T13:57:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04465",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2022-1575",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064857608cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1575-0004"
+        }
+      },
+      {
+        "id": "FAA-2023-0443-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-06T13:51:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04394",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-04-21T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Sandusky, MI",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2023-0443",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485762128"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0443-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-0456-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-06T13:52:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-04371",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-04-21T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Southwest United States",
+          "postedDate": "2023-03-06T05:00:00Z",
+          "docketId": "FAA-2023-0456",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485761c8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0456-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 136,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 79,
+            "label": "Other"
+          },
+          {
+            "docCount": 46,
+            "label": "Notice"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 14,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 30,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NTIA"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-03-06",
+          "toDate": "2023-03-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 30,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 30,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

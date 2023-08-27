@@ -1,0 +1,570 @@
+[
+  {
+    "data": [
+      {
+        "id": "NOAA-NMFS-2023-0080-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-08T15:09:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-11814",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Proposed Rule",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0080",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485adf7b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0080-0002"
+        }
+      },
+      {
+        "id": "FCC-2023-0209-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-08T12:33:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12269",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services: Tecopa, CA",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485ade9ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0209-0001"
+        }
+      },
+      {
+        "id": "PRC-2023-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-08T12:47:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12229",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": null,
+          "title": "Reorganization of Postal Regulatory Commission Rules; Correction",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adeb57"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2023-0011-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0421-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-08T13:35:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12263",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Fireworks Display, Delaware River, Philadelphia, PA",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "USCG-2023-0421",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485adeaa9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0421-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1254-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-08T14:26:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12054",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: West Palm Beach, FL",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "FAA-2023-1254",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485ade97d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1254-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1119-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-08T14:27:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12111",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-07-25T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Tununak Airport, Tununak, AK",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "FAA-2023-1119",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adea04"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1119-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1206-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-07-26T01:01:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12156",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-07-25T03:59:59Z",
+          "title": "Airworthiness Directives: ATR\u2014GIE Avions de Transport Regional Airplanes",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "FAA-2023-1206",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adeaa8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1206-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2023-0080-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-07-12T01:01:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-11814",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-07-11T03:59:59Z",
+          "title": "Takes of Marine Mammals Incidental to Specified Activities: New England Wind Project Offshore Massachusetts",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0080",
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adea5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0080-0001"
+        }
+      },
+      {
+        "id": "FCC-2023-0210-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-08T12:33:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12235",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services: Peach Springs, AZ",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adea00"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0210-0001"
+        }
+      },
+      {
+        "id": "FS-2023-0006-29271",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-08T13:34:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12267",
+          "withdrawn": false,
+          "agencyId": "FS",
+          "commentEndDate": null,
+          "title": "Forest Service Functions - Extension of Comment Period",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "FS-2023-0006",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485ade983"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FS-2023-0006-29271"
+        }
+      },
+      {
+        "id": "FAA-2023-0841-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-08T14:28:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12278",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-07-25T03:59:59Z",
+          "title": "Special Conditions:Airbus SAS Model A320 and A321 Series Airplanes; Rechargeable Lithium Batteries and Battery System Installations",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "FAA-2023-0841",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adeab1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0841-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0222-2361",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-08T01:02:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12270",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2023-08-05T03:59:59Z",
+          "title": "Drawbridge Operations: Okeechobee Waterway, Stuart, FL",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "USCG-2022-0222",
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adeb0e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0222-2361"
+        }
+      },
+      {
+        "id": "FWS-R2-ES-2022-0173-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-09T01:03:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12132",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2023-08-08T03:59:59Z",
+          "title": "Endangered and Threatened Species: Status for Swale Paintbrush",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "FWS-R2-ES-2022-0173",
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adeb50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R2-ES-2022-0173-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0001-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-22T18:11:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12237",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries off West Coast States: Modification of the West Coast Salmon Fisheries; Inseason Actions Nos. 51-52",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adeb53"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0001-0014"
+        }
+      },
+      {
+        "id": "COLC-2023-0004-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-26T01:05:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12250",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": "2023-08-26T03:59:59Z",
+          "title": "Exemptions to Permit Circumvention of Access Controls on Copyrighted Works",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "COLC-2023-0004",
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adeb0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2023-0004-0002"
+        }
+      },
+      {
+        "id": "NOAA_FRDOC_0001-6621",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-08T12:38:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12243",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; Red Snapper Harvest Levels",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "NOAA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485adea60"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA_FRDOC_0001-6621"
+        }
+      },
+      {
+        "id": "USCG-2023-0361-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-08T13:42:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12266",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones; Fireworks Displays in the Fifth Coast Guard District\u2014 Philadelphia, PA",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "USCG-2023-0361",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485adeb55"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0361-0001"
+        }
+      },
+      {
+        "id": "SSA-2017-0042-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-22T13:26:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-11771",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": null,
+          "title": "Revised Medical Criteria for Evaluating Digestive Disorders and Skin Disorders",
+          "postedDate": "2023-06-08T04:00:00Z",
+          "docketId": "SSA-2017-0042",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485adea01"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2017-0042-0016"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 75,
+            "label": "Other"
+          },
+          {
+            "docCount": 55,
+            "label": "Notice"
+          },
+          {
+            "docCount": 40,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 18,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "COLC"
+          },
+          {
+            "docCount": 1,
+            "value": "FS"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-06-08",
+          "toDate": "2023-06-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 18,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 18,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

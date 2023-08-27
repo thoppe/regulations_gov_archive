@@ -1,0 +1,791 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2018-0071-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-27T00:51:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10214",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0071",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832686f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0071-0004"
+        }
+      },
+      {
+        "id": "FAA-2018-0409-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-29T01:08:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10213",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-30T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0409",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268737"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0409-0001"
+        }
+      },
+      {
+        "id": "FCC-2017-0401-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T11:58:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10335",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Updates Concerning Non-Geostationary, Fixed-Satellite Service Systems and Related Matters",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268848"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2017-0401-0003"
+        }
+      },
+      {
+        "id": "USCG-2018-0276-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T15:02:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10308",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "2018 Quarterly Listings; Safety Zones, Security Zones, Special Local Regulations, Drawbridge Operation Regulations and Regulated Navigation Areas",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "USCG-2018-0276",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064832688a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0276-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0396-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T14:56:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10283",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone; Portland Rose Festival on Willamette River",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "USCG-2018-0396",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064832688ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0396-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-1245-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T13:22:37Z",
+          "highlightedContent": "",
+          "frDocNum": "R1-2018-09280",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2017-1245",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832686ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-1245-0006"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2017-0160-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T16:09:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10230",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries Off West Coast States: Pacific Coast Groundfish Fishery; Annual Specifications and Management Measures for 2018 Tribal and Non-Tribal Fisheries for Pacific Whiting",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2017-0160",
+          "subtype": null,
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832688ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2017-0160-0005"
+        }
+      },
+      {
+        "id": "FAA-2018-0410-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-15T13:33:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10211",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-30T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0410",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832688f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0410-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0408-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-07-24T03:28:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10209",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-30T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0408",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268688"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0408-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0362-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-30T01:04:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-09865",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-30T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0362",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648326878e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0362-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0434-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T14:57:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10243",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Georgiana Slough, Walnut Grove, CA",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "USCG-2018-0434",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483268d41"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0434-0001"
+        }
+      },
+      {
+        "id": "DOJ_FRDOC_0001-0210",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T11:59:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-09640",
+          "withdrawn": false,
+          "agencyId": "DOJ",
+          "commentEndDate": null,
+          "title": "Public Safety Officers' Benefits Program",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "DOJ_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268d46"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOJ_FRDOC_0001-0210"
+        }
+      },
+      {
+        "id": "NRC-2015-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-15T12:44:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10358",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Cyber Security for Byproduct Materials Licensees",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "NRC-2015-0019",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648326868c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2015-0019-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0373-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T13:18:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10023",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-30T03:59:59Z",
+          "title": "Airworthiness Directives: Pacific Aerospace Limited Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0373",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648326868e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0373-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2017-0006-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-25T11:08:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10347",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities; Correction",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2017-0006",
+          "subtype": "Correction",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268788"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2017-0006-0018"
+        }
+      },
+      {
+        "id": "FAA-2018-0411-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-07-23T23:33:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10298",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-30T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0411",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268528"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0411-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0372-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T13:24:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10025",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pacific Aerospace Limited Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0372",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832686f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0372-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2017-0152-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-25T18:18:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10342",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-06-15T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: Delaware; Interstate Transport Requirements for 2012 Fine Particulate Matter Standard",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2017-0152",
+          "subtype": null,
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268739"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2017-0152-0030"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0194-0103",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-15T01:04:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10239",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-06-15T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants: Leather Finishing Operations Residual Risk and Technology Review",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0194",
+          "subtype": null,
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648326873f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0194-0103"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2017-0006-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-25T11:08:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10344",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities; Correction",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2017-0006",
+          "subtype": "Correction",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648326878a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2017-0006-0017"
+        }
+      },
+      {
+        "id": "FAA-2016-9523-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T13:29:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-09864",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2016-9523",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832687e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9523-0012"
+        }
+      },
+      {
+        "id": "FWS-R2-ES-2016-0130-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T13:04:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10206",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Reclassifying Tobusch Fishhook Cactus From Endangered to Threatened and Adopting New Scientific Name",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FWS-R2-ES-2016-0130",
+          "subtype": null,
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268844"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R2-ES-2016-0130-0013"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2017-0107-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-27T14:13:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10326",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2018-05-30T03:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Deep-Water Species Fishery by Vessels Using Trawl Gear in Gulf of Alaska",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2017-0107",
+          "subtype": null,
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832688a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2017-0107-0018"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0398",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-15T11:58:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10038",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Benefits Payable in Terminated Single-Employer Plans: Interest Assumptions for Paying Benefits",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832688a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0398"
+        }
+      },
+      {
+        "id": "FDA-2004-N-0191-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-07-18T01:03:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10321",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2018-07-17T03:59:59Z",
+          "title": "Product Jurisdiction",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FDA-2004-N-0191",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064832686f5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-N-0191-0004"
+        }
+      },
+      {
+        "id": "FAA-2018-0412-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-16T01:08:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-10299",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-30T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2018-0412",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648326868d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0412-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-1245-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-16T14:28:21Z",
+          "highlightedContent": "",
+          "frDocNum": "R1-2018-09280",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Airbus Airplanes Republication",
+          "postedDate": "2018-05-15T04:00:00Z",
+          "docketId": "FAA-2017-1245",
+          "subtype": "Correction",
+          "commentStartDate": "2018-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483268d40"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-1245-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 411,
+            "label": "Other"
+          },
+          {
+            "docCount": 76,
+            "label": "Notice"
+          },
+          {
+            "docCount": 37,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Correction"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 3,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 12,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOJ"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-05-15",
+          "toDate": "2018-05-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

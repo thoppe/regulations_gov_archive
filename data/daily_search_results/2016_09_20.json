@@ -1,0 +1,809 @@
+[
+  {
+    "data": [
+      {
+        "id": "BIS-2016-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-28T11:54:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-21543",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Entity List",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "BIS-2016-0036",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d33e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2016-0036-0001"
+        }
+      },
+      {
+        "id": "FWS-R1-ES-2016-0057-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-10T02:00:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22592",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "Endangered and Threatened Species: Iiwi (Drepanis coccinea)",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "FWS-R1-ES-2016-0057",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d434"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R1-ES-2016-0057-0001"
+        }
+      },
+      {
+        "id": "DOI-2016-0004-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-20T14:53:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22565",
+          "withdrawn": false,
+          "agencyId": "DOI",
+          "commentEndDate": null,
+          "title": "Civil Penalties Inflation Adjustments",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "DOI-2016-0004",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d4d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOI-2016-0004-0004"
+        }
+      },
+      {
+        "id": "CMS-2017-0157-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-01-05T12:52:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22269",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "Medicaid Program: State Medicaid Fraud Control Units",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "CMS-2017-0157",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d927"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2017-0157-0003"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-19711",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-20T11:43:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22499",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California Air Plan Revisions, Department of Pesticide Regulations",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d97b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-19711"
+        }
+      },
+      {
+        "id": "FAA-2016-6137-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-04T13:01:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22547",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-11-05T03:59:59Z",
+          "title": "Special Conditions: The Boeing Company Model 787-10 Airplane; Aeroelastic Stability Requirements, Flaps-Up Vertical Modal-Suppression System",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "FAA-2016-6137",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d9c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-6137-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2016-0011-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-21T15:31:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22368",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Tennessee; Revision and Removal of  Stage I and II Gasoline Vapor Recovery Program",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2016-0011",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d33c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2016-0011-0008"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2016-0407-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-20T15:56:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22503",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Partial Approval and Partial Disapproval of Implementation Plans; State of Iowa; Infrastructure SIP Requirements for the 2008 Ozone National Ambient Air Quality Standard (NAAQS)",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2016-0407",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d4d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2016-0407-0004"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2015-0807-0077",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-21T01:15:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22499",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California Air Plan Revisions, Department of Pesticide Regulations",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2015-0807",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222bd85"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2015-0807-0077"
+        }
+      },
+      {
+        "id": "HHSIG-2016-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-23T02:01:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22269",
+          "withdrawn": false,
+          "agencyId": "HHSIG",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "Medicaid Program: State Medicaid Fraud Control Units",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "HHSIG-2016-0002",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d3d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHSIG-2016-0002-0001"
+        }
+      },
+      {
+        "id": "FHFA-2016-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-20T11:41:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22483",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "Indemnification Payments",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d3dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2016-0017-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-0733-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-20T18:27:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22611",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; International Jet Sports Boating Association; Lake Havasu City, AZ",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "USCG-2016-0733",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648222d4d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0733-0001"
+        }
+      },
+      {
+        "id": "DOI-2016-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-22T02:00:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22166",
+          "withdrawn": false,
+          "agencyId": "DOI",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "Freedom of Information Act",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "DOI-2016-0006",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d923"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOI-2016-0006-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0140-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-20T15:49:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22619",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Pacific Island Pelagic Fisheries: 2016 U.S. Territorial Longline Bigeye Tuna Catch Limits for the Commonwealth of the Northern Mariana Islands",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0140",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d9c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0140-0028"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0139-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-08T14:02:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22493",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2016-11-08T04:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Omnibus Amendment Public Hearings",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0139",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d387"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0139-0001"
+        }
+      },
+      {
+        "id": "ED-2015-OESE-0109-0068",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-21T12:34:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22407",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Impact Aid Program",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "ED-2015-OESE-0109",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d48e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2015-OESE-0109-0068"
+        }
+      },
+      {
+        "id": "TTB-2016-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-23T01:01:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22635",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "Notice No. 162:  Proposed Expansion of the Outer Coastal Plain Viticultural Area",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "TTB-2016-0008",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d4d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2016-0008-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2012-0812-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-20T18:45:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22560",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-10-21T03:59:59Z",
+          "title": "OK020.01 Air Quality State Implementation Plans; Approval and Promulgation: Oklahoma; Infrastructure for the Lead, Ozone, Nitrogen Dioxide and Sulfur Dioxide National Ambient Air Quality Standards, Proposed rule, 7 pages.",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2012-0812",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d925"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2012-0812-0001"
+        }
+      },
+      {
+        "id": "PBGC-2016-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-23T02:01:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22278",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "Missing Participants",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "PBGC-2016-0004",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d388"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC-2016-0004-0001"
+        }
+      },
+      {
+        "id": "FEMA-2015-0006-0378",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-10-22T13:01:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22496",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": "2016-10-22T03:59:59Z",
+          "title": "Updates to Floodplain Management and Protection of Wetlands Regulations To Implement Executive Order 13690 and the Federal Flood Risk Management Standard",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "FEMA-2015-0006",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d3de"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2015-0006-0378"
+        }
+      },
+      {
+        "id": "USCG-2016-0877-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-20T18:25:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22548",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Willamette River, Portland, OR",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "USCG-2016-0877",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648222d48c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0877-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2016-0073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-20T20:31:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22064",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "Motor Vehicle Theft Prevention Standard: Preliminary Theft Data",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "NHTSA-2016-0073",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d4db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2016-0073-0001"
+        }
+      },
+      {
+        "id": "SEC-2016-1698-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-20T11:43:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22563",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2016-10-21T03:59:59Z",
+          "title": "List of Rules to be Reviewed Pursuant to the Regulatory Flexibility Act",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d922"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2016-1698-0001"
+        }
+      },
+      {
+        "id": "BIS-2016-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-28T11:55:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-21544",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Wassenaar Arrangement Plenary Agreements Implementation, Removal of Foreign National Review Requirements, and Information Security Updates",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "BIS-2016-0035",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d9c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2016-0035-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2015-0495-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-20T17:16:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22564",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-10-21T03:59:59Z",
+          "title": "TX173.01 Air Quality State Implementation Plans; Approval and Promulgation: Texas; Reasonable Further Progress Plan and Motor Vehicle Emissions Budgets for the Dallas/Fort Worth 2008 Ozone Nonattainment Area, Proposed rule, 6 pages.",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2015-0495",
+          "subtype": null,
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d489"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2015-0495-0001"
+        }
+      },
+      {
+        "id": "EERE-2016-BT-TP-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-09T02:01:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-21310",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2016-11-22T04:59:59Z",
+          "title": "2016-09-20  Energy Conservation Program:  Test Procedure for Dedicated-Purpose Pool Pumps; Notice of proposed rulemaking and announcement of public meeting.",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "EERE-2016-BT-TP-0002",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d4d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2016-BT-TP-0002-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2016-0501-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-20T15:52:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22398",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval of Iowa\u2019s Air Quality Implementation Plans; Correction",
+          "postedDate": "2016-09-20T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2016-0501",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648222d9c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2016-0501-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 88,
+            "label": "Other"
+          },
+          {
+            "docCount": 76,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 71,
+            "label": "Notice"
+          },
+          {
+            "docCount": 15,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "BIS"
+          },
+          {
+            "docCount": 2,
+            "value": "DOI"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "HHSIG"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "TTB"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-09-20",
+          "toDate": "2016-09-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

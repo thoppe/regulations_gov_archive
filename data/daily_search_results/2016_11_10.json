@@ -1,0 +1,777 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2015-0084-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-06T21:01:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26813",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-12-28T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "FAA-2015-0084",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387409"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-0084-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2016-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-10T15:03:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26965",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Renewables Enhancement and Growth Support Rule: Public Hearing",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2016-0041",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064823874bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2016-0041-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-3985-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-07-01T20:48:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26810",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "FAA-2015-3985",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823873bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-3985-0007"
+        }
+      },
+      {
+        "id": "IRS-2014-0034-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-15T17:56:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27160",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Removal of the 36-month Non-payment Testing Period Rule",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "IRS-2014-0034",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387406"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2014-0034-0006"
+        }
+      },
+      {
+        "id": "USA-2016-HQ-0033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-13T02:01:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27165",
+          "withdrawn": false,
+          "agencyId": "USA",
+          "commentEndDate": "2016-12-13T04:59:59Z",
+          "title": "Law Enforcement Reporting",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "USA-2016-HQ-0033",
+          "subtype": null,
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387482"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USA-2016-HQ-0033-0001"
+        }
+      },
+      {
+        "id": "SEC-2016-1970-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-10T13:18:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26349",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Universal Proxy",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387504"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2016-1970-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2016-0598-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-09-02T01:01:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27197",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Interstate Transport of Fine Particulate Matter",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2016-0598",
+          "subtype": null,
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387485"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2016-0598-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9382-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-19T21:56:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27041",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-12-28T04:59:59Z",
+          "title": "Airworthiness Directives: Alexander Schleicher GmbH and Co. Gliders",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "FAA-2016-9382",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648238743b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9382-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-8840-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T14:07:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27096",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class E Airspace; Amendments: Marion, Portsmouth, Van Wert, and Versailles, OH",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "FAA-2016-8840",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648238743e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8840-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2016-0159-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-15T02:00:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27191",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Pesticide Tolerances; Exemptions: Iron Oxide Yellow",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2016-0159",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823874bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2016-0159-0003"
+        }
+      },
+      {
+        "id": "FAA-2016-4172-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T14:08:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27093",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class E Airspace; Amendments: Blytheville, Brinkley, Clarksville, and DeQueen, AR",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "FAA-2016-4172",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387503"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-4172-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2015-0712-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-16T02:00:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27201",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Pesticide Tolerances; Exemptions: Clomazone",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2015-0712",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648238754b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2015-0712-0003"
+        }
+      },
+      {
+        "id": "FAA-2016-8828-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T14:09:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27091",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class E Airspace; Amendments: Levelland, Vernon, and Winters, TX",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "FAA-2016-8828",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387551"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8828-0002"
+        }
+      },
+      {
+        "id": "FAA-2016-9295-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-10T13:59:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27109",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-12-28T04:59:59Z",
+          "title": "Class E Airspace; Establishment: Paso Robles, CA",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "FAA-2016-9295",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823873c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9295-0001"
+        }
+      },
+      {
+        "id": "DARS-2016-0014-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-10T20:47:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-18194",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2016-10-04T03:59:59Z",
+          "title": "Federal Acquisition Regulation Supplement: Amendments Related to Sources of Electronic Parts",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "DARS-2016-0014",
+          "subtype": null,
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648214c678"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0014-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2015-0745-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T17:42:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27204",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Pesticide Tolerances; Exemptions: Trifloxystrobin",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2015-0745",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648238743f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2015-0745-0005"
+        }
+      },
+      {
+        "id": "USCG-2016-1004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T15:40:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27184",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Great Channel, Between Stone Harbor and Nummy Island, NJ",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "USCG-2016-1004",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648238748a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-1004-0001"
+        }
+      },
+      {
+        "id": "EERE-2014-BT-TP-0006-0049",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T14:19:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26201",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2016-11-10  Energy Conservation Program: Test Procedure for Commercial Packaged Boilers; Final rule.",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EERE-2014-BT-TP-0006",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064823873bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2014-BT-TP-0006-0049"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0019-0055",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-14T16:09:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27319",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Northeast Multispecies Fishery; Witch Flounder Trimester Total Allowable Catch Area Closure for the Common Pool Fishery",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0019",
+          "subtype": null,
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648238740c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0019-0055"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2015-0631-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-16T02:01:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27209",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Pesticide Tolerances; Exemptions: Di-n-butyl Adipate",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2015-0631",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387483"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2015-0631-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2015-0655-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T17:25:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27212",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Pesticide Tolerances; Exemptions: 2-Pyrrolidinone, 1-butyl-",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2015-0655",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387487"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2015-0655-0008"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0090-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T12:20:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27200",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Coastal Migratory Pelagic Resources of the Gulf of Mexico and Atlantic Region; King Mackerel in the Florida West Coast Northern Subzone; Commercial Accountability Measures and Closure",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0090",
+          "subtype": null,
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482387489"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0090-0003"
+        }
+      },
+      {
+        "id": "USCG-2016-0523-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-10T02:02:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27176",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Drawbridge Operation Regulation; Rice Creek, Putnam County, FL",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "USCG-2016-0523",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823874bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0523-0001"
+        }
+      },
+      {
+        "id": "EERE-2014-BT-TP-0008-0038",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T14:30:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26211",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2016-11-10  Energy Conservation Program for Certain Commercial and Industrial Equipment: Test Procedure for Commercial Water Heating Equipment; Final rule",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EERE-2014-BT-TP-0008",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064823873bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2014-BT-TP-0008-0038"
+        }
+      },
+      {
+        "id": "FAA-2016-6985-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T14:01:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27101",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class E Airspace; Amendments: Carmi, De Kalb, Harrisburg, Kewanee, Litchfield, Paris, and Taylorville, IL",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "FAA-2016-6985",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823873c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-6985-0002"
+        }
+      },
+      {
+        "id": "USA-2016-HQ-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-30T14:01:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27163",
+          "withdrawn": false,
+          "agencyId": "USA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Law Enforcement Operations and Investigations",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "USA-2016-HQ-0017",
+          "subtype": null,
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648238743a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USA-2016-HQ-0017-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2015-0722-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-10T15:31:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27206",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Pesticide Tolerances; Exemptions: Prothioconazole",
+          "postedDate": "2016-11-10T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2015-0722",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648238754c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2015-0722-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 127,
+            "label": "Other"
+          },
+          {
+            "docCount": 119,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 67,
+            "label": "Notice"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 14,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "EPA"
+          },
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EERE"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "USA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "DARS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-11-10",
+          "toDate": "2016-11-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

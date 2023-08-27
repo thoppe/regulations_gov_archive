@@ -1,0 +1,80 @@
+[
+  {
+    "data": [],
+    "meta": {
+      "aggregations": {
+        "documentType": [],
+        "subtype": [],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 0,
+            "label": "false"
+          }
+        ],
+        "agencyId": [],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 80,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 205,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 414,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1338,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2020-11-14",
+          "toDate": "2020-11-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 0,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 0,
+      "totalPages": 0,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

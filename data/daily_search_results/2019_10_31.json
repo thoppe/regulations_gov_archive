@@ -1,0 +1,949 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2019-0716-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-10T22:02:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23712",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2019-12-17T04:59:59Z",
+          "title": "Airworthiness Directives: ATR-GIE Avions de Transport Regional Airplanes",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "FAA-2019-0716",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f344"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0716-0001"
+        }
+      },
+      {
+        "id": "DARS-2019-0029-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-08T19:22:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23806",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Modification of DFARS Clause Obligation of the Government",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DARS-2019-0029",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f23c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0029-0002"
+        }
+      },
+      {
+        "id": "DARS-2019-0026-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-08T19:38:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23812",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Reliability and Maintainability in Weapon System Design",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DARS-2019-0026",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f2ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0026-0002"
+        }
+      },
+      {
+        "id": "DARS-2019-0061-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-08T19:46:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23804",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Modification of DFARS Clause Protection Against Compromising Emanations",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DARS-2019-0061",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f2f5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0061-0001"
+        }
+      },
+      {
+        "id": "USCIS-2019-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T15:13:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23778",
+          "withdrawn": false,
+          "agencyId": "USCIS",
+          "commentEndDate": null,
+          "title": "Adjustment to Premium Processing Fee",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "USCIS-2019-0018",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f2a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCIS-2019-0018-0001"
+        }
+      },
+      {
+        "id": "FDIC-2019-0127-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-10-31T11:47:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23115",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": "2019-12-03T04:59:59Z",
+          "title": "Removal of Transferred OTS Regulations Regarding Certain Regulations for the Operations of State Savings Associations",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f1e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2019-0127-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2019-0426-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T17:13:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23517",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Oregon; Lane County 2019 Permitting Rule Revisions",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "EPA-R10-OAR-2019-0426",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f2f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2019-0426-0019"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2019-0269-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T17:10:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23522",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Oregon: 2018 Permitting Rule Revisions",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "EPA-R10-OAR-2019-0269",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f342"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2019-0269-0018"
+        }
+      },
+      {
+        "id": "IRS-2019-0014-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T14:01:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23559",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Information Reporting for Certain Life Insurance Contract Transactions and Modifications to the Transfer for Valuable Consideration Rules",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "IRS-2019-0014",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f33f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0014-0014"
+        }
+      },
+      {
+        "id": "FAA-2019-0814-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T13:27:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23798",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2019-12-17T04:59:59Z",
+          "title": "Special Conditions: Airbus Model A340 Series Airplanes; Seats With Inertia Locking Devices",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "FAA-2019-0814",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f199"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0814-0001"
+        }
+      },
+      {
+        "id": "DOI-2019-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-01-25T19:46:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23748",
+          "withdrawn": false,
+          "agencyId": "DOI",
+          "commentEndDate": "2019-12-31T04:59:59Z",
+          "title": "American Indian Probate Regulations",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DOI-2019-0001",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f3f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOI-2019-0001-0001"
+        }
+      },
+      {
+        "id": "USCG-2019-0561-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T15:31:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23885",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Stuart, FL",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "USCG-2019-0561",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f2b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0561-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0394-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-10-31T16:31:22Z",
+          "highlightedContent": "",
+          "frDocNum": "97-4330",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1997-03-13T04:59:59Z",
+          "title": "A-95-58-F-R-FEBRUARY-20-1997\nNational Ambient Air Quality Standards for Ozone and Particulate Matter, Proposed Decision; Requirements for Designation of Reference and Equivalent Methods for PM2.5 and Ambient Air Quality Surveillance for Particulate Matter, Proposed Decision; Interim Implementation Policy on New or Revised Ozone and Particulate Matter National Ambient Air Quality Standards, etc.",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0394",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484110948"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0394-0022"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2018-0131-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-01-22T19:37:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23734",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Herring Fishery; Adjustment to the 2019 Specifications",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "NOAA-NMFS-2018-0131",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f1e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2018-0131-0025"
+        }
+      },
+      {
+        "id": "FTC-2019-0089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-12-31T02:01:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23560",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": "2019-12-31T04:59:59Z",
+          "title": "Premerger Notification; Reporting and Waiting Period Requirements",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "FTC-2019-0089",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f3c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2019-0089-0001"
+        }
+      },
+      {
+        "id": "FAA-2019-0540-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-05T02:04:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23740",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: The Boeing Company Model 737 Series Airplanes; Seats With Inertia Locking Devices",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "FAA-2019-0540",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f273"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0540-0003"
+        }
+      },
+      {
+        "id": "DARS-2019-0060-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-11-08T19:27:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23807",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2019-12-31T04:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Modification of DFARS Clause Notification of Anticipated Contract Termination or Reduction",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DARS-2019-0060",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f272"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0060-0001"
+        }
+      },
+      {
+        "id": "DARS-2019-0015-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-08T19:51:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23811",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Nonmanufacturer Rule for 8(a) Participants",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DARS-2019-0015",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f340"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0015-0004"
+        }
+      },
+      {
+        "id": "USCG-2019-0631-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T15:36:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23808",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; Atlantic Ocean, Key West, FL",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "USCG-2019-0631",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f347"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0631-0003"
+        }
+      },
+      {
+        "id": "DARS-2019-0049-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-11-08T19:44:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23801",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2019-12-31T04:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Modification of DFARS Clause, Payment for Subline Items Not Separately Priced",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DARS-2019-0049",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f2f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0049-0002"
+        }
+      },
+      {
+        "id": "BIA-2019-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-12-31T02:03:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23748",
+          "withdrawn": false,
+          "agencyId": "BIA",
+          "commentEndDate": "2019-12-31T04:59:59Z",
+          "title": "American Indian Probate Regulations",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "BIA-2019-0006",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f2f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIA-2019-0006-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2014-0741-0276",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-12-31T02:01:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23616",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2019-12-31T04:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants for Chemical Recovery Combustion Sources at Kraft, Soda, Sulfite, and Stand-Alone Semichemical Pulp Mills: Standards of Performance for Kraft Pulp Mill Affected Sources for Which Construction, Reconstruction, or Modification Commenced After May 23, 2013",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2014-0741",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f387"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2014-0741-0276"
+        }
+      },
+      {
+        "id": "NCUA-2022-0028-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T22:16:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23679",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Public Unit and Nonmember Shares",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "NCUA-2022-0028",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648410f384"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2022-0028-0019"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0394-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-10-31T16:37:03Z",
+          "highlightedContent": "",
+          "frDocNum": "02-700",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2002-02-14T04:59:59Z",
+          "title": "A-95-58-F-R-JANUARY-11-2002\nNational Ambient Air Quality Standards for Ozone: Proposed Response to Remand",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0394",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484110949"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0394-0023"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0394-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-10-31T16:42:05Z",
+          "highlightedContent": "",
+          "frDocNum": "96-14785",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "A-95-58-F-R-JUNE-12-1996\nNational. Ambient Air Quality Standards for Ozone and Particulate Matter",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0394",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064841108c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0394-0024"
+        }
+      },
+      {
+        "id": "FAA-2019-0541-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T13:23:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23741",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: The Boeing Company Model 777 Series Airplanes; Seats With Inertia Locking Devices",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "FAA-2019-0541",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410ec71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0541-0003"
+        }
+      },
+      {
+        "id": "DARS-2019-0059-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-11-08T19:55:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23803",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2019-12-31T04:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Modification of DFARS Clause, Advanced Payment Pool",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DARS-2019-0059",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f3be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0059-0001"
+        }
+      },
+      {
+        "id": "DARS-2019-0065-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-08T19:11:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23802",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Repeal of DFARS Provision Related to Disclosure of Information for Litigation Support",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "DARS-2019-0065",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410ecc4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0065-0001"
+        }
+      },
+      {
+        "id": "FAA-2019-0816-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-31T13:37:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23398",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class C Airspace: Huntsville, AL",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "FAA-2019-0816",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f37e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0816-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0394-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-10-31T15:53:34Z",
+          "highlightedContent": "",
+          "frDocNum": "96-30903",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1997-02-19T04:59:59Z",
+          "title": "A-95-58-F-R-DECEMBER-13-1996\nNational Ambient Air Quality Standards for Ozone: Proposed Decision",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0394",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484110945"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0394-0019"
+        }
+      },
+      {
+        "id": "FAA-2019-0759-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-06-26T23:50:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23686",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2019-12-17T04:59:59Z",
+          "title": "Airworthiness Directives: Various Experimental and Restricted Category Helicopters",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "FAA-2019-0759",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f381"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0759-0001"
+        }
+      },
+      {
+        "id": "CMS-2019-0100-0559",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-08T17:42:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2019-11-09T04:59:59Z",
+          "title": "CY 2020 Home Health Prospective Payment System Rate Update; Value-Based Purchasing Model; Quality Reporting Requirements CMS-1711-FC",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "CMS-2019-0100",
+          "subtype": null,
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484112ac0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2019-0100-0559"
+        }
+      },
+      {
+        "id": "AMS-SC-19-0042-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-01-31T02:05:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-23749",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2020-01-30T04:59:59Z",
+          "title": "Establishment of a Domestic Hemp Production Program",
+          "postedDate": "2019-10-31T04:00:00Z",
+          "docketId": "AMS-SC-19-0042",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2019-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648410f19d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-19-0042-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 161,
+            "label": "Notice"
+          },
+          {
+            "docCount": 73,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 67,
+            "label": "Other"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 13,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 33,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "DARS"
+          },
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "BIA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOI"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCIS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2019-10-31",
+          "toDate": "2019-10-31"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

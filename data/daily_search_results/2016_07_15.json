@@ -1,0 +1,786 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOE-HQ-2016-0002-0157",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-14T16:26:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16768",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Acquisition Regulations",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "DOE-HQ-2016-0002",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3db0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2016-0002-0157"
+        }
+      },
+      {
+        "id": "AMS-LPS-13-0083-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-15T13:00:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16698",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2016-09-14T03:59:59Z",
+          "title": "Soybean Promotion, Research, and Consumer Information; Beef Promotion and Research: Redirection of State Assessments to the National Program",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "AMS-LPS-13-0083",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3db1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-LPS-13-0083-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-4237-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T17:11:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16638",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-08-30T03:59:59Z",
+          "title": "Special Conditions: Gulfstream Aerospace Corporation Model GVII-G500 Airplanes; Isolation or Protection of Airplane Electrical-System Security from Unauthorized Internal Access",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "FAA-2016-4237",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3df4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-4237-0001"
+        }
+      },
+      {
+        "id": "NRC-2008-0664-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T14:57:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16659",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Variable Annual Fee Structure for Small Modular Reactors; Correcting Amendments",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "NRC-2008-0664",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064820b3e41"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2008-0664-0030"
+        }
+      },
+      {
+        "id": "USCG-2016-0632-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T14:33:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16775",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Mianus River, Greenwich, CT",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "USCG-2016-0632",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064820b3e7b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0632-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-8178-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-24T22:14:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16732",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-08-30T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "FAA-2016-8178",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3f72"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8178-0001"
+        }
+      },
+      {
+        "id": "CMS-2016-0116-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-23T01:01:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16097",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2016-09-07T03:59:59Z",
+          "title": "Medicare Program: Payment Policies under the Physician Fee Schedule; Medicare Advantage Pricing Data Release; Medicare Advantage and Part D Medical Low Ratio Data Release; etc.",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "CMS-2016-0116",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3f76"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0116-0006"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-1551",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T12:16:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16599",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Designation of First Assistants",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3a78"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-1551"
+        }
+      },
+      {
+        "id": "FAA-2016-3462-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T17:26:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16813",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: Cirrus Design Corporation, Model SF50; Whole Airplane Parachute Recovery System",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "FAA-2016-3462",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3f26"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-3462-0014"
+        }
+      },
+      {
+        "id": "USCG-2016-0669-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-17T01:00:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16691",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2016-09-14T03:59:59Z",
+          "title": "Draft Revisions to the Marine Safety Manual, Volume III, Parts B and C, Change-2",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "USCG-2016-0669",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3f6e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0669-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2009-0092-0445",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-08-28T13:05:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16565",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": null,
+          "title": "Classified Information: Classification/Declassification/Access; Authority to Classify Information",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "DOT-OST-2009-0092",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3fc2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2009-0092-0445"
+        }
+      },
+      {
+        "id": "FAA-2016-6692-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-10T01:01:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16646",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-09-14T03:59:59Z",
+          "title": "Airworthiness Directives: Rolls-Royce plc Turbofan Engines",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "FAA-2016-6692",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3dab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-6692-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-0624-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T14:31:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16799",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Lake Erie Open Water Classic; Lake Erie, Cleveland, OH",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "USCG-2016-0624",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064820b3daf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0624-0001"
+        }
+      },
+      {
+        "id": "BSEE-2013-0011-1305",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T15:15:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-15699",
+          "withdrawn": false,
+          "agencyId": "BSEE",
+          "commentEndDate": null,
+          "title": "Oil and Gas and Sulfur Operations on the Outer Continental Shelf: Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "BSEE-2013-0011",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3f74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BSEE-2013-0011-1305"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0091-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T16:20:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16754",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Western and Central Pacific Fisheries for Highly Migratory Species: Bigeye Tuna Longline Fishery Closure",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0091",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3f75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0091-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-7427-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-08-28T01:00:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16733",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-08-30T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "FAA-2016-7427",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3df7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-7427-0001"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0333",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T12:18:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16728",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Benefits Payable in Terminated Single-Employer Plans: Interest Assumptions for Paying Benefits",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3dfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0333"
+        }
+      },
+      {
+        "id": "OJP-2016-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-14T01:00:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16086",
+          "withdrawn": false,
+          "agencyId": "OJP",
+          "commentEndDate": "2016-09-14T03:59:59Z",
+          "title": "Public Safety Officers' Benefits Program",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "OJP-2016-0001",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3e3f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OJP-2016-0001-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-0635-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T14:36:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16736",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Lake Washington Ship Canal, Seattle, WA",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "USCG-2016-0635",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064820b3edf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0635-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-8501-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-09T01:00:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16749",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-09-14T03:59:59Z",
+          "title": "Airworthiness Directives: Sikorsky Aircraft Corporation Helicopters",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "FAA-2016-8501",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3f25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8501-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2015-0392-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-10-29T01:02:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16266",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-10-29T03:59:59Z",
+          "title": "Water Quality Standards: Establishment of Revised Numeric Criteria for Selenium for the San Francisco Bay and Delta, CA",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2015-0392",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3f27"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2015-0392-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-0110-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-24T20:20:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16714",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2016-08-16T03:59:59Z",
+          "title": "Anchorage Grounds; Delaware Bay and River, Philadelphia, PA",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "USCG-2016-0110",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3fbe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0110-0001"
+        }
+      },
+      {
+        "id": "BOEM-2013-0071-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-15T15:57:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-15699",
+          "withdrawn": false,
+          "agencyId": "BOEM",
+          "commentEndDate": null,
+          "title": "Oil and Gas and Sulfur Operations on the Outer Continental Shelf: Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "BOEM-2013-0071",
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3df2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BOEM-2013-0071-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-8177-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-08-27T01:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16731",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-08-30T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "FAA-2016-8177",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3fc0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8177-0001"
+        }
+      },
+      {
+        "id": "FCC-2016-0161-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-07-15T12:19:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-15194",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Connect America Fund: Lifeline and Link Up Reform and Modernization, Telecommunications Carriers Eligible for Universal Service Support",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3fc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0161-0002"
+        }
+      },
+      {
+        "id": "IRS-2016-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-14T20:24:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-16512",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2016-10-14T03:59:59Z",
+          "title": "Guidance Concerning Device and Active Trade or Business",
+          "postedDate": "2016-07-15T04:00:00Z",
+          "docketId": "IRS-2016-0030",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064820b3fbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2016-0030-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 322,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 75,
+            "label": "Notice"
+          },
+          {
+            "docCount": 66,
+            "label": "Other"
+          },
+          {
+            "docCount": 14,
+            "label": "Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "BOEM"
+          },
+          {
+            "docCount": 1,
+            "value": "BSEE"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OJP"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-07-15",
+          "toDate": "2016-07-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

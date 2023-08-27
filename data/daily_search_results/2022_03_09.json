@@ -1,0 +1,807 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2022-0040-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T14:16:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04904",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone, Delaware River, Philadelphia, PA",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "USCG-2022-0040",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484fc14be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0040-0003"
+        }
+      },
+      {
+        "id": "FMCSA-2018-0292-0098",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-10T16:17:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04968",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Third Party Commercial Driver's License Testers; Withdrawal",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FMCSA-2018-0292",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc140f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2018-0292-0098"
+        }
+      },
+      {
+        "id": "SEC-2022-0319-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-09T13:00:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03145",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2022-04-12T03:59:59Z",
+          "title": "Cybersecurity Risk Management for Investment Advisers, Registered Investment Companies, and Business Development Companies",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1539"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2022-0319-0001"
+        }
+      },
+      {
+        "id": "COLC_FRDOC_0001-0185",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T13:00:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04747",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": null,
+          "title": "Small Claims Procedures for Library and Archives Opt-Outs and Class Actions",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "COLC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc14ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC_FRDOC_0001-0185"
+        }
+      },
+      {
+        "id": "FAA-2020-1073-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T13:56:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04918",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Embraer S.A. (Type Certificate Previously Held by Empresa Brasileira de Aeronautica S.A.) Airplanes",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FAA-2020-1073",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1538"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1073-0007"
+        }
+      },
+      {
+        "id": "FAA-2020-1005-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T13:57:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04917",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Viking Air Limited (Type Certificate Previously Held by Bombardier Inc.) Airplanes",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FAA-2020-1005",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1580"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1005-0003"
+        }
+      },
+      {
+        "id": "FAA-2022-0152-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T14:00:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04914",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-26T03:59:59Z",
+          "title": "Airworthiness Directives: GROB Aircraft SE (Type Certificate Previously Held by GROB Aircraft AG) Airplanes",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FAA-2022-0152",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1654"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0152-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2017-0688-0141",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T13:37:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04848",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: Stationary Combustion Turbines",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2017-0688",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484fc14f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2017-0688-0141"
+        }
+      },
+      {
+        "id": "BIS-2022-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-18T12:42:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04925",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Export Administration Regulations: Further Imposition of Sanctions Against Russia With the Addition of Certain Entities to the Entity List",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "BIS-2022-0011",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc164e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2022-0011-0001"
+        }
+      },
+      {
+        "id": "FSA-2019-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T21:48:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04858",
+          "withdrawn": false,
+          "agencyId": "FSA",
+          "commentEndDate": null,
+          "title": "Farm Loan Programs: Direct and Guaranteed Loan Changes, Certified Mediation Program, and Guaranteed Loans Maximum Interest Rates",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FSA-2019-0005",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc14c1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSA-2019-0005-0001"
+        }
+      },
+      {
+        "id": "VA-2022-OTHER-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-10T02:00:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03677",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2022-05-10T03:59:59Z",
+          "title": "AR06-Proposed Rule-Acquisition Regulation: Acquisition Planning, Required Sources of Supplies and Services, Market Research, and Small Business Programs",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "VA-2022-OTHER-0012",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc14f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2022-OTHER-0012-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0182-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-09T13:53:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04911",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-26T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Galena, AK",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FAA-2022-0182",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc14c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0182-0001"
+        }
+      },
+      {
+        "id": "TTB-2018-0007-1160",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T14:36:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04893",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "Corrections to T.D. TTB-176:  Modernization of the Labeling and Advertising Regulations for Distilled Spirits and Malt Beverages",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "TTB-2018-0007",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484fc153d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2018-0007-1160"
+        }
+      },
+      {
+        "id": "USCG-2022-0130-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T14:12:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04905",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Spirit Lake Dredging",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "USCG-2022-0130",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484fc14bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0130-0001"
+        }
+      },
+      {
+        "id": "TTB-2020-0009-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T15:08:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05000",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-177:  Establishment of the San Luis Obispo (SLO) Coas Viticultural Area",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "TTB-2020-0009",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484fc14c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2020-0009-0011"
+        }
+      },
+      {
+        "id": "TTB-2020-0013-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T15:11:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05001",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-178:  Expansion of Clarksburg Viticultural Area",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "TTB-2020-0013",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc14c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2020-0013-0005"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2020-0446-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-10T16:38:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04831",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Kentucky; Jefferson County Emissions Statements Requirements for the 2015 8-Hour Ozone Standard Nonattainment Area",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2020-0446",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc153c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2020-0446-0005"
+        }
+      },
+      {
+        "id": "TTB-2022-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-21T01:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04999",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": "2022-05-10T03:59:59Z",
+          "title": "Notice No. 209: Establishment of the Long Valley-Lake County Viticultural and Modification of the High Valley and North Coast Viticultural Areas",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "TTB-2022-0003",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc15bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2022-0003-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2018-0224-0105",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T14:04:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04930",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Record of Violations",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FMCSA-2018-0224",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1604"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2018-0224-0105"
+        }
+      },
+      {
+        "id": "NHTSA-2021-0006-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T14:07:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04030",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Vehicle Identification Number Requirements: Manufacturer Identification; Certification; Replica Motor Vehicles;  Importation of Vehicles and Equipment Subject to  Federal Safety, Bumper, and Theft Prevention Standards",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "NHTSA-2021-0006",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc153a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2021-0006-0002"
+        }
+      },
+      {
+        "id": "FMCSA-2018-0332-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-09T14:03:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04966",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Commercial Driver's License Out-of-State Knowledge Test; Withdrawal",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FMCSA-2018-0332",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc14f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2018-0332-0023"
+        }
+      },
+      {
+        "id": "USCG-2022-0136-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T14:22:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04949",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; Annual Boyne Thunder Poker Run, Charlevoix, MI",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "USCG-2022-0136",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1652"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0136-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0145-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T14:19:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04900",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zones; Christina River, Wilmington, DE; Darby Creek and Schuylkill River, Philadelphia, PA",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "USCG-2022-0145",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484fc157f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0145-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-1141-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-09T13:58:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04935",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: Dassault Aviation Model Falcon 6X Airplanes; Non-Rechargeable Lithium-Ion Battery Installations",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "FAA-2017-1141",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc15bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-1141-0002"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2020-0400-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-10T16:34:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04938",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Georgia; Atlanta Area Emissions Inventory and Emissions Statements Requirements for the 2015 8-Hour Ozone Standard",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2020-0400",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1585"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2020-0400-0012"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2021-0023-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-12T02:00:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2022-05-10T03:59:59Z",
+          "title": "NOA Am48-5 (XS046)",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "NOAA-NMFS-2021-0023",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1b37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2021-0023-0002"
+        }
+      },
+      {
+        "id": "BIA-2019-0001-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-27T19:07:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04989",
+          "withdrawn": false,
+          "agencyId": "BIA",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2022-03-09T05:00:00Z",
+          "docketId": "BIA-2019-0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fc1586"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIA-2019-0001-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 57,
+            "label": "Notice"
+          },
+          {
+            "docCount": 42,
+            "label": "Other"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 20,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Withdrawal"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "TTB"
+          },
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "BIA"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "COLC"
+          },
+          {
+            "docCount": 1,
+            "value": "FSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-03-09",
+          "toDate": "2022-03-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

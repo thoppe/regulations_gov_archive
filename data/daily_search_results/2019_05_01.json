@@ -1,0 +1,791 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2019-0003-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T14:55:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08821",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "FEMA-2019-0003",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c23f59"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2019-0003-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2017-0476-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T18:29:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08785",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2019-07-02T03:59:59Z",
+          "title": "Pesticide Tolerances: Bentazon",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2017-0476",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c2234f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2017-0476-0003"
+        }
+      },
+      {
+        "id": "OSM-2019-0001-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-03T18:19:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08866",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2019-06-01T03:59:59Z",
+          "title": "Missouri Regulatory Program",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "OSM-2019-0001",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c223e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2019-0001-0005"
+        }
+      },
+      {
+        "id": "DOD-2012-OS-0069-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T13:25:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08807",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Foreign Criminal and Civil Jurisdiction",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "DOD-2012-OS-0069",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c22210"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2012-OS-0069-0009"
+        }
+      },
+      {
+        "id": "USCG-2019-0101-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T15:21:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08799",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Sail Grand Prix 2019 Practice Days Safety Zone for Sailing Vessels; San Francisco, CA",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "USCG-2019-0101",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483c222ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0101-0001"
+        }
+      },
+      {
+        "id": "OSM-2017-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-01T15:39:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "OH-2193-01 10.5.15 Ben Owens Ltr re Ohio Program Amendment #84",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "OSM-2017-0004",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c243f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2017-0004-0001"
+        }
+      },
+      {
+        "id": "DOD-2018-HA-0059-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-07-02T01:03:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08858",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2019-07-02T03:59:59Z",
+          "title": "Civil Money Penalties and Assessments Under the Military Health Care Fraud and Abuse Prevention Program",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "DOD-2018-HA-0059",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c2257e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2018-HA-0059-0001"
+        }
+      },
+      {
+        "id": "OSM-2017-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-01T16:01:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "OH-2195-04 9.18.17 MRM to OSM clarifying submittal",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "OSM-2017-0002",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c24645"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2017-0002-0001"
+        }
+      },
+      {
+        "id": "EEOC_FRDOC_0001-0241",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T11:51:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-09002",
+          "withdrawn": false,
+          "agencyId": "EEOC",
+          "commentEndDate": null,
+          "title": "Immediate Reinstatement of Revised EEO-1: Pay Data Collection",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "EEOC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c2239f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EEOC_FRDOC_0001-0241"
+        }
+      },
+      {
+        "id": "OSM-2019-0003-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-03T18:17:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08868",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2019-06-01T03:59:59Z",
+          "title": "Illinois Regulatory Program",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "OSM-2019-0003",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c222ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2019-0003-0003"
+        }
+      },
+      {
+        "id": "DEA-2019-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-16T15:23:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08704",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Schedules of Controlled Substances: Temporary Placement of N-Ethylhexedrone, a-PHP, 4-MEAP, MPHP, PV8, and 4-Chloro-a-PVP in Schedule I",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "DEA-2019-0004",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483c223a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2019-0004-0001"
+        }
+      },
+      {
+        "id": "OSM-2018-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-03T18:20:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08867",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2019-06-01T03:59:59Z",
+          "title": "Pennsylvania Regulatory Program",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "OSM-2018-0007",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c2244b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2018-0007-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2017-0481-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T15:12:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08734",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Arizona; Approval and Conditional Approval of State Implementation Plan Revisions; Maricopa County Air Quality Department; Stationary Source Permits; Correction",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2017-0481",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c2244e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2017-0481-0017"
+        }
+      },
+      {
+        "id": "FCC-2019-0117-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T11:50:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08756",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Channel Lineup Requirements; Modernization of Media Regulation Initiative",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c2234e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2019-0117-0001"
+        }
+      },
+      {
+        "id": "FEMA-2019-0002-0044",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T14:52:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08821",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "FEMA-2019-0002",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483c2244f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2019-0002-0044"
+        }
+      },
+      {
+        "id": "USCG-2019-0214-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-06-02T01:01:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08800",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2019-06-01T03:59:59Z",
+          "title": "Safety Zone; Lake Washington, Seattle, WA",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "USCG-2019-0214",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c22354"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0214-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2018-0135-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-06-01T01:04:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08761",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2019-06-01T03:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Atlantic Mackerel, Squid, and Butterfish Fisheries; Specifications",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "NOAA-NMFS-2018-0135",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c22275"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2018-0135-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2016-0694-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-06-19T01:06:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08464",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2019-06-18T03:59:59Z",
+          "title": "Aquatic Life Criteria for Aluminum in Oregon",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2016-0694",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c223a7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2016-0694-0001"
+        }
+      },
+      {
+        "id": "EERE-2019-BT-NOA-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-07-22T12:01:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08699",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2019-07-02T03:59:59Z",
+          "title": "2019-05-01  Test Procedure Interim Waiver Process; Notice of proposed rulemaking; request for comment",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "EERE-2019-BT-NOA-0011",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c223f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2019-BT-NOA-0011-0001"
+        }
+      },
+      {
+        "id": "IRS-2019-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-09T17:53:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08075",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2019-07-02T03:59:59Z",
+          "title": "Investing in Qualified Opportunity Funds [REG-120186-18]",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "IRS-2019-0022",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c222ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0022-0001"
+        }
+      },
+      {
+        "id": "MARAD-2019-0069-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-07-02T01:03:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08859",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2019-07-02T03:59:59Z",
+          "title": "How Best to Evidence Corporate Citizenship: Policy and Regulatory Review",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "MARAD-2019-0069",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c2244a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2019-0069-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2018-0126-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-02T05:54:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08804",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "International Fisheries: Pacific Tuna Fisheries; 2019 and 2020 Commercial Fishing Restrictions for Pacific Bluefin Tuna in the Eastern Pacific Ocean",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "NOAA-NMFS-2018-0126",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c223a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2018-0126-0014"
+        }
+      },
+      {
+        "id": "USCG-2019-0277-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T15:07:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08798",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone, Coast Guard Exercise Area, Hood Canal, Washington",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "USCG-2019-0277",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483c223ee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0277-0001"
+        }
+      },
+      {
+        "id": "OSM-2018-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-03T18:21:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08864",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2019-06-01T03:59:59Z",
+          "title": "Kentucky Regulatory Program",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "OSM-2018-0004",
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c22482"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2018-0004-0001"
+        }
+      },
+      {
+        "id": "USCG-2019-0295-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T15:10:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08763",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone; Corpus Christi Ship Channel, Corpus Christi, TX",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "USCG-2019-0295",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483c224d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0295-0001"
+        }
+      },
+      {
+        "id": "FCC-2016-0264-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-01T11:56:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08759",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Use of Spectrum Bands above 24 GHz for Mobile Radio Services; Correcting Amendments",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c2252a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0264-0004"
+        }
+      },
+      {
+        "id": "MARAD-2019-0070-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-07-16T01:04:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-08857",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2019-07-02T03:59:59Z",
+          "title": "How Best to Simplify Filing Statements of American Fisheries Act Citizenship: Policy and Regulatory Review",
+          "postedDate": "2019-05-01T04:00:00Z",
+          "docketId": "MARAD-2019-0070",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2019-05-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483c224cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2019-0070-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 272,
+            "label": "Other"
+          },
+          {
+            "docCount": 179,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 76,
+            "label": "Notice"
+          },
+          {
+            "docCount": 15,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "OSM"
+          },
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "DOD"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 2,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "EEOC"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2019-05-01",
+          "toDate": "2019-05-01"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

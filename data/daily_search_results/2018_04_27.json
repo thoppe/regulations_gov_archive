@@ -1,0 +1,930 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2018-0301-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-04-27T13:20:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08653",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-12T03:59:59Z",
+          "title": "Airworthiness Directives; Airbus Airplanes",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "FAA-2018-0301",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea7b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0301-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0356-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T13:53:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08867",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Atlantic Intracoastal Waterway, Boca Raton, FL",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "USCG-2018-0356",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea7ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0356-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-0916-0206",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-04-27T14:00:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08871",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Anchorages; Captain of the Port Puget Sound Zone, WA; Withdrawal",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "USCG-2016-0916",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea825"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0916-0206"
+        }
+      },
+      {
+        "id": "AMS-SC-18-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-04-27T13:57:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08526",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2018-06-27T03:59:59Z",
+          "title": "Cranberries Grown in States of Massachusetts, Rhode Island, Connecticut, New Jersey, Wisconsin, Michigan, Minnesota, Oregon, Washington, and Long Island in State of New York: Marketing Order; Proposed Amendment",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "AMS-SC-18-0017",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea5f5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-18-0017-0001"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2018-0148-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-06T22:44:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08676",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-05-30T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: South Dakota; Revisions to the Permitting Rules",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "EPA-R08-OAR-2018-0148",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea5c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2018-0148-0001"
+        }
+      },
+      {
+        "id": "SBA-2018-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-10T01:04:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08418",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2018-06-27T03:59:59Z",
+          "title": "Small Business Size Standards: Revised Size Standards Methodology",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "SBA-2018-0004",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea5f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2018-0004-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0198-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T14:17:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08840",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Recurring Safety Zones in Captain of the Port Sault Sainte Marie Zone",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "USCG-2018-0198",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea827"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0198-0004"
+        }
+      },
+      {
+        "id": "EPA-R02-RCRA-2018-0034-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-06T01:02:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08429",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-05-30T03:59:59Z",
+          "title": "Incorporation by Reference of State Hazardous Waste Management Program: New York",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "EPA-R02-RCRA-2018-0034",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea712"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-RCRA-2018-0034-0016"
+        }
+      },
+      {
+        "id": "AMS-SC-18-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-11T01:01:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08528",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2018-05-30T03:59:59Z",
+          "title": "Cranberries Grown in States of Massachusetts, et al.: Establishment of 2018-19 Seasonal Volume Regulation",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "AMS-SC-18-0012",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea740"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-18-0012-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0303-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-05T01:01:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08650",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-12T03:59:59Z",
+          "title": "Airworthiness Directives; Fokker Services B.V. Airplanes",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "FAA-2018-0303",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea781"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0303-0001"
+        }
+      },
+      {
+        "id": "OSM-2015-0005-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T13:46:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08935",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "Alabama Regulatory Program",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "OSM-2015-0005",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea879"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2015-0005-0006"
+        }
+      },
+      {
+        "id": "FRA-2009-0033-0042",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-30T13:24:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08941",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Training, Qualification, and Oversight for Safety-Related Railroad Employees",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "FRA-2009-0033",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea70e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0033-0042"
+        }
+      },
+      {
+        "id": "PRC-2018-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T12:21:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08845",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": null,
+          "title": "Update to Product List",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea745"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2018-0006-0001"
+        }
+      },
+      {
+        "id": "OPM_FRDOC_0001-1393",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T12:24:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08933",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": null,
+          "title": "Federal Employees Health Benefits Program Flexibilities",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "OPM_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea873"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM_FRDOC_0001-1393"
+        }
+      },
+      {
+        "id": "FWS-HQ-ES-2015-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T13:24:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-07606",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants; Removing Textual Descriptions of Critical Habitat Boundaries for Mammals, Birds, Amphibians, Fishes, Clams, Snails, Arachnids, Crustaceans, and Insects",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "FWS-HQ-ES-2015-0008",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea616"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-ES-2015-0008-0001"
+        }
+      },
+      {
+        "id": "EPA-R02-RCRA-2018-0034-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-06T22:44:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08431",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-05-30T03:59:59Z",
+          "title": "Incorporation by Reference of State Hazardous Waste Management Program: New York",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "EPA-R02-RCRA-2018-0034",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea61b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-RCRA-2018-0034-0015"
+        }
+      },
+      {
+        "id": "FCC-2016-0192-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T12:24:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08887",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Connect America Fund, ETC Annual Reports and Certifications, Rural Broadband Experiments",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea8a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0192-0003"
+        }
+      },
+      {
+        "id": "VA-2017-VBA-0018-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T12:41:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08854",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AQ03 - Final Rule - Eligibility for Supplemental Service-Disabled Veterans' Insurance",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "VA-2017-VBA-0018",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064831ea559"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2017-VBA-0018-0008"
+        }
+      },
+      {
+        "id": "USCG-2015-0549-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T13:31:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08873",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Anchorage Grounds; Galveston Harbor, Bolivar Roads Channel, Galveston, Texas",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "USCG-2015-0549",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea587"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0549-0002"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2018-0136-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-06T22:43:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08624",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-05-30T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Montana; Revisions to Prevention of Significant Deterioration Permitting Rules",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "EPA-R08-OAR-2018-0136",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea848"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2018-0136-0001"
+        }
+      },
+      {
+        "id": "ED-2017-OII-0032-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T13:23:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08965",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Definitions and Selection Criteria that Apply to Direct Grant Programs",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "ED-2017-OII-0032",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea7b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2017-OII-0032-0002"
+        }
+      },
+      {
+        "id": "VA-2018-VBA-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-04-27T12:31:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08855",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2018-06-27T03:59:59Z",
+          "title": "AQ12 - Proposed Rule - Veterans' Group Life Insurance Increased Coverage",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "VA-2018-VBA-0018",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea664"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2018-VBA-0018-0001"
+        }
+      },
+      {
+        "id": "DARS-2012-0031-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-05-22T20:01:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-09059",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Foreign Acquisition; Solicitation Provisions and Contract Clauses; CFR Correction",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "DARS-2012-0031",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea665"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2012-0031-0002"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-22215",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T12:22:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-09058",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Control of Emissions From New and In-Use Highway Vehicles and Engines; CFR Correction",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea7b7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-22215"
+        }
+      },
+      {
+        "id": "USCG-2017-0857-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T13:39:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08866",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2018-08-15T03:59:59Z",
+          "title": "Drawbridge Operation Regulation; St. Johns River, Putnam County, FL",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "USCG-2017-0857",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea58a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0857-0001"
+        }
+      },
+      {
+        "id": "CMS-2016-0004-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-01-11T19:30:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-09060",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Managed Care; CFR Correction",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "CMS-2016-0004",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea84d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0004-0015"
+        }
+      },
+      {
+        "id": "FCC-2018-0157-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T12:18:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08635",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Auction of FM Translator Construction Permits Scheduled for June 21, 2018; Notification of Filing Requirements, Minimum Opening Bids, Upfront Payments, and Other Procedures for Auction 83",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea5f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2018-0157-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2017-0519-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-29T01:02:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08662",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-05-30T03:59:59Z",
+          "title": "TX201.01 Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Control of Air Pollution from Visible Emissions and Particulate Matter, RE: Amended Prescribed Burning Rules, Direct final rule, 3 pages.",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2017-0519",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea824"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2017-0519-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2017-0519-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-05-06T22:43:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08661",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-05-30T03:59:59Z",
+          "title": "TX201.02 Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Control of Air Pollution from Visible Emissions and Particulate Matter, RE: Amended Prescribed Burning Rules, Proposed rule, 1 page.",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2017-0519",
+          "subtype": null,
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea6db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2017-0519-0002"
+        }
+      },
+      {
+        "id": "FAA-2013-0259-2247",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T13:25:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08837",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "IFR Altitudes; Miscellaneous Amendments",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "FAA-2013-0259",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ea8a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0259-2247"
+        }
+      },
+      {
+        "id": "FAA-2018-0300-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-04-27T13:26:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08649",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-06-12T03:59:59Z",
+          "title": "Airworthiness Directives; Airbus Airplanes",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "FAA-2018-0300",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064831ead0e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0300-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0118-1641",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-27T14:23:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-08310",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Guidance: Protection of Stratospheric Ozone; Stakeholder Meeting Concerning Significant New Alternatives Policy Program",
+          "postedDate": "2018-04-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0118",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064831ead10"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0118-1641"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 205,
+            "label": "Other"
+          },
+          {
+            "docCount": 108,
+            "label": "Notice"
+          },
+          {
+            "docCount": 44,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Request for Comment"
+          },
+          {
+            "docCount": 2,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "EPA"
+          },
+          {
+            "docCount": 5,
+            "value": "USCG"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "VA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DARS"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "OSM"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-04-27",
+          "toDate": "2018-04-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

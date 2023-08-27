@@ -1,0 +1,151 @@
+[
+  {
+    "data": [
+      {
+        "id": "OFR-2022-0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-23T16:18:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "OFR",
+          "commentEndDate": null,
+          "title": "2022-28232_signed",
+          "postedDate": "2023-01-03T00:00:00Z",
+          "docketId": "OFR-2022-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648557f218"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFR-2022-0001-0002"
+        }
+      },
+      {
+        "id": "OFR-2022-0001-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-23T16:19:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "OFR",
+          "commentEndDate": null,
+          "title": "PPP-Microfiche_signed",
+          "postedDate": "2023-01-03T00:00:00Z",
+          "docketId": "OFR-2022-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648557f219"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFR-2022-0001-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 107,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Other"
+          }
+        ],
+        "subtype": [],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "OFR"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-01-02",
+          "toDate": "2023-01-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

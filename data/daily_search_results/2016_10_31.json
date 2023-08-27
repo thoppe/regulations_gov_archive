@@ -1,0 +1,783 @@
+[
+  {
+    "data": [
+      {
+        "id": "TREAS_FRDOC_0001-0279",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T11:52:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25329",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Qualified Financial Contracts Recordkeeping Related to Orderly Liquidation Authority",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235df12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0279"
+        }
+      },
+      {
+        "id": "FDA-2016-D-2841-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-02T01:00:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26245",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2017-05-02T03:59:59Z",
+          "title": "Describing a Hazard That Needs Control in Documents Accompanying \nthe Food, as Required by Four Rules Implementing the FDA Food Safety \nModernization Act: Guidance for Industry; Availability",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "FDA-2016-D-2841",
+          "subtype": "GDL Guidance",
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235df5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2016-D-2841-0001"
+        }
+      },
+      {
+        "id": "ED-2014-OPE-0057-4901",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T13:59:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-24856",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Teacher Preparation Issues",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "ED-2014-OPE-0057",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235dffb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2014-OPE-0057-4901"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0371",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T11:52:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26174",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation Supplement: Removal of Engineering Change Proposals Clause",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235df10"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0371"
+        }
+      },
+      {
+        "id": "DOT-OST-2016-0208-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-07-21T11:57:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": null,
+          "title": "FR ANPRM Refunding Fees for Delayed Baggage",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "DOT-OST-2016-0208",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235fc5c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2016-0208-0008"
+        }
+      },
+      {
+        "id": "USCG-2016-0948-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T15:50:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26235",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Newtown Creek, Brooklyn and Queens, NY",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "USCG-2016-0948",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648235df5b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0948-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-0956-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T16:02:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26150",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Upper Mississippi River, Clinton, IA",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "USCG-2016-0956",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648235e537"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0956-0001"
+        }
+      },
+      {
+        "id": "LSC-2016-0042-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T11:55:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25832",
+          "withdrawn": false,
+          "agencyId": "LSC",
+          "commentEndDate": "2016-12-01T04:59:59Z",
+          "title": "Procedures for Disclosure of Information under the Freedom of Information Act",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e532"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/LSC-2016-0042-0001"
+        }
+      },
+      {
+        "id": "CMS-2016-0053-1330",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-01T18:37:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26182",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals, etc.; Correction",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "CMS-2016-0053",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235df0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0053-1330"
+        }
+      },
+      {
+        "id": "DOT-OST-2016-0208-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-07-21T11:57:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26199",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2016-12-01T04:59:59Z",
+          "title": "Refunding Baggage Fees for Delayed Checked Bags",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "DOT-OST-2016-0208",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235dd62"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2016-0208-0007"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0494",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:11:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26162",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Excepted Benefits; Lifetime and Annual Limits; and Short-Term, Limited-Duration Insurance",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e001"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0494"
+        }
+      },
+      {
+        "id": "BLM-2023-0002-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-13T13:50:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26179",
+          "withdrawn": false,
+          "agencyId": "BLM",
+          "commentEndDate": "2016-12-31T04:59:59Z",
+          "title": "Public Land Orders: Moab Field Office, Grand County, UT",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "BLM-2023-0002",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235dffc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BLM-2023-0002-0006"
+        }
+      },
+      {
+        "id": "OCC-2016-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-01T16:35:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26234",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": null,
+          "title": "Financial Institutions Reform, Recovery, and Enforcement Act Appraisal Requirements: Louisiana; Temporary Exceptions in Areas Affected by Severe Storms and Flooding",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "OCC-2016-0030",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e000"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2016-0030-0001"
+        }
+      },
+      {
+        "id": "DOD-2015-OS-0126-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-12T02:02:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26236",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2016-12-31T04:59:59Z",
+          "title": "Withholding of Unclassified Technical Data and Technology from Public Disclosure",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "DOD-2015-OS-0126",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e098"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2015-OS-0126-0001"
+        }
+      },
+      {
+        "id": "FCC-2016-0344-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-10-31T11:55:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26198",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Petitions for Reconsideration and Clarification of Action in Rulemaking Proceeding",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e0a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0344-0001"
+        }
+      },
+      {
+        "id": "IRS-2016-0021-0155",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-01T16:24:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26162",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Excepted Benefits; Lifetime and Annual Limits; and Short-Term, Limited-Duration Insurance",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "IRS-2016-0021",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235df11"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2016-0021-0155"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0110-0039",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T15:53:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26221",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2016-11-16T04:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Groundfish by Vessels Using Trawl Gear in Gulf of Alaska",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0110",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235df16"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0110-0039"
+        }
+      },
+      {
+        "id": "NCUA-2016-0071-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T11:54:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26234",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Financial Institutions Reform, Recovery, and Enforcement Act Appraisal Requirements: Louisiana; Temporary Exceptions in Areas Affected by Severe Storms and Flooding",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "NCUA-2016-0071",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e040"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2016-0071-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2009-0234-20592",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-10-31T14:44:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26209",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Mercury and Air Toxics Standards Completion of Electronic Reporting Requirements; Extension of Comment Period",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2009-0234",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648235e536"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2009-0234-20592"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0548-0124",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-28T02:02:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26244",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2017-01-22T04:59:59Z",
+          "title": "Good Laboratory Practice for Nonclinical Laboratory Studies; Extension of Comment Period",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "FDA-2010-N-0548",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e57d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0548-0124"
+        }
+      },
+      {
+        "id": "FCC-2016-0342-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T11:53:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25935",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Space Station Licensing Rules and Policies",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235dfb3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0342-0001"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2016-0620-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-22T14:01:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26233",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-12-01T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Utah; Revisions to Nonattainment Permitting Regulations",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "EPA-R08-OAR-2016-0620",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e09a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2016-0620-0001"
+        }
+      },
+      {
+        "id": "FDIC-2016-0211-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T11:55:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26234",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Financial Institutions Reform, Recovery, and Enforcement Act Appraisal Requirements: Louisiana; Temporary Exceptions in Areas Affected by Severe Storms and Flooding",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e0f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2016-0211-0001"
+        }
+      },
+      {
+        "id": "FRS-2016-0348-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-31T11:55:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26234",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Financial Institutions Reform, Recovery, andEnforcement Act Appraisal Requirements: Louisiana; Temporary Exceptions in Areas Affected by Severe Storms and Flooding",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235e57c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2016-0348-0001"
+        }
+      },
+      {
+        "id": "EBSA-2016-0009-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-19T19:53:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26162",
+          "withdrawn": false,
+          "agencyId": "EBSA",
+          "commentEndDate": null,
+          "title": "Excepted Benefits; Lifetime and Annual Limits; and Short-Term, Limited-Duration Insurance",
+          "postedDate": "2016-10-31T04:00:00Z",
+          "docketId": "EBSA-2016-0009",
+          "subtype": null,
+          "commentStartDate": "2016-10-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648235dfb0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EBSA-2016-0009-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 74,
+            "label": "Notice"
+          },
+          {
+            "docCount": 29,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 27,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "GDL Guidance"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 25,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "BLM"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "EBSA"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "LSC"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-10-31",
+          "toDate": "2016-10-31"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 25,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 25,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

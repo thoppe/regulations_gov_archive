@@ -1,0 +1,641 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2018-0869-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-18T14:12:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22736",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; San Diego Bay, San Diego, CA",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "USCG-2018-0869",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483803cc4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0869-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0161-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-03-05T07:19:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22137",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "FAA-2018-0161",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803c75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0161-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0577-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-05T01:07:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22659",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0577",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483803b65"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0577-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0243-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-05T00:01:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22659",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-20T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0243",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483806df7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0243-0001"
+        }
+      },
+      {
+        "id": "USN-2018-HQ-0008-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-23T14:15:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22730",
+          "withdrawn": false,
+          "agencyId": "USN",
+          "commentEndDate": null,
+          "title": "Certifications and Exemptions Under the International Regulations for Preventing Collisions at Sea, 1972",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "USN-2018-HQ-0008",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483803c78"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USN-2018-HQ-0008-0007"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0545-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-05T01:01:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22659",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-20T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0545",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483807246"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0545-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0586-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-18T13:39:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22148",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "FAA-2018-0586",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803c74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0586-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0201-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-04T23:53:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22659",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-20T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0201",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483806df9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0201-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0514-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-05T00:41:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22659",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-20T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0514",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483806df8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0514-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2015-0100-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-18T14:02:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22114",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Hazardous Materials: Pilot-in-Command and Response to Air Related Petitions for Rulemaking",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "PHMSA-2015-0100",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803bb2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2015-0100-0011"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2017-0072-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-18T17:09:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22687",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pacific Halibut and Sablefish Individual Fishing Quota Program; Community Development Quota Program; Modifications to Recordkeeping and Reporting Requirements",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2017-0072",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803b64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2017-0072-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0191-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-04T23:51:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22659",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-20T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0191",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483807247"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0191-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0553-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-03-11T10:28:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22150",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "FAA-2018-0553",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803d11"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0553-0004"
+        }
+      },
+      {
+        "id": "CFTC-2018-0069-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-10-18T12:03:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22324",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2018-12-18T04:59:59Z",
+          "title": "Registration and Compliance Requirements for Commodity Pool Operators and Commodity Trading Advisors",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803bab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2018-0069-0001"
+        }
+      },
+      {
+        "id": "FWS-R6-ES-2016-0013-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-18T13:12:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22718",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Removing Deseret Milkvetch (Astragalus desereticus) from the Federal List of Endangered and Threatened Plants",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "FWS-R6-ES-2016-0013",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803cc5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R6-ES-2016-0013-0023"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-23049",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-18T12:00:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22653",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: West Virginia;  Update to Materials Incorporated by Reference",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803afe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-23049"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0546-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-05T01:02:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22659",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-20T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0546",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483807245"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0546-0001"
+        }
+      },
+      {
+        "id": "TREAS_FRDOC_0001-0329",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-18T12:04:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22732",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Government Securities Act Regulations: Large Position Reporting Rules",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803c76"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0329"
+        }
+      },
+      {
+        "id": "CMS-2018-0123-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-20T02:02:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22698",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2018-12-18T04:59:59Z",
+          "title": "Medicare and Medicaid Programs: Drug Pricing Transparency CMS-4187-P",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "CMS-2018-0123",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483803bff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2018-0123-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0008-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-10-19T01:03:01Z",
+          "highlightedContent": "",
+          "frDocNum": "85-21290",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Pollution Control; Standards of Performance for New Stationary Sources; Portland Cement Plants; Notice of Review and Proposed Amendments [A-84-08-85-III-A-1]",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0008",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483806e12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0008-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0560-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-05T01:03:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22659",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-20T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0560",
+          "subtype": null,
+          "commentStartDate": "2018-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483806dfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0560-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 610,
+            "label": "Other"
+          },
+          {
+            "docCount": 52,
+            "label": "Notice"
+          },
+          {
+            "docCount": 37,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 10,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USN"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-10-18",
+          "toDate": "2018-10-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

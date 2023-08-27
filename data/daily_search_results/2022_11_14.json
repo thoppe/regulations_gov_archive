@@ -1,0 +1,765 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2022-0037-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-19T02:01:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24728",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": "2023-01-14T04:59:59Z",
+          "title": "Hermit\u2019s Peak/Calf Canyon Fire Assistance",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "FEMA-2022-0037",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aaa04"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2022-0037-0001"
+        }
+      },
+      {
+        "id": "DEA-2020-0027-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T15:18:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24425",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Default Provisions for Hearing Proceedings Relating to the Revocation, Suspension, or Denial of a Registration",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "DEA-2020-0027",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aab24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2020-0027-0006"
+        }
+      },
+      {
+        "id": "FAA-2022-0546-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-11-14T15:12:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24599",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-12-30T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Rogers, Springdale, and Bentonville, AR",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "FAA-2022-0546",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aa584"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0546-0001"
+        }
+      },
+      {
+        "id": "IRS-2022-0026-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-15T16:49:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24634",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 42, Low-Income Housing Credit Average Income Test Regulations; Correction",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "IRS-2022-0026",
+          "subtype": "Correction",
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aab73"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2022-0026-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2018-0594-0106",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T13:16:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23963",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Drinking Water Contaminant Candidate List 5-Final",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "EPA-HQ-OW-2018-0594",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064854aaadb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2018-0594-0106"
+        }
+      },
+      {
+        "id": "USCG-2020-0107-0021",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T14:42:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23666",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Survival Craft Equipment - Update to Type Approval Requirements",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "USCG-2020-0107",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064854aaade"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0107-0021"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0014-0098",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-11-14T13:42:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24662",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Prevention of Significant Deterioration and Nonattainment New Source Review: Reconsideration of Fugitive Emissions Rule",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0014",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064854aac1a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0014-0098"
+        }
+      },
+      {
+        "id": "CPSC-2019-0014-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-12-15T02:01:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24561",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2022-12-15T04:59:59Z",
+          "title": "Safety Standard for Gates and Enclosures",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "CPSC-2019-0014",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aabc2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2019-0014-0014"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2023-0053-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-14T17:37:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pacific Cod by Catcher/Processors using Hook-and-Line Gear in the Central Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2022-11-15T00:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0053",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064854b0e3c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0053-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0826-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T15:15:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24706",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Hackensack River, Jersey City, NJ",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "USCG-2022-0826",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064854aabbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0826-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0731-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T15:25:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24664",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Mission Bay Closure, San Diego, CA",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "USCG-2022-0731",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064854aac19"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0731-0003"
+        }
+      },
+      {
+        "id": "NRC-2022-0100-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T19:23:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24614",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Miscellaneous Corrections",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "NRC-2022-0100",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aac17"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2022-0100-0001"
+        }
+      },
+      {
+        "id": "PTO-C-2022-0028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T23:55:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24676",
+          "withdrawn": false,
+          "agencyId": "PTO",
+          "commentEndDate": "2022-12-15T04:59:59Z",
+          "title": "Eliminating Continuing Legal Education Certification and Recognition for Patent Practitioners",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "PTO-C-2022-0028",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aab70"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PTO-C-2022-0028-0001"
+        }
+      },
+      {
+        "id": "AMS-NOP-21-0060-0047",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-16T14:14:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24111",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Amendments to the National List of Allowed and Prohibited Substances per National Organic Standards Board Recommendations",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "AMS-NOP-21-0060",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aaae0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-NOP-21-0060-0047"
+        }
+      },
+      {
+        "id": "FAA-2022-1240-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-01-14T02:00:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23911",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-12-30T04:59:59Z",
+          "title": "Airworthiness Directives: General Electric Company Turbofan Engines",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "FAA-2022-1240",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aaaa0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1240-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2020-0188-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-12-01T18:36:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Applicability of the Registration, Financial Responsibility, and Safety Regulations to Motor Carriers of Passengers",
+          "postedDate": "2022-11-15T00:00:00Z",
+          "docketId": "FMCSA-2020-0188",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064854b0e37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2020-0188-0005"
+        }
+      },
+      {
+        "id": "SBA-2022-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-12-20T02:00:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24714",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2022-12-20T04:59:59Z",
+          "title": "Small Business Investment Company Investment Diversification and Growth; Webinar",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "SBA-2022-0014",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aaaa4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2022-0014-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0064-0102",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-30T14:42:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24643",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Atlantic Highly Migratory Species: 2023 Atlantic Shark Commercial Fishing Year",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0064",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aaadc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0064-0102"
+        }
+      },
+      {
+        "id": "FDA-2019-N-2175-0042",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-11-28T19:58:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24689",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Protection of Human Subjects and Institutional Review Boards, and\nInstitutional Review Boards; Cooperative Research; Extension of Comment Period",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "FDA-2019-N-2175",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854ab725"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2019-N-2175-0042"
+        }
+      },
+      {
+        "id": "NIGC_FRDOC_0001-0201",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T13:05:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24135",
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": null,
+          "title": "Management Contracts",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "NIGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aac54"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC_FRDOC_0001-0201"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2022-0131-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T16:19:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23345",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations:Nevada; Clark County, Las Vegas Valley; Clean Air Plans; Base Year Emissions Inventories for the 2015 Ozone Standards",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2022-0131",
+          "subtype": null,
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aab28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2022-0131-0022"
+        }
+      },
+      {
+        "id": "IRS-2022-0026-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-15T16:46:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24636",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 42, Low-Income Housing Credit Average Income Test Regulations; Correction",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "IRS-2022-0026",
+          "subtype": "Correction",
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aaa06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2022-0026-0003"
+        }
+      },
+      {
+        "id": "USCG-2022-0929-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-14T15:00:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24823",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zones; Corpus Christi Ship Channel, Corpus Christi, TX",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "USCG-2022-0929",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064854aab72"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0929-0001"
+        }
+      },
+      {
+        "id": "FAR-2021-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-01-18T02:00:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24569",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2023-01-14T04:59:59Z",
+          "title": "Federal Acquisition Regulation: Disclosure of Greenhouse Gas Emissions and Climate-Related Financial Risk",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "FAR-2021-0015",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aa9ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2021-0015-0001"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0286-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-20T23:41:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-24689",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Protection of Human Subjects and Institutional Review Boards, and\nInstitutional Review Boards; Cooperative Research; Extension of Comment Period",
+          "postedDate": "2022-11-14T05:00:00Z",
+          "docketId": "FDA-2021-N-0286",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2022-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064854aac1e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0286-0030"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 127,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 85,
+            "label": "Other"
+          },
+          {
+            "docCount": 61,
+            "label": "Notice"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 25,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAR"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NIGC"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "PTO"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-11-14",
+          "toDate": "2022-11-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 25,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 25,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

@@ -1,0 +1,891 @@
+[
+  {
+    "data": [
+      {
+        "id": "EEOC_FRDOC_0001-0232",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T11:59:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13907",
+          "withdrawn": false,
+          "agencyId": "EEOC",
+          "commentEndDate": null,
+          "title": "Federal Sector Equal Employment Opportunity; CFR Correction",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "EEOC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468f91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EEOC_FRDOC_0001-0232"
+        }
+      },
+      {
+        "id": "DHS-2018-0037-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T16:02:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13725",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Temporary Extension of Applicability of Regulations Governing Conduct on Federal Property",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "DHS-2018-0037",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483468ec2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2018-0037-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-1144-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T13:29:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13739",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Air Traffic Service (ATS) Routes; Modifications: Routes in the Vicinity of Richmond, IN",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "FAA-2017-1144",
+          "subtype": "Correction",
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468db7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-1144-0004"
+        }
+      },
+      {
+        "id": "WHD_FRDOC_0001-0059",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T11:53:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13908",
+          "withdrawn": false,
+          "agencyId": "WHD",
+          "commentEndDate": null,
+          "title": "Family and Medical Leave Act of 1993; CFR Correction",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "WHD_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468dbe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/WHD_FRDOC_0001-0059"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2017-0745-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T16:40:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13721",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Alaska; Interstate Transport Requirements for 2012 Fine Particulate Matter National Ambient Air Quality Standard",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "EPA-R10-OAR-2017-0745",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468e6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2017-0745-0017"
+        }
+      },
+      {
+        "id": "HRSA_FRDOC_0001-0326",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T11:56:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13835",
+          "withdrawn": false,
+          "agencyId": "HRSA",
+          "commentEndDate": null,
+          "title": "Rural Physician Training Grant Program, Definition of Underserved Rural Community",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "HRSA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468ec7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HRSA_FRDOC_0001-0326"
+        }
+      },
+      {
+        "id": "HRSA_FRDOC_0001-0327",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T11:57:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13837",
+          "withdrawn": false,
+          "agencyId": "HRSA",
+          "commentEndDate": null,
+          "title": "National Health Service Corps Program",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "HRSA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468f45"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HRSA_FRDOC_0001-0327"
+        }
+      },
+      {
+        "id": "USCG-2018-0443-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T18:16:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13760",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Technical Amendment; Removal of Obsolete Drawbridge Operating Regulations",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "USCG-2018-0443",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483468f90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0443-0001"
+        }
+      },
+      {
+        "id": "FWS-R1-ES-2018-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-06-27T01:02:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13843",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2019-06-27T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: 90-Day Findings for on Petition to List the Oregon vesper sparrow as Endangered or Threatened",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "FWS-R1-ES-2018-0019",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483469a0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R1-ES-2018-0019-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0525",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:48:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13837",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "National Health Service Corps Program",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468dba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0525"
+        }
+      },
+      {
+        "id": "USCG-2018-0548-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-27T15:59:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13734",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2018-07-28T03:59:59Z",
+          "title": "Special Local Regulation; Ohio River, Owensboro, KY",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "USCG-2018-0548",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468f4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0548-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0520-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T13:47:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13738",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Restricted Areas; Amendments: R-2302; Flagstaff, AZ",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "FAA-2018-0520",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468f8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0520-0001"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2018-0027-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-06-28T01:03:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13843",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2019-06-27T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: 90-Day Findings for on Petition to Delist the Western Distinct Population Segment of the Yellow-Billed Cuckoo",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "FWS-R8-ES-2018-0027",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483469e21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2018-0027-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0222-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T13:34:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13740",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Air Traffic Service (ATS) Routes; Modifications: Routes in the Vicinity of Newberry, MI",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "FAA-2018-0222",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468ec5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0222-0002"
+        }
+      },
+      {
+        "id": "GSA-FTR-2018-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-13T11:49:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13866",
+          "withdrawn": false,
+          "agencyId": "GSA",
+          "commentEndDate": "2018-07-28T03:59:59Z",
+          "title": "Federal Travel Regulations: Removal of Meals and Incidental Expenses Deduction Table, Allocation of Meals and Incidental Expenses Rates to be Used in Making Deductions from Meals and Incidental Expenses Allowance, and Glossary of Acronyms",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "GSA-FTR-2018-0007",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468e6b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GSA-FTR-2018-0007-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0476-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T13:50:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13737",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Restricted Areas; Revocations: R-2530, Sierra Army Depot, CA",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "FAA-2018-0476",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468fd4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0476-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0467-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T15:59:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13747",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Lakewood Independence Day Fireworks; Lake Erie, Lakewood, OH",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "USCG-2018-0467",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834673bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0467-0001"
+        }
+      },
+      {
+        "id": "FCC-2018-0221-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T11:52:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13753",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "IP CTS Modernization and Reform",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468db9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2018-0221-0001"
+        }
+      },
+      {
+        "id": "FCC-2018-0224-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-27T11:54:50Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2018-12786",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Petitions for Reconsideration of Action in Rulemaking Proceeding",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468e65"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2018-0224-0001"
+        }
+      },
+      {
+        "id": "DOD-2017-OS-0055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T12:28:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13759",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "National Security Education Program Grants to Institutions of Higher Education",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "DOD-2017-OS-0055",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483468e67"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2017-OS-0055-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2017-0421-0099",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T15:12:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13834",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Reporting Requirements for TSCA Mercury Inventory: Mercury",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2017-0421",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483468f47"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2017-0421-0099"
+        }
+      },
+      {
+        "id": "FAA-2016-6142-0111",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-11-28T04:45:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12800",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Regulatory Relief: Aviation Training Devices; Pilot Certification, Training, and Pilot Schools; and Other Provisions",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "FAA-2016-6142",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468db6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-6142-0111"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0527",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:48:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13836",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Ricky Ray Hemophilia Relief Fund Program",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468fd2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0527"
+        }
+      },
+      {
+        "id": "USCG-2016-0799-0173",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T16:12:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13863",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety and Security Zones; New York Marine Inspection and Captain of the Port Zone",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "USCG-2016-0799",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483468fd0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0799-0173"
+        }
+      },
+      {
+        "id": "OSHA-2017-0006-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T12:16:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13909",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": null,
+          "title": "Occupational Safety and Health Standards; CFR Correction",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "OSHA-2017-0006",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468e63"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2017-0006-0007"
+        }
+      },
+      {
+        "id": "HRSA_FRDOC_0001-0325",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T11:54:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13836",
+          "withdrawn": false,
+          "agencyId": "HRSA",
+          "commentEndDate": null,
+          "title": "Ricky Ray Hemophilia Relief FundProgram",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "HRSA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468e64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HRSA_FRDOC_0001-0325"
+        }
+      },
+      {
+        "id": "USCG-2018-0595-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T16:03:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13743",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Town of Hamburg July 3rd Party, Lake Erie, Blasdell, NY",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "USCG-2018-0595",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483469006"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0595-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0617-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-27T16:16:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13735",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Boaters Against Cancer Fireworks Display; Lake Ontario, Kendall, NY",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "USCG-2018-0617",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483469008"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0617-0001"
+        }
+      },
+      {
+        "id": "EPA-R02-OAR-2017-0723-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-29T19:00:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13577",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Outer Continental Shelf Air Regulations: New Jersey State Requirements",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "EPA-R02-OAR-2017-0723",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468f41"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-OAR-2017-0723-0015"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2018-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-04-24T01:02:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13843",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2019-06-27T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: 90-Day Findings for on Petition to List the Dixie Valley Toad as Endangered or Threatened",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "FWS-R8-ES-2018-0018",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468dbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2018-0018-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0526",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:48:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-13835",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Rural Physician Training Grant Program, Definition of Underserved Rural Community",
+          "postedDate": "2018-06-27T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2018-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483468e68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0526"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 102,
+            "label": "Other"
+          },
+          {
+            "docCount": 61,
+            "label": "Notice"
+          },
+          {
+            "docCount": 49,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 26,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 31,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "USCG"
+          },
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FWS"
+          },
+          {
+            "docCount": 3,
+            "value": "HHS"
+          },
+          {
+            "docCount": 3,
+            "value": "HRSA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "EEOC"
+          },
+          {
+            "docCount": 1,
+            "value": "GSA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "WHD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-06-27",
+          "toDate": "2018-06-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 31,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 31,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

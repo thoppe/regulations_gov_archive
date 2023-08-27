@@ -1,0 +1,833 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2015-7115-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T13:30:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05446",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class E Airspace; Amendments: Trinidad, CO",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2015-7115",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648252876a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-7115-0002"
+        }
+      },
+      {
+        "id": "FAA-2016-9291-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-04-01T20:44:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05967",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-05-27T03:59:59Z",
+          "title": "Airworthiness Directives: Sikorsky Aircraft Corporation Helicopters",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2016-9291",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648252876c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9291-0001"
+        }
+      },
+      {
+        "id": "USCG-2017-0071-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T15:20:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05977",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Change Schedule Deviation Dates on Atchafalaya River, Morgan City, LA",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "USCG-2017-0071",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064825287b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0071-0002"
+        }
+      },
+      {
+        "id": "USCG-2016-0988-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T16:12:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05998",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Detroit River (Trenton Channel), Grosse Ile, MI",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "USCG-2016-0988",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482528830"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0988-0002"
+        }
+      },
+      {
+        "id": "FAA-2015-8128-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T13:37:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05802",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class D and E Airspace; Amendments: Elmira, NY",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2015-8128",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482528878"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-8128-0002"
+        }
+      },
+      {
+        "id": "FAA-2015-8128-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T13:41:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05231",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2015-8128",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825288ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-8128-0003"
+        }
+      },
+      {
+        "id": "MSHA-2014-0030-0129",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-29T01:02:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05979",
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": "2017-04-27T03:59:59Z",
+          "title": "Examinations of Working Places in Metal and Nonmetal Mines",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "MSHA-2014-0030",
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825288bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2014-0030-0129"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0127-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-04-07T01:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05978",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2017-04-07T03:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Pollock in Statistical Area 610 in the Gulf of Alaska",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0127",
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825288bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0127-0014"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2018-0007-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-03-29T18:41:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05904",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Sea Scallop Fishery; 2017 Closure of Northern Gulf of Maine Scallop Management Area",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2018-0007",
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825287a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2018-0007-0011"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0019-0062",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-15T17:51:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05980",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Northeast Multispecies Fishery; Trip Limit Increase for the Small Vessel Category of the Common Pool Fishery",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0019",
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825287df"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0019-0062"
+        }
+      },
+      {
+        "id": "USCG-2017-0228-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T15:23:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-06014",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Brielle Draw Bridge, Manasquan River, Point Pleasant, NJ",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "USCG-2017-0228",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482528832"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0228-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-0243-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-06T01:02:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05769",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-05-12T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2017-0243",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482528608"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0243-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0155-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-01T14:53:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-06002",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Sea Scallop Fishery; Framework Adjustment 28",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0155",
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648252871d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0155-0006"
+        }
+      },
+      {
+        "id": "USCG-2017-0225-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T15:03:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-06019",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Curtis Creek, Baltimore, MD",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "USCG-2017-0225",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482528724"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0225-0001"
+        }
+      },
+      {
+        "id": "USCG-2017-0094-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T15:23:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-06001",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; Southern California Annual Marine Events for the San Diego Captain of the Port Zone- San Diego Crew Classic",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "USCG-2017-0094",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064825287e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0094-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-8164-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T14:15:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05447",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class E Airspace; Establishments: Manti, UT",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2016-8164",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482528d06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8164-0004"
+        }
+      },
+      {
+        "id": "FAA-2017-0244-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-12T01:01:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05770",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-05-12T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2017-0244",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482528720"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0244-0001"
+        }
+      },
+      {
+        "id": "USCG-2017-0217-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T15:21:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05945",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; Wy-Hi Rowing Regatta; Detroit River, Trenton Channel; Wyandotte, MI",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "USCG-2017-0217",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648252871f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0217-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9054-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-12-03T04:01:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05524",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2016-9054",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825287a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9054-0006"
+        }
+      },
+      {
+        "id": "FAA-2016-8844-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T13:33:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05521",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2016-8844",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825287ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8844-0006"
+        }
+      },
+      {
+        "id": "NIFA_FRDOC_0001-0108",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T11:59:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05931",
+          "withdrawn": false,
+          "agencyId": "NIFA",
+          "commentEndDate": null,
+          "title": "Competitive and Noncompetitive Non-Formula Federal Assistance Programs: Specific Administrative Provisions for the Veterinary Services Grants Program",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "NIFA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825287b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIFA_FRDOC_0001-0108"
+        }
+      },
+      {
+        "id": "FDA-1991-N-0192-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-17T17:47:57Z",
+          "highlightedContent": "",
+          "frDocNum": "92-24941",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1992-12-15T04:59:59Z",
+          "title": "Administrative Practices and Procedures; Advisory Opinions and Guidelines",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FDA-1991-N-0192",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "1992-10-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648052df67"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1991-N-0192-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2016-0292-0038",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T13:18:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05724",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Arizona; Regional Haze State and Federal Implementation Plans; Reconsideration",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2016-0292",
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648252882e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2016-0292-0038"
+        }
+      },
+      {
+        "id": "FAA-2016-9300-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-04-22T20:54:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05233",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2016-9300",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482528876"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9300-0006"
+        }
+      },
+      {
+        "id": "FAA-2016-9051-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-04-01T20:42:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05231",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2016-9051",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482527255"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9051-0004"
+        }
+      },
+      {
+        "id": "SSA-2012-0035-0384",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-28T12:10:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-06023",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": null,
+          "title": "Evaluation of Medical Evidence; Correction",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "SSA-2012-0035",
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482528606"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2012-0035-0384"
+        }
+      },
+      {
+        "id": "USCG-2017-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-27T16:15:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05989",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2017-04-27T03:59:59Z",
+          "title": "Special Local Regulations; Sector Ohio Valley Annual and Recurring Special Local Regulations Update",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "USCG-2017-0010",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825287e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0010-0001"
+        }
+      },
+      {
+        "id": "USPS-2017-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-27T11:59:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05916",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Production or Disclosure of Material or Information",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825287e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2017-0043-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9511-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-27T13:57:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-05803",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-05-12T03:59:59Z",
+          "title": "Class D Airspace; Amendments: Kingsville, TX",
+          "postedDate": "2017-03-27T04:00:00Z",
+          "docketId": "FAA-2016-9511",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-03-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825288be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9511-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 112,
+            "label": "Other"
+          },
+          {
+            "docCount": 99,
+            "label": "Notice"
+          },
+          {
+            "docCount": 23,
+            "label": "Rule"
+          },
+          {
+            "docCount": 20,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 4,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 12,
+            "value": "FAA"
+          },
+          {
+            "docCount": 7,
+            "value": "USCG"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "NIFA"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2017-03-27",
+          "toDate": "2017-03-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

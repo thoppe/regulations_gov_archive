@@ -1,0 +1,672 @@
+[
+  {
+    "data": [
+      {
+        "id": "USPS-2022-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T12:50:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00396",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Plus One Permanent Product",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b6e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2022-0010-0001"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-27738",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T12:51:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00349",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b796"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-27738"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2021-0438-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T17:21:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00385",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Amador Air District; Stationary Source Permits",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2021-0438",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b797"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2021-0438-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1985-0097-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-01-13T01:32:53Z",
+          "highlightedContent": "",
+          "frDocNum": "89-28285",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Regulation of Fuels and Fuel Additives; General Requirements for Determination of Gasoline Metal Content",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-1985-0097",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1d931"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1985-0097-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0333-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-01-21T02:00:58Z",
+          "highlightedContent": "",
+          "frDocNum": "89-12186",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Certification Programs for Banking and Trading off Oxides of Nitrogen and Particulate Emission Credits for Heavy-Duty Engines [A-87-03-III-A-1]",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0333",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1d1c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0333-0003"
+        }
+      },
+      {
+        "id": "FAA-2021-1182-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-01T02:00:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00414",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Airworthiness Directives: Pratt and Whitney Turbofan Engines",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "FAA-2021-1182",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b5a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1182-0001"
+        }
+      },
+      {
+        "id": "CMS-2022-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-17T01:00:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00117",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2022-03-08T04:59:59Z",
+          "title": "Medicare Program: Contract Year 2023 Policy and Technical Changes to the Medicare Advantage and Medicare Prescription Drug Benefit Programs",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "CMS-2022-0012",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b7c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2022-0012-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2021-0137-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-12-12T20:51:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00402",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2022-02-12T04:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Atlantic Mackerel; 2022 Interim Action",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "NOAA-NMFS-2021-0137",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b69c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2021-0137-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-1003-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T13:52:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00351",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bell Textron Inc. (Type Certificate Previously Held by Bell Helicopter Textron Inc.) Helicopters",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "FAA-2021-1003",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b6a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1003-0003"
+        }
+      },
+      {
+        "id": "OCC-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T13:51:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00109",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "OCC-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b798"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2022-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-1175-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T02:00:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00348",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Airworthiness Directives: Stemme AG Gliders",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "FAA-2021-1175",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b6ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1175-0001"
+        }
+      },
+      {
+        "id": "BIS-2020-0038-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-27T13:10:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00448",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Information Security Controls: Cybersecurity Items; Delay of Effective Date",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "BIS-2020-0038",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b5ac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2020-0038-0014"
+        }
+      },
+      {
+        "id": "FAA-2021-1172-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-01T02:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-28510",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "FAA-2021-1172",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b6eb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1172-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-1174-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-01-12T13:50:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00057",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Airworthiness Directives: Leonardo S.p.a. Helicopters",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "FAA-2021-1174",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b5e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1174-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0484-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T13:54:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00390",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Special Conditions: Learjet, Inc.; Electronic System Security Protection from Unauthorized External Access",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "FAA-2021-0484",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b6e9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0484-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2021-0863-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T15:25:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00138",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Findings of Failure to Submit State Implementation Plan Revisions in Response to the 2015 Findings of Substantial Inadequacy and SIP Calls to Amend Provisions Applying to Excess Emissions During Periods of Startup, Shutdown, and Malfunction",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2021-0863",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484f1b5e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2021-0863-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2021-0540-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T13:02:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00347",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final 2010 SO2 Redesignation & Maintenance Plan for Rhinelander, Wisconsin (Oneida County)",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2021-0540",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b741"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2021-0540-0003"
+        }
+      },
+      {
+        "id": "ED-2021-OESE-0152-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-13T00:29:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00453",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": "2022-02-12T04:59:59Z",
+          "title": "Priority Requirements, Definitions, and Selection Criteria: Full-Service Community Schools Program",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "ED-2021-OESE-0152",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b748"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2021-OESE-0152-0001"
+        }
+      },
+      {
+        "id": "ONRR-2021-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-16T18:32:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00165",
+          "withdrawn": false,
+          "agencyId": "ONRR",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "ONRR-2021-0002",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b6a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ONRR-2021-0002-0001"
+        }
+      },
+      {
+        "id": "USPS-2022-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T12:50:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00373",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b6e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2022-0009-0001"
+        }
+      },
+      {
+        "id": "FHFA-2022-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-12T12:50:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00361",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": null,
+          "title": "Civil Money Penalty Inflation Adjustment",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b633"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2022-0002-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2021-0065-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-12-15T13:29:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00367",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Sea Scallop Fishery; Amendment 21",
+          "postedDate": "2022-01-12T05:00:00Z",
+          "docketId": "NOAA-NMFS-2021-0065",
+          "subtype": null,
+          "commentStartDate": "2022-01-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1b5a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2021-0065-0011"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 192,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 63,
+            "label": "Notice"
+          },
+          {
+            "docCount": 41,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 22,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "ONRR"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-01-12",
+          "toDate": "2022-01-12"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 22,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 22,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

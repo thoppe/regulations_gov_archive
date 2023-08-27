@@ -1,0 +1,591 @@
+[
+  {
+    "data": [
+      {
+        "id": "FSIS-2018-0032-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-09-06T01:01:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FSIS",
+          "commentEndDate": "2018-09-06T03:59:59Z",
+          "title": "2018-08-03 v3 Market Hog Risk Assessment Updated",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "FSIS-2018-0032",
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d8549"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSIS-2018-0032-0001"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-22686",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T12:19:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16774",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Address Change for Waste Import-Export Submittals from Office of Federal Activities to Office of Resource Conservation and Recovery",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1f03"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-22686"
+        }
+      },
+      {
+        "id": "CMS-2018-0053-0092",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-07T19:25:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16518",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: FY 2019 Inpatient Psychiatric Facilities Prospective Payment System and Quality Reporting Updates for Fiscal Year Beginning October 1, 2018",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "CMS-2018-0053",
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1f5c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2018-0053-0092"
+        }
+      },
+      {
+        "id": "FAA-2018-0392-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T14:35:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16479",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "FAA-2018-0392",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1fa5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0392-0006"
+        }
+      },
+      {
+        "id": "CMS-2018-0050-0113",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T14:46:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16517",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2019",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "CMS-2018-0050",
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1fa7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2018-0050-0113"
+        }
+      },
+      {
+        "id": "USCG-2018-0615-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T13:02:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16694",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Fireworks Display, Little Egg Harbor, Long Beach, NJ",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "USCG-2018-0615",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1ffa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0615-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0194-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T13:24:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16754",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Philippine Sea, Tinian",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "USCG-2018-0194",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d202e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0194-0003"
+        }
+      },
+      {
+        "id": "FAA-2018-0137-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T14:58:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16679",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment and Establishment of Class E Airspace: Columbus, NE",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "FAA-2018-0137",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d2031"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0137-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1983-0002-0796",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T14:40:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16775",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Oil and Hazardous Substances Pollution Contingency Plan; National Priorities List: Deletion of Frontier Hard Chrome, Inc. Superfund Site",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1983-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064835d2086"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1983-0002-0796"
+        }
+      },
+      {
+        "id": "LSC-2018-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-08-06T12:17:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16765",
+          "withdrawn": false,
+          "agencyId": "LSC",
+          "commentEndDate": "2018-10-06T03:59:59Z",
+          "title": "Governing Bodies",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1e53"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/LSC-2018-0022-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-0805-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-27T01:53:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16320",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "FAA-2017-0805",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d2030"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0805-0006"
+        }
+      },
+      {
+        "id": "USCG-2018-0692-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T12:53:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16756",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone-Menominee Waterfront Festival Fireworks",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "USCG-2018-0692",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1f05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0692-0001"
+        }
+      },
+      {
+        "id": "STB-2018-0075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T12:20:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16742",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": null,
+          "title": "Fees for Services Performed in Connection with Licensing and Related Services: 2018 Update",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1f58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2018-0075-0001"
+        }
+      },
+      {
+        "id": "FRS-2018-0245-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T12:20:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16133",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Single-Counterparty Credit Limits for Bank Holding Companies and Foreign Banking Organizations",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1f5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2018-0245-0001"
+        }
+      },
+      {
+        "id": "FEMA-2018-0002-0097",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T13:59:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16696",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "FEMA-2018-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1f9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2018-0002-0097"
+        }
+      },
+      {
+        "id": "FAA-2018-0110-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-08-24T01:02:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16499",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "FAA-2018-0110",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1ff8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0110-0009"
+        }
+      },
+      {
+        "id": "USCG-2018-0183-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T12:47:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16757",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Philippine Sea, Rota",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "USCG-2018-0183",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1e5a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0183-0003"
+        }
+      },
+      {
+        "id": "CMS-2018-0058-0059",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-07T19:28:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16539",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: FY 2019 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Requirements",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "CMS-2018-0058",
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1eb7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2018-0058-0059"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2018-0277-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-06T13:23:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-16604",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: Pennsylvania; Removal of Gasoline Volatility Requirements for Pittsburgh-Beaver Valley Area; Withdrawal",
+          "postedDate": "2018-08-06T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2018-0277",
+          "subtype": null,
+          "commentStartDate": "2018-08-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064835d1ffc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2018-0277-0010"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 208,
+            "label": "Other"
+          },
+          {
+            "docCount": 53,
+            "label": "Notice"
+          },
+          {
+            "docCount": 20,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 19,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "CMS"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "FSIS"
+          },
+          {
+            "docCount": 1,
+            "value": "LSC"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-08-06",
+          "toDate": "2018-08-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 19,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 19,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

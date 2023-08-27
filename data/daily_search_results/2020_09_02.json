@@ -1,0 +1,641 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2020-0247-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T15:25:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-17913",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: I-5 Bridge Construction Project, Columbia River, Vancouver, WA",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "USCG-2020-0247",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484837e06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0247-0003"
+        }
+      },
+      {
+        "id": "FAA-2020-0471-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T15:04:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19299",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt and Whitney Canada Corp. Turboshaft Engines",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "FAA-2020-0471",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837e0b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0471-0004"
+        }
+      },
+      {
+        "id": "USCG-2020-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-03T01:01:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-18084",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2020-10-10T03:59:59Z",
+          "title": "Drawbridge Operations: Fox River, Oshkosh, WI",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "USCG-2020-0056",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837e4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0056-0001"
+        }
+      },
+      {
+        "id": "SEC-2020-1400-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T11:46:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19468",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Temporary Amendments to Regulation Crowdfunding; Extension",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837e0c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2020-1400-0001"
+        }
+      },
+      {
+        "id": "FCC-2020-0354-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-09-02T11:47:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-17266",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2020-11-03T04:59:59Z",
+          "title": "Updating the Commission's Ex Parte Rules",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837ea2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2020-0354-0001"
+        }
+      },
+      {
+        "id": "FERC-2020-1145-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T11:46:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-15902",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Qualifying Facility Rates and Requirements Implementation Issues Under the Public Utility Regulatory Policies Act of 1978",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837e4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2020-1145-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-0753-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-10-20T01:01:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19264",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2020-10-20T03:59:59Z",
+          "title": "Airworthiness Directives: Pilatus Aircraft Ltd. Airplanes",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "FAA-2020-0753",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837e54"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0753-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2019-0122-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-12-22T18:27:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19372",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Mackerel, Squid, and Butterfish Fishery; 2020 Illex Squid Quota Harvested",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "NOAA-NMFS-2019-0122",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837f9c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2019-0122-0009"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2018-0716-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T17:37:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-17228",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "TX211.05 Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Beaumont-Port Arthur Area Second Maintenance Plan for 1997 Ozone National Ambient Air Quality Standards, Final rule, 4 pages.",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2018-0716",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837f9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2018-0716-0006"
+        }
+      },
+      {
+        "id": "TTB-2019-0008-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T13:17:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-17423",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-162:  Establishment of the Royal Slope Viticultural Area",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "TTB-2019-0008",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648483802f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2019-0008-0030"
+        }
+      },
+      {
+        "id": "USCG-2020-0468-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T15:37:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19430",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulations: Atlantic Intracoastal Waterway, Morehead City, NC",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "USCG-2020-0468",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484837f4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0468-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2019-0412-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T15:51:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-17541",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Determination of Failure To Attain by the Attainment Date and Denial of Serious Area Attainment Date Extension Request: Alaska: Fairbanks North Star Borough 2006 24-Hour Fine Particulate Matter Serious Nonattainment Area",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "EPA-R10-OAR-2019-0412",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837fdf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2019-0412-0022"
+        }
+      },
+      {
+        "id": "CMS-2020-0097-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-11-07T02:01:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19150",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2020-11-03T04:59:59Z",
+          "title": "Medicare and Medicaid Programs, Clinical Laboratory Improvement Amendments, and Patient Protection and Affordable Care Act:Additional Policy and Regulatory Revisions in Response to the COVID-19 Public Health Emergency",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "CMS-2020-0097",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837374"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2020-0097-0001"
+        }
+      },
+      {
+        "id": "USCG-2020-0545-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-10-04T01:01:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19328",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2020-10-03T03:59:59Z",
+          "title": "Safety Zones: Delaware River Dredging, Marcus Hook, PA",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "USCG-2020-0545",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837e4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0545-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2020-0103-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T18:55:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-17229",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Kentucky; Jefferson County Existing and New Miscellaneous Metal Parts and Products Surface Coating Operations",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2020-0103",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837eff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2020-0103-0004"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2020-0098-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-11-04T02:01:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19414",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2020-11-03T04:59:59Z",
+          "title": "Fisheries Off West Coast States: Pacific Coast Groundfish Fishery Management Plan; Amendment 29; 2021-2022 Biennial Specifications and Management Measures",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "NOAA-NMFS-2020-0098",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837e9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2020-0098-0001"
+        }
+      },
+      {
+        "id": "USCG-2020-0447-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-03T17:50:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-18196",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Beals Island Bridge Demolition, Moosabec Reach, Jonesport, ME",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "USCG-2020-0447",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484837f00"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0447-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2020-0292-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-10-15T01:02:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-17548",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2020-10-03T03:59:59Z",
+          "title": "Redesignation of Certain Unclassifiable Areas for the 2010 1-Hour Sulfur Dioxide Primary National Ambient Air Quality Standard",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2020-0292",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837fa2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2020-0292-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2019-0217-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T15:17:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-17263",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Kentucky; Prevention of Significant Deterioration and Modeling Infrastructure Requirements for 2015 Ozone National Ambient Air Quality Standards",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2019-0217",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484837f9b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2019-0217-0013"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2020-0009-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-09T11:49:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-19324",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Re-Opening of Recreational Sector for Gulf of Mexico Gray Triggerfish",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "NOAA-NMFS-2020-0009",
+          "subtype": null,
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648483802d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2020-0009-0005"
+        }
+      },
+      {
+        "id": "ED-2018-OPE-0076-1086",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-09-02T13:30:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-18636",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Distance Education and Innovation",
+          "postedDate": "2020-09-02T04:00:00Z",
+          "docketId": "ED-2018-OPE-0076",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-09-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064848374b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2018-OPE-0076-1086"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 212,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 157,
+            "label": "Notice"
+          },
+          {
+            "docCount": 69,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 5,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "TTB"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2020-09-02",
+          "toDate": "2020-09-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

@@ -1,0 +1,918 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2022-0824-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T12:02:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-11742",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2022-08-17T03:59:59Z",
+          "title": "Investment Company Names",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178d3f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2022-0824-0001"
+        }
+      },
+      {
+        "id": "CFTC-2022-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-17T12:02:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13141",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Fees for Reviews of the Rule Enforcement Programs of Designated Contract Markets and Registered Futures Associations",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178d8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2022-0030-0001"
+        }
+      },
+      {
+        "id": "FCC-2022-0203-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T12:01:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12456",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2022-08-02T03:59:59Z",
+          "title": "Affordable Connectivity and Emergency Broadband Benefit Program",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178cf7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2022-0203-0001"
+        }
+      },
+      {
+        "id": "USPS-2022-0072-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T12:01:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12846",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2022-07-06T03:59:59Z",
+          "title": "Caller Service-Customized Address",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178cb5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2022-0072-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0788-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T13:02:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13056",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-08-02T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Erwin, NC",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2022-0788",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178b94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0788-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1992-0100-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-18T00:31:50Z",
+          "highlightedContent": "",
+          "frDocNum": "87-17631",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Standards of Performance for New Stationary Sources; Fossil-Fuel-Fired Steam Generators [A-92-49-I-D-1]",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-1992-0100",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648516f77d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1992-0100-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1992-0105-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-18T01:01:05Z",
+          "highlightedContent": "",
+          "frDocNum": "92-31932",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Outer Continental Shelf Air Regulations",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-1992-0105",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485179c4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1992-0105-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0396-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-07-05T01:00:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12809",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-07-19T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Residues of a Pesticide Chemical in or on Various Commodities",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0396",
+          "subtype": "Petition",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178cb8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0396-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0589-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-08-06T01:00:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13088",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt and Whitney Division Turbofan Engines",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2022-0589",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178cfe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0589-0001"
+        }
+      },
+      {
+        "id": "AMS-SC-21-0098-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-08-17T01:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13004",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2022-08-17T03:59:59Z",
+          "title": "Handling Regulation: California and Imported Kiwifruit",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "AMS-SC-21-0098",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178bdc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-21-0098-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0259-3338",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-17T12:59:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13059",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "IFR Altitudes; Miscellaneous Amendments",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2013-0259",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178b5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0259-3338"
+        }
+      },
+      {
+        "id": "FAA-2022-0775-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T13:09:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12965",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-08-02T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Multiple Texas Towns",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2022-0775",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178cb2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0775-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0774-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T13:02:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12966",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-08-02T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: La Crosse, WI",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2022-0774",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178bdf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0774-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0317-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-17T13:05:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13093",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: King Salmon Airport, AK",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2022-0317",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178c22"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0317-0002"
+        }
+      },
+      {
+        "id": "USCG-2022-0273-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T13:32:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12961",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2022-07-19T03:59:59Z",
+          "title": "Safety Zone; Black River, South of East Erie Avenue Bridge in Front of Black River Landing, Lorain, OH",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "USCG-2022-0273",
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178b59"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0273-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1993-0141-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-18T01:01:06Z",
+          "highlightedContent": "",
+          "frDocNum": "93-8394",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Protection of Stratospheric Ozone",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-1993-0141",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485179cae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1993-0141-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1992-0100-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-18T00:31:40Z",
+          "highlightedContent": "",
+          "frDocNum": "93-11392",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Appendix G - Provisions for an Alternative Method of Demonstrating Compliance With 40 CFR 604 3 for the Newton Power Station of Central Illinois Public Service Company [A-92-49-I-E-1]",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-1992-0100",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648516f77c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1992-0100-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1992-0102-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-18T00:32:10Z",
+          "highlightedContent": "",
+          "frDocNum": "95-5026",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Criteria for the Certification and Determination of the Waste Isolation Pilot Plant's Compliance With Environmental Standards for the Management and Disposal of Spent Nuclear Fuel, High-Level and Transuranic Radioactive Wastes",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-1992-0102",
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648517918c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1992-0102-0001"
+        }
+      },
+      {
+        "id": "SEC-2022-0822-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T12:01:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-11718",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2022-08-17T03:59:59Z",
+          "title": "Enhanced Disclosures by Certain Investment Advisers and Investment Companies: Environmental, Social, and Governance Investment Practices",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178c68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2022-0822-0001"
+        }
+      },
+      {
+        "id": "FCC-2022-0204-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T12:01:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12813",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2022-07-19T03:59:59Z",
+          "title": "Rules for Digital Low Power Television and Television Translator Stations",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178cf8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2022-0204-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2022-0480-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-23T01:00:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13045",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-07-19T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Antelope Valley Air Quality Management District and Mojave Desert Air Quality Management District",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2022-0480",
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178d89"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2022-0480-0001"
+        }
+      },
+      {
+        "id": "HUD-2022-0044-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-08-03T01:00:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13251",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": "2022-08-02T03:59:59Z",
+          "title": "6086\u2013N\u201302 Request for Comments: National Standards for the Physical Inspection of Real Estate and Associated Protocols",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "HUD-2022-0044",
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178bd9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2022-0044-0001"
+        }
+      },
+      {
+        "id": "AID-2022-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-08-08T15:07:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12736",
+          "withdrawn": false,
+          "agencyId": "AID",
+          "commentEndDate": "2022-08-17T03:59:59Z",
+          "title": "Removing the Program Income Restriction on For-Profit Entities",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "AID-2022-0005",
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178cb1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AID-2022-0005-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0599-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-07-13T01:01:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13050",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-08-02T03:59:59Z",
+          "title": "Airworthiness Directives: Piaggio Aero Industries S.p.A. Airplanes",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2022-0599",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178d8a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0599-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1992-0103-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-18T01:00:53Z",
+          "highlightedContent": "",
+          "frDocNum": "93-6601",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants, Benzene Waste Operations",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-1992-0103",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485179af3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1992-0103-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1992-0105-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-18T00:32:58Z",
+          "highlightedContent": "",
+          "frDocNum": "93-6863",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Outer Continental Shelf Air Regulations [A-92-70-V-A-02]",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-1992-0105",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485179c4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1992-0105-0002"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2022-0483-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T13:08:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12716",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-07-19T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Iowa; State Implementation Plan and State Operating Permits Program",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2022-0483",
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178c24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2022-0483-0001"
+        }
+      },
+      {
+        "id": "FDA-2016-F-1253-0461",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-17T13:00:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13076",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Natural Resources Defense Council, et al.; Denial of Food Additive Petition; Denial Without Prejudice of Food Additive Petition; Correction",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FDA-2016-F-1253",
+          "subtype": "Correction",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178c20"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2016-F-1253-0461"
+        }
+      },
+      {
+        "id": "CMS-2019-0076-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-07-20T22:23:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13052",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Accrediting Organizations-Changes of Ownership; Correction",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "CMS-2019-0076",
+          "subtype": null,
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178b5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2019-0076-0011"
+        }
+      },
+      {
+        "id": "FAA-2022-0380-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-07-17T13:45:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13016",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2022-0380",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178c61"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0380-0005"
+        }
+      },
+      {
+        "id": "FAA-2021-0832-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-07-17T13:45:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13096",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc., Airplanes",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2021-0832",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178b5c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0832-0006"
+        }
+      },
+      {
+        "id": "FAA-2022-0686-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-10-16T02:22:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-13077",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-08-02T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-06-17T04:00:00Z",
+          "docketId": "FAA-2022-0686",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485178cfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0686-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 118,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 80,
+            "label": "Notice"
+          },
+          {
+            "docCount": 41,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 10,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Petition"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "EPA"
+          },
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "AID"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-06-17",
+          "toDate": "2022-06-17"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

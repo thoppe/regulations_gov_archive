@@ -1,0 +1,926 @@
+[
+  {
+    "data": [
+      {
+        "id": "VA-2020-VHA-0013-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-04-06T01:00:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02316",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2022-04-06T03:59:59Z",
+          "title": "AQ97-Interim Final Rule 2 - Informed Consent and Advance Directives",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "VA-2020-VHA-0013",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f5497f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2020-VHA-0013-0005"
+        }
+      },
+      {
+        "id": "FCC-2022-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-04T12:51:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02337",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2022-03-22T03:59:59Z",
+          "title": "Television Broadcasting Services: Billings, MT",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f53cb5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2022-0041-0001"
+        }
+      },
+      {
+        "id": "PRC-2022-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T12:53:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02278",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": "2022-03-08T04:59:59Z",
+          "title": "Competitive Product List",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2022-0002-0001"
+        }
+      },
+      {
+        "id": "NRC-2019-0083-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-04T14:46:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-01685",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Access to the Decommissioning Trust Fund for the Disposal of Large  Components",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "NRC-2019-0083",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f5497e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2019-0083-0017"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0948-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:06:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02357",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; General and Plastic Surgery Devices; Classification of the Carbon Dioxide Gas Controlled Tissue Expander",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FDA-2021-N-0948",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54980"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0948-0001"
+        }
+      },
+      {
+        "id": "VA-2022-VACO-0002-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T14:30:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02305",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "Tuition and Fees Payment Plans for Standard Terms and 85/15 Calculations; Clarification; FR Doc. 2022\u201302305",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "VA-2022-VACO-0002",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484f53cb6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2022-VACO-0002-0015"
+        }
+      },
+      {
+        "id": "FDA-2011-N-0446-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-04T17:12:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-01928",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Removal of Certain Requirements Related to the Prescription Drug Marketing Act; Opportunity for Public\nComment; Withdrawal",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FDA-2011-N-0446",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a17"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2011-N-0446-0014"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0998-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T17:19:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02369",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; General Hospital and Personal Use Devices; Classification of the Alternate Controller Enabled Infusion Pump",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FDA-2021-N-0998",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a4f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0998-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0943-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-09T02:00:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02387",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-08T04:59:59Z",
+          "title": "Special Conditions: Robinson Helicopter Company Model R66 Helicopter; Pressure Refueling Provisions",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2021-0943",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54910"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0943-0001"
+        }
+      },
+      {
+        "id": "COLC-2016-0008-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T17:09:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-03946",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": null,
+          "title": "Copyright Office Technical Amendments",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "COLC-2016-0008",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824e376c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2016-0008-0003"
+        }
+      },
+      {
+        "id": "FAA-2021-0979-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:32:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02270",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Multiple Illinois Towns",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2021-0979",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f53cb9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0979-0002"
+        }
+      },
+      {
+        "id": "FAA-2021-0977-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:37:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02272",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Hugo, OK",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2021-0977",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f5490a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0977-0002"
+        }
+      },
+      {
+        "id": "FAA-2022-0088-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:46:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02398",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Textron Aviation Inc. (Type Certificate Previously Held by Raytheon Aircraft Company, Hawker Beechcraft Corporation, and Beechcraft Corporation) Airplanes",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2022-0088",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f5494e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0088-0001"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0807-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T16:25:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02368",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the System for Detection of Microorganisms and Antimicrobial Resistance Using Reporter Expression",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FDA-2021-N-0807",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f549be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0807-0001"
+        }
+      },
+      {
+        "id": "USCBP-2021-0050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T16:19:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02004",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Privacy Act of 1974: Implementation of Exemptions; Department of Homeland Security U.S. Customs and Border Protection\u2013014 Regulatory Audit Archive System (RAAS) System of Records",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "USCBP-2021-0050",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484f54951"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2021-0050-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0028-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-04T02:00:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02342",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-22T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Dyersburg, TN",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2021-0028",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f5490c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0028-0005"
+        }
+      },
+      {
+        "id": "EERE-2020-BT-TP-0011-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-26T22:52:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02281",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "2022-02-04  Energy Conservation Program: Test Procedure for Electric Motors; Extension of Comment Period; Notice of proposed rulemaking; extension of public comment period",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "EERE-2020-BT-TP-0011",
+          "subtype": "Notice of Extension",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f549b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2020-BT-TP-0011-0015"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0006-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-22T01:00:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02350",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2022-03-22T03:59:59Z",
+          "title": "Pacific Island Fisheries: Rebuilding Plan for the American Samoa Bottomfish Fishery",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0006",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f5490b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0006-0004"
+        }
+      },
+      {
+        "id": "VA-2022-VHA-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-06T01:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02292",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2022-04-06T03:59:59Z",
+          "title": "AR01-Proposed Rule - Pilot Program on Graduate Medical Education and Residency",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "VA-2022-VHA-0007",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f5490f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2022-VHA-0007-0001"
+        }
+      },
+      {
+        "id": "FDA-2020-N-1819-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-07T01:00:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-01927",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2022-04-06T03:59:59Z",
+          "title": "Certain Requirements Regarding Prescription Drug Marketing",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FDA-2020-N-1819",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2020-N-1819-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2021-0111-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-08T02:00:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02162",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2022-03-08T04:59:59Z",
+          "title": "International Fisheries: Pacific Tuna Fisheries; Purse Seine Observer Exemptions in the Eastern Pacific Ocean",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "NOAA-NMFS-2021-0111",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T08:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a93"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2021-0111-0004"
+        }
+      },
+      {
+        "id": "COLC-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-08T02:00:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-01776",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": "2022-03-08T04:59:59Z",
+          "title": "Remitter Payment Options and Deposit Account Requirements",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "COLC-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2022-0001-0001"
+        }
+      },
+      {
+        "id": "SEC-2022-0178-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-04T12:53:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-27531",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2022-03-22T03:59:59Z",
+          "title": "Prohibition against Fraud, Manipulation, or Deception in Connection with Security-Based Swaps; Prohibition against Undue Influence over Chief Compliance Officers; Position Reporting of Large Security-Based Swap Positions",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a13"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2022-0178-0001"
+        }
+      },
+      {
+        "id": "USBC-2022-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-04T16:10:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02341",
+          "withdrawn": false,
+          "agencyId": "USBC",
+          "commentEndDate": null,
+          "title": "Foreign Trade Regulations: Electronic Export Information filing requirements for shipments between the United States and Puerto Rico and the U.S. Virgin Islands",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "USBC-2022-0002",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a51"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USBC-2022-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0976-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:35:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02271",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Carrizo Springs, TX",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2021-0976",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f53cbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0976-0002"
+        }
+      },
+      {
+        "id": "FAA-2021-0978-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:34:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02269",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Hammond, LA",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2021-0978",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f53cba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0978-0002"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0913-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:45:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02358",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; Cardiovascular Devices; Classification of the Photoplethysmograph Analysis Software for Over-the-Counter Use",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FDA-2021-N-0913",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54982"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0913-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0893-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-04T15:03:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02510",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2022-02-15T04:59:59Z",
+          "title": "Security Zone for Navy Diving Exercise; Gastineau Channel, Juneau, AK",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "USCG-2021-0893",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a97"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0893-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0980-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:49:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02277",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Janesville, WI",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2021-0980",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54955"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0980-0002"
+        }
+      },
+      {
+        "id": "FAA-2021-0814-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-04T15:54:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02276",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Rochester and St. Cloud, MN",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FAA-2021-0814",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54a91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0814-0002"
+        }
+      },
+      {
+        "id": "FDA-2020-N-1663-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-09-07T01:00:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-01929",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2022-09-07T03:59:59Z",
+          "title": "National Standards for the Licensure of Wholesale Drug Distributors and Third-Party Logistics Providers",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "FDA-2020-N-1663",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f549bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2020-N-1663-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2018-0746-0248",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-26T01:00:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-01923",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-03-25T03:59:59Z",
+          "title": "Reconsideration of the 2020 National Emission Standards for Hazardous Air Pollutants: Miscellaneous Organic Chemical Manufacturing Residual Risk and Technology Review",
+          "postedDate": "2022-02-04T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2018-0746",
+          "subtype": null,
+          "commentStartDate": "2022-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f54987"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2018-0746-0248"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 55,
+            "label": "Notice"
+          },
+          {
+            "docCount": 39,
+            "label": "Other"
+          },
+          {
+            "docCount": 38,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 16,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 10,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Extension"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          },
+          {
+            "docCount": 1,
+            "label": "Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "FAA"
+          },
+          {
+            "docCount": 7,
+            "value": "FDA"
+          },
+          {
+            "docCount": 3,
+            "value": "VA"
+          },
+          {
+            "docCount": 2,
+            "value": "COLC"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USBC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-02-04",
+          "toDate": "2022-02-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

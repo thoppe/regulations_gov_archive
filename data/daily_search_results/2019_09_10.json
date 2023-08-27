@@ -1,0 +1,910 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2019-1302-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T11:41:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-18355",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Guidance: Commission Interpretation and Guidance Regarding the Applicability of the Proxy Rules to Proxy Voting Advice",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f25121"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2019-1302-0001"
+        }
+      },
+      {
+        "id": "SEC-2019-1292-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T11:39:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-18342",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Guidance: Proxy Voting Responsibilities of Investment Advisers",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24b97"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2019-1292-0001"
+        }
+      },
+      {
+        "id": "FAR-2019-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:54:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19363",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: New World Trade Organization Government Procurement Agreement Country-Australia",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAR-2019-0011",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24cbe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2019-0011-0001"
+        }
+      },
+      {
+        "id": "FAR-2019-0001-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-27T16:05:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19364",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Federal Acquisition Circular 2019-06; Small Entity Compliance Guide",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAR-2019-0001",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24be4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2019-0001-0003"
+        }
+      },
+      {
+        "id": "FAR-2019-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:40:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19362",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Update to Contractor Performance Assessment Reporting System",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAR-2019-0005",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24b44"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2019-0005-0001"
+        }
+      },
+      {
+        "id": "ED-2019-OSERS-0044-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:14:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Final Waiver and Extension of Project Period for Various OSERS Grants",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "ED-2019-OSERS-0044",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f259c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2019-OSERS-0044-0024"
+        }
+      },
+      {
+        "id": "FAA-2019-0596-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-10-29T01:01:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19410",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2019-10-26T03:59:59Z",
+          "title": "Airworthiness Directives: Pratt and Whitney Turbofan Engines",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAA-2019-0596",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24c81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0596-0001"
+        }
+      },
+      {
+        "id": "IRS-2019-0039-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-09T17:15:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19501",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2019-12-10T04:59:59Z",
+          "title": "Guidance Under section 6033 Regarding the Reporting Requirements of Exempt Organizations",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "IRS-2019-0039",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24af7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0039-0001"
+        }
+      },
+      {
+        "id": "ED_FRDOC_0001-0856",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T11:40:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19554",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Final Waiver and Extension of the Project Period for Various Grants that Provide Technical Assistance on Transition",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "ED_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24bea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED_FRDOC_0001-0856"
+        }
+      },
+      {
+        "id": "FAR-2019-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:48:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19361",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Update of Affiliates and Section 8(a) Clauses",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAR-2019-0006",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24b9d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2019-0006-0001"
+        }
+      },
+      {
+        "id": "USCG-2019-0725-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:37:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19545",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Newtown Creek, New York, NY",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "USCG-2019-0725",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24b4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0725-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0390-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-09-10T18:03:17Z",
+          "highlightedContent": "",
+          "frDocNum": "96-10809",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1996-06-01T03:59:59Z",
+          "title": "A-95-37-FR-5-1-1996\nAir Quality: Revision to Definition of Volatile Organic Compounds- Exclusion of HFC 43-1 Omee and HCFC 225ca and cb",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0390",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f2a338"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0390-0003"
+        }
+      },
+      {
+        "id": "FAA-2017-0890-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:22:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19424",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class D and E Airspace: Wichita, KS",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAA-2017-0890",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24cc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0890-0002"
+        }
+      },
+      {
+        "id": "USCG-2019-0760-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T15:13:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19495",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Missouri River, Mile Marker 117 to 116.5, Chamois, MO",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "USCG-2019-0760",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24965"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0760-0001"
+        }
+      },
+      {
+        "id": "FAA-2019-0656-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-29T06:50:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-18707",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2019-11-13T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters Deutschland GmbH",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAA-2019-0656",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24b9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0656-0001"
+        }
+      },
+      {
+        "id": "FWS-HQ-NWRS-2019-0040-0932",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:09:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-18054",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "2019-2020 Station-Specific Hunting and Sport Fishing Regulations",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FWS-HQ-NWRS-2019-0040",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f2511d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-NWRS-2019-0040-0932"
+        }
+      },
+      {
+        "id": "FAA-2019-0268-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:18:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19412",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: International Aero Engines AG Turbofan Engines",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAA-2019-0268",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24be5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0268-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0392-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-09-10T19:33:18Z",
+          "highlightedContent": "",
+          "frDocNum": "96-32237",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "A-95-48-F-R-DECEMBER-27-1996",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0392",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f2c609"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0392-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2019-0111-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-11T11:29:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19476",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Atlantic Highly Migratory Species: Adjustments to 2019 Northern Albacore Tuna Quota, 2019 North and South Atlantic Swordfish Quotas, and 2019 Atlantic Bluefin Tuna Reserve Category Quota",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "NOAA-NMFS-2019-0111",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f2511c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2019-0111-0001"
+        }
+      },
+      {
+        "id": "NRC-2013-0077-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-09-10T14:20:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19521",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Requirement to Submit Complete and Accurate Information; Discontinuation of Rulemaking Activity; Denial of Petition for Rulemaking",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "NRC-2013-0077",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24b9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2013-0077-0011"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-2098",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T11:41:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19553",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Completion of Interim Rules",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24c85"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-2098"
+        }
+      },
+      {
+        "id": "FAR-2019-0001-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-27T16:07:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19359",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Federal Acquisition Circular 2019-06; Introduction",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAR-2019-0001",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24cbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2019-0001-0004"
+        }
+      },
+      {
+        "id": "FAR-2018-0010-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:36:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19360",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Use of Products and Services of Kaspersky Lab",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAR-2018-0010",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24afc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2018-0010-0005"
+        }
+      },
+      {
+        "id": "IRS-2019-0040-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-09T17:14:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-18152",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2019-11-13T04:59:59Z",
+          "title": "Proposed Regulations under Section 382(h) Related to Built-in Gain and Loss",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "IRS-2019-0040",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24c48"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0040-0001"
+        }
+      },
+      {
+        "id": "CMS-2016-0031-0059",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-11-22T02:00:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19208",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2019-11-05T04:59:59Z",
+          "title": "Medicare, Medicaid, and Children's Health Insurance Programs: Program Integrity Enhancements to the Provider Enrollment Process",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "CMS-2016-0031",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24c86"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0031-0059"
+        }
+      },
+      {
+        "id": "USCG-2019-0734-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:40:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19531",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Kanawha River, Charleston, WV",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "USCG-2019-0734",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f2511e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0734-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2019-0246-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T12:40:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19407",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: District of Columbia; Amendments to the Control of Emissions of Volatile Organic Compounds from Motor Vehicle and Mobile Equipment Non-Assembly Line Coating Operations",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2019-0246",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24962"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2019-0246-0004"
+        }
+      },
+      {
+        "id": "FAA-2019-0450-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:19:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19542",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of the Class E Airspace: Ashland, KY",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAA-2019-0450",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24c4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0450-0002"
+        }
+      },
+      {
+        "id": "FAA-2019-0320-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T13:16:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19442",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "FAA-2019-0320",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24b49"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0320-0004"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-2097",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-09-10T11:39:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-19572",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Withdrawal of Certain Proposed Rules",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f24b9c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-2097"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0393-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-10T20:01:08Z",
+          "highlightedContent": "",
+          "frDocNum": "00-5797",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "A-95-50-F-R-MARCH-13-2000\nStandards of Performance for New Stationary Sources: Industrial-Commercial-lnstitutional Steam Generating Units",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0393",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f2d260"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0393-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0082-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-09-10T19:02:26Z",
+          "highlightedContent": "",
+          "frDocNum": "96-16012",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1996-08-27T03:59:59Z",
+          "title": "A-95-46-F-R-JUNE-27-1996\nStandards of Performance for New Stationary Sources for Nonmetallic Mineral Processing Plants; Amendments",
+          "postedDate": "2019-09-10T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0082",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2019-09-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483f2bbb6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0082-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 246,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 92,
+            "label": "Other"
+          },
+          {
+            "docCount": 67,
+            "label": "Notice"
+          },
+          {
+            "docCount": 24,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 12,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 6,
+            "value": "FAR"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "ED"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "SEC"
+          },
+          {
+            "docCount": 2,
+            "value": "USDA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2019-09-10",
+          "toDate": "2019-09-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

@@ -1,0 +1,760 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2018-1079-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T11:50:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14306",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Smaller Reporting Company Definition",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca210"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2018-1079-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-1188-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:15:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14668",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class D and Class E Airspace: Wrightstown, PA",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "FAA-2017-1188",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca256"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-1188-0002"
+        }
+      },
+      {
+        "id": "USCG-2018-0504-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T14:29:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14760",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Lake Michigan, North Avenue Beach, Chicago, IL",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0504",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834ca2d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0504-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2010-0682-0960",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-08-11T01:03:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14736",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-08-10T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants and New Source Performance Standards: Petroleum Refinery Sector Amendments",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2010-0682",
+          "subtype": null,
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca251"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2010-0682-0960"
+        }
+      },
+      {
+        "id": "FAA-2018-0589-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-07-24T08:07:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14694",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-08-25T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "FAA-2018-0589",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca212"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0589-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0610-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:31:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14699",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; New Jersey Intracoastal Waterway (NJICW), Atlantic City, NJ",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0610",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834ca257"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0610-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0050-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:19:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14672",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Canadian Area Navigation Route: Route T-705, Northeastern United States",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "FAA-2018-0050",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca25a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0050-0004"
+        }
+      },
+      {
+        "id": "USCG-2018-0634-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T18:12:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14739",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Barge PFE\u2013LB444, San Joaquin River, Blackslough Landing, CA",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0634",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834ca286"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0634-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2018-0225-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-09-05T01:05:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14737",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-09-01T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Determination Regarding Good Neighbor Obligations for 2008 Ozone National Ambient Air Quality Standard",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2018-0225",
+          "subtype": null,
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca2df"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2018-0225-0001"
+        }
+      },
+      {
+        "id": "TREAS-DO-2018-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-09-11T01:03:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14706",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": "2018-09-11T03:59:59Z",
+          "title": "Ongoing Data Collection of Centrally Cleared Transactions in the U.S. Repurchase Agreement Market",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "TREAS-DO-2018-0014",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca327"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2018-0014-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0607-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-24T08:07:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14080",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-08-25T03:59:59Z",
+          "title": "Airworthiness Directives: Piper Aircraft, Inc.",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "FAA-2018-0607",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca252"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0607-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0515-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:37:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14758",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone-  Chicago Air and Water Show",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0515",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834ca253"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0515-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0566-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:25:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14708",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Recurring Safety Zone; Steelers Fireworks, Pittsburgh, PA",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0566",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834ca323"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0566-0001"
+        }
+      },
+      {
+        "id": "OPPM_FRDOC_0001-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T11:53:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14594",
+          "withdrawn": false,
+          "agencyId": "OPPM",
+          "commentEndDate": null,
+          "title": "Designation of Product Categories for Federal Procurement",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "OPPM_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca324"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPPM_FRDOC_0001-0025"
+        }
+      },
+      {
+        "id": "FAA-2018-0128-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:26:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14664",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class D and Class E Airspace: Aberdeen, MD",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "FAA-2018-0128",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca326"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0128-0002"
+        }
+      },
+      {
+        "id": "FMCSA-2018-0037-0099",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-09-05T12:52:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14780",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Federal Motor Carrier Safety Regulations Which May Be Barrier to Safe Integration of Automated Driving Systems in Commercial Vehicle Operations: Public Meeting",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "FMCSA-2018-0037",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca2dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2018-0037-0099"
+        }
+      },
+      {
+        "id": "USCG-2018-0178-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-18T20:07:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14707",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; Choptank River, Cambridge, MD",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0178",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834c996e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0178-0003"
+        }
+      },
+      {
+        "id": "USCG-2018-0630-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:34:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14740",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Hamburg Beach Blast Fireworks Display; Lake Erie, Hamburg, NY",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0630",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834c996f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0630-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0163-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-07-12T01:03:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14615",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2018-08-10T03:59:59Z",
+          "title": "Special Local Regulation; Carolina Boat Bash, Little River Inlet, Little River, SC",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0163",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834c9970"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0163-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2017-0227-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T14:44:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14735",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-09-11T03:59:59Z",
+          "title": "Pesticide Tolerances: Pyroxsulam",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2017-0227",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca20e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2017-0227-0004"
+        }
+      },
+      {
+        "id": "DEA-2018-0010-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T12:37:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14718",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Schedules of Controlled Substances: Temporary Placement of NM2201, 5F-AB-PINACA, 4-CN-CUMYL-BUTINACA, MMB-CHMICA and 5F-CUMYL-P7AICA into Schedule I",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "DEA-2018-0010",
+          "subtype": null,
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca211"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2018-0010-0006"
+        }
+      },
+      {
+        "id": "USCG-2018-0464-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:23:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14759",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Ohio Street Beach Swim Course, Chicago Harbor, Chicago, IL",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "USCG-2018-0464",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064834ca328"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0464-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0217-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T15:23:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14663",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E Airspace: Ellijay, GA",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "FAA-2018-0217",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca28c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0217-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2018-0074-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-07-27T01:09:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14716",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2018-07-26T03:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Summer Flounder, Scup, and Black Sea Bass Fisheries; Notice of Receipt of Petition for Rulemaking",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "NOAA-NMFS-2018-0074",
+          "subtype": null,
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca20d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2018-0074-0001"
+        }
+      },
+      {
+        "id": "SEC-2018-1078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-07-10T11:50:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14366",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Investment Company Liquidity Disclosure",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca20f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2018-1078-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2018-0167-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-04T22:54:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-14448",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-08-18T03:59:59Z",
+          "title": "Renewable Fuel Standard Program: Standards for 2019 and Biomass-Based Diesel Volume for 2020",
+          "postedDate": "2018-07-10T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2018-0167",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-07-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064834ca20b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2018-0167-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 254,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 218,
+            "label": "Other"
+          },
+          {
+            "docCount": 29,
+            "label": "Notice"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "USCG"
+          },
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OPPM"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-07-10",
+          "toDate": "2018-07-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

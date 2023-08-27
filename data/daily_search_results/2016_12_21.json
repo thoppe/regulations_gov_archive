@@ -1,0 +1,924 @@
+[
+  {
+    "data": [
+      {
+        "id": "USPS-2016-0261-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T12:51:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30381",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "New Mailing Standards for Domestic Mailing Services Products",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242cfd8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2016-0261-0001"
+        }
+      },
+      {
+        "id": "USDAIG_FRDOC_0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T12:52:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-29976",
+          "withdrawn": false,
+          "agencyId": "USDAIG",
+          "commentEndDate": null,
+          "title": "Organization, Functions, and Delegations of Authority",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "USDAIG_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d026"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDAIG_FRDOC_0001-0002"
+        }
+      },
+      {
+        "id": "CFPB_FRDOC_0001-0512",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T12:53:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30730",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Truth in Lending Act (Regulation Z) Adjustment to Asset-Size Exemption Threshold",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "CFPB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d0b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB_FRDOC_0001-0512"
+        }
+      },
+      {
+        "id": "AMS-FV-15-0049-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-24T14:29:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30570",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2017-02-22T04:59:59Z",
+          "title": "Revisions to Inspection Application Requirements",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "AMS-FV-15-0049",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d17f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-15-0049-0022"
+        }
+      },
+      {
+        "id": "FAA-2015-5816-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T14:18:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-29307",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "FAA-2015-5816",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d1c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-5816-0006"
+        }
+      },
+      {
+        "id": "FWS-HQ-ES-2016-0126-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T14:17:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30483",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Identification of 14 Distinct Population Segments of the Humpback Whale and Revision of Species-Wide Listing",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "FWS-HQ-ES-2016-0126",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d181"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-ES-2016-0126-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2016-0543-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T01:47:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30476",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Determination of Attainment of the 2008 Ozone National Ambient Air Quality Standards; Eastern San Luis Obispo",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2016-0543",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d0b7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2016-0543-0020"
+        }
+      },
+      {
+        "id": "TREAS-TRIP-2016-0005-0029",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-27T14:23:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-29987",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Terrorism Risk Insurance Program",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "TREAS-TRIP-2016-0005",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d0b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS-TRIP-2016-0005-0029"
+        }
+      },
+      {
+        "id": "FERC-2016-1701-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T12:52:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28322",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Critical Electric Infrastructure Security and Amending Critical Energy Infrastructure Information",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d06f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2016-1701-0001"
+        }
+      },
+      {
+        "id": "CMS-2016-0195-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T14:17:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30273",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Implementation of Prior Authorization Process for Certain Durable Medical Equipment, Prosthetics, Orthotics, and Supplies Items and Publication of the Initial Required Prior Authorization List of DMEPOS Items that Require Prior Authorization as a Condition of Payment",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "CMS-2016-0195",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d103"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0195-0001"
+        }
+      },
+      {
+        "id": "DEA-2016-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T14:27:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30595",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Schedules of Controlled Substances: Temporary Placement of six synthetic cannabinoids (5F-ADB, 5F-AMB, 5F-APINACA, ADB-FUBINACA, MDMB-CHMICA and MDMB-FUBINACA) into Schedule I",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "DEA-2016-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648242d13f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2016-0020-0001"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2014-0720-0027",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T20:20:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30466",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Massachusetts; Infrastructure State Implementation Plan Requirements",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "EPA-R01-OAR-2014-0720",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d183"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2014-0720-0027"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0347",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T12:51:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30634",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242cfde"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0347"
+        }
+      },
+      {
+        "id": "VA-2016-VBA-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-02-21T14:02:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30509",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2017-02-22T04:59:59Z",
+          "title": "AP23 - Proposed Rule - Special Monthly Compensation for Veterans with Traumatic Brain Injury",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "VA-2016-VBA-0029",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d02b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2016-VBA-0029-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-8847-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-28T21:17:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-29513",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "FAA-2016-8847",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d02c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8847-0003"
+        }
+      },
+      {
+        "id": "AMS-FV-15-0049-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-10T18:55:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30619",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Grade Standards: United States Standards for Grades of Canned Vegetables",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "AMS-FV-15-0049",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d06b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-15-0049-0023"
+        }
+      },
+      {
+        "id": "CFPB_FRDOC_0001-0513",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T12:55:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30731",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Home Mortgage Disclosure (Regulation C) Adjustment to Asset-Size Exemption Threshold",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "CFPB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d13b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB_FRDOC_0001-0513"
+        }
+      },
+      {
+        "id": "FAA-2016-8845-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T14:16:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-29306",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "FAA-2016-8845",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d17b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8845-0004"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2016-0669-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-22T01:49:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30474",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-21T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Determination of Attainment of the 2008 Ozone National Ambient Air Quality Standards; Mariposa County",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2016-0669",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d068"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2016-0669-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2016-0525-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T01:43:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30055",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Procedures for Rulemaking Under Section 6 of the Toxic Substances Control Act; Amendment",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2016-0525",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648242d069"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2016-0525-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9507-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-06-17T21:59:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30030",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-02-07T04:59:59Z",
+          "title": "Airworthiness Directives: Empresa Brasileira de Aeronautica S.A. (Embraer)",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "FAA-2016-9507",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d06a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9507-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2013-0799-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T01:46:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30184",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Tennessee; Air Plan Approval; Regional Haze Progress Report",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2013-0799",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242ced3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2013-0799-0008"
+        }
+      },
+      {
+        "id": "FCC-2015-0136-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T12:54:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30766",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Protecting and Promoting the Open Internet",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d104"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2015-0136-0002"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2016-0372-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-27T15:05:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30470",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Columbus Ohio 2008 8-hr Ozone Redesignation and Maintenance Plan",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2016-0372",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d13c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2016-0372-0005"
+        }
+      },
+      {
+        "id": "NPS-2016-0004-0860",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T14:13:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30735",
+          "withdrawn": false,
+          "agencyId": "NPS",
+          "commentEndDate": null,
+          "title": "Special Regulations: Areas of the National Park System, Cape Hatteras National Seashore-Off-Road Vehicle Management",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "NPS-2016-0004",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d1c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NPS-2016-0004-0860"
+        }
+      },
+      {
+        "id": "LSC-2016-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-21T12:55:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30717",
+          "withdrawn": false,
+          "agencyId": "LSC",
+          "commentEndDate": "2017-01-27T04:59:59Z",
+          "title": "Definitions; Cost Standards and Procedures; Purchasing and Property Management",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d1c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/LSC-2016-0047-0001"
+        }
+      },
+      {
+        "id": "AMS-SC-16-0041-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-10T18:57:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30571",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Marketing Orders: Cranberries Grown in the States of Massachusetts, Rhode Island, Connecticut, New Jersey, Wisconsin, Michigan, Minnesota, Oregon, Washington, and Long Island in the State of New York; Proposed Amendment, Referendum Order",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "AMS-SC-16-0041",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242cecc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-16-0041-0002"
+        }
+      },
+      {
+        "id": "FAA-2016-9056-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-28T22:09:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-29509",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Saab AB, Saab Aeronautics (Formerly known as Saab AB, Saab Aerosystems) Airplanes",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "FAA-2016-9056",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d1c1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9056-0003"
+        }
+      },
+      {
+        "id": "NCUA-2016-0088-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T12:51:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30657",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Federal Credit Union Occupancy, Planning, and Disposal of Acquired and Abandoned Premises; Incidental Powers",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "NCUA-2016-0088",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242cfda"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2016-0088-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2016-0669-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-21T18:04:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30477",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-21T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Determination of Attainment of the 2008 Ozone National Ambient Air Quality Standards; Mariposa County",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2016-0669",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242cfd9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2016-0669-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9504-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-21T14:13:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30029",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-02-07T04:59:59Z",
+          "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "FAA-2016-9504",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242cfe0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9504-0001"
+        }
+      },
+      {
+        "id": "SBA-2014-0011-0033",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-03T13:49:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30568",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Small Business Size Standards for Manufacturing; Correction",
+          "postedDate": "2016-12-21T05:00:00Z",
+          "docketId": "SBA-2014-0011",
+          "subtype": null,
+          "commentStartDate": "2016-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648242d024"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2014-0011-0033"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 113,
+            "label": "Notice"
+          },
+          {
+            "docCount": 113,
+            "label": "Other"
+          },
+          {
+            "docCount": 48,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 26,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "LSC"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NPS"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USDAIG"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-12-21",
+          "toDate": "2016-12-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

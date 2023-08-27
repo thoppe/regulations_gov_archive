@@ -1,0 +1,954 @@
+[
+  {
+    "data": [
+      {
+        "id": "BIS-2015-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-29T16:37:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01273",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Export Administration Regulations: U.S.-India Bilateral Understanding; U.S. Export and Reexport Controls",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "BIS-2015-0003",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db8ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2015-0003-0001"
+        }
+      },
+      {
+        "id": "USPS-2015-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-23T14:43:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01097",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2015-02-24T04:59:59Z",
+          "title": "International Mailing Services: Proposed Price Changes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db83f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2015-0006-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-1046-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-10-29T19:45:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00944",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1046",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db5d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1046-0001"
+        }
+      },
+      {
+        "id": "CPSC-2015-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-23T21:36:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01051",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": null,
+          "title": "Determinations under the Drywall Safety Act of 2012",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "CPSC-2015-0002",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db743"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2015-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-1044-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-31T21:12:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00994",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Cessna Aircraft Company Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1044",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db745"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1044-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-1048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-02-08T03:00:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00959",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Fokker Services B.V. Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1048",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db8ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1048-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-1047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-03-05T03:06:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00943",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1047",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db52d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1047-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-1051-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-24T20:40:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00945",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1051",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db5dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1051-0001"
+        }
+      },
+      {
+        "id": "FEMA-2015-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-27T16:18:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01237",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspensions of Community Eligibility",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FEMA-2015-0001",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064819db608"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2015-0001-0001"
+        }
+      },
+      {
+        "id": "VA-2015-VBA-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-06-30T01:30:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00297",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2015-03-25T03:59:59Z",
+          "title": "AO73 - Proposed Rule - Net Worth, Asset Transfers, and Income Exclusions for Needs-Based Benefits",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "VA-2015-VBA-0003",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db791"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2015-VBA-0003-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-0074-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-05-17T02:28:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00960",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2015-0074",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db7ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-0074-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-0075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-10T22:00:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00962",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2015-0075",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db6f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-0075-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-1049-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-24T19:58:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00958",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives; Bombardier, Inc., Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1049",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db5a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1049-0001"
+        }
+      },
+      {
+        "id": "FEMA-2015-0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-27T16:20:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01216",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspensions of Community Eligibility",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FEMA-2015-0001",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064819db744"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2015-0001-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2013-0226-0046",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-23T16:15:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01013",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerances: Flupyradifurone",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2013-0226",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064819db5a4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2013-0226-0046"
+        }
+      },
+      {
+        "id": "FAA-2014-1050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-07-09T20:08:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00957",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1050",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db5a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1050-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-1045-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-03-10T02:03:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00946",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1045",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db5a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1045-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2014-0110-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-03-25T02:07:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01165",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2015-03-25T03:59:59Z",
+          "title": "Federal Motor Vehicle Safety Standards: Small Business Impacts of Motor Vehicle Safety",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "NHTSA-2014-0110",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db790"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2014-0110-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2014-0107-0159",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-03-11T02:04:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01145",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; Red Snapper Management Measures",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "NOAA-NMFS-2014-0107",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db872"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2014-0107-0159"
+        }
+      },
+      {
+        "id": "FAA-2015-0076-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-07-23T20:54:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00961",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2015-0076",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db7e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-0076-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2014-0016-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-26T14:22:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01151",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic; Trip Limit Reduction",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "NOAA-NMFS-2014-0016",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db83c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2014-0016-0011"
+        }
+      },
+      {
+        "id": "FEMA-2015-0001-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-27T16:22:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01214",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspensions of Community Eligibility",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FEMA-2015-0001",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064819db838"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2015-0001-0003"
+        }
+      },
+      {
+        "id": "FAA-2014-1052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-02-27T03:02:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00955",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1052",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db60c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1052-0001"
+        }
+      },
+      {
+        "id": "DEA-2014-0014-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-29T15:06:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01172",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Schedules of Controlled Substances: Naloxegol; Removal from Control",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "DEA-2014-0014",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db60d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2014-0014-0011"
+        }
+      },
+      {
+        "id": "APHIS-2011-0003-15392",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-23T19:19:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01149",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Animal Welfare: Retail Pet Stores and Licensing Exemptions; Technical Amendment",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "APHIS-2011-0003",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db650"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2011-0003-15392"
+        }
+      },
+      {
+        "id": "PHMSA-2013-0225-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-23T18:00:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00265",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2015-03-25T03:59:59Z",
+          "title": "Hazardous Materials; Amendments",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "PHMSA-2013-0225",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db742"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2013-0225-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-0077-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-02-01T03:11:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00956",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: ATR - GIE Avions de Transport Regional Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2015-0077",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db749"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-0077-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0152-0033",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-23T16:58:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01081",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Reallocation of Pacific Cod in the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0152",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db530"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0152-0033"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2014-0754-0045",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-17T22:00:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01164",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-04-21T03:59:59Z",
+          "title": "TX166.045. Proposed rule, extension of comment period to April 20, 2015, RE: Texas and Oklahoma; Regional Haze SIP published December 16, 2014 (79 FR 74818) --- NOTE: Before or on February 17, 2015, please submit comments to document EPA-R06-OAR-2014-0754-0001.  After February 17, 2015, comments submitted via Regulations.gov will have to be submitted to this Federal Register document.",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "EPA-R06-OAR-2014-0754",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db5a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2014-0754-0045"
+        }
+      },
+      {
+        "id": "NHTSA-2014-0123-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-06-13T13:00:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00162",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2015-03-25T03:59:59Z",
+          "title": "Federal Motor Vehicle Safety Standards: Child Restraint Systems, Child Restraint Anchorage Systems",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "NHTSA-2014-0123",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db5a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2014-0123-0001"
+        }
+      },
+      {
+        "id": "FCC-2015-0033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-23T14:40:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01193",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2015-02-07T04:59:59Z",
+          "title": "Competitive Bidding",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db609"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2015-0033-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-1043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-03-05T03:04:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-00993",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-10T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "FAA-2014-1043",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db611"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1043-0001"
+        }
+      },
+      {
+        "id": "USCG-1999-6712-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-23T18:47:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01045",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "FR:  Auxiliary Regulations; Revisions (Federal Register Publication)",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "USCG-1999-6712",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db83a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6712-0009"
+        }
+      },
+      {
+        "id": "CPSC-2009-0087-0135",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-16T19:07:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-01110",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2015-04-09T03:59:59Z",
+          "title": "Recreational Off-Highway Vehicles (ROVs); Extension of Comment Period",
+          "postedDate": "2015-01-23T05:00:00Z",
+          "docketId": "CPSC-2009-0087",
+          "subtype": null,
+          "commentStartDate": "2015-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064819db7eb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2009-0087-0135"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 155,
+            "label": "Other"
+          },
+          {
+            "docCount": 109,
+            "label": "Notice"
+          },
+          {
+            "docCount": 23,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 15,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 34,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 14,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2015-01-23",
+          "toDate": "2015-01-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 34,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 34,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

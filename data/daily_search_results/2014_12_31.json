@@ -1,0 +1,936 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2014-0002-0197",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-02-03T18:47:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30537",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Final Flood Elevation Determinations",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FEMA-2014-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648199bf61"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2014-0002-0197"
+        }
+      },
+      {
+        "id": "FAA-2014-1083-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-13T03:01:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30722",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-02-18T04:59:59Z",
+          "title": "Airworthiness Directives: Various Aircraft Equipped with Wing Lift Struts",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FAA-2014-1083",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bfa0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1083-0001"
+        }
+      },
+      {
+        "id": "CPSC-2009-0087-0134",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-16T19:06:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30515",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": null,
+          "title": "Recreational Off-Highway Vehicles; Correction",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "CPSC-2009-0087",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bd93"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2009-0087-0134"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2014-0058-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-08-05T14:57:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30574",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2015-03-03T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: 90-Day Findings on Two Petitions",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FWS-R8-ES-2014-0058",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bdec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2014-0058-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2010-0505-4745",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-03-03T03:02:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30630",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Oil and Natural Gas Sector: Reconsideration of Additional Provisions of New Source Performance Standards; Final Rule",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2010-0505",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648199bd8e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2010-0505-4745"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2008-0699-0504",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-02-15T02:44:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30688",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Ambient Air Quality Standards for Ozone: Public Hearings",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2008-0699",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648199bf9c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2008-0699-0504"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2013-0290-0242",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-12-31T18:06:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30715",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "NESHAP Clay Ceramics Manufacturing; Supplemental Notice of Proposed Rulemaking; Extension of Public Comment Period and Change to\r\nPublic Hearing Date",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2013-0290",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648199c668"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2013-0290-0242"
+        }
+      },
+      {
+        "id": "MSHA-2014-0009-0082",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-03-13T02:01:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30578",
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": "2015-03-13T03:59:59Z",
+          "title": "Criteria and Procedures for Assessment of Civil Penalties",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "MSHA-2014-0009",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bd3c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2014-0009-0082"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2013-0542-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-02-04T03:03:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30717",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-01-31T04:59:59Z",
+          "title": "TX153.40 Air Quality State Implementation Plans; Approval and Promulgation: Texas; Revisions to the New Source Review State Implementation Plan; Flexible Permit Program, Proposed Rule, 4 pages",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "EPA-R06-OAR-2013-0542",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199be28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2013-0542-0041"
+        }
+      },
+      {
+        "id": "CMS-2014-0094-2673",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-09T03:00:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30663",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Revisions to Payment Policies Under the Physician Fee Schedule, Clinical Laboratory Fee Schedule, Access to Identifiable Data for the Center for Medicare and Medicaid Innovation Models and Other Revisions for CY 2015; Corrections",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "CMS-2014-0094",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bed8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2014-0094-2673"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2013-0291-0512",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-12-31T18:06:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30715",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "NESHAP for Brick and Structural Clay Products Manufacturing; Supplemental Notice of Proposed Rulemaking; Extension of\r\nPublic Comment Period and Change to Public Hearing Date",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2013-0291",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648199b80a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2013-0291-0512"
+        }
+      },
+      {
+        "id": "FAA-2014-1093-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-12-31T15:39:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30631",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-02-18T04:59:59Z",
+          "title": "Airworthiness Directives: British Aerospace Regional Aircraft Airplanes",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FAA-2014-1093",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bf1d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1093-0001"
+        }
+      },
+      {
+        "id": "DOD-2013-HA-0053-0060",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-07T13:42:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30337",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "TRICARE: Clarification of Benefit Coverage of Durable Equipment and Ordering or Prescribing Durable Equipment, etc.",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "DOD-2013-HA-0053",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bfda"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2013-HA-0053-0060"
+        }
+      },
+      {
+        "id": "FTC-2015-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-07T15:58:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30572",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": "2015-03-04T04:59:59Z",
+          "title": "Energy and Water Use Labeling for Consumer Products Under the Energy Policy and Conservation Act",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FTC-2015-0002",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bd3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2015-0002-0001"
+        }
+      },
+      {
+        "id": "FDA-2014-N-1484-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-04-01T02:01:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30528",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2015-04-01T03:59:59Z",
+          "title": "Revisions to Exceptions Applicable to Certain Human Cells Tissues and Cellular and Tissue-Based Products",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FDA-2014-N-1484",
+          "subtype": "Amendment",
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bdf0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2014-N-1484-0001"
+        }
+      },
+      {
+        "id": "PRC-2014-0159-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-12-31T14:46:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30565",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": null,
+          "title": "Update to Product Lists",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bdf2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2014-0159-0001"
+        }
+      },
+      {
+        "id": "DOD-2010-HA-0068-0095",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-07T13:37:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30282",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Civilian Health and Medical Program of the Uniformed Services; TRICARE Retired Reserve",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "DOD-2010-HA-0068",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199be27"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2010-HA-0068-0095"
+        }
+      },
+      {
+        "id": "FSA-2014-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-12-31T16:57:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30172",
+          "withdrawn": false,
+          "agencyId": "FSA",
+          "commentEndDate": null,
+          "title": "Farm Loan Programs",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FSA-2014-0017",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bed9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSA-2014-0017-0001"
+        }
+      },
+      {
+        "id": "DOD-2013-HA-0164-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-07T13:43:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30307",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "TRICARE: Coverage of Care Related to Non-Covered Initial Surgery or Treatment",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "DOD-2013-HA-0164",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199c04d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2013-HA-0164-0005"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0100-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-06-12T14:22:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30677",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Species under the Jurisdiction of the National Marine Fisheries Service; Correction",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0100",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199c051"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0100-0007"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0073-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-22T20:33:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30596",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Final Endangered Listing of Five Species of Sawfish under the Endangered Species Act; Correction",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0073",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bd8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0073-0016"
+        }
+      },
+      {
+        "id": "FAA-2014-1090-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-12-31T15:35:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30562",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-03-03T04:59:59Z",
+          "title": "Special Conditions: Airbus Helicopters Deutschland GmbH Model MBB-BK117D-2 Helicopters; Use of 30-Minute Power Rating",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FAA-2014-1090",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199be2e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-1090-0001"
+        }
+      },
+      {
+        "id": "ITA-2015-0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-02-04T17:47:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30664",
+          "withdrawn": false,
+          "agencyId": "ITA",
+          "commentEndDate": "2015-01-31T04:59:59Z",
+          "title": "Price Adjustments in Antidumping Duty Proceedings",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "ITA-2015-0001",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199be8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ITA-2015-0001-0002"
+        }
+      },
+      {
+        "id": "IRS-2013-0035-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-05T13:46:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30186",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Dispositions of Tangible Depreciable Property; Corrections",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "IRS-2013-0035",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bed7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2013-0035-0005"
+        }
+      },
+      {
+        "id": "DOS_FRDOC_0001-3090",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-12-31T15:08:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30710",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Schedule of Fees for Consular Services: Visa Services Fee Changes",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "DOS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bfd9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS_FRDOC_0001-3090"
+        }
+      },
+      {
+        "id": "IRS-2012-0036-0229",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-05T13:38:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30525",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Additional Requirements for Charitable Hospitals: Community Health Needs Assessments for Charitable Hospitals; Requirement of a Excise Tax Return and Time for Filing the Return",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "IRS-2012-0036",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bedc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2012-0036-0229"
+        }
+      },
+      {
+        "id": "FCC-2014-0498-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-12-31T14:59:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30576",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2015-01-21T04:59:59Z",
+          "title": "Closed Captioning of Video Programming: Telecommunications for the Deaf and Hard of Hearing, Inc.",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bedd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2014-0498-0001"
+        }
+      },
+      {
+        "id": "FSIS-2010-0012-0904",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-01-09T03:01:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30472",
+          "withdrawn": false,
+          "agencyId": "FSIS",
+          "commentEndDate": null,
+          "title": "Descriptive Designation for Raw Meat and Poultry Products Containing Added Solutions",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FSIS-2010-0012",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bf5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSIS-2010-0012-0904"
+        }
+      },
+      {
+        "id": "FEMA-2014-0002-0201",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-02-03T18:49:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30545",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FEMA-2014-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648199c04c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2014-0002-0201"
+        }
+      },
+      {
+        "id": "FERC-2014-1659-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-12-31T14:57:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30366",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2015-03-03T04:59:59Z",
+          "title": "Public Utility Filing Requirements",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199be90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2014-1659-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2014-0900-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-14T01:43:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30573",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-01-31T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Attainment Redesignation for Missouri Portion of the St. Louis MO-IL Area; 1997 8-Hour Ozone Standard and Associated Maintenance Plan",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "EPA-R07-OAR-2014-0900",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199bd39"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2014-0900-0001"
+        }
+      },
+      {
+        "id": "FWS-R3-ES-2014-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-04T23:00:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-30574",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2015-03-03T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: 90-Day Findings on Two Petitions",
+          "postedDate": "2014-12-31T05:00:00Z",
+          "docketId": "FWS-R3-ES-2014-0056",
+          "subtype": null,
+          "commentStartDate": "2014-12-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648199c232"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R3-ES-2014-0056-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 82,
+            "label": "Notice"
+          },
+          {
+            "docCount": 72,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 56,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Amendment"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "DOD"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 2,
+            "value": "FWS"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FSIS"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "ITA"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2014-12-31",
+          "toDate": "2014-12-31"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

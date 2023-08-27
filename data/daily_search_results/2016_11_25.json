@@ -1,0 +1,962 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-2000-N-0011-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-25T02:00:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28333",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2017-01-25T04:59:59Z",
+          "title": "Uniform Compliance Date for Food Labeling Regulations",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FDA-2000-N-0011",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bed7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-N-0011-0010"
+        }
+      },
+      {
+        "id": "FAA-2016-5597-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T16:55:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27640",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-5597",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bec6e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-5597-0005"
+        }
+      },
+      {
+        "id": "USCG-2016-0968-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-25T14:50:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28359",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2016-12-28T04:59:59Z",
+          "title": "Drawbridge Operation Regulation; Youngs Bay, Astoria, OR",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "USCG-2016-0968",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823becfd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0968-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9138-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-25T16:59:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28292",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Class E Airspace; Amendments Willows, CA",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-9138",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bed37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9138-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9386-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-03T21:02:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27307",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-01-10T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Defense and Space S.A. (Formerly Known as Construcciones Aeronauticas, S.A.) Airplanes",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-9386",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bee51"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9386-0001"
+        }
+      },
+      {
+        "id": "CFTC-2016-0102-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T12:49:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28388",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Commodity Pool Operator Financial Reports",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823beea3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2016-0102-0001"
+        }
+      },
+      {
+        "id": "AMS-SC-16-0090-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-06T13:47:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28256",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Continuance Referendum: Pears Grown in Oregon and Washington",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "AMS-SC-16-0090",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823beeec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-16-0090-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-5041-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-03T21:49:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28059",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-5041",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bef3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-5041-0004"
+        }
+      },
+      {
+        "id": "DHS-2016-0085-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T15:14:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28288",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Privacy Act of 1974: Implementation of Exemptions; Department of Homeland Security (DHS)/U.S. Customs and Border Protection (CBP)\u2013022 Electronic Visa Update System (EVUS) System of Records",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "DHS-2016-0085",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064823bef7b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2016-0085-0001"
+        }
+      },
+      {
+        "id": "FERC-2016-1609-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-25T12:50:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28321",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2017-01-25T04:59:59Z",
+          "title": "Essential Reliability Services and the Evolving Bulk-Power System-Primary Frequency Response",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bef7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2016-1609-0001"
+        }
+      },
+      {
+        "id": "AMS-SC-16-0042-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-24T14:35:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28252",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Quality and Handling Requirements: Irish Potatoes Grown in Colorado; Area No. 2",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "AMS-SC-16-0042",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bed34"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-16-0042-0002"
+        }
+      },
+      {
+        "id": "FERC-2016-1605-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-25T12:48:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28193",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2017-01-25T04:59:59Z",
+          "title": "Annual Charges for Use of Government Lands: Alaska",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bedbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2016-1605-0001"
+        }
+      },
+      {
+        "id": "BIS-2016-0040-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-02T23:53:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28039",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Commerce Control List: Removal of Certain Nuclear Nonproliferation Column 2 Controls",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "BIS-2016-0040",
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bedc3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2016-0040-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-7427-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-03T21:02:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27643",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-7427",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bee14"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-7427-0004"
+        }
+      },
+      {
+        "id": "FAA-2016-5044-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-03T21:02:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28054",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-5044",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823beeeb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-5044-0004"
+        }
+      },
+      {
+        "id": "AMS-SC-16-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-25T02:02:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28253",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2017-01-25T04:59:59Z",
+          "title": "Grade Standards: United States Standards for Grades of Shelled Walnuts and Walnuts in the Shell",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "AMS-SC-16-0005",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bef40"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-16-0005-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0259-1435",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-08-16T15:09:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28399",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Rotorcraft External-Load Operations; Technical Amendment",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2013-0259",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bec94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0259-1435"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2016-0591-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-09T05:36:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28272",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-12-28T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Alaska; Permitting Fees Revision",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2016-0591",
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bed79"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2016-0591-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-6413-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T17:00:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28277",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class E Airspace; Establishments: Silver Springs, NV",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-6413",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bedbb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-6413-0002"
+        }
+      },
+      {
+        "id": "AMS-SC-16-0031-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-06T13:41:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28254",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Suspensions and Revisions: Incoming Size-Grade Requirements Olives Grown in California",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "AMS-SC-16-0031",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bee0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-16-0031-0002"
+        }
+      },
+      {
+        "id": "CFTC-2016-0103-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-25T12:49:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27250",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2017-01-25T04:59:59Z",
+          "title": "Regulation Automated Trading",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823beeac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2016-0103-0001"
+        }
+      },
+      {
+        "id": "DOD-2016-OS-0079-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-29T15:21:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28221",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2017-01-25T04:59:59Z",
+          "title": "Production of Official Records or Disclosure of Official Information in Proceedings before Federal, State or Local Governmental Entities of Competent Jurisdiction",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "DOD-2016-OS-0079",
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823beef0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2016-OS-0079-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-8827-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T16:57:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28284",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class D and E Airspace; Amendments: Georgetown, TX; Corpus Christi, TX; Dallas/Fort Worth, TX; Gainesville, TX; Graford, TX; Hebbronville, TX; and Jasper, TX",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-8827",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823becfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8827-0002"
+        }
+      },
+      {
+        "id": "NCUA-2016-0081-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T12:49:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28229",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Community Development Revolving Loan Fund",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "NCUA-2016-0081",
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823beef2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2016-0081-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0140-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T16:59:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28317",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Pacific Island Pelagic Fisheries: U.S. Territorial Longline Bigeye Tuna Catch Limits for the Territory of Guam; Valid Specified Fishing Agreement",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0140",
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bee12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0140-0030"
+        }
+      },
+      {
+        "id": "FAA-2015-5809-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-03T21:02:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26809",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2015-5809",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bef3b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-5809-0006"
+        }
+      },
+      {
+        "id": "USCG-2016-0110-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T15:00:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28405",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Anchorage Grounds; Delaware Bay and River, Philadelphia, PA",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "USCG-2016-0110",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064823bef7d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0110-0006"
+        }
+      },
+      {
+        "id": "FAA-2016-9281-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-26T02:01:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27771",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-01-25T04:59:59Z",
+          "title": "Airworthiness Directives: Sikorsky Aircraft Corporation Helicopters",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-9281",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bef81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9281-0001"
+        }
+      },
+      {
+        "id": "DHS-2016-0087-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T15:04:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28289",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Privacy Act of 1974: Implementation of Exemptions; Department of Homeland Security/U.S. Immigration and Customs Enforcement- 015 LeadTrac System of Records",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "DHS-2016-0087",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064823bee0d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2016-0087-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-1029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-25T14:55:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28331",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Northeast Cape Fear River, Wilmington, NC",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "USCG-2016-1029",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064823beeab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-1029-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9396-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-12T00:48:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27638",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-01-25T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters (Previously Eurocopter France) Helicopters",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2016-9396",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bef37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9396-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-3657-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-25T17:12:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27639",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Helicopters (Previously Eurocopter France) Helicopters",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "FAA-2015-3657",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bef82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-3657-0004"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2016-0591-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-09T05:36:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-28276",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-12-28T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Alaska; Permitting Fees Revision",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2016-0591",
+          "subtype": null,
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823becfb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2016-0591-0002"
+        }
+      },
+      {
+        "id": "IRS-2016-0044-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-14T16:50:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27907",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2017-02-24T04:59:59Z",
+          "title": "Minimum Present Value Requirements for Defined Benefit Plan Distributions",
+          "postedDate": "2016-11-25T05:00:00Z",
+          "docketId": "IRS-2016-0044",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823bedbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2016-0044-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 87,
+            "label": "Notice"
+          },
+          {
+            "docCount": 51,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Rule"
+          },
+          {
+            "docCount": 15,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 10,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 34,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 13,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "AMS"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 2,
+            "value": "DHS"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-11-25",
+          "toDate": "2016-11-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 34,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 34,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

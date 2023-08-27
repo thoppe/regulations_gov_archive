@@ -11,5 +11,5 @@ Regulations are organized by five document types:
 + Other
 + Supporting & Related Material
 
-This project only collects information on the first two document types.
+This project only collects information on the first two document types `Proposed Rule` and `Rule`.
 

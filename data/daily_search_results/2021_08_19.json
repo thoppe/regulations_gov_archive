@@ -1,0 +1,572 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2021-0682-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-10-05T01:01:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17679",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-10-05T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "FAA-2021-0682",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85f97"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0682-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0455-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-10-06T18:10:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Leonardo S.p.a. Helicopters",
+          "postedDate": "2021-08-20T00:00:00Z",
+          "docketId": "FAA-2021-0455",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484c92cc8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0455-0004"
+        }
+      },
+      {
+        "id": "EERE-2011-BT-DET-0045-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-08-19T12:31:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17715",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2021-08-19  Energy Conservation Program: Final Determination of Fans and Blowers as Covered Equipment; Final rule; final determination",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "EERE-2011-BT-DET-0045",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484c85e6b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2011-BT-DET-0045-0020"
+        }
+      },
+      {
+        "id": "USCG-2021-0549-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-08-19T12:47:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17751",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; New York Upper Bay, Pierhead Channel, and Port Jersey Channel, Bayonne, NJ",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "USCG-2021-0549",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484c85ff7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0549-0001"
+        }
+      },
+      {
+        "id": "DOD-2016-OS-0045-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-08-19T14:49:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17675",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "DOD-2016-OS-0045",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484c85ff8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2016-OS-0045-0007"
+        }
+      },
+      {
+        "id": "DOD-2020-OS-0045-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-08-19T14:47:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17688",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "National Industrial Security Program Operating Manual",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "DOD-2020-OS-0045",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484c85f31"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2020-OS-0045-0012"
+        }
+      },
+      {
+        "id": "FCC-2021-0384-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-08-19T11:47:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-16085",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2021-10-19T03:59:59Z",
+          "title": "Protecting Against National Security Threats to the Communications Supply Chain through the Equipment Authorization Program and the Competitive Bidding Program",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85ed6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2021-0384-0002"
+        }
+      },
+      {
+        "id": "FCC-2021-0385-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-08-19T11:48:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-16637",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2021-10-19T03:59:59Z",
+          "title": "State-of-the-Art Radar Sensors in 60 GHz Band",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85f9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2021-0385-0001"
+        }
+      },
+      {
+        "id": "FCC-2021-0384-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-08-19T11:45:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-16087",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2021-10-19T03:59:59Z",
+          "title": "Protecting Against National Security Threats to the Communications Supply Chain through the Equipment Authorization Program and the Competitive Bidding Program",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85e6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2021-0384-0001"
+        }
+      },
+      {
+        "id": "FISCAL-2021-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-10-20T01:00:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17268",
+          "withdrawn": false,
+          "agencyId": "FISCAL",
+          "commentEndDate": "2021-10-19T03:59:59Z",
+          "title": "Federal Government Participation in the Automated Clearing House",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "FISCAL-2021-0002",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85f9b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FISCAL-2021-0002-0001"
+        }
+      },
+      {
+        "id": "EERE-2021-BT-STD-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-11-16T02:00:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17346",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2021-10-19T03:59:59Z",
+          "title": "2021-08-19  Energy Conservation Program: Definitions for General Service Lamps; Notice of proposed rulemaking and announcement of public meeting",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "EERE-2021-BT-STD-0012",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85ffa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2021-BT-STD-0012-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0684-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-10-05T01:00:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17677",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-10-05T03:59:59Z",
+          "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "FAA-2021-0684",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c86065"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0684-0001"
+        }
+      },
+      {
+        "id": "AMS-FGIS-19-0062-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-09-22T01:01:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17609",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2021-09-21T03:59:59Z",
+          "title": "Exceptions to Geographic Boundaries",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "AMS-FGIS-19-0062",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85edc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FGIS-19-0062-0008"
+        }
+      },
+      {
+        "id": "USCG-2021-0636-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-08-19T12:41:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17788",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones; Annual Events in the Captain of the Port Buffalo Zone",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "USCG-2021-0636",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484c85f95"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0636-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2021-0517-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-09-22T01:01:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17763",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2021-09-21T03:59:59Z",
+          "title": "TX234.01 Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants: Texas; Control of Emissions from Existing Other Solid Waste Incineration Units, Proposed rule, 2 pages.",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2021-0517",
+          "subtype": null,
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c86063"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2021-0517-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0637-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-08-19T12:26:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17752",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2021-09-04T03:59:59Z",
+          "title": "Safety Zone; Ironman Michigan, Frankfort Harbor, MI",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "USCG-2021-0637",
+          "subtype": null,
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85ed8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0637-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0519-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-08-19T12:36:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17753",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; SML Bridge Repairs, Portsmouth, NH",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "USCG-2021-0519",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484c85f30"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0519-0001"
+        }
+      },
+      {
+        "id": "BIS-2017-0004-1752",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-08-19T13:32:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-17647",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Control of Firearms, Guns, Ammunition and Related Articles the President Determines No Longer Warrant Control under the United States Munitions List; Corrections",
+          "postedDate": "2021-08-19T04:00:00Z",
+          "docketId": "BIS-2017-0004",
+          "subtype": null,
+          "commentStartDate": "2021-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484c85ed9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2017-0004-1752"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 64,
+            "label": "Notice"
+          },
+          {
+            "docCount": 37,
+            "label": "Other"
+          },
+          {
+            "docCount": 32,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 18,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "DOD"
+          },
+          {
+            "docCount": 2,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FISCAL"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2021-08-19",
+          "toDate": "2021-08-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 18,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 18,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

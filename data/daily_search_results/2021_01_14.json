@@ -1,0 +1,921 @@
+[
+  {
+    "data": [
+      {
+        "id": "OSHA-2017-0006-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T14:49:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00018",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": null,
+          "title": "Department of Labor Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2021",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "OSHA-2017-0006",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f285b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2017-0006-0018"
+        }
+      },
+      {
+        "id": "FAR-2017-0003-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-15T16:46:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-29088",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Individual Sureties",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "FAR-2017-0003",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2798"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2017-0003-0008"
+        }
+      },
+      {
+        "id": "FAR-2020-0051-0036",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-26T18:09:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-29090",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Federal Acquisition Circular 2021-03; Small Entity Compliance Guide",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "FAR-2020-0051",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2827"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2020-0051-0036"
+        }
+      },
+      {
+        "id": "FAR-2018-0016-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-26T18:42:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-29087",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Lowest Price Technically Acceptable Source Selection Process",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "FAR-2018-0016",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2607"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2018-0016-0011"
+        }
+      },
+      {
+        "id": "DOE-HQ-2020-0008-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-21T15:52:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00439",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Inflation Adjustment of Civil Monetary Penalties",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "DOE-HQ-2020-0008",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2714"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2020-0008-0002"
+        }
+      },
+      {
+        "id": "FAR-2020-0051-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-26T18:06:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-29085",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Federal Acquisition Circular 2021-03; Introduction",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "FAR-2020-0051",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2603"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2020-0051-0035"
+        }
+      },
+      {
+        "id": "IRS-2019-0037-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-15T18:32:40Z",
+          "highlightedContent": "",
+          "frDocNum": "C2-2020-28653",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Taxable Year of Income Inclusion under an Accrual Method of Accounting and Advance Payments for Goods, Services, and Other Items",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "IRS-2019-0037",
+          "subtype": "Correction",
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f26d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0037-0015"
+        }
+      },
+      {
+        "id": "SBA-2018-0006-0195",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-15T22:21:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00270",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Consolidation of Mentor-Protege Programs and Other Government Contracting Amendments; Correction",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "SBA-2018-0006",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f26dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2018-0006-0195"
+        }
+      },
+      {
+        "id": "STB-2021-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:27:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00755",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalties-2021 Adjustment",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2604"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2021-0007-0001"
+        }
+      },
+      {
+        "id": "SEC-2021-0053-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:29:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-24749",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Facilitating Capital Formation and Expanding Investment Opportunities by Improving Access to Capital in Private Markets",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f264f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2021-0053-0001"
+        }
+      },
+      {
+        "id": "USPS-2021-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:30:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00447",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Inspection Service Authority; Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2692"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2021-0020-0001"
+        }
+      },
+      {
+        "id": "WHD_FRDOC_0001-0098",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:34:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00018",
+          "withdrawn": false,
+          "agencyId": "WHD",
+          "commentEndDate": null,
+          "title": "Department of Labor Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2021",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "WHD_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f27dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/WHD_FRDOC_0001-0098"
+        }
+      },
+      {
+        "id": "ETA-2020-0006-2342",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-28T17:01:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00218",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": null,
+          "title": "Strengthening Wage Protections for the Temporary and Permanent Employment of Certain Aliens in the United States",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "ETA-2020-0006",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2716"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA-2020-0006-2342"
+        }
+      },
+      {
+        "id": "CMS-2020-0098-0346",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-02-03T11:42:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00707",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2021-01-15T04:59:59Z",
+          "title": "Medicare Program; Medicare Coverage of Innovative Technology and Definition of Reasonable and Necessary",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "CMS-2020-0098",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f282b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2020-0098-0346"
+        }
+      },
+      {
+        "id": "FAR-2020-0052-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-26T18:07:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-29089",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Technical Amendments",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "FAR-2020-0052",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f275b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2020-0052-0004"
+        }
+      },
+      {
+        "id": "DOD-2021-OS-0001-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:36:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-29087",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Lowest Price Technically Acceptable Source Selection Process",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "DOD-2021-OS-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064849f268e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2021-OS-0001-0005"
+        }
+      },
+      {
+        "id": "FCC-2021-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:33:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-27277",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Television Broadcasting Services: Minneapolis, MN",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2718"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2021-0017-0001"
+        }
+      },
+      {
+        "id": "WCPO_FRDOC_0001-0287",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:33:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00018",
+          "withdrawn": false,
+          "agencyId": "WCPO",
+          "commentEndDate": null,
+          "title": "Department of Labor Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2021",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "WCPO_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2792"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/WCPO_FRDOC_0001-0287"
+        }
+      },
+      {
+        "id": "ETA_FRDOC_0001-0249",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:34:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00018",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": null,
+          "title": "Department of Labor Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2021",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "ETA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f27d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA_FRDOC_0001-0249"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0417",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:33:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-29087",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Lowest Price Technically Acceptable Source Selection Process",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2717"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0417"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2020-0148-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-04-03T01:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00137",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2021-04-01T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants: Refractory Products Manufacturing Residual Risk and Technology Review",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2020-0148",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f26d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2020-0148-0001"
+        }
+      },
+      {
+        "id": "MSHA-2021-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-22T14:10:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00018",
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": null,
+          "title": "Department of Labor Federal Civil Penalties Inflation Adjustment Act Annual Adjustments for 2021",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "MSHA-2021-0002",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2710"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2021-0002-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2020-0505-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-04-01T01:00:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00233",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2021-04-01T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants: Carbon Black Production Residual Risk and Technology Review and Carbon Black Production Area Sources Technology Review",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2020-0505",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f285f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2020-0505-0001"
+        }
+      },
+      {
+        "id": "EEOC_FRDOC_0001-0277",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:31:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00701",
+          "withdrawn": false,
+          "agencyId": "EEOC",
+          "commentEndDate": null,
+          "title": "Update of Commission's Conciliation Procedures",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "EEOC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f26dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EEOC_FRDOC_0001-0277"
+        }
+      },
+      {
+        "id": "FAR-2017-0018-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-15T16:22:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-29086",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Violations of Arms Control Treaties or Agreements with the United States",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "FAR-2017-0018",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2711"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2017-0018-0003"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0607",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:58:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00592",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Transparency and Fairness in Civil Administrative Enforcement Actions",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f264c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0607"
+        }
+      },
+      {
+        "id": "CFTC-2021-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T13:34:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-25332",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Position Limits for Derivatives",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f27d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2021-0005-0001"
+        }
+      },
+      {
+        "id": "SBA-2019-0003-0310",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-15T22:16:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00476",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Women-Owned Small Business and Economically Disadvantaged Women-Owned Small Business Certification; Correction",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "SBA-2019-0003",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2823"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2019-0003-0310"
+        }
+      },
+      {
+        "id": "NHTSA-2021-0001-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-06T02:00:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00278",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2021-01-26T04:59:59Z",
+          "title": "Civil Penalties",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "NHTSA-2021-0001",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2605"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2021-0001-0010"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2020-0054-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-14T16:27:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00570",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "List of Fisheries for 2021",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "NOAA-NMFS-2020-0054",
+          "subtype": null,
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f26db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2020-0054-0011"
+        }
+      },
+      {
+        "id": "FAA-2020-1172-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-02T02:00:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-00807",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-03-02T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2021-01-14T05:00:00Z",
+          "docketId": "FAA-2020-1172",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2021-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849f2760"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1172-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 181,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 76,
+            "label": "Notice"
+          },
+          {
+            "docCount": 67,
+            "label": "Other"
+          },
+          {
+            "docCount": 29,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 31,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAR"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "ETA"
+          },
+          {
+            "docCount": 2,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "EEOC"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "WCPO"
+          },
+          {
+            "docCount": 1,
+            "value": "WHD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 80,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 205,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 414,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1338,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2021-01-14",
+          "toDate": "2021-01-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 31,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 31,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

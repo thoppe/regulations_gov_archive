@@ -1,0 +1,738 @@
+[
+  {
+    "data": [
+      {
+        "id": "FCC-2019-0081-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-11T11:56:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-06961",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Advanced Methods to Target and Eliminate Unlawful Robocalls; Correction",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b8229a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2019-0081-0002"
+        }
+      },
+      {
+        "id": "FAA-2018-0866-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-15T01:06:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07176",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2019-06-11T03:59:59Z",
+          "title": "Airworthiness Directives: Bell Helicopter Textron Inc. Helicopters",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "FAA-2018-0866",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b82096"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0866-0001"
+        }
+      },
+      {
+        "id": "BIS-2019-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-19T16:26:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07211",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Revisions to the Unverified List",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "BIS-2019-0007",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b82148"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2019-0007-0001"
+        }
+      },
+      {
+        "id": "SBA-2018-0004-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-16T14:08:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07130",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Small Business Size Standards: Revised Size Standards Methodology",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "SBA-2018-0004",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b821f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2018-0004-0018"
+        }
+      },
+      {
+        "id": "TTB-2019-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-11T14:57:18Z",
+          "highlightedContent": "",
+          "frDocNum": "FR Doc 2019-07220",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "Notice No. 180:  Civil Monetary Penalty Inflation Adjustment--Alcoholic Beverage Labeling Act",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "TTB-2019-0002",
+          "subtype": "Policy Statement",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483b82092"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2019-0002-0001"
+        }
+      },
+      {
+        "id": "DOD-2018-OS-0008-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-11T13:34:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-03971",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Privacy Program",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "DOD-2018-OS-0008",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b821ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2018-OS-0008-0004"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0397",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-11T11:54:42Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2019-06555",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Implementation of the Federal Civil Penalties Inflation Adjustment Act and Adjustment of Amounts for 2019",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b821ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0397"
+        }
+      },
+      {
+        "id": "FAA-2014-0396-19016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-03-04T02:03:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07215",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Interpretation of the Special Rule for Model Aircraft; Withdrawal",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "FAA-2014-0396",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b821a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-0396-19016"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2018-0542-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-11T16:05:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07114",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Florida; 2008 8-hour Ozone Interstate Transport",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2018-0542",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b821a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2018-0542-0003"
+        }
+      },
+      {
+        "id": "VA-2018-VACO-0022-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-11T14:12:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07193",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AQ18-Final Rule-Acquisition Regulations: Construction and Architect-Engineer Contracts; Correction; FR Doc. #2019-07193",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "VA-2018-VACO-0022",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483b8229f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2018-VACO-0022-0006"
+        }
+      },
+      {
+        "id": "NASA-2019-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-05-31T14:55:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-06554",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": "2019-05-29T03:59:59Z",
+          "title": "Procedures for Disclosure of Records under the Freedom of Information Act",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "NASA-2019-0001",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b8229d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA-2019-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2018-0795-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-04-11T12:53:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07115",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2019-05-14T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approval and Promulgation: Delaware; Negative Declaration for the Oil and Natural Gas Industry Control Techniques Guidelines",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2018-0795",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b8214d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2018-0795-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2018-0301-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-12T01:08:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-06734",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: North Carolina: Readoption of Air Quality Rules and Removal of the Oxygenated Gasoline Rules",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2018-0301",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b7d1c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2018-0301-0006"
+        }
+      },
+      {
+        "id": "FAA-2019-0191-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-28T01:02:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07187",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2019-05-29T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "FAA-2019-0191",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b8214c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0191-0001"
+        }
+      },
+      {
+        "id": "FDIC-2019-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-04-11T11:57:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-06713",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": "2019-05-14T03:59:59Z",
+          "title": "Recordkeeping for Timely Deposit Insurance Determination",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b822a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2019-0041-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2018-0744-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-04-20T01:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07212",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2019-05-14T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Hawaii; Regional Haze Progress Report",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2018-0744",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b820ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2018-0744-0001"
+        }
+      },
+      {
+        "id": "IRS-2019-0012-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-09T19:37:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07118",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Deduction for Foreign-Derived Intangible Income and Global Intangible Low-Taxed Income: Correction",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "IRS-2019-0012",
+          "subtype": "Correction",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b820ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0012-0003"
+        }
+      },
+      {
+        "id": "FCC-2019-0089-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-04-11T11:51:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07093",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Commission Proposes to Reconfigure the 900 MHz Band to Facilitate Broadband Services; Correction",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b82098"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2019-0089-0002"
+        }
+      },
+      {
+        "id": "FAA-2017-0839-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-11T13:34:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07164",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Zodiac Seats France Cabin Attendant Seats",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "FAA-2017-0839",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b820ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0839-0005"
+        }
+      },
+      {
+        "id": "FAA-2018-1063-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-28T18:25:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07186",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "FAA-2018-1063",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b82091"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-1063-0005"
+        }
+      },
+      {
+        "id": "GSA-GSAR-2008-0007-0116",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-29T16:28:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07171",
+          "withdrawn": false,
+          "agencyId": "GSA",
+          "commentEndDate": null,
+          "title": "Acquisition Regulations: Cooperative Purchasing-Acquisition of Security and Law Enforcement Related Goods and Services (Schedule 84) by State and Local Governments through Federal Supply Schedules",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "GSA-GSAR-2008-0007",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b82097"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GSA-GSAR-2008-0007-0116"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2017-0673-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-12T21:03:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07173",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2019-06-11T03:59:59Z",
+          "title": "Pesticide Tolerances: Fenazaquin",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2017-0673",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b82248"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2017-0673-0005"
+        }
+      },
+      {
+        "id": "FAA-2019-0190-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-28T18:25:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07188",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2019-05-29T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "FAA-2019-0190",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b82298"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0190-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0549",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:52:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-07122",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Privacy Act; Implementation",
+          "postedDate": "2019-04-11T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2019-04-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483b821f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0549"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 1124,
+            "label": "Other"
+          },
+          {
+            "docCount": 77,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 50,
+            "label": "Notice"
+          },
+          {
+            "docCount": 17,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Policy Statement"
+          },
+          {
+            "docCount": 1,
+            "label": "Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "GSA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "TTB"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2019-04-11",
+          "toDate": "2019-04-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

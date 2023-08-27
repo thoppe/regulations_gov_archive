@@ -1,0 +1,754 @@
+[
+  {
+    "data": [
+      {
+        "id": "USDA_FRDOC_0001-1513",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T13:21:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24361",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Delegations of Authority; Revision",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0840"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-1513"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-11-19T02:30:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24638",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2015-10-30T03:59:59Z",
+          "title": "List of Fisheries for 2016",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0055",
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0841"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0055-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-0494-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-05T21:41:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24252",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2015-0494",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0f11"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-0494-0004"
+        }
+      },
+      {
+        "id": "FAA-2015-2207-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-11-07T21:58:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24249",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: M7 Aerospace LLC Airplanes",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2015-2207",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0f10"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-2207-0003"
+        }
+      },
+      {
+        "id": "CFTC-2015-0058-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T13:23:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24596",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2015-11-14T04:59:59Z",
+          "title": "Aggregation of Positions",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0e7b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2015-0058-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2015-0581-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T13:37:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24461",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2015-10-30T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgation: Missouri; Regional Haze Five-Year Progress Report",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2015-0581",
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0edd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2015-0581-0001"
+        }
+      },
+      {
+        "id": "MSHA-2014-0019-0083",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T15:30:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": null,
+          "title": "Proposed rule; scheduling of public hearing.",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "MSHA-2014-0019",
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca12be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2014-0019-0083"
+        }
+      },
+      {
+        "id": "PHMSA-2015-0076-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T20:23:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "U.S. DOT/PHMSA - Final Rule; Regulatory Review: Hazardous Liquid and Carbon Dioxide Pipeline Safety Standards (PS-127)",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "PHMSA-2015-0076",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca25d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2015-0076-0004"
+        }
+      },
+      {
+        "id": "PHMSA-2015-0083-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T20:45:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "U.S. DOT/PHMSA - Final Rule: Response to Petition for Reconsideration; Customer Owned Service Lines (PS-135)",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "PHMSA-2015-0083",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca26da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2015-0083-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0181-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-10-28T01:30:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24576",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2015-10-30T03:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Snapper-Grouper Fishery and Golden Crab Fishery of the South Atlantic, and Dolphin and Wahoo Fishery of the Atlantic",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0181",
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0fa2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0181-0023"
+        }
+      },
+      {
+        "id": "FAA-2007-0218-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T13:45:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-23617",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Lycoming Engines Fuel Injected Reciprocating Engines",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2007-0218",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0f55"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0218-0019"
+        }
+      },
+      {
+        "id": "FCC-2015-0301-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T13:24:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24441",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2015-12-01T04:59:59Z",
+          "title": "Enable Railroad Police Officers to Access Public Safety Interoperability and Mutual Aid Channels",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0f5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2015-0301-0001"
+        }
+      },
+      {
+        "id": "FERC-2015-1293-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T13:22:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24281",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2015-12-01T04:59:59Z",
+          "title": "Collection of Connected Entity Data from Regional Transmission Organizations and Independent System Operators",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0844"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2015-1293-0001"
+        }
+      },
+      {
+        "id": "GCERC-2015-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T13:23:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24816",
+          "withdrawn": false,
+          "agencyId": "GCERC",
+          "commentEndDate": "2015-10-30T03:59:59Z",
+          "title": "RESTORE Act Spill Impact Component Allocation",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0e7a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GCERC-2015-0011-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0503-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T13:42:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24256",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Helicopters Deutschland GmbH (formerly Eurocopter Deutschland GmbH) (AirbusHelicopters) Helicopters",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2012-0503",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0f15"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0503-0004"
+        }
+      },
+      {
+        "id": "FAA-2015-3637-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-22T22:00:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24565",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-11-14T04:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2015-3637",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0f16"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-3637-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2015-0077-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T20:27:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "U.S. DOT/PHMSA - Final Rules: Common Preamble; Drug and Alcohol Testing Programs (PS-128)",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "PHMSA-2015-0077",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca25d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2015-0077-0009"
+        }
+      },
+      {
+        "id": "FAA-2015-2466-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-12-26T22:27:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24257",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Piaggio Aero Industries S.p.A. Airplanes",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2015-2466",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0e23"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-2466-0003"
+        }
+      },
+      {
+        "id": "FAA-2014-0929-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T13:35:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24146",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing CompanyAirplanes",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2014-0929",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0e77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-0929-0009"
+        }
+      },
+      {
+        "id": "FWS-R4-ES-2015-0137-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-23T22:01:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24291",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2015-12-01T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Endangered Species Status for Chamaecrista lineata var. keyensis (Big Pine Partridge Pea), Chamaesyce deltoidea ssp. serpyllum (Wedge Spurge), and Linum arenicola (Sand Flax), and Threatened Species Status for Argythamnia blodgettii (Blodgett's Silverbush)",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FWS-R4-ES-2015-0137",
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0ed9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R4-ES-2015-0137-0001"
+        }
+      },
+      {
+        "id": "FERC-2015-1294-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T13:24:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24283",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2015-12-01T04:59:59Z",
+          "title": "Settlement Intervals and Shortage Pricing in Markets Operated by Regional Transmission Organizations and Independent System Operators",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0f17"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2015-1294-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-3321-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T13:38:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24431",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-11-14T04:59:59Z",
+          "title": "Establishment of Class E Airspace: Neah Bay, WA",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2015-3321",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0eda"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-3321-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2015-0072-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T20:09:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "U.S. DOT/PHMSA - Final Rule; Leakage Surveys on Distribution Lines Located Outside Business Districts (PS-123)",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "PHMSA-2015-0072",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca23ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2015-0072-0005"
+        }
+      },
+      {
+        "id": "FAA-2014-0773-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-09-29T13:34:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24145",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2014-0773",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0e28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-0773-0006"
+        }
+      },
+      {
+        "id": "FERC-2015-1295-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-09-29T13:24:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24282",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2015-12-01T04:59:59Z",
+          "title": "Availability of Certain North American Electric Reliability Corporation  Databases to the Commission",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0f56"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2015-1295-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-2775-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-02T21:37:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2015-24464",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: PILATUS AIRCRAFT LTD. Airplanes",
+          "postedDate": "2015-09-29T04:00:00Z",
+          "docketId": "FAA-2015-2775",
+          "subtype": "Final Rule",
+          "commentStartDate": "2015-09-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481ca0fa3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-2775-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 114,
+            "label": "Other"
+          },
+          {
+            "docCount": 63,
+            "label": "Notice"
+          },
+          {
+            "docCount": 46,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 12,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 3,
+            "value": "FERC"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "GCERC"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2015-09-29",
+          "toDate": "2015-09-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

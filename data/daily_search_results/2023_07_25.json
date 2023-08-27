@@ -1,0 +1,723 @@
+[
+  {
+    "data": [
+      {
+        "id": "USTR_FRDOC_0001-0810",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-26T01:01:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15641",
+          "withdrawn": false,
+          "agencyId": "USTR",
+          "commentEndDate": "2023-08-25T03:59:59Z",
+          "title": "Freedom of Information Act Policies and Procedures; Technical Amendment",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "USTR_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d37505"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USTR_FRDOC_0001-0810"
+        }
+      },
+      {
+        "id": "FWS-HQ-LE-2016-0067-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T13:42:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15373",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Seizure and Forfeiture Procedures",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FWS-HQ-LE-2016-0067",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d36c28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-LE-2016-0067-0007"
+        }
+      },
+      {
+        "id": "ETA-2023-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-07-25T12:27:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15631",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Federal-State Unemployment Compensation Program: Confidentiality and Disclosure of Information",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "ETA-2023-0002",
+          "subtype": null,
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485d37503"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA-2023-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0182-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T14:24:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15675",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Galena, AK",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FAA-2022-0182",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d36bf3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0182-0002"
+        }
+      },
+      {
+        "id": "USCG-2016-0132-10244",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-07-25T13:12:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15652",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Anchorage Grounds, Hudson River; Yonkers, NY to Kingston, NY",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "USCG-2016-0132",
+          "subtype": null,
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d36cbd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0132-10244"
+        }
+      },
+      {
+        "id": "USCG-2023-0599-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T12:49:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15697",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Annual Events in the Captain of the Port Buffalo Zone\u2014July and August 2023",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "USCG-2023-0599",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d36bf6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0599-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-0939-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T14:36:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15634",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt and Whitney Canada Corp. Engines",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FAA-2023-0939",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d36bfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0939-0003"
+        }
+      },
+      {
+        "id": "FAA-2023-1505-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-07-25T14:37:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15666",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-09-09T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc., Airplanes",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FAA-2023-1505",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485d36cbe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1505-0001"
+        }
+      },
+      {
+        "id": "FWS-R2-ES-2023-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-23T01:03:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15360",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Endangered and Threatened Species: Status for Salina Mucket and Mexican Fawnsfootand Designation of Critical Habitat",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FWS-R2-ES-2023-0026",
+          "subtype": null,
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485d36c74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R2-ES-2023-0026-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2021-0357-0057",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T12:37:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-14405",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Asbestos; Reporting and Recordkeeping Requirements Under the Toxic Substances Control Act (TSCA)",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2021-0357",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d2f357"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2021-0357-0057"
+        }
+      },
+      {
+        "id": "OPM_FRDOC_0001-4280",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T12:07:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15375",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": null,
+          "title": "Federal Employees Dental and Vision Insurance Program: Extension of Eligibility to Certain Employees on Temporary Appointments and Certain Employees on Seasonal and Intermittent Schedules; etc.",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "OPM_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d36c6c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM_FRDOC_0001-4280"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0459",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T12:06:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15396",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Acquisition Regulation: Accommodating the Incorporation, Transfer, and Reorganization of Defense Acquisition Statutes",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d2f354"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0459"
+        }
+      },
+      {
+        "id": "FWS-R4-ES-2023-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-07-25T13:48:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15621",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Species Not Warranted for Listing",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FWS-R4-ES-2023-0041",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d2a79a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R4-ES-2023-0041-0001"
+        }
+      },
+      {
+        "id": "FWS-R3-ES-2023-0040-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-07-25T13:46:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15621",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Species Not Warranted for Listing",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FWS-R3-ES-2023-0040",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d37500"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R3-ES-2023-0040-0001"
+        }
+      },
+      {
+        "id": "ICEB-2021-0010-0515",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T16:33:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15532",
+          "withdrawn": false,
+          "agencyId": "ICEB",
+          "commentEndDate": null,
+          "title": "Optional Alternatives to the Physical Document Examination Associated With Employment Eligibility Verification (Form I\u20139)",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "ICEB-2021-0010",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d2f351"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ICEB-2021-0010-0515"
+        }
+      },
+      {
+        "id": "ICEB-2021-0010-0516",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T16:35:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15533",
+          "withdrawn": false,
+          "agencyId": "ICEB",
+          "commentEndDate": null,
+          "title": "Optional Alternative 1 to the Physical Document Examination Associated With Employment Eligibility Verification (Form I\u20139)",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "ICEB-2021-0010",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d36cc5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ICEB-2021-0010-0516"
+        }
+      },
+      {
+        "id": "FAA-2022-0249-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T14:22:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15673",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Sitka, AK",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FAA-2022-0249",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d2f356"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0249-0002"
+        }
+      },
+      {
+        "id": "FAA-2022-0265-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T14:23:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15674",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Fairbanks, AK",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FAA-2022-0265",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d37585"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0265-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0172-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T14:48:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15679",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: N-(n-Octyl)-2-pyrrolidone in Pesticide Formulations; Exemption",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0172",
+          "subtype": null,
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d2f355"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0172-0003"
+        }
+      },
+      {
+        "id": "FAA-2023-1415-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T14:23:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15635",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Prohibition Against Certain Flights in the Kabul Flight Information Region",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FAA-2023-1415",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d37508"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1415-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1276-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T14:38:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15633",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Eastern United States",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "FAA-2023-1276",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d37504"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1276-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2022-0479-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T15:03:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15646",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Indaziflam",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2022-0479",
+          "subtype": null,
+          "commentStartDate": "2023-07-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485d36cc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2022-0479-0003"
+        }
+      },
+      {
+        "id": "NRC-2022-0143-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T13:16:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15611",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Regulatory Guide: Criteria for Programmable Digital Devices in Safety-Related Systems of Nuclear Power Plants",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "NRC-2022-0143",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d36bf2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2022-0143-0007"
+        }
+      },
+      {
+        "id": "NRC-2021-0091-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-25T13:27:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-15692",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Regulatory Guide: Use of Plant Parameter Envelope in Early Site Permit Applications for Nuclear Power Plants",
+          "postedDate": "2023-07-25T04:00:00Z",
+          "docketId": "NRC-2021-0091",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485d37587"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2021-0091-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 219,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 65,
+            "label": "Notice"
+          },
+          {
+            "docCount": 65,
+            "label": "Other"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 3,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FWS"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "ICEB"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "ETA"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "USTR"
+          }
+        ],
+        "commentEndDate": [
+          {
+            "docCount": 1,
+            "label": "Next 15 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-09-10 23:59:59"
+          },
+          {
+            "docCount": 3,
+            "label": "Next 30 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-09-25 23:59:59"
+          },
+          {
+            "docCount": 3,
+            "label": "Next 90 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-11-24 23:59:59"
+          }
+        ],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-07-25",
+          "toDate": "2023-07-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

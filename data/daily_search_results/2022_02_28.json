@@ -1,0 +1,872 @@
+[
+  {
+    "data": [
+      {
+        "id": "USDA-2021-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-04-02T23:45:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03880",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": "2022-03-31T03:59:59Z",
+          "title": "Production or Disclosure of Official Information in Legal Proceedings",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "USDA-2021-0009",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab946"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA-2021-0009-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2020-0144-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-01T01:00:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03572",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2022-03-31T03:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Northeast Multispecies Fishery; Amendment 23",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "NOAA-NMFS-2020-0144",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab381"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2020-0144-0004"
+        }
+      },
+      {
+        "id": "ATBCB-2022-0003-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T14:09:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04087",
+          "withdrawn": false,
+          "agencyId": "ATBCB",
+          "commentEndDate": null,
+          "title": "Procedures for Issuing Guidance Documents: Rescission; Correction",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "ATBCB-2022-0003",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab47e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ATBCB-2022-0003-0002"
+        }
+      },
+      {
+        "id": "FAA-2020-0345-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T14:05:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04146",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: AVOX System Inc. (formerly Scott Aviation) Oxygen Cylinder and Valve Assemblies and Oxygen Valve Assemblies",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2020-0345",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab909"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0345-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0337-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T15:05:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03924",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Fluridone",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0337",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab44d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0337-0001"
+        }
+      },
+      {
+        "id": "DARS-2019-0051-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-30T14:30:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04011",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Exception to Competition for Certain Follow-on Production Contracts",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "DARS-2019-0051",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab3c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2019-0051-0002"
+        }
+      },
+      {
+        "id": "DOT-OST-2021-0093-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-04T01:00:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02364",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2022-04-30T03:59:59Z",
+          "title": "Procedures for Transportation Workplace Drug and Alcohol Testing Programs: Addition of Oral Fluid Specimen Testing for Drugs",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "DOT-OST-2021-0093",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab414"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2021-0093-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0523-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T15:18:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04139",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Chlorpyrifos",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0523",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab90c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0523-0030"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0364-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T15:12:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04123",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-04-23T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Fatty Acids, Esters with Ethoxylated Triethanolamine",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0364",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab90b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0364-0003"
+        }
+      },
+      {
+        "id": "FAA-2022-0108-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-28T14:02:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04067",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-15T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Point Hope, AK",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2022-0108",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab44a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0108-0001"
+        }
+      },
+      {
+        "id": "AMS-NOP-19-0106-0062",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-03T14:47:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03851",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "National Organic Program: National List of Allowed and Prohibited Substances (2022 Sunset)",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "AMS-NOP-19-0106",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab41a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-NOP-19-0106-0062"
+        }
+      },
+      {
+        "id": "FAA-2022-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-28T13:58:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04119",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-15T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Anaktuvuk Pass, AK",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2022-0078",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab382"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0078-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-1079-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-28T13:54:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04066",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-15T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Eastern United States",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2021-1079",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab145"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1079-0002"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2021-0395-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-28T17:10:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04112",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-03-31T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Kentucky; Emissions Statement Requirements for the 2015 8-Hour Ozone Standard Nonattainment Areas",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2021-0395",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab142"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2021-0395-0003"
+        }
+      },
+      {
+        "id": "FAA-2021-1062-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-13T00:08:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04147",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2021-1062",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab947"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1062-0003"
+        }
+      },
+      {
+        "id": "FAA-2021-0729-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-06T00:04:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04159",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bell Textron Canada Limited Helicopters",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2021-0729",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab4cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0729-0004"
+        }
+      },
+      {
+        "id": "DARS-2022-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-30T14:33:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04009",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2022-05-28T03:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplements: United States-Mexico-Canada Agreement",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "DARS-2022-0003",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab412"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2022-0003-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-14T01:00:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04081",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-15T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Gulf Shores, AL",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2022-0048",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab418"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0048-0001"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2021-0108-0027",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-28T01:00:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04257",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2022-03-31T03:59:59Z",
+          "title": "Endangered and Threatened Species: Foothill Yellow-Legged Frog; Threatened Status with Section 4(d) Rule for Two Distinct Population Segments and Endangered Status for Two Distinct Population Segments",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FWS-R8-ES-2021-0108",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab413"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2021-0108-0027"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0644",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-27T17:01:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02859",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Conduct of Persons and Traffic on the National Institutes of Health Federal Enclave",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab13f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0644"
+        }
+      },
+      {
+        "id": "NCUA-2022-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-04-30T01:01:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03845",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": "2022-04-30T03:59:59Z",
+          "title": "Earnings Retention Waivers and Net Worth Restoration Plans: Prompt Corrective Action",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "NCUA-2022-0005",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab485"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2022-0005-0001"
+        }
+      },
+      {
+        "id": "DARS-2022-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-30T01:00:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04012",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2022-04-30T03:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplements: Reauthorization and Improvement of Mentor-Protege Program",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "DARS-2022-0002",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab4ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2022-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-1067-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-13T00:08:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04145",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2021-1067",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab482"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1067-0003"
+        }
+      },
+      {
+        "id": "RBS-20-BUSINESS-0027-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-04T12:31:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03884",
+          "withdrawn": false,
+          "agencyId": "RBS",
+          "commentEndDate": null,
+          "title": "Rural Energy for America Program",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "RBS-20-BUSINESS-0027",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab4c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RBS-20-BUSINESS-0027-0008"
+        }
+      },
+      {
+        "id": "FAA-2022-0109-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-28T14:01:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04068",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-15T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Annette Island,AK",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FAA-2022-0109",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab447"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0109-0001"
+        }
+      },
+      {
+        "id": "NIH-2020-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-28T16:37:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02859",
+          "withdrawn": false,
+          "agencyId": "NIH",
+          "commentEndDate": "2022-04-30T03:59:59Z",
+          "title": "Conduct of Persons and Traffic on the National Institutes of Health Federal Enclave",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "NIH-2020-0002",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab389"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIH-2020-0002-0001"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0002-0043",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T16:22:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03538",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of a New Animal Drug Application; Change of Sponsor",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FDA-2021-N-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab3c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0002-0043"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2021-0055-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T17:03:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04113",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: North Carolina; Mecklenburg Volatile Organic Compounds",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2021-0055",
+          "subtype": null,
+          "commentStartDate": "2022-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fab90a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2021-0055-0008"
+        }
+      },
+      {
+        "id": "FWS-R2-ES-2019-0019-0032",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T13:25:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03703",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Status for Peppered Chub and Designation of Critical Habitat",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "FWS-R2-ES-2019-0019",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484fab3cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R2-ES-2019-0019-0032"
+        }
+      },
+      {
+        "id": "USCG-2022-0084-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-28T13:59:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04170",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone; Lower Mississippi River, New Orleans, LA",
+          "postedDate": "2022-02-28T05:00:00Z",
+          "docketId": "USCG-2022-0084",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484fab44e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0084-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 86,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 54,
+            "label": "Notice"
+          },
+          {
+            "docCount": 54,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Rule"
+          },
+          {
+            "docCount": 13,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 30,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "DARS"
+          },
+          {
+            "docCount": 2,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "ATBCB"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NIH"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "RBS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-02-28",
+          "toDate": "2022-02-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 30,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 30,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

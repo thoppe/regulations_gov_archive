@@ -1,0 +1,718 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOE-HQ-2022-0001-0036",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-21T14:41:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-04240",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "DOE-HQ-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd351e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2022-0001-0036"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2016-0153-0138",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-19T00:57:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05855",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Priorities List",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2016-0153",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fcc7eb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2016-0153-0138"
+        }
+      },
+      {
+        "id": "DARS-2022-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-30T14:45:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05534",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: New Qualifying Country-Lithuania",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "DARS-2022-0006",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd3417"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2022-0006-0001"
+        }
+      },
+      {
+        "id": "DARS-2021-0010-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-30T14:55:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05531",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Postaward Debriefings",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "DARS-2021-0010",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd3554"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2021-0010-0006"
+        }
+      },
+      {
+        "id": "DARS-2022-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-30T14:51:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05536",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2022-05-18T03:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Revision of Definition of Commercial Item",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "DARS-2022-0004",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd3524"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2022-0004-0001"
+        }
+      },
+      {
+        "id": "ACL-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-22T13:45:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05665",
+          "withdrawn": false,
+          "agencyId": "ACL",
+          "commentEndDate": "2022-04-19T03:59:59Z",
+          "title": "National Institute on Disability, Independent Living, and Rehabilitation Research Regulations",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "ACL-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd3598"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ACL-2022-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0193-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-18T01:00:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05855",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-05-18T03:59:59Z",
+          "title": "National Priorities List",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0193",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd3553"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0193-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0190-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-25T01:01:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05855",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-05-18T03:59:59Z",
+          "title": "National Priorities List",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0190",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fcc7ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0190-0001"
+        }
+      },
+      {
+        "id": "SEC-2022-0361-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-18T12:29:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-01975",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2022-04-19T03:59:59Z",
+          "title": "Amendments to the Definition of Exchange; Alternative Trading Systems That Trade U.S. Government Securities, National Market System Stocks, and Other Securities; etc.",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd34a4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2022-0361-0001"
+        }
+      },
+      {
+        "id": "NOAA_FRDOC_0001-6179",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-18T12:29:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05767",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pacific Cod by Catcher Vessels less than 50 Feet Length Overall Using Hook-and-Line Gear in the Central Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "NOAA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd34a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA_FRDOC_0001-6179"
+        }
+      },
+      {
+        "id": "FCC-2022-0098-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-18T12:30:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05684",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Broadcast Radio Technical Rules",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd3595"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2022-0098-0001"
+        }
+      },
+      {
+        "id": "OCC-2020-0037-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-18T13:15:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05521",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": null,
+          "title": "Exemptions to Suspicious Activity Report Requirements",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "OCC-2020-0037",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd359b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2020-0037-0009"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0191-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-07-15T01:00:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05855",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-06-17T03:59:59Z",
+          "title": "National Priorities List",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0191",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fcc7ee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0191-0001"
+        }
+      },
+      {
+        "id": "DARS-2021-0017-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-30T14:41:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05532",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Contract Closeout Authority for Department of Defense Services Contracts",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "DARS-2021-0017",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd3411"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2021-0017-0004"
+        }
+      },
+      {
+        "id": "DARS-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-30T15:18:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05535",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Technical Amendments",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "DARS-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd359c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2022-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2021-0455-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-19T00:58:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05855",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-05-18T03:59:59Z",
+          "title": "National Priorities List",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2021-0455",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fcc7ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2021-0455-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0131-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-24T01:00:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05693",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2022-04-19T03:59:59Z",
+          "title": "Safety Zones; Recurring Marine Events and Fireworks Displays Within the Fifth Coast Guard District",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "USCG-2022-0131",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd349f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0131-0001"
+        }
+      },
+      {
+        "id": "BOEM-2022-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-04-29T20:06:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05633",
+          "withdrawn": false,
+          "agencyId": "BOEM",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment: Oil,Gas, and Sulfur Operations in the Outer Continental Shelf",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "BOEM-2022-0004",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd34e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BOEM-2022-0004-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2020-0375-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-18T15:57:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05737",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-05-19T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Bicyclopyrone",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2020-0375",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd34e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2020-0375-0005"
+        }
+      },
+      {
+        "id": "FMCSA-2007-27748-1497",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-18T12:59:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05709",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Minimum Training Requirements for Entry-Level Commercial Motor Vehicle Operators; Correcting amendment",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "FMCSA-2007-27748",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd351f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2007-27748-1497"
+        }
+      },
+      {
+        "id": "DARS-2022-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-30T14:48:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05533",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Evaluation Factor for Employing or Subcontracting with Members of the Selected Reserve",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "DARS-2022-0005",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd34de"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2022-0005-0001"
+        }
+      },
+      {
+        "id": "WHD-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-08T01:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05346",
+          "withdrawn": false,
+          "agencyId": "WHD",
+          "commentEndDate": "2022-05-18T03:59:59Z",
+          "title": "Updating the Davis-Bacon and Related Acts",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "WHD-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd351d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/WHD-2022-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2022-0192-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-01T01:00:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05855",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-05-18T03:59:59Z",
+          "title": "National Priorities List",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2022-0192",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fcc7ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2022-0192-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0076-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T21:04:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-05766",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pacific Cod by Pot Catcher/Processors in the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2022-03-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0076",
+          "subtype": null,
+          "commentStartDate": "2022-03-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484fd3556"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0076-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 68,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 61,
+            "label": "Notice"
+          },
+          {
+            "docCount": 44,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 6,
+            "value": "DARS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "ACL"
+          },
+          {
+            "docCount": 1,
+            "value": "BOEM"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "WHD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-03-18",
+          "toDate": "2022-03-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

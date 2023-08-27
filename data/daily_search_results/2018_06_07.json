@@ -1,0 +1,757 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2018-0088-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-14T17:31:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12281",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; Tred Avon River, Between Bellevue, MD and Oxford, MD",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "USCG-2018-0088",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483363813"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0088-0004"
+        }
+      },
+      {
+        "id": "USCG-2018-0300-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-07T16:12:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12282",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Willamette River at Portland, OR",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "USCG-2018-0300",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648336388f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0300-0001"
+        }
+      },
+      {
+        "id": "OCC-2017-0013-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-07T15:19:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12267",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": null,
+          "title": "Securities Transaction Settlement Cycle",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "OCC-2017-0013",
+          "subtype": null,
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483363894"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2017-0013-0005"
+        }
+      },
+      {
+        "id": "FDA-2017-C-0935-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-07T16:24:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12218",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2018-07-10T03:59:59Z",
+          "title": "Listing of Color Additives Subject to Certification; D&C Black No. 4",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FDA-2017-C-0935",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064833651b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2017-C-0935-0002"
+        }
+      },
+      {
+        "id": "USCG-2018-0308-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-07T15:16:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12283",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Ohio River, Mile Marker 27.8 to Mile Marker 28.2, Vanport, PA",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "USCG-2018-0308",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064833651e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0308-0001"
+        }
+      },
+      {
+        "id": "FDA-2004-N-0191-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-07-17T01:04:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12201",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2018-07-17T03:59:59Z",
+          "title": "Product Jurisdiction: Correction",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FDA-2004-N-0191",
+          "subtype": "Correction",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648336367b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-N-0191-0005"
+        }
+      },
+      {
+        "id": "FAA-2018-0504-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-07-14T01:05:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12128",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-07-24T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FAA-2018-0504",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483365252"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0504-0002"
+        }
+      },
+      {
+        "id": "FAA-2018-0513-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-25T05:31:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12127",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-07-24T03:59:59Z",
+          "title": "Airworthiness Directives: Honda Aircraft Company LLC",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FAA-2018-0513",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483365155"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0513-0001"
+        }
+      },
+      {
+        "id": "DRBC-2018-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-07T14:15:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12258",
+          "withdrawn": false,
+          "agencyId": "DRBC",
+          "commentEndDate": null,
+          "title": "Regulatory Program Fees and Water Charges Rates",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064833651ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DRBC-2018-0004-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-1175-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-27T01:08:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-11827",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc., Airplanes",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FAA-2017-1175",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648336367c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-1175-0004"
+        }
+      },
+      {
+        "id": "FAA-2018-0462-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-25T05:31:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-11930",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-07-24T03:59:59Z",
+          "title": "Airworthiness Directives: Aircraft Industries a.s. Airplanes",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FAA-2018-0462",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483365254"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0462-0001"
+        }
+      },
+      {
+        "id": "HUD-2018-0045-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-07T15:54:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12274",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR-6102-F-01 Removal of Cross References to Previously Removed Appendices and Subpart",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "HUD-2018-0045",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483363677"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2018-0045-0001"
+        }
+      },
+      {
+        "id": "USAF-2017-HQ-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-11T13:38:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12237",
+          "withdrawn": false,
+          "agencyId": "USAF",
+          "commentEndDate": null,
+          "title": "Freedom of Information Act Program",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "USAF-2017-HQ-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483363679"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USAF-2017-HQ-0001-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0428-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-08T12:58:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12284",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Snohomish River and Steamboat Slough, Everett and Marysville, WA",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "USCG-2018-0428",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483363811"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0428-0001"
+        }
+      },
+      {
+        "id": "FDIC-2018-0061-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-07T13:43:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12267",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Securities Transaction Settlement Cycle",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483360fb6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2018-0061-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2017-0360-0573",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-11-22T02:00:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12250",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Hours of Service of Drivers of Commercial Motor Vehicles: Regulatory Guidance Concerning Transportation of Agricultural Commodities",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FMCSA-2017-0360",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648336524c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2017-0360-0573"
+        }
+      },
+      {
+        "id": "USCG-2018-0440-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-07T15:39:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12287",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Hutchinson River, New York, NY",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "USCG-2018-0440",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648336515a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0440-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2017-0108-0396",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-08-27T01:03:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12256",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Hours of Service of Drivers of Commercial Motor Vehicles: Regulatory Guidance Concerning Use of Commercial Motor Vehicle for Personal Conveyance",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FMCSA-2017-0108",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483365157"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2017-0108-0396"
+        }
+      },
+      {
+        "id": "FMCSA-2013-0161-0115",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-29T12:22:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12032",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "General Technical, Organizational, Conforming, and Correcting Amendments to Federal Motor Carrier Safety Regulations: Correction",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FMCSA-2013-0161",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064833638fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2013-0161-0115"
+        }
+      },
+      {
+        "id": "USCG-2018-0242-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-14T17:44:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12301",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Blazing Paddles 2018 SUP Race; Cuyahoga River, Cleveland,OH",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "USCG-2018-0242",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483363896"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0242-0004"
+        }
+      },
+      {
+        "id": "FAA-2018-0517-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-07T18:50:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12227",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-08-07T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters Deutschland GmbH Helicopters",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FAA-2018-0517",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483360fb4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0517-0001"
+        }
+      },
+      {
+        "id": "FCC-2018-0206-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-07T14:18:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12183",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2018-08-07T03:59:59Z",
+          "title": "Transforming the 2.5 GHz Band",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064833651ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2018-0206-0001"
+        }
+      },
+      {
+        "id": "PRC-2018-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-07T14:13:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12200",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": "2018-07-17T03:59:59Z",
+          "title": "Periodic Reporting",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483363897"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2018-0008-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2017-0376-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-07T01:03:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12297",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-08-07T03:59:59Z",
+          "title": "Pesticide Tolerances: Acequinocyl",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2017-0376",
+          "subtype": null,
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648336367e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2017-0376-0004"
+        }
+      },
+      {
+        "id": "FAA-2018-0503-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-06-25T05:32:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-12135",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-07-24T03:59:59Z",
+          "title": "Airworthiness Directives: 328 Support Services GmbH (Type Certificate Previously Held by AvCraft Aerospace GmbH; Fairchild Dornier GmbH; Dornier Luftfahrt GmbH) Airplanes",
+          "postedDate": "2018-06-07T04:00:00Z",
+          "docketId": "FAA-2018-0503",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-06-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483360fb2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0503-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 559,
+            "label": "Other"
+          },
+          {
+            "docCount": 66,
+            "label": "Notice"
+          },
+          {
+            "docCount": 28,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Interim Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 25,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 6,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "DRBC"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USAF"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-06-07",
+          "toDate": "2018-06-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 25,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 25,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

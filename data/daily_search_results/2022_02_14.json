@@ -1,0 +1,833 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2022-0095-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-04-01T01:00:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03144",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-01T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2022-0095",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75265"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0095-0001"
+        }
+      },
+      {
+        "id": "FCC-2022-0057-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-14T12:47:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02908",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2022-04-16T03:59:59Z",
+          "title": "Affordable Connectivity Program",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f751da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2022-0057-0001"
+        }
+      },
+      {
+        "id": "FCC-2022-0057-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T12:48:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02887",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Affordable Connectivity Program; Emergency Broadband Benefit Program",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75221"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2022-0057-0002"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0994-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T14:53:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03104",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; General Hospital and Personal Use Devices; Classification of the Spore Test Strip",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FDA-2021-N-0994",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f752af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0994-0001"
+        }
+      },
+      {
+        "id": "FDA-2022-C-0098-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-14T14:21:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03109",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Motif FoodWorks, Inc.; Filing of Color Additive Petition",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FDA-2022-C-0098",
+          "subtype": "Petition",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f751d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2022-C-0098-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2020-0684-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-14T17:00:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02983",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-03-17T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Oregon; Air Contaminant Discharge Permit Fee Revision",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2020-0684",
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f7518f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2020-0684-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0831-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:37:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03040",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: General Electric Company Turbofan Engines",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2021-0831",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75266"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0831-0006"
+        }
+      },
+      {
+        "id": "FAA-2021-0845-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:40:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02996",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2021-0845",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f7526a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0845-0005"
+        }
+      },
+      {
+        "id": "FAA-2021-0961-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:26:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03030",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: British Aerospace (Operations) Limited and British Aerospace Regional Aircraft Airplanes",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2021-0961",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75154"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0961-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1989-0098-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-15T02:00:49Z",
+          "highlightedContent": "",
+          "frDocNum": "89-28725",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Standards of Performance for New Stationary Sources; Revision of Procedure 1 of Appendix F and Addition of Performance Specification 4A to Appendix B; Proposed Rule and Notice of Public Hearing",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-1989-0098",
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f77ed3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1989-0098-0001"
+        }
+      },
+      {
+        "id": "ETA-2022-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-12T02:00:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02680",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": "2022-03-17T03:59:59Z",
+          "title": "Senior Community Service Employment Program: Conforming Changes to the Supporting Older Americans Act, Updated Guidance on Priority of Service, Durational Limits, and State Plan Submissions",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "ETA-2022-0002",
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f7521b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA-2022-0002-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-18T15:23:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02794",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2022-03-02T04:59:59Z",
+          "title": "Fisheries off West Coast States: West Coast Salmon Fisheries; Overfished Species Rebuilding Plans",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0002",
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f752ac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0667-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-20T00:32:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02995",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2021-0667",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75124"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0667-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-1989-0098-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-15T01:33:31Z",
+          "highlightedContent": "",
+          "frDocNum": "91-1401",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Standards of Performance for New Stationary Sources; Addition of Performance Specification 4A to Appendix B and Revision of Procedure 1 of Appendix F",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-1989-0098",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f77ed2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-1989-0098-0002"
+        }
+      },
+      {
+        "id": "HUD-2022-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T14:43:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03007",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR-6285-F-01 HUD Office of Hearings and Appeals",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "HUD-2022-0015",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484f75192"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2022-0015-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0628-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:19:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03025",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-01T03:59:59Z",
+          "title": "Special Conditions: Dassault Aviation Model Falcon 6X Airplane; Flight-Envelope Protection: General Limiting Requirements",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2021-0628",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75153"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0628-0001"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0999-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T16:45:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03096",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; Cardiovascular Devices; Classification of the Adjudicative Predictive Cardiovascular Indicator",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FDA-2021-N-0999",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f7512a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0999-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0715-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:00:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03000",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Various Airplanes",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2021-0715",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f74cf4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0715-0003"
+        }
+      },
+      {
+        "id": "FAA-2021-1023-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:34:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03012",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: The Boeing Company, Model 737-10 Airplane; Dynamic Test Requirements for Single-Occupant, Oblique (Side-Facing) Seats Installed at 49 Degrees with Airbag Devices and 3-Point Restraints",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2021-1023",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75264"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1023-0003"
+        }
+      },
+      {
+        "id": "FCC-2022-0058-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T12:48:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03057",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Schools and Libraries Universal Service Support Mechanism",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75263"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2022-0058-0001"
+        }
+      },
+      {
+        "id": "BIS-2022-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T13:55:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03029",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Addition of Certain Entities to the Entity List",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "BIS-2022-0004",
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f751d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2022-0004-0001"
+        }
+      },
+      {
+        "id": "RBS-21-BUSINESS-0039-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-18T20:35:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03034",
+          "withdrawn": false,
+          "agencyId": "RBS",
+          "commentEndDate": null,
+          "title": "Request for Applications: Rural Innovation Stronger Economy Grant Program for FY 2022; Correction",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "RBS-21-BUSINESS-0039",
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f751d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RBS-21-BUSINESS-0039-0003"
+        }
+      },
+      {
+        "id": "FAA-2022-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:32:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03113",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-01T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2022-0019",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f751d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0019-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-1039-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:28:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03026",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-04-01T03:59:59Z",
+          "title": "Special Conditions: Dassault Aviation Model Falcon 6X Airplane; Electronic Flight-Control System: Lateral-Directional and Longitudinal Stability and Low-Energy Awareness",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2020-1039",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75159"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1039-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-1016-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T17:31:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03008",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: General Electric Company Turbofan Engines",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "FAA-2021-1016",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f7515c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1016-0003"
+        }
+      },
+      {
+        "id": "AMS-SC-21-0086-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-15T17:22:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03092",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2022-04-16T03:59:59Z",
+          "title": "Handling of Spearmint Oil Produced in the Far West: Salable Quantities and Allotment Percentages for the 2022-2023 Marketing Year",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "AMS-SC-21-0086",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f74ccb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-21-0086-0001"
+        }
+      },
+      {
+        "id": "AMS-SC-20-0082-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-15T17:21:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-03110",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Change in Maturity Requirements: Avocados Grown in South Florida and Imported Avocados",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "AMS-SC-20-0082",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f7518e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-20-0082-0007"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0047-0194",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-14T14:47:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02654",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: Municipal Solid Waste Landfills Residual Risk and Technology Review; Correction",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0047",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484f7521c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0047-0194"
+        }
+      },
+      {
+        "id": "ETA-2022-0002-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-15T01:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-02681",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": "2022-03-17T03:59:59Z",
+          "title": "Senior Community Service Employment Program: Conforming Changes to the Supporting Older Americans Act, Updated Guidance on Priority of Service, Durational Limits, and State Plan Submissions",
+          "postedDate": "2022-02-14T05:00:00Z",
+          "docketId": "ETA-2022-0002",
+          "subtype": null,
+          "commentStartDate": "2022-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f75222"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA-2022-0002-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 62,
+            "label": "Notice"
+          },
+          {
+            "docCount": 50,
+            "label": "Other"
+          },
+          {
+            "docCount": 50,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 21,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 11,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Petition"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 3,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "ETA"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "RBS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-02-14",
+          "toDate": "2022-02-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

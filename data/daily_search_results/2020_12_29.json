@@ -1,0 +1,801 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2020-1097-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-12-29T22:47:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28639",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-02-13T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Kremmling, CO",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-1097",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cf139"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1097-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-0766-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T23:01:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28637",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Hayward, CA",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-0766",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfd26"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0766-0004"
+        }
+      },
+      {
+        "id": "FHWA-2020-0001-0081",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-22T01:00:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28494",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "National Standards for Traffic Control Devices: Manual on Uniform Traffic Control Devices for Streets and Highways; Revision",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FHWA-2020-0001",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfb91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2020-0001-0081"
+        }
+      },
+      {
+        "id": "NRC-2017-0151-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-30T14:16:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28814",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Reactor Vessel Material Surveillance Program; Direct Final Rule; Confirmation of effective date",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "NRC-2017-0151",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064849cf9e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2017-0151-0018"
+        }
+      },
+      {
+        "id": "FAA-2020-0781-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-30T14:05:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28855",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Mitsubishi Heavy Industries, Ltd. Airplanes",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-0781",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfbe4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0781-0005"
+        }
+      },
+      {
+        "id": "SEC-2020-2079-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T16:12:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-27537",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Delegation of Authority to Director of the Division of Enforcement",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cf140"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2020-2079-0001"
+        }
+      },
+      {
+        "id": "CFPB-2020-0028-0049",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T16:35:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-27571",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Qualified Mortgage Definition under the Truth in Lending Act (Regulation Z): Seasoned Qualified Mortgage Loan Definition",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "CFPB-2020-0028",
+          "subtype": null,
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfc90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB-2020-0028-0049"
+        }
+      },
+      {
+        "id": "CFPB-2020-0020-0092",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T16:28:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-27567",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Qualified Mortgage Definition under the Truth in Lending Act (Regulation Z): General Qualified Mortgage Loan Definition",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "CFPB-2020-0020",
+          "subtype": null,
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfac0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB-2020-0020-0092"
+        }
+      },
+      {
+        "id": "FAA-2020-1096-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-12-29T22:53:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28645",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-02-13T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Buena Vista, CO",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-1096",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfa2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1096-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-0750-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T22:52:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28846",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points:Trenton, MO",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-0750",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfa26"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0750-0002"
+        }
+      },
+      {
+        "id": "COE-2019-0010-0109",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-02-10T02:00:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-26701",
+          "withdrawn": false,
+          "agencyId": "COE",
+          "commentEndDate": "2021-01-29T04:59:59Z",
+          "title": "Restricted Area: Washington Channel, Fort McNair, Washington, DC",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "COE-2019-0010",
+          "subtype": null,
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfb2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COE-2019-0010-0109"
+        }
+      },
+      {
+        "id": "FWS-HQ-MB-2019-0103-2462",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T16:24:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28742",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Migratory Bird Permits: Management of Conflicts Associated with Double-Crested Cormorants (Phalacrocorax auritus) Throughout the United States",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FWS-HQ-MB-2019-0103",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064849cfcd3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-MB-2019-0103-2462"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0048-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-12-31T02:02:56Z",
+          "highlightedContent": "",
+          "frDocNum": "01-14619",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Plan Requirements for Small Municipal Waste Combustion Units Constructed On or Before August 30, 1999 [A-2000-39-III-A-1]",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0048",
+          "subtype": null,
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849d140d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0048-0003"
+        }
+      },
+      {
+        "id": "USCG-2020-0719-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T16:33:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28874",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone: Oakland Ship-to-Shore Crane Arrival, San Francisco Bay, Oakland, CA",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "USCG-2020-0719",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064849cfc8a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0719-0001"
+        }
+      },
+      {
+        "id": "TTB-2019-0004-0682",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T18:51:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28747",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-165:  Addition of New Standards of Fill for Wine and Distilled Spirits; Amendment of Distilled Spirits and Malt Beverage Net Contents Labeling Regulations",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "TTB-2019-0004",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064849cf13a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2019-0004-0682"
+        }
+      },
+      {
+        "id": "APHIS-2018-0041-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-30T13:24:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-26962",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Amendments to the Pale Cyst Nematode Regulations",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "APHIS-2018-0041",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfa27"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2018-0041-0040"
+        }
+      },
+      {
+        "id": "VA-2017-VBA-0016-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T19:35:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-26907",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AP88 - Final Rule; Correction - Schedule for Rating Disabilities: Musculoskeletal System and Muscle Injuries",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "VA-2017-VBA-0016",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064849cfb28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2017-VBA-0016-0017"
+        }
+      },
+      {
+        "id": "FMCSA-2019-0211-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-03-02T02:00:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-27502",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2021-03-02T04:59:59Z",
+          "title": "Parts and Accessories Necessary for Safe Operation: Rear Impact Guards and Rear Impact Protection",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FMCSA-2019-0211",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfac9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2019-0211-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-1147-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-02-23T02:00:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28743",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-02-13T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Northeastern United States",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-1147",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfd69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1147-0001"
+        }
+      },
+      {
+        "id": "FCC-2020-0500-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T16:15:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28779",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Completing the Transition to Electronic Filing, Licenses and Authorizations, and Correspondence in the Wireless Radio Services",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfb2e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2020-0500-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-1030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-02-13T02:00:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28824",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-02-13T04:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-1030",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfd24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1030-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-1028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-02-13T02:00:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28825",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-02-13T04:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-1028",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfc8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1028-0001"
+        }
+      },
+      {
+        "id": "TTB-2019-0005-0629",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T18:59:10Z",
+          "highlightedContent": "",
+          "frDocNum": "FR Doc. 2020\u201328747",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-165:  Addition of New Standards of Fill for Wine and Distilled Spirits; Amendment of Distilled Spirits and Malt Beverage Net Contents Labeling Regulations",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "TTB-2019-0005",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849d014b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2019-0005-0629"
+        }
+      },
+      {
+        "id": "NHTSA-2020-0111-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-29T22:07:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-27543",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Federal Motor Vehicle Safety Standards: Side Impact Protection, Ejection Mitigation; Technical Corrections",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "NHTSA-2020-0111",
+          "subtype": "Final Rule",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfb2d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2020-0111-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-1124-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-12-29T22:59:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28644",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-02-13T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Kayenta, AZ",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-1124",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfb8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1124-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-1098-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-12-29T22:56:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28643",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-02-13T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Meeker, CO",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "FAA-2020-1098",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfa77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-1098-0001"
+        }
+      },
+      {
+        "id": "CMS-2020-0090-1354",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-02-03T02:00:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-26819",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2021-02-03T04:59:59Z",
+          "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; etc.",
+          "postedDate": "2020-12-29T05:00:00Z",
+          "docketId": "CMS-2020-0090",
+          "subtype": null,
+          "commentStartDate": "2020-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064849cfc8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2020-0090-1354"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 111,
+            "label": "Notice"
+          },
+          {
+            "docCount": 48,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 7,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 2,
+            "value": "TTB"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "COE"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 80,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 205,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 414,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1338,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2020-12-29",
+          "toDate": "2020-12-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

@@ -1,0 +1,603 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2022-1252-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-19T02:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23366",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "FAA-2022-1252",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cbe3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1252-0001"
+        }
+      },
+      {
+        "id": "WHD-2022-0003-2246",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-10-27T01:00:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23314",
+          "withdrawn": false,
+          "agencyId": "WHD",
+          "commentEndDate": null,
+          "title": "Employee or Independent Contractor Classification under the Fair Labor Standards Act",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "WHD-2022-0003",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648545c9e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/WHD-2022-0003-2246"
+        }
+      },
+      {
+        "id": "CFPB-2022-0001-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-26T13:54:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23264",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Fair Credit Reporting: Facially False Data",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "CFPB-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cb7a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB-2022-0001-0035"
+        }
+      },
+      {
+        "id": "FWS-HQ-ES-2021-0043-0120",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-26T12:25:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23164",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Threatened Species Status for Emperor Penguin with Section 4(d) Rule",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "FWS-HQ-ES-2021-0043",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648545ca25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-ES-2021-0043-0120"
+        }
+      },
+      {
+        "id": "FAA-2022-0999-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-12-27T02:00:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-22779",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-12-28T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Chicago, IL",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "FAA-2022-0999",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545c9e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0999-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2021-0025-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-12-20T20:38:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23304",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Herring Fishery; Adjustment to the 2022 Specifications",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "NOAA-NMFS-2021-0025",
+          "subtype": null,
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cb14"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2021-0025-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0744-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-10-27T00:49:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-22979",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-11-24T04:59:59Z",
+          "title": "Receipt of a Pesticide Petition Filed for Residues of Pesticide Chemicals in or on Various Commodities: September 2022",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0744",
+          "subtype": null,
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648544db1d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0744-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0231-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-26T13:20:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-22781",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Sitka, AK",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "FAA-2022-0231",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cac1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0231-0002"
+        }
+      },
+      {
+        "id": "FAA-2022-0248-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-26T13:17:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-22780",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Vicinity of Watertown, SD",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "FAA-2022-0248",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545ca7b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0248-0002"
+        }
+      },
+      {
+        "id": "USCG-2022-0757-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-26T13:45:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23249",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulations; Marine Events Within the Seventh Coast Guard District",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "USCG-2022-0757",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648545cac6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0757-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0024-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-28T15:34:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23300",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Atlantic Highly Migratory Species: Atlantic Bluefin Tuna Fisheries; Closure of the General Category October through November Fishery for 2022",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0024",
+          "subtype": null,
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cabf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0024-0010"
+        }
+      },
+      {
+        "id": "SBA-2022-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-02T02:00:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23167",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2022-12-28T04:59:59Z",
+          "title": "Affiliation and Lending Criteria for the SBA Business Loan Programs",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "SBA-2022-0012",
+          "subtype": null,
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cbde"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2022-0012-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2020-0142-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-12-30T14:05:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23244",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pollock in Statistical Area 620 in the Gulf of Alaska",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "NOAA-NMFS-2020-0142",
+          "subtype": null,
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cbe1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2020-0142-0002"
+        }
+      },
+      {
+        "id": "FCC-2020-0248-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-10-26T11:48:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-22814",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2023-01-25T04:59:59Z",
+          "title": "Permit Non-Geostationary Orbit Fixed-Satellite Service (Space-to-Earth) Operations in the 17.3-17.8 GHz Band",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cb78"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2020-0248-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2019-0307-0108",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-26T12:14:06Z",
+          "highlightedContent": "",
+          "frDocNum": "C2-2021-05306",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Improvements for Heavy-Duty Engine and Vehicle Test Procedures, and other Technical Amendments",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2019-0307",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648545cb77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2019-0307-0108"
+        }
+      },
+      {
+        "id": "EERE-2020-BT-TP-0011-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-26T14:58:36Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2022-21891",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2022-10-26  Energy Conservation Program: Test Procedure for Electric Motors; Correction",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "EERE-2020-BT-TP-0011",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648545c9e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2020-BT-TP-0011-0041"
+        }
+      },
+      {
+        "id": "FAA-2022-0245-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-10-26T14:59:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-22782",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Emmonak, AK",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "FAA-2022-0245",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485458066"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0245-0002"
+        }
+      },
+      {
+        "id": "FAA-2022-1303-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-12-08T02:01:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-22698",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-12-13T04:59:59Z",
+          "title": "Airworthiness Directives: Alexander Schleicher GmbH and Co. Segelflugzeugbau Gliders",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "FAA-2022-1303",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cac2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1303-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0109-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-12-10T02:00:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-23200",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2022-12-11T04:59:59Z",
+          "title": "Takes of Marine Mammals Incidental to Specified Activities: Ocean Wind 1 Wind Energy Facility Offshore of New Jersey",
+          "postedDate": "2022-10-26T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0109",
+          "subtype": null,
+          "commentStartDate": "2022-10-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648545cb15"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0109-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 104,
+            "label": "Other"
+          },
+          {
+            "docCount": 83,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 65,
+            "label": "Notice"
+          },
+          {
+            "docCount": 12,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Correction"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 19,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "WHD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-10-26",
+          "toDate": "2022-10-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 19,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 19,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

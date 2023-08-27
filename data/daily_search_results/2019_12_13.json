@@ -1,0 +1,861 @@
+[
+  {
+    "data": [
+      {
+        "id": "IRS-2014-0008-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-12-02T14:46:32Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2019-26",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Calculation of UBTI for Certain Exempt Organizations",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "IRS-2014-0008",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bfc4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2014-0008-0012"
+        }
+      },
+      {
+        "id": "EERE-2017-BT-STD-0003-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-02-16T10:10:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26909",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2020-02-14T04:59:59Z",
+          "title": "2019-12-13  Energy Conservation Program: Energy Conservation Standards for Consumer Refrigerators, Refrigerator-Freezers, and Freezers; Notice of extension of public comment period",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "EERE-2017-BT-STD-0003",
+          "subtype": "Notice of Extension",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420beb8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2017-BT-STD-0003-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2018-0815-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-02-12T02:04:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26134",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2020-02-12T04:59:59Z",
+          "title": "Test Methods and Performance Specifications for Air Emission Sources",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2018-0815",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c5c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2018-0815-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2019-0011-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T20:03:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26933",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Reef Fish Fishery of the Gulf of Mexico: Gulf of Mexico Lane Snapper; Commercial and Recreational Accountability Measure and Closures",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "NOAA-NMFS-2019-0011",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c05f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2019-0011-0009"
+        }
+      },
+      {
+        "id": "FAA-2019-0591-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T15:53:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26861",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E Airspace: St. Simons, GA, and Brunswick, GA",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAA-2019-0591",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bf71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0591-0003"
+        }
+      },
+      {
+        "id": "USCG-2019-0950-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T16:20:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26822",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulations; Charleston Harbor Christmas Parade of Boats, Charleston, SC",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "USCG-2019-0950",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c5c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2019-0950-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2019-0120-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T20:01:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26943",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "States' Query of the Drug and Alcohol Clearinghouse; Extension of Compliance Date",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FMCSA-2019-0120",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bebd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2019-0120-0015"
+        }
+      },
+      {
+        "id": "VA-2018-VHA-0010-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T14:01:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26751",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AQ01-Final Rule- Reimbursement of Qualifying Adoption Expenses for Certain Veterans",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "VA-2018-VHA-0010",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c065"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2018-VHA-0010-0007"
+        }
+      },
+      {
+        "id": "FAA-2019-0974-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-01-29T02:06:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26643",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2020-01-28T04:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAA-2019-0974",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c5c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0974-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2019-0146-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-01-15T02:02:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26902",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2020-01-14T04:59:59Z",
+          "title": "International Fisheries: Western and Central Pacific Fisheries for Highly Migratory Species; Limited Reopening of the 2019 U.S. Pelagic Longline Fishery for Bigeye Tuna in the Western and Central Pacific Ocean",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "NOAA-NMFS-2019-0146",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bfbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2019-0146-0001"
+        }
+      },
+      {
+        "id": "VA-2019-VHA-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-02-12T02:04:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26910",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2020-02-12T04:59:59Z",
+          "title": "AQ64-Proposed Rule-Disclosure of Certain Protected Records without Written Consent",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "VA-2019-VHA-0026",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bebc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2019-VHA-0026-0001"
+        }
+      },
+      {
+        "id": "FAA-2019-0979-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-01-28T02:06:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26617",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2020-01-28T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAA-2019-0979",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c0c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0979-0001"
+        }
+      },
+      {
+        "id": "FRS-2019-0405-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T13:01:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26544",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Regulatory Capital Treatment for High Volatility Commercial Real Estate Exposures",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c0c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2019-0405-0001"
+        }
+      },
+      {
+        "id": "FDIC-2019-0151-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T13:01:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26544",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Regulatory Capital Treatment for High Volatility Commercial Real Estate Exposures",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c0c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2019-0151-0001"
+        }
+      },
+      {
+        "id": "FAA-2019-0960-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-17T02:03:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26849",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2020-01-28T04:59:59Z",
+          "title": "Airworthiness Directives: Gulfstream Aerospace Corporation Airplanes",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAA-2019-0960",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bfbd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0960-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2018-0734-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T15:20:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26792",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Indiana RACT SIP and Negative Declaration for the Oil and Natural Gas Industry CTGs",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2018-0734",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bf6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2018-0734-0004"
+        }
+      },
+      {
+        "id": "PTO-T-2017-0004-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T15:05:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26899",
+          "withdrawn": false,
+          "agencyId": "PTO",
+          "commentEndDate": null,
+          "title": "Trademark Rules of Practice to Mandate Electronic Filing; Correction",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "PTO-T-2017-0004",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c0cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PTO-T-2017-0004-0018"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2019-0377-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T15:18:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26686",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Indiana 1997 Ozone Second Full Maintenance Plans",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2019-0377",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bfc3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2019-0377-0003"
+        }
+      },
+      {
+        "id": "FAA-2019-0590-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T15:51:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26854",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace: Grove City, PA",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAA-2019-0590",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bf70"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0590-0002"
+        }
+      },
+      {
+        "id": "EPA-R02-OAR-2018-0681-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-01-14T02:02:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26922",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2020-01-14T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: New Jersey; Infrastructure SIP for Interstate Transport Requirements for the 2006 PM10, 2008 Lead, 2010 Nitrogen Dioxide, and 2011 Carbon Monoxide National Ambient Air Quality Standards",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "EPA-R02-OAR-2018-0681",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c00d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-OAR-2018-0681-0001"
+        }
+      },
+      {
+        "id": "FAA-2019-0604-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T16:07:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26676",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAA-2019-0604",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c5c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-0604-0004"
+        }
+      },
+      {
+        "id": "FAR-2019-0002-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T19:14:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26580",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Federal Acquisition Circular 2020-03; Small Entity Compliance Guide",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAR-2019-0002",
+          "subtype": "Notice of Interim Rule",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c00e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2019-0002-0009"
+        }
+      },
+      {
+        "id": "IRS-2014-0008-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-18T15:33:49Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2019-26274",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Calculation of Unrelated Business Taxable Income for Certain Exempt Organizations",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "IRS-2014-0008",
+          "subtype": "Correction",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bf2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2014-0008-0011"
+        }
+      },
+      {
+        "id": "IRS-2019-0014-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-18T15:22:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26867",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Information Reporting for Certain Life Insurance Contract Transactions and Modifications to the Transfer for Valuable Consideration Rules; Correction",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "IRS-2019-0014",
+          "subtype": "Correction",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bf2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0014-0015"
+        }
+      },
+      {
+        "id": "OCC-2018-0026-0067",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T15:59:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26544",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": null,
+          "title": "Regulatory Capital Treatment for High Volatility Commercial Real Estate Exposures",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "OCC-2018-0026",
+          "subtype": "Final Rule",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420bf72"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2018-0026-0067"
+        }
+      },
+      {
+        "id": "FAR-2019-0002-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T19:24:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26578",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Federal Acquisition Circular 2020-03; Introduction",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAR-2019-0002",
+          "subtype": "Notice of Interim Rule",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c58c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2019-0002-0010"
+        }
+      },
+      {
+        "id": "FAR-2018-0017-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-02-12T02:01:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26579",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2020-02-12T04:59:59Z",
+          "title": "Federal Acquisition Regulation: Prohibition on Contracting for CertainTelecommunications and Video Surveillance Services or Equipment",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "FAR-2018-0017",
+          "subtype": "Notice of Interim Rule",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c58a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2018-0017-0016"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0472",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-13T13:04:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26935",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Allocation of Assets in Single-Employer Plans; Benefits Payable in Terminated Single-Employer Plans; Interest Assumptions for Valuing and Paying Benefits",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c591"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0472"
+        }
+      },
+      {
+        "id": "IRS-2019-0014-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-18T15:39:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2019-26866",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Information Reporting for Certain Life Insurance Contract Transactions and Modifications to the Transfer for Valuable Consideration Rules; Correcting Amendment",
+          "postedDate": "2019-12-13T05:00:00Z",
+          "docketId": "IRS-2019-0014",
+          "subtype": "Correction",
+          "commentStartDate": "2019-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648420c064"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0014-0016"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 119,
+            "label": "Notice"
+          },
+          {
+            "docCount": 109,
+            "label": "Other"
+          },
+          {
+            "docCount": 42,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 23,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Correction"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Interim Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Extension"
+          },
+          {
+            "docCount": 1,
+            "label": "Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "IRS"
+          },
+          {
+            "docCount": 3,
+            "value": "FAR"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "VA"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "PTO"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2019-12-13",
+          "toDate": "2019-12-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

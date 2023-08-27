@@ -1,0 +1,854 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2021-0096-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-11-07T01:34:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04869",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-04-27T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2021-0096",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a66178"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0096-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-1087-0990",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T15:13:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04881",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Operation of Small Unmanned Aircraft Systems over People; Delay; Correction",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2018-1087",
+          "subtype": "Correction",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a6505a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-1087-0990"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2020-0174-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T17:23:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04838",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Washington: Inspection and Maintenance Program; Correction",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2020-0174",
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a64fbb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2020-0174-0007"
+        }
+      },
+      {
+        "id": "FAA-2020-0923-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T15:02:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04851",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Vicinity of Henderson, WV",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2020-0923",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a64fc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0923-0003"
+        }
+      },
+      {
+        "id": "SEC-2021-0332-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T12:36:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04960",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Amendments to the Rules of Practice; Correction",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a65158"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2021-0332-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T16:27:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04948",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Red River, Mile Marker 59, Moncla, LA",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "USCG-2021-0021",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484a650a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0021-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0133-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T16:43:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-05079",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone; San Diego Bay, San Diego, CA",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "USCG-2021-0133",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484a66179"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0133-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0123-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-22T01:00:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04949",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2021-04-10T03:59:59Z",
+          "title": "Safety Zone; Arkansas River, Mile Marker 126.6, Little Rock, AR",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "USCG-2021-0123",
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a64fbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0123-0001"
+        }
+      },
+      {
+        "id": "FCC-2021-0104-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-03-10T12:38:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-01491",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Television Broadcasting Services: Tulsa, OK",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a650e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2021-0104-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2020-0109-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-04-11T01:00:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04933",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2021-04-10T03:59:59Z",
+          "title": "Federal Motor Vehicle Safety Standards: Test Procedures; Reopening of Comment Period",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "NHTSA-2020-0109",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a64ff6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2020-0109-0015"
+        }
+      },
+      {
+        "id": "HHS-OCR-2021-0006-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-03-11T14:08:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-05021",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Proposed Modifications to the HIPAA Privacy Rule To Support, and Remove Barriers to, Coordinated Care and Individual Engagement; extension of comment period.",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "HHS-OCR-2021-0006",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484a65059"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OCR-2021-0006-0003"
+        }
+      },
+      {
+        "id": "FAA-2020-0791-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-05-06T01:00:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04940",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Sikorsky Aircraft Corporation Helicopters",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2020-0791",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a64fbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0791-0006"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2018-0694-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-04-10T01:01:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-02743",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2021-04-10T03:59:59Z",
+          "title": "Proposed approval of the Ohio 2015 Ozone Infrastructure SIP (most elements)",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2018-0694",
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a66177"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2018-0694-0001"
+        }
+      },
+      {
+        "id": "HUD-2020-0015-0050",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T17:30:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-05010",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR-6149-F-04 Manufactured Home Construction and Safety Standards; Delay of Effective Date",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "HUD-2020-0015",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484a66176"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2020-0015-0050"
+        }
+      },
+      {
+        "id": "FAR-2021-0051-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-15T19:32:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04850",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Circular 2021-05; Summary and Small Entity Compliance Guide",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAR-2021-0051",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a650ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2021-0051-0003"
+        }
+      },
+      {
+        "id": "FAR-2021-0051-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-15T19:29:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04849",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Circular 2021-05; Introduction",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAR-2021-0051",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a65058"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2021-0051-0002"
+        }
+      },
+      {
+        "id": "FAR-2021-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T18:09:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04848",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Technical Amendment",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAR-2021-0052",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a6617d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2021-0052-0001"
+        }
+      },
+      {
+        "id": "FCC-2020-0169-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T12:37:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04999",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a64fc2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2020-0169-0006"
+        }
+      },
+      {
+        "id": "FAA-2020-0847-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T15:30:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04806",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Helicopters",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2020-0847",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a6613a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0847-0009"
+        }
+      },
+      {
+        "id": "FCC-2021-0106-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T12:39:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2020-28063",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "FM Translator Interference",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a6617b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2021-0106-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2020-0165-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-04-11T01:00:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-02762",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2021-04-10T03:59:59Z",
+          "title": "TX223.01 Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Reasonably Available Control Technology in the Houston-Galveston-Brazoria Ozone Nonattainment Area, Proposed rule 5 pages.",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "EPA-R06-OAR-2020-0165",
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a661b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2020-0165-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0135-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-05-06T01:00:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04804",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-04-27T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters Deutschland GmbH Helicopters",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2021-0135",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a66139"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0135-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-0113-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-03-10T15:00:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04820",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-04-27T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Doylestown, PA",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2021-0113",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a64fbd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0113-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2020-0092-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T16:48:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04967",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations:Kentucky; Jefferson County Existing and New Volatile Organic Compounds Storage Vessels Rule Changes",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2020-0092",
+          "subtype": null,
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a6515b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2020-0092-0006"
+        }
+      },
+      {
+        "id": "FAA-2020-0673-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-11T02:00:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04784",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2020-0673",
+          "subtype": "Correction",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a661af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0673-0005"
+        }
+      },
+      {
+        "id": "FAA-2021-0152-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-03-11T02:00:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04873",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2021-04-27T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Northcentral United States",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2021-0152",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a661b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0152-0001"
+        }
+      },
+      {
+        "id": "IRS-2019-0034-0031",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-12T17:11:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04790",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Guidance: Passive Foreign Investment Companies; Correction",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "IRS-2019-0034",
+          "subtype": "Correction",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a650e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0034-0031"
+        }
+      },
+      {
+        "id": "IRS-2019-0034-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-12T17:02:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04789",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Guidance: Passive Foreign Investment Companies; Correction",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "IRS-2019-0034",
+          "subtype": "Correction",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a65159"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2019-0034-0030"
+        }
+      },
+      {
+        "id": "FAA-2019-1100-53293",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T15:12:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04882",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Remote Identification of Unmanned Aircraft; Delay",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2019-1100",
+          "subtype": "Correction",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a65055"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2019-1100-53293"
+        }
+      },
+      {
+        "id": "FAA-2020-0935-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-10T15:15:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-04823",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Calais, ME",
+          "postedDate": "2021-03-10T05:00:00Z",
+          "docketId": "FAA-2020-0935",
+          "subtype": "Final Rule",
+          "commentStartDate": "2021-03-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484a6509e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0935-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 63,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 56,
+            "label": "Notice"
+          },
+          {
+            "docCount": 34,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Correction"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 30,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAR"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 80,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 205,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 414,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1338,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2021-03-10",
+          "toDate": "2021-03-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 30,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 30,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

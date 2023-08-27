@@ -1,0 +1,520 @@
+[
+  {
+    "data": [
+      {
+        "id": "NIH-2011-0003-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-05-14T01:30:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-26197",
+          "withdrawn": false,
+          "agencyId": "NIH",
+          "commentEndDate": "2015-03-24T03:59:59Z",
+          "title": "Clinical Trials Registration and Results Submission",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "NIH-2011-0003",
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193bc18"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIH-2011-0003-0003"
+        }
+      },
+      {
+        "id": "FAA-2013-0072-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-11-21T16:54:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27354",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt andWhitney Division Turbofan Engines",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "FAA-2013-0072",
+          "subtype": "Final Rule",
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193bcd8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0072-0024"
+        }
+      },
+      {
+        "id": "VA-2014-VHA-0024-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-22T03:01:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27629",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2015-01-21T04:59:59Z",
+          "title": "AO39 - Proposed Rule - Animals on VA Property",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "VA-2014-VHA-0024",
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d656"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2014-VHA-0024-0001"
+        }
+      },
+      {
+        "id": "BLM-2014-0002-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-14T03:03:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27639",
+          "withdrawn": false,
+          "agencyId": "BLM",
+          "commentEndDate": "2014-12-17T04:59:59Z",
+          "title": "Leasing Public Lands for Solar and Wind Energy Development: Competitive Processes, Terms, and Conditions; Corrections",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "BLM-2014-0002",
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d6f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BLM-2014-0002-0013"
+        }
+      },
+      {
+        "id": "FCC-2014-0431-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-11-21T13:38:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-26675",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2015-01-06T04:59:59Z",
+          "title": "Spectrum Access for Wireless Microphone Operations",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193bc7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2014-0431-0001"
+        }
+      },
+      {
+        "id": "FCC-2014-0436-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-11-21T13:42:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-26922",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2015-01-06T04:59:59Z",
+          "title": "Rates for Interstate Inmate Calling Services",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d5b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2014-0436-0001"
+        }
+      },
+      {
+        "id": "FCC-2014-0433-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-11-21T13:38:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-26674",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2015-01-06T04:59:59Z",
+          "title": "Unlicensed Use of TV Band and 600 MHz Band Spectrum",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d517"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2014-0433-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2014-0101-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-01-07T19:03:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27651",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Proposed Listing Determinations for Nassau Grouper; Public Hearing",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "NOAA-NMFS-2014-0101",
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d564"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2014-0101-0016"
+        }
+      },
+      {
+        "id": "FCC-2014-0434-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-11-21T13:41:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27535",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services: Various Locations",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d55f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2014-0434-0001"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2011-0100-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-11-21T14:52:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27505",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Montana; Revisions to Administrative Rules - Air Quality, Subchapter 7, Exclusion for De Minimis Changes",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "EPA-R08-OAR-2011-0100",
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d560"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2011-0100-0013"
+        }
+      },
+      {
+        "id": "FAA-2014-0309-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-11-21T17:15:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-26860",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace: Lakeport, CA",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "FAA-2014-0309",
+          "subtype": "Final Rule",
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d603"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-0309-0003"
+        }
+      },
+      {
+        "id": "SEC-2014-1952-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-11-21T13:42:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27618",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Staff Accounting Bulletin",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d605"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2014-1952-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2014-0120-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-12-23T03:03:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27648",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2014-12-23T04:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; Red Snapper Management Measures",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "NOAA-NMFS-2014-0120",
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d6ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2014-0120-0001"
+        }
+      },
+      {
+        "id": "FDIC-2014-0132-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-11-21T13:43:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27610",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Annual Stress Test",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d6a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2014-0132-0001"
+        }
+      },
+      {
+        "id": "FAA-2014-0775-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-10-15T19:52:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-27631",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2015-01-06T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "FAA-2014-0775",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d520"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2014-0775-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0427",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-27T16:04:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-26197",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Clinical Trials Registration and Results Submission",
+          "postedDate": "2014-11-21T05:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2014-11-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648193d6ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0427"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 84,
+            "label": "Notice"
+          },
+          {
+            "docCount": 78,
+            "label": "Other"
+          },
+          {
+            "docCount": 75,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 16,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FCC"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "BLM"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "NIH"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2014-11-21",
+          "toDate": "2014-11-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 16,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 16,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

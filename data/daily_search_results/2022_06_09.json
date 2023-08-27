@@ -1,0 +1,932 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2022-0601-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-07-28T01:01:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12258",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-26T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "FAA-2022-0601",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151c63"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0601-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0604-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-09T13:09:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12268",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-26T03:59:59Z",
+          "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "FAA-2022-0604",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151caf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0604-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0473-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T13:35:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12408",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Firework Display; Elizabeth River, Norfolk, VA",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2022-0473",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485151bd3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0473-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0063-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:38:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Corpus Christi Ship Channel, Corpus Christi, TX",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0063",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851528fb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0063-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0085-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:37:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Victoria Barge Canal, Victoria, TX",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0085",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851528fe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0085-0001"
+        }
+      },
+      {
+        "id": "USCG-2020-0730-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:42:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; TV Shoot Race; Tampa Bay, St. Petersburg, FL",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2020-0730",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851529a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0730-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:40:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Cape Fear River; Bald Head Island, NC",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0011",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851529ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0011-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0110-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:37:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Hylebos Waterway, Tacoma, WA",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0110",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485153100"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0110-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0161-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:33:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone, Christina River, Wilmington, DE",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0161",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851539ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0161-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0171-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:31:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone, Christina River, Newport, DE",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0171",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851539f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0171-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0134-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:36:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Matagorda Ship Channel, Port O'Connor, TX",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0134",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648515385f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0134-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2021-0949-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T13:16:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12318",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Cincinnati Ohio 2015 8-Hour Ozone Redesignation and Maintenance Plan",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2021-0949",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151c2e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2021-0949-0004"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-1451",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T11:55:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12445",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Cuban Assets Control Regulations",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151bdb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1451"
+        }
+      },
+      {
+        "id": "FS_FRDOC_0001-3688",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T11:54:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12453",
+          "withdrawn": false,
+          "agencyId": "FS",
+          "commentEndDate": null,
+          "title": "Assessing Fees for Excess and Unauthorized Grazing",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "FS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151b2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FS_FRDOC_0001-3688"
+        }
+      },
+      {
+        "id": "USCG-2020-0731-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:41:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Lower Mississippi River, Natchez, MS",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2020-0731",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851529a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0731-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0039-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:39:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Mississippi River, Venice, LA",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0039",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485152aa8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0039-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:40:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone; Potomac River and Anacostia River, and Adjacent Waters; Washington, DC",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0026",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485152aa7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0026-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:37:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone, Savannah River, Savannah, GA",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0078",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851528fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0078-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:41:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; La Quinta Channel, Ingleside, TX",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0007",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851529aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0007-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0672-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-07-28T01:01:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12265",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-26T03:59:59Z",
+          "title": "Airworthiness Directives: De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "FAA-2022-0672",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151c31"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0672-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0042-0322",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-12-08T21:48:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12450",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Recreational Management Measures for the Summer Flounder, Scup, and Black Sea Bass Fisheries; Fishing Year 2022",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0042",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151caa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0042-0322"
+        }
+      },
+      {
+        "id": "FAA-2022-0603-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-10T01:00:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12256",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-26T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc., Airplanes",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "FAA-2022-0603",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151c6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0603-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0122-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:36:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone, Christina River, Newport, DE",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0122",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648515385a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0122-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0158-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:35:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; New Jersey Intracoastal Waterway, Atlantic City, NJ",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0158",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485153860"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0158-0001"
+        }
+      },
+      {
+        "id": "USCG-2020-0498-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:43:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Atlantic Intracoastal Waterway, Horry County, SC",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2020-0498",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851527c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0498-0001"
+        }
+      },
+      {
+        "id": "USCG-2021-0054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:39:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Corpus Christi Ship Channel, Corpus Christi, TX",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2021-0054",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851528fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2021-0054-0001"
+        }
+      },
+      {
+        "id": "USCG-2020-0688-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T16:43:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; San Diego Bay, San Diego, CA",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2020-0688",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064851529a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2020-0688-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0450-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T13:44:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12409",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Security Zone; Parker Canyon, Pacific Palisades, CA",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2022-0450",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485151cdb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0450-0001"
+        }
+      },
+      {
+        "id": "FAA-2020-0490-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T13:01:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12300",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Miami, FL",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "FAA-2020-0490",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151c2d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0490-0004"
+        }
+      },
+      {
+        "id": "FAA-2022-0712-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-09T13:11:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12322",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-26T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Vicinity of Pawnee City, NE",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "FAA-2022-0712",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151cdc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0712-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0472-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-09T13:25:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12454",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Annual Fireworks Displays Within the Captain of the Port Zone, Columbia River",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "USCG-2022-0472",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485151b2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0472-0001"
+        }
+      },
+      {
+        "id": "FWS-HQ-NWRS-2022-0055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-08-12T01:00:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12463",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2022-08-09T03:59:59Z",
+          "title": "2022-2023 Station-Specific Hunting and Sport Fishing Regulations",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "FWS-HQ-NWRS-2022-0055",
+          "subtype": null,
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151b30"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-NWRS-2022-0055-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2022-0128-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-10-06T01:01:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-12209",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-08-09T03:59:59Z",
+          "title": "Clean Water Act: Water Quality Certification Improvement",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2022-0128",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151bd8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2022-0128-0002"
+        }
+      },
+      {
+        "id": "EERE-2019-BT-TP-0026-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-17T01:00:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-11958",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2022-08-09T03:59:59Z",
+          "title": "2022-06-09  Energy Conservation Program: Test Procedure for Dehumidifiers; Notice of proposed rulemaking and announcement of public meeting",
+          "postedDate": "2022-06-09T04:00:00Z",
+          "docketId": "EERE-2019-BT-TP-0026",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485151cda"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2019-BT-TP-0026-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 443,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 88,
+            "label": "Other"
+          },
+          {
+            "docCount": 54,
+            "label": "Notice"
+          },
+          {
+            "docCount": 26,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 34,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 21,
+            "value": "USCG"
+          },
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FS"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-06-09",
+          "toDate": "2022-06-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 34,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 34,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

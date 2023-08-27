@@ -1,0 +1,622 @@
+[
+  {
+    "data": [
+      {
+        "id": "EBSA-2021-0006-0121",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-06-02T16:05:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-09227",
+          "withdrawn": false,
+          "agencyId": "EBSA",
+          "commentEndDate": null,
+          "title": "Annual Reporting and Disclosure",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "EBSA-2021-0006",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c569"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EBSA-2021-0006-0121"
+        }
+      },
+      {
+        "id": "RUS-22-AGENCY-0053-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-22T14:32:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10413",
+          "withdrawn": false,
+          "agencyId": "RUS",
+          "commentEndDate": null,
+          "title": "Policy on Audits of Awardees",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "RUS-22-AGENCY-0053",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c696"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RUS-22-AGENCY-0053-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2022-0942-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-18T16:29:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10342",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-07-18T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Erucamide In Pesticide Formulations",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2022-0942",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485a1c563"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2022-0942-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2023-0069-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-18T16:18:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10547",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Residues of Pesticide Chemicals in or on Various Commodities (April 2023)",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2023-0069",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485a1bde2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2023-0069-0004"
+        }
+      },
+      {
+        "id": "ED-2023-OSERS-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-21T01:02:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10542",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": "2023-08-02T03:59:59Z",
+          "title": "Assistance to States for the Education of Children With Disabilities",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "ED-2023-OSERS-0052",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485a1c5f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2023-OSERS-0052-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OLEM-2020-0107-0119",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-21T01:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10048",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-07-18T03:59:59Z",
+          "title": "Hazardous and Solid Waste Management System: Disposal of Coal Combustion Residuals From Electric Utilities; Legacy CCR Surface Impoundments",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "EPA-HQ-OLEM-2020-0107",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485a1bddb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OLEM-2020-0107-0119"
+        }
+      },
+      {
+        "id": "NPS-2023-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-19T13:25:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10377",
+          "withdrawn": false,
+          "agencyId": "NPS",
+          "commentEndDate": null,
+          "title": "National Capital Region; Change of Address",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "NPS-2023-0002",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c5af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NPS-2023-0002-0001"
+        }
+      },
+      {
+        "id": "NOAA_FRDOC_0001-6604",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-18T12:18:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10168",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Takes of Marine Mammals Incidental to Specified Activities: United States Navy Construction of the Pier 3 Replacement Project at Naval Station Norfolk",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "NOAA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c6eb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA_FRDOC_0001-6604"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2016-0243-0249",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-12T14:49:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10067",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-07-19T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants: Plywood and Composite Wood Products",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2016-0243",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485a1c697"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2016-0243-0249"
+        }
+      },
+      {
+        "id": "USCG-2023-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-18T12:55:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10718",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Chinese Harbor; Santa Cruz Island, California",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "USCG-2023-0009",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485a1bde0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0009-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1186-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-18T14:05:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10494",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-07-04T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Cedartown, GA",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "FAA-2023-1186",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485a1c5f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1186-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-0160-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-18T14:04:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10620",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Helicopters",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "FAA-2023-0160",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c56b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0160-0003"
+        }
+      },
+      {
+        "id": "FAA-2022-1586-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-18T14:04:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10501",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Vicinity of Roseau, MN",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "FAA-2022-1586",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c564"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1586-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2023-0241-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-19T02:21:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10547",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-06-21T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Residues of Pesticide Chemicals in or on Various Commodities (April 2023)",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2023-0241",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c9ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2023-0241-0001"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-1655",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-18T12:17:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10427",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "South Sudan Sanctions Regulations",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c5b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1655"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0612-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-18T16:44:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10349",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-07-18T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: D-Glucopyranose, oligomeric, maleates, decyl octyl glycosides, sulfonated, potassium salts; etc.",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0612",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485a1c5b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0612-0003"
+        }
+      },
+      {
+        "id": "FDA-2000-P-0126-0135",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-19T12:32:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10606",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "International Dairy Foods Association: Response to the Objections and Requests for a Public Hearing on the Final Rule To Revoke the Standards for\nLowfat Yogurt and Nonfat Yogurt and Amend the Standard for Yogurt;\nCorrection",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "FDA-2000-P-0126",
+          "subtype": "Correction",
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1c5f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-P-0126-0135"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2023-0217-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-21T01:02:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-10547",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-06-21T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Residues of Pesticide Chemicals in or on Various Commodities (April 2023)",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2023-0217",
+          "subtype": null,
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485a1ca52"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2023-0217-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2021-0039-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-21T01:01:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-09918",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2023-07-18T03:59:59Z",
+          "title": "Pipeline Safety: Gas Pipeline Leak Detection and Repair",
+          "postedDate": "2023-05-18T04:00:00Z",
+          "docketId": "PHMSA-2021-0039",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-05-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485a1c5fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2021-0039-0020"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 316,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 116,
+            "label": "Notice"
+          },
+          {
+            "docCount": 104,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 7,
+            "label": "true"
+          },
+          {
+            "docCount": 12,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EBSA"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NPS"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "RUS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [
+          {
+            "docCount": 1,
+            "label": "Next 15 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-07-05 23:59:59"
+          },
+          {
+            "docCount": 6,
+            "label": "Next 30 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-07-20 23:59:59"
+          },
+          {
+            "docCount": 7,
+            "label": "Next 90 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-09-18 23:59:59"
+          }
+        ],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-05-18",
+          "toDate": "2023-05-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 19,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 19,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

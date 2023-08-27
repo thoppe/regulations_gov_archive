@@ -1,0 +1,676 @@
+[
+  {
+    "data": [
+      {
+        "id": "FCC-2018-0301-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T12:00:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18691",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Modification of Rules to Codify New Procedure for Non-Federal Public Safety Entities to License Federal Interoperability Channels",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c5cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2018-0301-0001"
+        }
+      },
+      {
+        "id": "OSM-2013-0012-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T19:22:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18706",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "Ohio Regulatory Program",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "OSM-2013-0012",
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c61e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2013-0012-0002"
+        }
+      },
+      {
+        "id": "OSM-2017-0006-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T19:25:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18719",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "Alabama Regulatory Program",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "OSM-2017-0006",
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c7db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2017-0006-0017"
+        }
+      },
+      {
+        "id": "FRA-2012-0101-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T14:52:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18639",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Hours of Service Recordkeeping; Automated Recordkeeping",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "FRA-2012-0101",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c685"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2012-0101-0004"
+        }
+      },
+      {
+        "id": "USCG-2018-0751-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T13:12:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18637",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Sloop Channel, Hempstead, NY",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "USCG-2018-0751",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648366c524"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0751-0001"
+        }
+      },
+      {
+        "id": "USPS-2018-0152-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T12:03:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18481",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Overweight Items",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c6db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2018-0152-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0138-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T13:50:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18645",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class D and E Airspace; Amendments; Class E Airspace; Establishments: Austin, TX; Georgetown and Austin, TX",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "FAA-2018-0138",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c78b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0138-0002"
+        }
+      },
+      {
+        "id": "USCG-2018-0754-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T13:10:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18650",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Saugatuck River, Saugatuck, CT",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "USCG-2018-0754",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648366c49e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0754-0001"
+        }
+      },
+      {
+        "id": "FHFA-2018-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T11:57:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18517",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": null,
+          "title": "Civil Money Penalty Inflation Adjustments",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c51f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2018-0021-0001"
+        }
+      },
+      {
+        "id": "OSM-2018-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-09-15T01:02:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18705",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2018-09-29T03:59:59Z",
+          "title": "Texas Regulatory Program",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "OSM-2018-0002",
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c523"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2018-0002-0001"
+        }
+      },
+      {
+        "id": "FCC-2018-0079-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T11:59:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18704",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Election Whether to Participate in Wireless Emergency Alert System",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c526"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2018-0079-0003"
+        }
+      },
+      {
+        "id": "FDIC-2018-0084-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T12:05:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18685",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": "2018-10-30T03:59:59Z",
+          "title": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c7da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2018-0084-0001"
+        }
+      },
+      {
+        "id": "CFTC-2018-0055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-08-29T12:00:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18618",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2018-10-30T03:59:59Z",
+          "title": "Clearing Exemption for Swaps Entered Into by Certain Bank Holding Companies, Savings and Loan Holding Companies, and Community Development Financial Institutions",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c5c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2018-0055-0001"
+        }
+      },
+      {
+        "id": "USCG-2018-0779-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T13:52:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18638",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Passaic River, Harrison, NJ",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "USCG-2018-0779",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648366c78f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0779-0001"
+        }
+      },
+      {
+        "id": "FCC-2018-0287-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-08-29T11:59:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18288",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2018-11-28T04:59:59Z",
+          "title": "Expanding Flexible Use of 3.7 to 4.2 GHz Band",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c525"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2018-0287-0002"
+        }
+      },
+      {
+        "id": "OCC-2018-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-31T01:05:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18685",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": "2018-10-30T03:59:59Z",
+          "title": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "OCC-2018-0014",
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c620"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2018-0014-0001"
+        }
+      },
+      {
+        "id": "DARS-2018-0035-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-11-08T02:03:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18616",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2018-10-29T03:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplements: Inapplicability of Certain Laws and Regulations to Commercial Items; Reopening of Comment Period",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "DARS-2018-0035",
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c623"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2018-0035-0005"
+        }
+      },
+      {
+        "id": "FRS-2018-0271-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T12:04:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18685",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": "2018-10-30T03:59:59Z",
+          "title": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c748"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2018-0271-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0062-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T13:49:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18644",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Class D and E Airspace; Amendments; Class E Airspace; Establishments: Pensacola, FL; Milton, FL",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "FAA-2018-0062",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c74c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0062-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2017-0107-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T15:37:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18727",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pacific Cod by Trawl Catcher Vessels in Central Regulatory Area of Gulf of Alaska",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "NOAA-NMFS-2017-0107",
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c74f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2017-0107-0025"
+        }
+      },
+      {
+        "id": "USCG-2018-0757-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T13:49:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18712",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; San Francisco Giants Fireworks Display, San Francisco Bay, San Francisco, CA",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "USCG-2018-0757",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648366c78a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0757-0001"
+        }
+      },
+      {
+        "id": "OSM-2017-0011-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-29T19:21:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-18716",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "Alabama Regulatory Program",
+          "postedDate": "2018-08-29T04:00:00Z",
+          "docketId": "OSM-2017-0011",
+          "subtype": null,
+          "commentStartDate": "2018-08-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648366c5c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2017-0011-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 257,
+            "label": "Other"
+          },
+          {
+            "docCount": 65,
+            "label": "Notice"
+          },
+          {
+            "docCount": 20,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 22,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "OSM"
+          },
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "DARS"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-08-29",
+          "toDate": "2018-08-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 22,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 22,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

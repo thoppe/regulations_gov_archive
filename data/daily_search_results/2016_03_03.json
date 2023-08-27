@@ -1,0 +1,720 @@
+[
+  {
+    "data": [
+      {
+        "id": "IRS-2016-0011-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-04T18:09:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04606",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Utility Allowances Submetering",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "IRS-2016-0011",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cec2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2016-0011-0002"
+        }
+      },
+      {
+        "id": "FAA-2016-4229-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-24T20:14:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04539",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-04-19T03:59:59Z",
+          "title": "Airworthiness Directives: Viking Air Limited Airplanes",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "FAA-2016-4229",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cd51"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-4229-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-19T02:00:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04656",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2016-03-19T03:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Northeast Groundfish Fishery; Recreational Management Measures",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0011",
+          "subtype": null,
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9ce8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0011-0001"
+        }
+      },
+      {
+        "id": "TSA-2013-0004-5586",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-05-20T17:36:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04374",
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": null,
+          "title": "Final Rule: Passenger Screening Using Advanced Imaging Technology",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "TSA-2013-0004",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cdb0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2013-0004-5586"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2015-0475-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-03T16:56:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04757",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerances; Emergency Exemptions: Fluensulfone",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2015-0475",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e9bca9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2015-0475-0001"
+        }
+      },
+      {
+        "id": "FDA-2016-N-0400-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-06-02T13:00:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04578",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2016-06-02T03:59:59Z",
+          "title": "General and Plastic Surgery Devices; Reclassification of Blood Lancets",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "FDA-2016-N-0400",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9bca4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2016-N-0400-0001"
+        }
+      },
+      {
+        "id": "CFPB_FRDOC_0001-0437",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-03T13:52:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04643",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Application Process for Designation of Rural Area under Federal Consumer Financial Law; Procedural Rule",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "CFPB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9bca5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB_FRDOC_0001-0437"
+        }
+      },
+      {
+        "id": "TTB-2015-0008-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-03T15:00:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04710",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-134:  Expansion of the Willamette Valley Viticultural Area",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "TTB-2015-0008",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e9bca7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2015-0008-0006"
+        }
+      },
+      {
+        "id": "FAA-2015-7203-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-11T21:00:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04491",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-04-19T03:59:59Z",
+          "title": "Establishment of Class D Airspace; Revocation of Class D Airspace; and Amendment of Class D and E Airspace: Destin, FL; Duke Field, Eglin AFB, FL; Eglin AF AuxNo 3 Duke Field, FL; Eglin Air Force Base, FL; Eglin Hurlburt Field, FL; and Crestview, FL",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "FAA-2015-7203",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cd01"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-7203-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-4231-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-07-16T20:18:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04541",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-04-19T03:59:59Z",
+          "title": "Airworthiness Directives: BLANIK LIMITED Gliders",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "FAA-2016-4231",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cdad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-4231-0001"
+        }
+      },
+      {
+        "id": "FDA-2016-M-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-06-02T01:01:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04579",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2016-06-02T03:59:59Z",
+          "title": "Effective Date of Requirement for Premarket Approval for Blood Lancets",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "FDA-2016-M-0035",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9bb71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2016-M-0035-0001"
+        }
+      },
+      {
+        "id": "USCG-2015-0934-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-03T14:20:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04743",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Saginaw River, Bay City, MI",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "USCG-2015-0934",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e9ce45"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-0934-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-7485-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-03T14:46:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04482",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class D and Class E Airspace: Minot, ND",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "FAA-2015-7485",
+          "subtype": "Correction",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9ce88"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-7485-0002"
+        }
+      },
+      {
+        "id": "DOI-2016-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-06-20T16:42:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04647",
+          "withdrawn": false,
+          "agencyId": "DOI",
+          "commentEndDate": null,
+          "title": "Freedom of Information Act Regulations",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "DOI-2016-0003",
+          "subtype": null,
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cec5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOI-2016-0003-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2015-0645-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-17T22:34:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04614",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Arizona: Phoenix Second 10-Year Carbon Monoxide Maintenance Plan",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2015-0645",
+          "subtype": null,
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9bcfe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2015-0645-0022"
+        }
+      },
+      {
+        "id": "USPS-2016-0037-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-03T13:53:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04646",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2016-04-05T03:59:59Z",
+          "title": "Semipostal Stamp Program",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cd52"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2016-0037-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0010-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-17T11:55:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04655",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2016-04-05T03:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; Gag Management Measures",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0010",
+          "subtype": null,
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cdfd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0010-0002"
+        }
+      },
+      {
+        "id": "TTB-2015-0009-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-03T15:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04760",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-135:  Establishment of the Loess Hills District Viticultural Area",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "TTB-2015-0009",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e9ce86"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2015-0009-0004"
+        }
+      },
+      {
+        "id": "USN-2016-HQ-0001-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-09T13:29:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04547",
+          "withdrawn": false,
+          "agencyId": "USN",
+          "commentEndDate": null,
+          "title": "Certifications and Exemptions under the International Regulations for Preventing Collisions at Sea, 1972",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "USN-2016-HQ-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e9ce8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USN-2016-HQ-0001-0003"
+        }
+      },
+      {
+        "id": "USCG-2016-0115-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-03T19:00:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04664",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2016-04-05T03:59:59Z",
+          "title": "Safety Zone; Xterra Swim, Myrtle Beach, SC Intracoastal Waterway; Myrtle Beach, SC",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "USCG-2016-0115",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cd4f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0115-0001"
+        }
+      },
+      {
+        "id": "FCC-2016-0075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-03T13:53:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04521",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Petitions for Reconsideration of Action in a Rulemaking Proceeding; Correction",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9cd50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0075-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-3108-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-03T14:39:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04496",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-04-19T03:59:59Z",
+          "title": "Establishment of Class E Airspace: Harlan, KY",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "FAA-2016-3108",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9ce00"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-3108-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-3108-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-03-03T14:45:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04489",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E Airspace: South Naknek, AK",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "FAA-2015-3108",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9ce47"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-3108-0002"
+        }
+      },
+      {
+        "id": "IRS-2016-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-15T16:49:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-04618",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2016-05-03T03:59:59Z",
+          "title": "Utility Allowances Submetering (REG-123867-14)",
+          "postedDate": "2016-03-03T05:00:00Z",
+          "docketId": "IRS-2016-0011",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e9bcfb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2016-0011-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 583,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 173,
+            "label": "Other"
+          },
+          {
+            "docCount": 63,
+            "label": "Notice"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 7,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "TTB"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 1,
+            "value": "DOI"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "TSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USN"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-03-03",
+          "toDate": "2016-03-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

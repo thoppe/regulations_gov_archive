@@ -1,0 +1,526 @@
+[
+  {
+    "data": [
+      {
+        "id": "IRS_FRDOC_0001-2039",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-29T12:12:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06670",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Income Taxes; CFR Correction",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "IRS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb61e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS_FRDOC_0001-2039"
+        }
+      },
+      {
+        "id": "USCIS-2021-0012-5241",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-04T01:01:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06148",
+          "withdrawn": false,
+          "agencyId": "USCIS",
+          "commentEndDate": "2022-06-01T03:59:59Z",
+          "title": "Procedures for Credible Fear Screening and Consideration of Asylum, Withholding of Removal, and CAT Protection Claims by Asylum Officers",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "USCIS-2021-0012",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb61a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCIS-2021-0012-5241"
+        }
+      },
+      {
+        "id": "IRS_FRDOC_0001-2038",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-29T12:12:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06669",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Income Taxes; CFR Correction",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "IRS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb5d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS_FRDOC_0001-2038"
+        }
+      },
+      {
+        "id": "FEC-2022-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-29T12:11:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06594",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": null,
+          "title": "Electioneering Communications Reporting",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb0af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2022-0023-0001"
+        }
+      },
+      {
+        "id": "NARA-22-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-30T22:15:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06548",
+          "withdrawn": false,
+          "agencyId": "NARA",
+          "commentEndDate": "2022-04-29T03:59:59Z",
+          "title": "Classified National Security Information",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "NARA-22-0002",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb53e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NARA-22-0002-0001"
+        }
+      },
+      {
+        "id": "FDA-2022-N-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-29T14:01:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06677",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Food Additives; CFR Correction",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "FDA-2022-N-0003",
+          "subtype": "Correction",
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb0f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2022-N-0003-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0381-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-02T23:46:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06577",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-05-14T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "FAA-2022-0381",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb542"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0381-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2017-0245-0026",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-30T01:01:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06149",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-04-29T03:59:59Z",
+          "title": "Voluntary Consensus Standards: Formaldehyde Emission Standards for Composite Wood Products",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2017-0245",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb53f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2017-0245-0026"
+        }
+      },
+      {
+        "id": "EOIR_FRDOC_0001-0072",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-29T12:12:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06148",
+          "withdrawn": false,
+          "agencyId": "EOIR",
+          "commentEndDate": null,
+          "title": "Procedures for Credible Fear Screening and Consideration of Asylum, Withholding of Removal, and Convention Against Torture Protection Claims by Asylum Officers",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "EOIR_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb5d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EOIR_FRDOC_0001-0072"
+        }
+      },
+      {
+        "id": "IRS_FRDOC_0001-2037",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-29T12:10:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06668",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Income Taxes; CFR Correction",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "IRS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feae5f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS_FRDOC_0001-2037"
+        }
+      },
+      {
+        "id": "USCG-2022-0175-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-29T13:15:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06488",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2022-04-29T03:59:59Z",
+          "title": "Safety Zone; Recurring Safety Zone in Captain of the Port Sault Sainte Marie Zone",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "USCG-2022-0175",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb619"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0175-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0157-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-29T13:22:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06522",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Recurring Events in Captain of the Port Duluth\u2014Bridgefest Regatta Fireworks",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "USCG-2022-0157",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484feb650"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0157-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0086-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-29T13:18:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06492",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2022-04-29T03:59:59Z",
+          "title": "Special Local Regulations; Recurring Marine Events, Sector St. Petersburg",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "USCG-2022-0086",
+          "subtype": null,
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb61d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0086-0001"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0002-0045",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-29T13:38:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06395",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs; Approval of New Animal Drug Applications; Change of Sponsor",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "FDA-2021-N-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb0a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0002-0045"
+        }
+      },
+      {
+        "id": "FAA-2021-0617-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-04-09T22:59:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06535",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "FAA-2021-0617",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb0fb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0617-0005"
+        }
+      },
+      {
+        "id": "FDA-2021-N-0246-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-03-21T15:12:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-06508",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices: Technical Amendments",
+          "postedDate": "2022-03-29T04:00:00Z",
+          "docketId": "FDA-2021-N-0246",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-03-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484feb61f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-0246-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 78,
+            "label": "Other"
+          },
+          {
+            "docCount": 63,
+            "label": "Notice"
+          },
+          {
+            "docCount": 57,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 16,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FDA"
+          },
+          {
+            "docCount": 3,
+            "value": "IRS"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EOIR"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FEC"
+          },
+          {
+            "docCount": 1,
+            "value": "NARA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCIS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-03-29",
+          "toDate": "2022-03-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 16,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 16,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

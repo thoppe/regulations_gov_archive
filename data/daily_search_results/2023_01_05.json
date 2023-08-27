@@ -1,0 +1,626 @@
+[
+  {
+    "data": [
+      {
+        "id": "USPS-2023-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T12:43:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28587",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Removal of Sacks: USPS Marketing Mail and Periodicals Flats",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558a97e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2023-0006-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2022-0782-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T17:05:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28150",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: North Carolina; Miscellaneous New Source Review Revisions and Updates; Updates to References to Appendix W Modeling Guideline",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2022-0782",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2022-0782-0005"
+        }
+      },
+      {
+        "id": "USCG-2022-1005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T15:49:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-00071",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Corpus Christi Shipping Channel, Corpus Christi, TX",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "USCG-2022-1005",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648558aa66"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-1005-0001"
+        }
+      },
+      {
+        "id": "FDA-2022-N-3224-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T14:44:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28603",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; Neurological Devices; Classification of the Brain Stimulation Programming Planning Software",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "FDA-2022-N-3224",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2022-N-3224-0001"
+        }
+      },
+      {
+        "id": "IRS-2020-0041-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-10T15:59:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28594",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Treatment of Special Enforcement Matters; Correction",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "IRS-2020-0041",
+          "subtype": "Correction",
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558a9d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2020-0041-0009"
+        }
+      },
+      {
+        "id": "IRS-2020-0041-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-10T15:46:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28593",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Treatment of Special Enforcement Matters; Correction",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "IRS-2020-0041",
+          "subtype": "Correction",
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558a9d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2020-0041-0008"
+        }
+      },
+      {
+        "id": "FDA-2019-F-3519-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-02-07T02:00:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28428",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2023-02-07T04:59:59Z",
+          "title": "Food Additives Permitted for Direct Addition to Food for Human Consumption;  Vitamin D3",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "FDA-2019-F-3519",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558a92f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2019-F-3519-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2020-0007-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-25T14:41:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28626",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Deep-Sea Red Crab Fishery; Final 2023 Atlantic Deep-Sea Red Crab Specifications",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "NOAA-NMFS-2020-0007",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2020-0007-0007"
+        }
+      },
+      {
+        "id": "FMCSA-2016-0102-0081",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-10T13:12:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28259",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2023-03-07T04:59:59Z",
+          "title": "Broker and Freight Forwarder Financial Responsibility",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "FMCSA-2016-0102",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558a92d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2016-0102-0081"
+        }
+      },
+      {
+        "id": "EERE-2022-BT-TP-0005-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-03-07T02:01:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-27881",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2023-03-07T04:59:59Z",
+          "title": "2023-01-05  Energy Conservation Program: Test Procedure for Uninterruptible Power Supplies; Notice of proposed rulemaking and announcement of public meeting",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "EERE-2022-BT-TP-0005",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aaa0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2022-BT-TP-0005-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2017-0015-0066",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-28T01:00:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-27994",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-02-22T04:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants: Lime Manufacturing Plants Amendments",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2017-0015",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2017-0015-0066"
+        }
+      },
+      {
+        "id": "HHS-OCR-2023-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-27T01:00:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28505",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": "2023-03-07T04:59:59Z",
+          "title": "Safeguarding the Rights of Conscience as Protected by Federal Statutes",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "HHS-OCR-2023-0001",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558a978"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OCR-2023-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2022-0525-0039",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-06T00:25:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28319",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Finding of Failure to Attain and Reclassification of Las Vegas Area as Moderate for the 2015 Ozone National Ambient Air Quality Standard",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2022-0525",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa65"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2022-0525-0039"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2021-0097-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T20:49:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28629",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pacific Cod by Catcher Vessels Using Hook-and-Line Gear in the Western Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "NOAA-NMFS-2021-0097",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558684b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2021-0097-0018"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0076-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T20:51:55Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2022-28343",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Inseason Adjustment to the 2023 Bering Sea and Aleutian Islands Pollock, Atka Mackerel, and Pacific Cod Total Allowable Catch Amounts",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0076",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa1f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0076-0005"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2019-0042-0071",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-12T15:22:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28635",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Atlantic Highly Migratory Species: Atlantic Bluefin Tuna Fisheries; General Category January through March Quota Transfer",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "NOAA-NMFS-2019-0042",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa20"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2019-0042-0071"
+        }
+      },
+      {
+        "id": "FDA-2022-N-3191-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T14:44:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28601",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; Orthopedic Devices; Classification of the Bone Indentation\nDevice",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "FDA-2022-N-3191",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa1e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2022-N-3191-0001"
+        }
+      },
+      {
+        "id": "FDA-2022-N-3239-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T14:47:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28604",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; Orthopedic Devices; Classification of the Implantable Post-\nSurgical Kinematic Measurement Knee Device",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "FDA-2022-N-3239",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558a9d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2022-N-3239-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0090-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-02-08T02:00:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28208",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-02-07T04:59:59Z",
+          "title": "Taking and Importing Marine Mammals: Incidental to Geophysical Surveys in the Gulf of Mexico",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0090",
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558a92b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0090-0001"
+        }
+      },
+      {
+        "id": "FCC-2023-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-01-05T12:43:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-28493",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Annual Adjustment of Civil Monetary Penalties to Reflect Inflation",
+          "postedDate": "2023-01-05T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648558aa1c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0004-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 301,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 46,
+            "label": "Notice"
+          },
+          {
+            "docCount": 46,
+            "label": "Other"
+          },
+          {
+            "docCount": 15,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Correction"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 20,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FDA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-01-05",
+          "toDate": "2023-01-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 20,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 20,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

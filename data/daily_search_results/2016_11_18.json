@@ -1,0 +1,797 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2016-2032-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T12:53:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25349",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Investment Company Reporting Modernization",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0836"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2016-2032-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9000-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-26T21:14:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27444",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Various Aircraft Equipped with BRP-Powertrain GmbH&Co KG 912 A Series Engine",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAA-2016-9000",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a08e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9000-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0067-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-06T17:14:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27833",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of Northeastern United States: Atlantic Herring Fishery; Management Area 1B Directed Fishery Closure",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0067",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0640"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0067-0019"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2015-0453-0125",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T15:20:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-24215",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Protection of Stratospheric Ozone: Update to the Refrigerant Management Requirements under the Clean Air Act",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2015-0453",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0691"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2015-0453-0125"
+        }
+      },
+      {
+        "id": "FAR-2016-0052-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-03T18:58:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27688",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Technical Amendments (FAC 2005-92)",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAR-2016-0052",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a063c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2016-0052-0006"
+        }
+      },
+      {
+        "id": "OSHA-2007-0072-0394",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T13:29:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-24557",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": null,
+          "title": "Walking-Working Surfaces and Personal Protective Equipment (Fall Protection Systems)",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "OSHA-2007-0072",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0835"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2007-0072-0394"
+        }
+      },
+      {
+        "id": "FAR-2015-0035-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-03T18:55:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27684",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Removal of Regulations Relating to Telegraphic Communication (FAC 2005-92; FAR Case 2015-035)",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAR-2015-0035",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a05ee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2015-0035-0004"
+        }
+      },
+      {
+        "id": "DOE-HQ-2016-0032-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-21T21:16:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27510",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": "2016-12-20T04:59:59Z",
+          "title": "Occupational Radiation Protection",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "DOE-HQ-2016-0032",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a05f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2016-0032-0001"
+        }
+      },
+      {
+        "id": "CCC_FRDOC_0001-0326",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T12:50:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27661",
+          "withdrawn": false,
+          "agencyId": "CCC",
+          "commentEndDate": null,
+          "title": "Trust Funds: Pima Agriculture Cotton Agriculture Wool Apparel Manufacturers",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "CCC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a05f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0326"
+        }
+      },
+      {
+        "id": "FAR-2016-0051-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-03T19:02:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27697",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Federal Acquisition Circular 2005-92; Small Entity Compliance Guide (FAC 2005-92)",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAR-2016-0051",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a06e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2016-0051-0011"
+        }
+      },
+      {
+        "id": "FAR-2015-0024-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-03T19:06:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27686",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Public Disclosure of Greenhouse Gas Emissions and Reduction Goals-Representation (FAC 2005-92; FAR Case 2015-024)",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAR-2015-0024",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a073d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2015-0024-0019"
+        }
+      },
+      {
+        "id": "GEO-2016-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T12:52:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27036",
+          "withdrawn": false,
+          "agencyId": "GEO",
+          "commentEndDate": null,
+          "title": "Standards of Ethical Conduct for Employees of the Executive Branch: Standards Governing Solicitation and Acceptance of Gifts from Outside Sources",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0740"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GEO-2016-0014-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0019-0056",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-06T17:15:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27826",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of Northeastern United States: Northeast Multispecies Fishery; Georges Bank Cod Trimester Total Allowable Catch Area Closure and Possession and Trip Limit Reductions for Common Pool Fishery",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0019",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a05a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0019-0056"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2015-0355-0051",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-18T15:26:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27670",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Prevention of Significant Deterioration and Title V Greenhouse Gas Permitting Regulations and Establishment of a Significant Emissions Rate for GHG Emissions Under the PSD Program",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2015-0355",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064823a05f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2015-0355-0051"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2016-0521-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-20T14:01:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27672",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-12-20T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Wyoming; Interstate Transport",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "EPA-R08-OAR-2016-0521",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a07a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2016-0521-0001"
+        }
+      },
+      {
+        "id": "BIS-2016-0025-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-21T15:05:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27772",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Temporary General Licenses: Extension of Validity",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "BIS-2016-0025",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a07dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2016-0025-0003"
+        }
+      },
+      {
+        "id": "FAR-2016-0051-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-03T19:09:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27687",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Federal Acquisition Circular 2005-92; Introduction",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAR-2016-0051",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a07a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2016-0051-0012"
+        }
+      },
+      {
+        "id": "SEC-2016-2027-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T12:52:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25348",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Investment Company Liquidity Risk Management Programs",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a07a4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2016-2027-0001"
+        }
+      },
+      {
+        "id": "FDA-2005-N-0343-0036",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T18:23:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27838",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Gas Containers and Closures; Current Good Manufacturing \nPractice Requirements",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FDA-2005-N-0343",
+          "subtype": "Correction",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a092d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2005-N-0343-0036"
+        }
+      },
+      {
+        "id": "SEC-2016-2019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T12:51:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25347",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Investment Company Swing Pricing",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0638"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2016-2019-0001"
+        }
+      },
+      {
+        "id": "BLM-2016-0001-9126",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T13:16:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27637",
+          "withdrawn": false,
+          "agencyId": "BLM",
+          "commentEndDate": null,
+          "title": "Waste Prevention, Production Subject to Royalties, and Resource Conservation",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "BLM-2016-0001",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a063f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BLM-2016-0001-9126"
+        }
+      },
+      {
+        "id": "CMS-2016-0116-5958",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-21T14:32:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27733",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Revisions to Payment Policies under the Physician Fee Schedule and Other Revisions to Part B for CY 2017; Medicare Advantage Bid Pricing Data Release; Medicare Advantage and Part D Medical Loss Ratio Data Release; Medicare Advantage Provider Network Requirements; Expansion of Medicare Diabetes Prevention Program Model; Medicare Shared Savings Program Requirements; Corrections",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "CMS-2016-0116",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0692"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0116-5958"
+        }
+      },
+      {
+        "id": "FTC-2016-0091-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-18T15:51:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27694",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": null,
+          "title": "Used Motor Vehicle Trade Regulation Rule",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FTC-2016-0091",
+          "subtype": null,
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a07dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2016-0091-0002"
+        }
+      },
+      {
+        "id": "FDA-2005-N-0343-0037",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-18T18:34:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "April 10 2006 Federal Register for Medical Gas Containers and Closures_ Current Good Manufacturing Practice Requirements(1)",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FDA-2005-N-0343",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a2e3b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2005-N-0343-0037"
+        }
+      },
+      {
+        "id": "FAA-2016-9391-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-04T02:01:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27531",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-01-04T04:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAA-2016-9391",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0565"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9391-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9388-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-26T21:14:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27532",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-01-04T04:59:59Z",
+          "title": "Airworthiness Directives: Learjet Inc. Airplanes",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAA-2016-9388",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a0743"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9388-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9392-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-30T02:00:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-27626",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-01-04T04:59:59Z",
+          "title": "Airworthiness Directives: Zodiac Aero Evacuation Systems",
+          "postedDate": "2016-11-18T05:00:00Z",
+          "docketId": "FAA-2016-9392",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823a08e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9392-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 4477,
+            "label": "Other"
+          },
+          {
+            "docCount": 143,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 107,
+            "label": "Notice"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAR"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "SEC"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "BLM"
+          },
+          {
+            "docCount": 1,
+            "value": "CCC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "GEO"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-11-18",
+          "toDate": "2016-11-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

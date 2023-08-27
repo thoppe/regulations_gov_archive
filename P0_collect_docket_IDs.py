@@ -5,8 +5,7 @@ import utils
 
 
 days_back = 5_000  # Number of days we will go backwards
-buffer_days = 10  # Number of days before we start collecting data
-target_date = datetime.now() - timedelta(days=buffer_days)
+buffer_days = 30  # Number of days before we start collecting data
 
 selected_documentType = set(
     [
@@ -20,6 +19,9 @@ selected_documentType = set(
 
 
 def compute(days_back, f1):
+    session = utils.get_session()
+    headers = utils.get_API_KEY()
+
     target_date = datetime.now() - timedelta(days=days_back)
     y0 = target_date.year
     m0 = target_date.month
@@ -30,7 +32,7 @@ def compute(days_back, f1):
     if f_save.exists():
         return f_save
 
-    print(f"Starting {f_save}")
+    # print(f"Starting {f_save}")
 
     params = {
         "filter[documentType]": list(selected_documentType),
@@ -42,10 +44,9 @@ def compute(days_back, f1):
 
     total_pages = None
     data = []
-    page_n = 0
+    page_n = 1
 
     while True:
-        page_n += 1
         r = session.get(url, headers=headers, params=params)
 
         if not r.ok:
@@ -53,25 +54,28 @@ def compute(days_back, f1):
 
         js = r.json()
         total_pages = js["meta"]["totalPages"]
+        total_elements = js["meta"]["totalElements"]
 
-        # Break if we've completed the expected number of pages
-        if page_n == total_pages:
-            break
-
-        # If this is true we are in trouble, this method won't work anymore.
+        # Check if true. If so, this method won't work anymore and break.
         assert js["meta"]["totalElements"] < 5000
 
         data.append(r.json())
+
+        if total_pages == 0:
+            break
+
+        # Break if we've completed the expected number of pages
+        if page_n >= total_pages:
+            break
+
+        page_n += 1
 
     jsx = json.dumps(data, indent=2)
 
     with open(f_save, "w") as FOUT:
         FOUT.write(jsx)
 
-    print(f"Saved {f_save}")
+    print(f"Saved {f_save} {len(data)} {total_pages} ({total_elements})")
 
 
-session = utils.get_session()
-headers = utils.get_API_KEY()
-
-Pipe(range(days_back), "data/daily_search_results")(compute, 1)
+Pipe(range(buffer_days, days_back), "data/daily_search_results")(compute, 1)

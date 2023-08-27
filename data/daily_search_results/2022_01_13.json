@@ -1,0 +1,780 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2021-1157-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-08T02:00:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00004",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: St. Mary's, AK",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FAA-2021-1157",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e3ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1157-0001"
+        }
+      },
+      {
+        "id": "ASC-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-16T01:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00342",
+          "withdrawn": false,
+          "agencyId": "ASC",
+          "commentEndDate": "2022-03-15T03:59:59Z",
+          "title": "Appraisal Subcommittee; Appraiser Regulation; Temporary Waiver Requests",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "ASC-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e482"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ASC-2022-0001-0001"
+        }
+      },
+      {
+        "id": "FDA-2021-N-1326-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-16T01:00:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00475",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2022-06-11T03:59:59Z",
+          "title": "Scientific Data and Information Related to the Residue of Carcinogenic Concern for the New Animal Drug Carbadox; Public Hearing; Request for Comments",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FDA-2021-N-1326",
+          "subtype": "Public Hearing",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e918"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-1326-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0640",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T17:01:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00573",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Price Transparency of Hospital Standard Charges; Radiation Oncology Model; Correction",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e43c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0640"
+        }
+      },
+      {
+        "id": "AID-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-08-20T01:00:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-27944",
+          "withdrawn": false,
+          "agencyId": "AID",
+          "commentEndDate": "2022-03-15T03:59:59Z",
+          "title": "Acquisition Regulation: Revised and Expanded Fringe Benefits for United States Personal Services Contracts with Individuals",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "AID-2022-0001",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e36a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AID-2022-0001-0001"
+        }
+      },
+      {
+        "id": "FCSIC-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T12:46:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00577",
+          "withdrawn": false,
+          "agencyId": "FCSIC",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e3a4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCSIC-2022-0001-0001"
+        }
+      },
+      {
+        "id": "FERC-2022-0044-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T12:47:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00616",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e442"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2022-0044-0001"
+        }
+      },
+      {
+        "id": "FERC-2022-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T12:47:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-27735",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Managing Transmission Line Ratings",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e4d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2022-0047-0001"
+        }
+      },
+      {
+        "id": "ARTS-2022-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T12:47:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00599",
+          "withdrawn": false,
+          "agencyId": "ARTS",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalty Inflation Adjustment",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e47e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ARTS-2022-0003-0001"
+        }
+      },
+      {
+        "id": "FDA-2019-N-3101-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T14:11:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00501",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Revised Procedures for the Announcement of Approvals and Denials of Premarket Approval Applications and Humanitarian Device Exemption Applications",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FDA-2019-N-3101",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e3ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2019-N-3101-0006"
+        }
+      },
+      {
+        "id": "FDA-2020-N-1519-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T14:31:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00492",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Revocation of the Regulations for Human Tissue Intended for Transplantation and Human Dura Mater",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FDA-2020-N-1519",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e9de"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2020-N-1519-0002"
+        }
+      },
+      {
+        "id": "FAA-2021-1176-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-01-13T13:21:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00127",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FAA-2021-1176",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e484"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1176-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-1163-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-01-13T13:22:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00005",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Bethel,AK",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FAA-2021-1163",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e486"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1163-0001"
+        }
+      },
+      {
+        "id": "NIGC_FRDOC_0001-0168",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-01-13T12:47:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00625",
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": "2022-02-01T04:59:59Z",
+          "title": "Facility License; Correction",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "NIGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e91b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC_FRDOC_0001-0168"
+        }
+      },
+      {
+        "id": "FRS-2022-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T12:47:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00503",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Federal Reserve Bank Capital Stock",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e4cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2022-0011-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2020-0446-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-01-13T18:07:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00027",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-02-15T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Kentucky; Jefferson County Emissions Statements Requirements for the 2015 8-Hour Ozone Standard Nonattainment Area",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2020-0446",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e3a1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2020-0446-0002"
+        }
+      },
+      {
+        "id": "CMS-2022-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T20:44:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00572",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Updates to Lists Related to Durable Medical Equipment, Prosthetics, Orthotics, and Supplies Conditions of Payment",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "CMS-2022-0016",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e43e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2022-0016-0001"
+        }
+      },
+      {
+        "id": "CMS-2021-0124-18883",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-08T20:37:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00573",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Price Transparency of Hospital Standard Charges; Radiation Oncology Model; Correction",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "CMS-2021-0124",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e91c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2021-0124-18883"
+        }
+      },
+      {
+        "id": "CFTC-2022-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T12:46:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00595",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Annual Adjustment of Civil Monetary Penalties to Reflect Inflation-2022",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e3a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2022-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2021-1191-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-01-13T13:24:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00076",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-03-01T04:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Iuka, MS",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FAA-2021-1191",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e917"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-1191-0001"
+        }
+      },
+      {
+        "id": "FDA-2020-N-1807-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T14:27:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00494",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "French Dressing; Revocation of a Standard of Identity",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FDA-2020-N-1807",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e997"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2020-N-1807-0023"
+        }
+      },
+      {
+        "id": "USCG-2022-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-14T14:24:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00560",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones; Delaware River Dredging, Marcus Hook, PA",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "USCG-2022-0022",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484f1e369"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0022-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2021-0428-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-11T02:00:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00028",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-02-15T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Tennessee; Finding of Failure to Attain the 2010 Sulfur Dioxide Standard; Sullivan County Nonattainment Area",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2021-0428",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e95a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2021-0428-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0639",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T17:01:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2021-28156",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation: Buy Indian Act; Procedures for Contracting",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e36d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0639"
+        }
+      },
+      {
+        "id": "FAA-2021-0820-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-01-13T13:20:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00071",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Covington, GA",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FAA-2021-0820",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006484f1e3f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2021-0820-0002"
+        }
+      },
+      {
+        "id": "FWS-R6-ES-2019-0029-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-01-13T12:54:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-00485",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Listing of Graham's Beardtongue (Penstemon grahamii) and White River Beardtongue (Penstemon scariosus var. albifluvis) and Designation of Critical Habitat; Withdrawal",
+          "postedDate": "2022-01-13T05:00:00Z",
+          "docketId": "FWS-R6-ES-2019-0029",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006484f1e3a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R6-ES-2019-0029-0028"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 219,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 73,
+            "label": "Notice"
+          },
+          {
+            "docCount": 44,
+            "label": "Other"
+          },
+          {
+            "docCount": 15,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Public Hearing"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "CMS"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FERC"
+          },
+          {
+            "docCount": 2,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "AID"
+          },
+          {
+            "docCount": 1,
+            "value": "ARTS"
+          },
+          {
+            "docCount": 1,
+            "value": "ASC"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCSIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "NIGC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-01-13",
+          "toDate": "2022-01-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

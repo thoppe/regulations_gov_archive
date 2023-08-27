@@ -1,0 +1,128 @@
+[
+  {
+    "data": [
+      {
+        "id": "ED-2017-OSERS-0050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-03T19:00:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Waiver and Extension of the Project Period for the National Individuals with Disabilities Education Act Technical Assistance Center",
+          "postedDate": "2017-02-27T00:00:00Z",
+          "docketId": "ED-2017-OSERS-0050",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482538447"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2017-OSERS-0050-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 3,
+            "label": "Other"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "ED"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 21,
+            "label": "Today",
+            "fromDate": "2023-06-23 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 74,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 92,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-17 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 226,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-09 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 443,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-25 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          },
+          {
+            "docCount": 1377,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-26 00:00:00",
+            "toDate": "2023-06-23 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2017-02-26",
+          "toDate": "2017-02-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

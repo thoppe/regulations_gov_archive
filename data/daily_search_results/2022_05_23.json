@@ -1,0 +1,749 @@
+[
+  {
+    "data": [
+      {
+        "id": "IRS_FRDOC_0001-2048",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T12:55:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10658",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Annual Information Return/Reports",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "IRS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c4623"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS_FRDOC_0001-2048"
+        }
+      },
+      {
+        "id": "DHS-2022-0034-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T13:39:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-11018",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Ratification of Security Directives",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "DHS-2022-0034",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064850c46fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2022-0034-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0411-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T13:24:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10995",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Lower Mississippi River, Mile Marker 807, Barfield Bend, TN",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "USCG-2022-0411",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064850c46f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0411-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2020-0148-0111",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T13:16:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10842",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: General Provisions; Technical Correction",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2020-0148",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064850c480d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2020-0148-0111"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0125-0152",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T16:58:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10974",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Snapper-Grouper Resources of the South Atlantic; 2022 Red Snapper Commercial and Recreational Fishing Seasons",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0125",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c4692"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0125-0152"
+        }
+      },
+      {
+        "id": "PBGC-2022-0002-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-26T15:42:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10658",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Annual Information Return/Reports",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "PBGC-2022-0002",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c4625"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC-2022-0002-0003"
+        }
+      },
+      {
+        "id": "FAA-2022-0509-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-06-18T01:01:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-11058",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-08T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FAA-2022-0509",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c480a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0509-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0519-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-29T00:21:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-11067",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-08T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Helicopters and Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FAA-2022-0519",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c4620"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0519-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2020-0505-0079",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-24T03:43:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10842",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: General Provisions; Technical Correction",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2020-0505",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064850c50b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2020-0505-0079"
+        }
+      },
+      {
+        "id": "BIS-2022-0013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-07-19T01:01:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10907",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": "2022-06-23T03:59:59Z",
+          "title": "Commerce Control List: Controls on Certain Marine Toxins",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "BIS-2022-0013",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c0cbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2022-0013-0001"
+        }
+      },
+      {
+        "id": "EBSA-2021-0006-0118",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T15:27:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10658",
+          "withdrawn": false,
+          "agencyId": "EBSA",
+          "commentEndDate": null,
+          "title": "Annual Information Return/Reports",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "EBSA-2021-0006",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c48ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EBSA-2021-0006-0118"
+        }
+      },
+      {
+        "id": "FAA-2020-0155-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T13:52:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10940",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations and Reporting Points: Wiggins, MS",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FAA-2020-0155",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c47b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2020-0155-0002"
+        }
+      },
+      {
+        "id": "TTB-2018-0008-0081",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T13:07:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10590",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-179:  Establishment of the West Sonoma Coast Viticultural Area",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "TTB-2018-0008",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064850c487e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2018-0008-0081"
+        }
+      },
+      {
+        "id": "USCG-2022-0355-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-23T13:03:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10881",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2022-06-23T03:59:59Z",
+          "title": "Safety Zone; Lake Erie, Cleveland, OH",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "USCG-2022-0355",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c461d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0355-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0146-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-29T00:21:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10952",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Sikorsky Aircraft Corporation Helicopters",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FAA-2022-0146",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c47b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0146-0004"
+        }
+      },
+      {
+        "id": "ETA_FRDOC_0001-0272",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T12:55:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-11132",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": null,
+          "title": "Exercise of Time-Limited Authority to Increase the Numerical Limitation for Second Half of FY 2022: H-2B Temporary Nonagricultural Worker Program and Portability Flexibility for H-2B Workers Seeking to Change Employers; Correction",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "ETA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c461f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA_FRDOC_0001-0272"
+        }
+      },
+      {
+        "id": "FAA-2022-0524-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-23T13:15:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10839",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-08T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Poughkeepsie, NY",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FAA-2022-0524",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c468f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0524-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0518-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T13:05:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10867",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-08T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FAA-2022-0518",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c45c1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0518-0001"
+        }
+      },
+      {
+        "id": "FAA-2022-0021-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T13:11:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10863",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Piper Aircraft, Inc. Airplanes",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FAA-2022-0021",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c468d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0021-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2020-0532-0075",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-24T03:43:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10842",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: General Provisions; Technical Correction",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2020-0532",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064850c50bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2020-0532-0075"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2020-0728-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T14:05:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10868",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2022-07-23T03:59:59Z",
+          "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Fluopicolide",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2020-0728",
+          "subtype": "Final Rule",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c487a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2020-0728-0003"
+        }
+      },
+      {
+        "id": "FAA-2022-0432-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-23T13:47:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10838",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2022-07-08T03:59:59Z",
+          "title": "Airspace Designations and Reporting Points: Greenwood, SC",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FAA-2022-0432",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c474b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-0432-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0221-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-23T13:50:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10947",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2022-08-02T03:59:59Z",
+          "title": "Drawbridge Operation Regulation; Rancocas Creek, Burlington County, NJ",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "USCG-2022-0221",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c4808"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0221-0001"
+        }
+      },
+      {
+        "id": "DHS-2022-0010-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-25T14:03:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-11132",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Exercise of Time-Limited Authority To Increase the Numerical Limitation for Second Half of FY 2022 for the H\u20132B Temporary Nonagricultural Worker Program and Portability Flexibility for H\u20132B Workers Seeking To Change Employers; Correction",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "DHS-2022-0010",
+          "subtype": null,
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c45c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2022-0010-0004"
+        }
+      },
+      {
+        "id": "FDA-2021-N-1333-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-08-19T01:00:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2022-10458",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2022-08-23T03:59:59Z",
+          "title": "Current Good Manufacturing Practice, Certification, Postmarketing Safety Reporting, and Labeling Requirements for Certain Medical Gases",
+          "postedDate": "2022-05-23T04:00:00Z",
+          "docketId": "FDA-2021-N-1333",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2022-05-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064850c48ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2021-N-1333-0019"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 190,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 69,
+            "label": "Other"
+          },
+          {
+            "docCount": 67,
+            "label": "Notice"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Correction"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 25,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "EBSA"
+          },
+          {
+            "docCount": 1,
+            "value": "ETA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "TTB"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2022-05-23",
+          "toDate": "2022-05-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 25,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 25,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

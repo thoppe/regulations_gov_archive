@@ -1,0 +1,659 @@
+[
+  {
+    "data": [
+      {
+        "id": "DARS-2016-0016-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-07T20:46:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25317",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Display of Hotline Posters",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "DARS-2016-0016",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648233099d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0016-0003"
+        }
+      },
+      {
+        "id": "DARS-2016-0023-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-08T14:01:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25425",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Technical Amendments",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "DARS-2016-0023",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482330a44"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0023-0013"
+        }
+      },
+      {
+        "id": "FHFA-2016-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-02T12:11:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26022",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": null,
+          "title": "Technical and Conforming Changes and Corrections",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482369356"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2016-0025-0001"
+        }
+      },
+      {
+        "id": "DOI-2016-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-28T02:00:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26458",
+          "withdrawn": false,
+          "agencyId": "DOI",
+          "commentEndDate": "2016-12-03T04:59:59Z",
+          "title": "Standards of Ethical Conduct for Employees of the Department of the Interior",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "DOI-2016-0007",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823691f5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOI-2016-0007-0001"
+        }
+      },
+      {
+        "id": "BOP-2016-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-03T12:17:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "BOP",
+          "commentEndDate": null,
+          "title": "72 FR 16271.040407.part501.",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "BOP-2016-0005",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648236a9a7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BOP-2016-0005-0001"
+        }
+      },
+      {
+        "id": "DARS-2016-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-22T02:02:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25332",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2016-12-21T04:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Undefinitized Contract Action Definitization",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "DARS-2016-0026",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482330a18"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0026-0001"
+        }
+      },
+      {
+        "id": "FERC-2016-1483-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-02T12:11:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26227",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2017-02-01T04:59:59Z",
+          "title": "Revisions to Indexing Policies and Page 700 of Form No. 6",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648236930b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2016-1483-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0216-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-03T01:02:18Z",
+          "highlightedContent": "",
+          "frDocNum": "92-27549",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Acid Rain Program; Nitrogen Oxides Emission Reduction Program; Proposed Rule and Notice of Public Hearing [A-92-15-III-A-1]",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0216",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648236b697"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0216-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0216-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-02T20:24:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Acid Rain Program; Nitrogen Oxides Emission Reduction Program; Correction [A-92-15-III-A-2]",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0216",
+          "subtype": "Correction",
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648236b698"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0216-0003"
+        }
+      },
+      {
+        "id": "RITA-2011-0001-0289",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-02T23:54:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26181",
+          "withdrawn": false,
+          "agencyId": "RITA",
+          "commentEndDate": null,
+          "title": "Reporting of Data for Mishandled Baggage and Wheelchairs and Scooters Transported in Aircraft Cargo Compartments",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "RITA-2011-0001",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648236939f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RITA-2011-0001-0289"
+        }
+      },
+      {
+        "id": "ACF_FRDOC_0001-0070",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-02T12:08:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26063",
+          "withdrawn": false,
+          "agencyId": "ACF",
+          "commentEndDate": null,
+          "title": "Family Violence Preventionand Services Programs",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "ACF_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648236919d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ACF_FRDOC_0001-0070"
+        }
+      },
+      {
+        "id": "FWS-HQ-ES-2016-0109-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-02T18:19:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26241",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Ten Species Added and Five Species Updated on the List of Endangered and Threatened Wildlife",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "FWS-HQ-ES-2016-0109",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482369357"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-ES-2016-0109-0001"
+        }
+      },
+      {
+        "id": "CMS-2016-0115-2541",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-15T02:00:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2016-11-15T04:59:59Z",
+          "title": "CMS-1656-FC and IFC OFR Disply CY 2017 Hospital Outpatient PPS Policy Changes and Payment Rates and Ambulatory Surgical Center Payment System Policy Changes and Payment Rates.",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "CMS-2016-0115",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482369c4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0115-2541"
+        }
+      },
+      {
+        "id": "DARS-2016-0023-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-13T00:49:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-18705",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Technical Amendment",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "DARS-2016-0023",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648216d95a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0023-0014"
+        }
+      },
+      {
+        "id": "NIGC_FRDOC_0001-0124",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-02T12:11:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26060",
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": null,
+          "title": "Various National Indian Gaming Commission Regulations",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "NIGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482369261"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC_FRDOC_0001-0124"
+        }
+      },
+      {
+        "id": "DARS-2015-0039-0043",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-08T13:25:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25315",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Network Penetration Reporting and Contracting for Cloud Services",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "DARS-2015-0039",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823309d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2015-0039-0043"
+        }
+      },
+      {
+        "id": "DOD-2015-OS-0054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-02T12:15:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26416",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2017-01-04T04:59:59Z",
+          "title": "DoD Identity Management",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "DOD-2015-OS-0054",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482369352"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2015-OS-0054-0001"
+        }
+      },
+      {
+        "id": "FDA-2016-N-2938-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-18T02:00:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26407",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2017-01-04T04:59:59Z",
+          "title": "Reference Amount Customarily Consumed for Flavored Nut Butter\nSpreads and Products That Can Be Used To Fill Cupcakes and Other\nDesserts, in the Labeling of Human Food Products; Request for\nInformation and Comments",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "FDA-2016-N-2938",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648236930c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2016-N-2938-0001"
+        }
+      },
+      {
+        "id": "FEC-2016-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-02T14:49:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-25102",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": null,
+          "title": "Technological Modernization",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482369351"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2016-0056-0001"
+        }
+      },
+      {
+        "id": "GEO-2016-0013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-02T12:11:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26418",
+          "withdrawn": false,
+          "agencyId": "GEO",
+          "commentEndDate": null,
+          "title": "Executive Branch Ethics Program",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482369355"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GEO-2016-0013-0001"
+        }
+      },
+      {
+        "id": "DOD-2015-HA-0062-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-02T12:17:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-26432",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Civilian Health and Medical Program of the Uniformed Services: Refills of Maintenance Medications through Military Treatment Facility Pharmacies or National Mail Order Pharmacy Program",
+          "postedDate": "2016-11-02T04:00:00Z",
+          "docketId": "DOD-2015-HA-0062",
+          "subtype": null,
+          "commentStartDate": "2016-11-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064823693a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2015-HA-0062-0009"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 89,
+            "label": "Other"
+          },
+          {
+            "docCount": 57,
+            "label": "Notice"
+          },
+          {
+            "docCount": 33,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 14,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "DARS"
+          },
+          {
+            "docCount": 2,
+            "value": "DOD"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "ACF"
+          },
+          {
+            "docCount": 1,
+            "value": "BOP"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOI"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FEC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "GEO"
+          },
+          {
+            "docCount": 1,
+            "value": "NIGC"
+          },
+          {
+            "docCount": 1,
+            "value": "RITA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-11-02",
+          "toDate": "2016-11-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

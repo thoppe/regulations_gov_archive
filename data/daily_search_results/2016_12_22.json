@@ -1,0 +1,878 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2016-1038-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T13:16:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30858",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Harlem River, New York, NY",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "USCG-2016-1038",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430286"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-1038-0001"
+        }
+      },
+      {
+        "id": "NCD-2016-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T12:47:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30475",
+          "withdrawn": false,
+          "agencyId": "NCD",
+          "commentEndDate": null,
+          "title": "Freedom of Information Act",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824302bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCD-2016-0005-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2016-0421-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T14:52:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30641",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Mississippi; Interstate Transport (Prongs 1 and 2) for the 2010 1-hour NO2 Standard",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2016-0421",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824304a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2016-0421-0003"
+        }
+      },
+      {
+        "id": "USCG-2016-1063-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T13:34:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30864",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Reynolds Channel, Nassau County, NY",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "USCG-2016-1063",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824304f5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-1063-0001"
+        }
+      },
+      {
+        "id": "DARS-2016-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-23T18:09:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30598",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: New Qualifying Country-Estonia",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "DARS-2016-0048",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430363"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0048-0001"
+        }
+      },
+      {
+        "id": "DARS-2016-0009-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-23T18:18:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30596",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Contract Financing",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "DARS-2016-0009",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430369"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0009-0002"
+        }
+      },
+      {
+        "id": "FAA-2013-0740-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-02-07T14:01:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30114",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-02-07T04:59:59Z",
+          "title": "Airworthiness Directives: Pratt and Whitney Turbofan Engines",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "FAA-2013-0740",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824304f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0740-0011"
+        }
+      },
+      {
+        "id": "FNS-2014-0010-0728",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T16:44:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30861",
+          "withdrawn": false,
+          "agencyId": "FNS",
+          "commentEndDate": null,
+          "title": "Local School Wellness Policy Implementation under the Healthy, Hunger-Free Kids Act; Corrections",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "FNS-2014-0010",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824304f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FNS-2014-0010-0728"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0138-1040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-16T18:37:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30876",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Summer Flounder, Scup, and Black Sea Bass Fisheries; 2017-2018 Summer Flounder Specifications and Announcement of 2017 Summer Flounder and Black Sea Bass Commercial Accountability Measures",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0138",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824302c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0138-1040"
+        }
+      },
+      {
+        "id": "NCUA-2016-0089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-03-29T01:00:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30748",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": "2017-01-24T04:59:59Z",
+          "title": "Freedom of Information Act Regulation; Revisions",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "NCUA-2016-0089",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648243044a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2016-0089-0001"
+        }
+      },
+      {
+        "id": "OPIC-2016-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-22T12:51:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30661",
+          "withdrawn": false,
+          "agencyId": "OPIC",
+          "commentEndDate": "2017-01-24T04:59:59Z",
+          "title": "Freedom of Information",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648243052e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPIC-2016-0015-0001"
+        }
+      },
+      {
+        "id": "DARS-2016-0034-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-23T18:49:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30597",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2017-02-22T04:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplements: Competition for Religious-Related Services Contracts (DFARS Case 2016-D015)",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "DARS-2016-0034",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430586"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0034-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-1039-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T13:38:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30866",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Sloop Channel, Nassau, NY",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "USCG-2016-1039",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648243058a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-1039-0001"
+        }
+      },
+      {
+        "id": "FAA-2015-7531-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T17:28:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30032",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "FAA-2015-7531",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824303fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-7531-0007"
+        }
+      },
+      {
+        "id": "FTC-2016-0106-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-24T02:01:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30508",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": "2017-01-24T04:59:59Z",
+          "title": "Freedom of Information Act; Miscellaneous Rules",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "FTC-2016-0106",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430287"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2016-0106-0001"
+        }
+      },
+      {
+        "id": "OPM-2016-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-16T13:01:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30487",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": "2017-02-22T04:59:59Z",
+          "title": "Federal Employees' Retirement System; Government Costs",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "OPM-2016-0019",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430364"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2016-0019-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0498",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:11:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30433",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Patient Protection and Affordable Care Act: Benefit and Payment Parameters for 2018; Amendments to Special Enrollment Periods and the Consumer Operated and Oriented Plan Program",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824302c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0498"
+        }
+      },
+      {
+        "id": "FTC-2016-0103-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-09-08T01:00:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30507",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": null,
+          "title": "Freedom of Information Act; Miscellaneous Rules",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "FTC-2016-0103",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430449"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2016-0103-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-6894-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T16:53:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30031",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "FAA-2016-6894",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824302bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-6894-0004"
+        }
+      },
+      {
+        "id": "FWS-R2-ES-2015-0028-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-24T02:02:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30816",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2017-01-24T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Removal of the Hualapai Mexican Vole From the Federal List",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "FWS-R2-ES-2015-0028",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824302be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R2-ES-2015-0028-0008"
+        }
+      },
+      {
+        "id": "CMS-2016-0148-0671",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-10T15:08:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30433",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Patient Protection and Affordable Care Act: Benefit and Payment Parameters for 2018; Amendments to Special Enrollment Periods and the Consumer Operated and Oriented Plan Program",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "CMS-2016-0148",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824304f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0148-0671"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2016-0236-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-31T02:02:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-29882",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-02-22T04:59:59Z",
+          "title": "Pesticide Tolerances: Bifenthrin; Emergency Exemption",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2016-0236",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430368"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2016-0236-0001"
+        }
+      },
+      {
+        "id": "FMC-2016-0096-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T12:51:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30745",
+          "withdrawn": false,
+          "agencyId": "FMC",
+          "commentEndDate": null,
+          "title": "Rules of Practice and Procedure; Presentation of Evidence in Commission Proceedings",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430400"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMC-2016-0096-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2016-0727-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-22T16:43:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30768",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-01-24T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; North Coast Unified Air Quality Management District Limited Federal Implementation Plan; Prevention of Significant Deterioration Requirements for Fine Particulate Matter (PM2.5)",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2016-0727",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824304a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2016-0727-0001"
+        }
+      },
+      {
+        "id": "USTR-2016-0027-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-05T18:58:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30495",
+          "withdrawn": false,
+          "agencyId": "USTR",
+          "commentEndDate": "2017-01-24T04:59:59Z",
+          "title": "Privacy Act Policies and Procedures",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "USTR-2016-0027",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824304aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USTR-2016-0027-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-9527-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-30T02:02:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30039",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-02-07T04:59:59Z",
+          "title": "Airworthiness Directives: Viking Air Limited Airplanes",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "FAA-2016-9527",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824304ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9527-0001"
+        }
+      },
+      {
+        "id": "DARS-2016-0004-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-02-03T02:04:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30750",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2017-02-03T04:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplements: Independent Research and Development Expenses (DFARS Case 2016-D017)",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "DARS-2016-0004",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824303a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2016-0004-0015"
+        }
+      },
+      {
+        "id": "TTB-2016-0004-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T15:21:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-29201",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-145:  Streamlining Importation of Distilled Spirits, Wine, Beer, Malt Beverages, Tobacco Products, Processed Tobacco, and Cigarette Papers and Tubes and Facilitate Use of the International Trade Data System",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "TTB-2016-0004",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064824303a7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2016-0004-0012"
+        }
+      },
+      {
+        "id": "AID-2021-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-02-24T20:15:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30413",
+          "withdrawn": false,
+          "agencyId": "AID",
+          "commentEndDate": null,
+          "title": "Freedom of Information Act Regulations",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "AID-2021-0022",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482430311"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AID-2021-0022-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2016-0322-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-22T16:46:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-30644",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; Approval and Limited Approval and Limited Disapproval of State Implementation Plan Revisions; Butte County Air Quality Management District; Stationary Source Permits",
+          "postedDate": "2016-12-22T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2016-0322",
+          "subtype": null,
+          "commentStartDate": "2016-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648243030f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2016-0322-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 274,
+            "label": "Other"
+          },
+          {
+            "docCount": 83,
+            "label": "Notice"
+          },
+          {
+            "docCount": 41,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 21,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 30,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "DARS"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "AID"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FMC"
+          },
+          {
+            "docCount": 1,
+            "value": "FNS"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "NCD"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OPIC"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "TTB"
+          },
+          {
+            "docCount": 1,
+            "value": "USTR"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-12-22",
+          "toDate": "2016-12-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 30,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 30,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

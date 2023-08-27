@@ -1,0 +1,605 @@
+[
+  {
+    "data": [
+      {
+        "id": "CMS-2015-0068-0877",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T12:14:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "CMS-2390-F Display Version",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "CMS-2015-0068",
+          "subtype": null,
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94a0a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2015-0068-0877"
+        }
+      },
+      {
+        "id": "FDA-2011-N-0143-0388",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-05-05T22:21:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09784",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Foreign Supplier Verification Programs for Importers of Food for Humans and Animals; Technical Amendment",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "FDA-2011-N-0143",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94d20"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2011-N-0143-0388"
+        }
+      },
+      {
+        "id": "CFPB_FRDOC_0001-0452",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T12:05:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09431",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Consumer Financial Protection Laws: Finalization of Interim Final Rules",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "CFPB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94ded"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB_FRDOC_0001-0452"
+        }
+      },
+      {
+        "id": "IRS-2013-0012-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T18:28:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09765",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 6708 Failure to Maintain List of Advisees with Respect to Reportable Transactions",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "IRS-2013-0012",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94e31"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2013-0012-0006"
+        }
+      },
+      {
+        "id": "FAA-2015-3773-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-05-02T13:33:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09699",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace: Deer Lodge MT; Correction",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "FAA-2015-3773",
+          "subtype": "Correction",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94efa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-3773-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0146-0952",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T12:14:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09892",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; Red Snapper Management Measures; Amendment 28",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0146",
+          "subtype": null,
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94efe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0146-0952"
+        }
+      },
+      {
+        "id": "FRA-2015-0111-0029",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-07-09T01:00:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09911",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2016-06-09T03:59:59Z",
+          "title": "Evaluation of Safety Sensitive Personnel for Moderate-to-Severe Obstructive Sleep Apnea; Public Listening Sessions",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "FRA-2015-0111",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94f00"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2015-0111-0029"
+        }
+      },
+      {
+        "id": "CMS-2016-0060-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-05-28T20:58:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2016-05-10T03:59:59Z",
+          "title": "CMS-5517-P Display Version  Medicare Program; Merit-Based Incentive Payment System (MIPS) and Alternative Payment Model (APM) Incentive under the Physician Fee Schedule and Criteria for Physician -Focused Payment Models",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "CMS-2016-0060",
+          "subtype": null,
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f9523a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0060-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-5598-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-07-07T13:02:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09647",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-06-14T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "FAA-2016-5598",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94dee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-5598-0001"
+        }
+      },
+      {
+        "id": "PBGC-2016-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-06-28T01:00:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09960",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": "2016-06-28T03:59:59Z",
+          "title": "Payment of Premiums; Late Payment Penalty Relief",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "PBGC-2016-0002",
+          "subtype": null,
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94e7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC-2016-0002-0001"
+        }
+      },
+      {
+        "id": "FDA-2016-N-0002-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T16:16:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09865",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs: Approval of New Animal Drug Applications; Changes of Sponsorship; Correction",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "FDA-2016-N-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94e7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2016-N-0002-0010"
+        }
+      },
+      {
+        "id": "USCG-2016-0054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T12:55:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09990",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Eighth Coast Guard District Annual Safety Zones; Pittsburgh Pirates Fireworks; Allegheny River Mile 0.2 to 0.8; Pittsburgh, PA",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "USCG-2016-0054",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481f94eb3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0054-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2014-0107-1655",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T12:16:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09907",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; 2016 Recreational Fishing Seasons for Red Snapper in the Gulf of Mexico",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "NOAA-NMFS-2014-0107",
+          "subtype": null,
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94db6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2014-0107-1655"
+        }
+      },
+      {
+        "id": "FMCSA-2015-0419-0276",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-07-01T01:01:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09911",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2016-06-09T03:59:59Z",
+          "title": "Evaluation of Safety Sensitive Personnel for Moderate-to-Severe Obstructive Sleep Apnea; Public Listening Sessions",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "FMCSA-2015-0419",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94ebb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2015-0419-0276"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2015-0152-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-05-03T11:43:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09861",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Georgia; Infrastructure Requirements for the Sulfur Dioxide National Ambient Air Quality Standard",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2015-0152",
+          "subtype": null,
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94e82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2015-0152-0008"
+        }
+      },
+      {
+        "id": "ED-2015-OCTAE-0095-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T14:59:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09749",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Final Priorities, Requirements, Definitions, and Selection Criteria--Performance Partnership Pilots for Disconnected Youth",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "ED-2015-OCTAE-0095",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94d19"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2015-OCTAE-0095-0013"
+        }
+      },
+      {
+        "id": "FAA-2016-5597-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-07-07T13:01:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09643",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-06-14T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "FAA-2016-5597",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94df0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-5597-0001"
+        }
+      },
+      {
+        "id": "CMS-2016-0058-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-06-22T01:00:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09631",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2016-06-21T03:59:59Z",
+          "title": "Medicare Program: FY 2017 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Requirements CMS-1652-P",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "CMS-2016-0058",
+          "subtype": null,
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94df4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0058-0002"
+        }
+      },
+      {
+        "id": "IRS-2015-0004-0719",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-28T18:35:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-09888",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Suspension of Benefits under the Multiemployer Pension Reform Act of 2014",
+          "postedDate": "2016-04-28T04:00:00Z",
+          "docketId": "IRS-2015-0004",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-04-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481f94eb4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2015-0004-0719"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 76,
+            "label": "Notice"
+          },
+          {
+            "docCount": 59,
+            "label": "Other"
+          },
+          {
+            "docCount": 57,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 12,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 19,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "CMS"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-04-28",
+          "toDate": "2016-04-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 19,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 19,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

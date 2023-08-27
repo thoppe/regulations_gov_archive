@@ -1,0 +1,978 @@
+[
+  {
+    "data": [
+      {
+        "id": "ED-2014-OELA-0076-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-27T20:54:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2014-11669",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": "2014-06-20T03:59:59Z",
+          "title": "2014-11669",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "ED-2014-OELA-0076",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481705f3f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2014-OELA-0076-0001"
+        }
+      },
+      {
+        "id": "FRS-2023-0102-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T19:38:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08876",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Interagency Policy Statement on Allowances for Credit Losses",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992ce7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2023-0102-0001"
+        }
+      },
+      {
+        "id": "FDIC-2023-0024-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T19:39:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08876",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Interagency Policy Statement on Allowances for Credit Losses",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485995323"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2023-0024-0001"
+        }
+      },
+      {
+        "id": "NCUA_FRDOC_0001-0328",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T19:39:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08876",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Interagency Policy Statement on Allowances for Credit Losses",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "NCUA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485995324"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA_FRDOC_0001-0328"
+        }
+      },
+      {
+        "id": "CMS-2022-0192-0294",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T19:14:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08368",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Patient Protection and Affordable Care Act: Notice of Benefit and Payment Parameters",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "CMS-2022-0192",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064859929a7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2022-0192-0294"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0529-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-28T00:40:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08939",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Pesticide Tolerances: Fluazifop-P-butyl",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0529",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485993933"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0529-0003"
+        }
+      },
+      {
+        "id": "NOAA_FRDOC_0001-6577",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T12:49:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08877",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Herring Fishery; 2023 River Herring and Shad Catch Cap Reached for Midwater Trawl Vessels in the Cape Cod Catch Cap Area",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "NOAA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992978"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA_FRDOC_0001-6577"
+        }
+      },
+      {
+        "id": "FWS-R3-ES-2019-0020-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T12:56:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08849",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Big Creek Crayfish and St. Francis River Crayfish",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "FWS-R3-ES-2019-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064859929ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R3-ES-2019-0020-0040"
+        }
+      },
+      {
+        "id": "HHS_FRDOC_0001-0895",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T12:49:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08368",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Patient Protection and Affordable Care Act: Notice of Benefit and Payment Parameters",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "HHS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992970"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS_FRDOC_0001-0895"
+        }
+      },
+      {
+        "id": "AMS-SC-21-0089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-02T15:13:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08851",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Marketing Order: Almonds Grown in California; Amendments",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "AMS-SC-21-0089",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485992a42"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-21-0089-0001"
+        }
+      },
+      {
+        "id": "AMS-SC-22-0089-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-02T15:16:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08911",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Pears Grown in Oregon and Washington; Continuance Referendum",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "AMS-SC-22-0089",
+          "subtype": "Correction",
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992b08"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-22-0089-0002"
+        }
+      },
+      {
+        "id": "DARS-2023-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-01T17:14:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08645",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Consolidation of DoD Government Property Clauses",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "DARS-2023-0017",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485992a7a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2023-0017-0001"
+        }
+      },
+      {
+        "id": "DOD-2019-HA-0056-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-03T13:23:02Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2023-06452",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "TRICARE; Reimbursement of Ambulatory Surgery Centers and Outpatient Services Provided in Cancer and Children's Hospitals",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "DOD-2019-HA-0056",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064859929f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2019-HA-0056-0014"
+        }
+      },
+      {
+        "id": "SBA_FRDOC_0001-0453",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T12:50:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-07855",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Ownership and Control andContractual Assistance Requirements for the 8(a) Business Development Program",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "SBA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992a77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA_FRDOC_0001-0453"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2022-0923-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-04-27T13:59:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08864",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Polyvinyl Alcohol (PVA); Toxic Substances Control Act (TSCA) Section 21 Petition for Rulemaking; Reasons for Agency Response; Denial of Requested Rulemaking",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2022-0923",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064859929ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2022-0923-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0352-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T13:46:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08947",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Fairport Harbor, Fairport, OH",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "USCG-2023-0352",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485992abf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0352-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2021-0310-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T14:45:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08939",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Pesticide Tolerances: Fluazifop-P-butyl",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2021-0310",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485992abb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2021-0310-0005"
+        }
+      },
+      {
+        "id": "DARS-2023-0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-05-01T17:17:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08647",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Technical Amendments",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "DARS-2023-0001",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992b09"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2023-0001-0002"
+        }
+      },
+      {
+        "id": "FWS-R2-ES-2020-0015-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T12:58:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08846",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: South Llano Springs Moss",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "FWS-R2-ES-2020-0015",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485992b06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R2-ES-2020-0015-0014"
+        }
+      },
+      {
+        "id": "DOS-2023-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T12:59:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08825",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "International Traffic in Arms Regulations: U.S. Munitions List Targeted Revisions",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "DOS-2023-0003",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992b51"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2023-0003-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0314-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T13:39:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08905",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Cumberland River",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "USCG-2023-0314",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064859929fb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0314-0001"
+        }
+      },
+      {
+        "id": "AMS-SC-22-0069-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-02T15:14:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08852",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Marketing Order Regulations for Almonds Grown in California",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "AMS-SC-22-0069",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485992b05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-SC-22-0069-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0184-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-08T01:01:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08863",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Drawbridge Operation Regulation; Maumee River, Toledo, OH",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "USCG-2023-0184",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "09000064859929f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0184-0001"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-1647",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T12:50:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08870",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Iranian Transactions and Sanctions Regulations and Western Balkans Stabilization Regulations; Correction",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992a3d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1647"
+        }
+      },
+      {
+        "id": "USCG-2023-0254-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T13:43:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08904",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation: Safety Zone, Monongahela River Mile Marker 89.8 to Mile Marker 90.8, Point Marion, PA",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "USCG-2023-0254",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064859929fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0254-0001"
+        }
+      },
+      {
+        "id": "ED-2012-OPE-0006-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T20:49:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "2 Pells Final Rule",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "ED-2012-OPE-0006",
+          "subtype": "Correction",
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648135212b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2012-OPE-0006-0014"
+        }
+      },
+      {
+        "id": "DARS-2023-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-05-05T01:00:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08644",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Transfer and Adoption of Military Animals",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "DARS-2023-0016",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485992a3b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2023-0016-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2022-0295-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T13:07:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08485",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of Michigan Revisions to Part 1 and 2 Rules",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2022-0295",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992abc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2022-0295-0006"
+        }
+      },
+      {
+        "id": "GSA-FMR-2019-0015-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-04-27T19:54:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08549",
+          "withdrawn": false,
+          "agencyId": "GSA",
+          "commentEndDate": null,
+          "title": "Federal Management Regulation: Replacement of Personal Property Pursuant to the Exchange/Sale Authority",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "GSA-FMR-2019-0015",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064859929f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GSA-FMR-2019-0015-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2022-0787-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-13T01:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-07627",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-06-13T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants: Ethylene Production, Miscellaneous Organic Chemical Manufacturing, Organic Liquids Distribution (Non-Gasoline), and Petroleum Refineries Reconsideration of Final Rule",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2022-0787",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648598f4da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2022-0787-0001"
+        }
+      },
+      {
+        "id": "DARS-2023-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-17T01:00:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08646",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Restriction on Certain Metal Products",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "DARS-2023-0018",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485992a3c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2023-0018-0001"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2023-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-20T01:00:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-08848",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2023-06-27T03:59:59Z",
+          "title": "Endangered and Threatened Species: Bi-State Distinct Population Segment of Greater Sage-Grouse",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "FWS-R8-ES-2023-0052",
+          "subtype": null,
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485992a78"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2023-0052-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2022-0985-1423",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-06-21T01:01:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-07955",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-06-17T03:59:59Z",
+          "title": "Greenhouse Gas Emissions Standards for Heavy-Duty Vehicles - Phase 3",
+          "postedDate": "2023-04-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2022-0985",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-04-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485992a3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2022-0985-1423"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 166,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 71,
+            "label": "Notice"
+          },
+          {
+            "docCount": 62,
+            "label": "Other"
+          },
+          {
+            "docCount": 21,
+            "label": "Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Correction"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Request for Comment"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 9,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "DARS"
+          },
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "AMS"
+          },
+          {
+            "docCount": 3,
+            "value": "FWS"
+          },
+          {
+            "docCount": 2,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "GSA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          }
+        ],
+        "commentEndDate": [
+          {
+            "docCount": 9,
+            "label": "Next 7 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-27 23:59:59"
+          },
+          {
+            "docCount": 9,
+            "label": "Next 15 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-07-05 23:59:59"
+          },
+          {
+            "docCount": 9,
+            "label": "Next 30 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-07-20 23:59:59"
+          },
+          {
+            "docCount": 9,
+            "label": "Next 90 Days",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-09-18 23:59:59"
+          }
+        ],
+        "postedDate": [
+          {
+            "docCount": 36,
+            "label": "Today",
+            "fromDate": "2023-06-21 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 53,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-19 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 111,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-15 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 225,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-07 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 446,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-23 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-24 00:00:00",
+            "toDate": "2023-06-21 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-04-27",
+          "toDate": "2023-04-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

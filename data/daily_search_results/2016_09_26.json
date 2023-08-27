@@ -1,0 +1,766 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2016-9074-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-01T01:01:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-21703",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2016-11-11T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FAA-2016-9074",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822661a1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-9074-0001"
+        }
+      },
+      {
+        "id": "SSA-2007-0101-2405",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T13:27:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22908",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": null,
+          "title": "Revised Medical Criteria for Evaluating Mental Disorders",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "SSA-2007-0101",
+          "subtype": null,
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822661f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2007-0101-2405"
+        }
+      },
+      {
+        "id": "USCG-2016-0892-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T14:03:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-23090",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Rancocas Creek, Burlington, NJ",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "USCG-2016-0892",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482266239"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0892-0001"
+        }
+      },
+      {
+        "id": "USCG-2016-0894-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T13:49:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-23211",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Sacramento River, Sacramento, CA",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "USCG-2016-0894",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482265896"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0894-0001"
+        }
+      },
+      {
+        "id": "FCC-2016-0302-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T11:43:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22216",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Assessment and Collection of Regulatory Fees for Fiscal Year 2016",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822661f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0302-0001"
+        }
+      },
+      {
+        "id": "DOI-2016-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-03T18:20:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-23102",
+          "withdrawn": false,
+          "agencyId": "DOI",
+          "commentEndDate": null,
+          "title": "Nonprocurement Suspension and Debarment Regulations",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "DOI-2016-0008",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822662c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOI-2016-0008-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-8744-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T13:33:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-23121",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Repair Stations",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FAA-2016-8744",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822658e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-8744-0006"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2016-0315-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T21:04:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22887",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Georgia; Prong 4-2008 Ozone, 2010 NO2, SO2, and 2012 PM2.5",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2016-0315",
+          "subtype": null,
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648226615d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2016-0315-0007"
+        }
+      },
+      {
+        "id": "FS_FRDOC_0001-2447",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-02-18T02:32:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22929",
+          "withdrawn": false,
+          "agencyId": "FS",
+          "commentEndDate": null,
+          "title": "Sale and Disposal of National Forest System Timber: Forest Products for Traditional and Cultural Purposes",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FS_FRDOC_0001",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822662f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FS_FRDOC_0001-2447"
+        }
+      },
+      {
+        "id": "FAA-2011-1068-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-10-29T20:55:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-21602",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Co. Airplanes",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FAA-2011-1068",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822661a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1068-0014"
+        }
+      },
+      {
+        "id": "FAA-2016-3992-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T13:41:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22187",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Co. Airplanes",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FAA-2016-3992",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822662f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-3992-0007"
+        }
+      },
+      {
+        "id": "FAA-2015-0935-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-19T21:34:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22188",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives:The Boeing Co. Airplanes",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FAA-2015-0935",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482265899"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2015-0935-0012"
+        }
+      },
+      {
+        "id": "FCC-2016-0300-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-26T11:42:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22978",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2016-11-11T04:59:59Z",
+          "title": "Narrowband Operations in the 769-775/799-805 MHz Bands",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822658e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0300-0001"
+        }
+      },
+      {
+        "id": "IRS-2016-0034-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-29T17:15:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22938",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Reporting for Qualified Tuition and Related Expenses; Education Tax Credits; Correction",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "IRS-2016-0034",
+          "subtype": "Correction",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822658e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2016-0034-0006"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2015-0835-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T12:25:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22981",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval of Air Quality Implementation Plans; Missouri State Implementation Plan for the 2008 Lead Standard",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "EPA-R07-OAR-2015-0835",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482266117"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2015-0835-0010"
+        }
+      },
+      {
+        "id": "FDA-1976-N-0031-0027",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-26T18:16:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1976-12-09T04:59:59Z",
+          "title": "Notice of Proposed Rule re Over-The-Counter Drugs; Establishment of a Monograph for OTC Cold, Cough, Allergy, Bronchodilator and Antiasthmatic Products (Page 324 -423)\u2028",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FDA-1976-N-0031",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e508da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1976-N-0031-0027"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2014-0622-0067",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T15:31:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22882",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Treatment of Indian Tribes in a Similar Manner as States for Purposes of Sections of the Clean Water Act",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2014-0622",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006482266280"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2014-0622-0067"
+        }
+      },
+      {
+        "id": "FCC-2016-0299-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T11:42:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22713",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Relay Services for Deaf-Blind Individuals: Implementation of the Twenty-First Century Communications and Video Accessibility Act of 2010",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648226589d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0299-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-5039-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-01-28T21:14:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22460",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FAA-2016-5039",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822658e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-5039-0004"
+        }
+      },
+      {
+        "id": "STB-2016-0149-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-26T11:42:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-23144",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": null,
+          "title": "Class I Railroad Accounting and Financial Reporting: Transportation of Hazardous Materials; Withdrawal",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482266114"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2016-0149-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2016-0067-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-20T02:02:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22902",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2016-10-27T03:59:59Z",
+          "title": "Atlantic Highly Migratory Species: Individual Bluefin Quota Program; Inseason Transfers",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "NOAA-NMFS-2016-0067",
+          "subtype": null,
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006482266163"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2016-0067-0001"
+        }
+      },
+      {
+        "id": "USA-2015-HQ-0046-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-27T11:26:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-23087",
+          "withdrawn": false,
+          "agencyId": "USA",
+          "commentEndDate": null,
+          "title": "Army National Military Cemeteries",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "USA-2015-HQ-0046",
+          "subtype": null,
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822661f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USA-2015-HQ-0046-0016"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2009-0187-0464",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-26T15:01:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-22974",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Chemical Data Reporting; 2016 Submission Period Extension",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2009-0187",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064822662be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2009-0187-0464"
+        }
+      },
+      {
+        "id": "FDA-1976-N-0031-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-09-26T18:26:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1976-12-09T04:59:59Z",
+          "title": "Notice of Proposed Rule re Over-The-Counter Drugs; Establishment of a Monograph for OTC Cold, Cough, Allergy, Bronchodilator and Antiasthmatic Products (Part 926-940)\u2028",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "FDA-1976-N-0031",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e4f035"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1976-N-0031-0028"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2015-0791-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-24T02:01:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-23184",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-11-26T04:59:59Z",
+          "title": "Pesticide Tolerances: Fluopicolide",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2015-0791",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-09-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064822662f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2015-0791-0005"
+        }
+      },
+      {
+        "id": "USCG-2016-0885-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-09-29T15:37:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-23122",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Arkansas River, Little Rock, AR",
+          "postedDate": "2016-09-26T04:00:00Z",
+          "docketId": "USCG-2016-0885",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648226615b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2016-0885-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 129,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 78,
+            "label": "Other"
+          },
+          {
+            "docCount": 74,
+            "label": "Notice"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 11,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOI"
+          },
+          {
+            "docCount": 1,
+            "value": "FS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          },
+          {
+            "docCount": 1,
+            "value": "USA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-09-26",
+          "toDate": "2016-09-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

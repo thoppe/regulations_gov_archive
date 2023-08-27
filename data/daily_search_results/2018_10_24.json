@@ -1,0 +1,580 @@
+[
+  {
+    "data": [
+      {
+        "id": "FERC-2018-1354-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T12:18:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23332",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Licenses, Permits, Exemptions, and Determination of Project Costs; CFR Correction",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648384377a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2018-1354-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0189-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T13:37:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23106",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Viking Air Limited Airplanes",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "FAA-2018-0189",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843d07"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0189-0004"
+        }
+      },
+      {
+        "id": "FAA-2018-0078-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T13:47:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23036",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "FAA-2018-0078",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843d4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0078-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2014-0008-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-04T19:31:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23251",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2014-0008",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648384377c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2014-0008-0014"
+        }
+      },
+      {
+        "id": "FAA-2018-0891-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T14:15:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23107",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-12-11T04:59:59Z",
+          "title": "Airworthiness Directives: Glasgflugel Gliders",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "FAA-2018-0891",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843d7a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0891-0001"
+        }
+      },
+      {
+        "id": "TREAS_FRDOC_0001-0330",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T12:26:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23182",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "State Relief and Empowerment Waivers",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843dbb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0330"
+        }
+      },
+      {
+        "id": "USCG-2018-0965-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T15:19:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23136",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Sacramento River, Sacramento, CA",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "USCG-2018-0965",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006483843ec8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2018-0965-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2009-0493-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-10-26T01:02:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23251",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-24T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2009-0493",
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483847419"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2009-0493-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2018-0636-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-12-05T01:14:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23251",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-24T04:59:59Z",
+          "title": "Pesticide Petitions: Residues of Pesticide Chemicals in or on Various Commodities",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2018-0636",
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648384741a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2018-0636-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0160-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T14:33:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23031",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc., Airplanes",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "FAA-2018-0160",
+          "subtype": "Final Rule",
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843e7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0160-0004"
+        }
+      },
+      {
+        "id": "BIS-2018-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-26T19:13:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22163",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Wassenaar Arrangement 2017 Plenary Agreements Implementation",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "BIS-2018-0030",
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843e7e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2018-0030-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-RCRA-2016-0549-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-07-04T01:02:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-22998",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2018-11-24T04:59:59Z",
+          "title": "Texas: Proposed Authorization of State-initiated Changes and Incorporation by Reference of State Hazardous Waste Management Program, Proposed rule, 9 pages",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "EPA-R06-RCRA-2016-0549",
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843d47"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-RCRA-2016-0549-0001"
+        }
+      },
+      {
+        "id": "FAA-2018-0926-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2019-11-08T02:07:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23270",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2018-11-24T04:59:59Z",
+          "title": "Removal of the Date Restriction for Flight Training in Experimental Light Sport Aircraft",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "FAA-2018-0926",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843dc4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2018-0926-0001"
+        }
+      },
+      {
+        "id": "OSM_FRDOC_0001-0256",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-15T14:56:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23315",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "Surface Mining Permit Applications; CFR Correction",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "OSM_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843e75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM_FRDOC_0001-0256"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0534",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:48:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23182",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "State Relief and Empowerment Waivers",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843ec3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0534"
+        }
+      },
+      {
+        "id": "CMS-2018-0116-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-01-04T02:01:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23182",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2018-12-25T04:59:59Z",
+          "title": "State Relief and Empowerment Waivers CMS-9936-NC",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "CMS-2018-0116",
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843df0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2018-0116-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2018-0172-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T15:10:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23247",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval of Louisiana's Request to Relax the Federal Reid Vapor Pressure Gasoline Standard for the Baton Rouge Area",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2018-0172",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064838438ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2018-0172-0007"
+        }
+      },
+      {
+        "id": "FCC-2018-0173-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-24T12:25:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2018-23242",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Rural Call Completion",
+          "postedDate": "2018-10-24T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2018-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006483843d7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2018-0173-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 465,
+            "label": "Other"
+          },
+          {
+            "docCount": 132,
+            "label": "Notice"
+          },
+          {
+            "docCount": 17,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 18,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "OSM"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2018-10-24",
+          "toDate": "2018-10-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 18,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 18,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]

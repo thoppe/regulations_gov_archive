@@ -1,0 +1,639 @@
+[
+  {
+    "data": [
+      {
+        "id": "USDA_FRDOC_0001-1528",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T15:13:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02745",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Agriculture Acquisition Regulation, Fire Suppression and Liability",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e6956f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-1528"
+        }
+      },
+      {
+        "id": "FDA-2016-N-0237-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T15:52:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02878",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; General and Plastic Surgery Devices; Classification of the Scalp Cooling System To Reduce the Likelihood of Chemotherapy-Induced Alopecia",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "FDA-2016-N-0237",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e6965b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2016-N-0237-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2013-0009-0090",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-17T21:07:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02763",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Petition for Rulemaking; Denials: Federal Motor Vehicle Safety Standards",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "NHTSA-2013-0009",
+          "subtype": "Denial",
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e6965f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2013-0009-0090"
+        }
+      },
+      {
+        "id": "FDA-2012-N-1174-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T16:16:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02876",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Anesthesiology Devices; Reclassification of Membrane Lung for Long-Term Pulmonary Support; Redesignation as Extracorporeal Circuit and Accessories for Long-Term Respiratory/Cardiopulmonary Failure",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "FDA-2012-N-1174",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e697b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2012-N-1174-0004"
+        }
+      },
+      {
+        "id": "FCC-2015-0325-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T15:15:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02900",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Broadcast Licensee-Conducted Contests",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e697b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2015-0325-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2013-0399-0200",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T18:33:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02952",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Significant New Use Rule on Certain Chemical Substances",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2013-0399",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e6956c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2013-0399-0200"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2015-0751-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-12T21:20:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02845",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-03-01T04:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: California; San Joaquin Valley Unified Air Pollution Control District",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2015-0751",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e6974c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2015-0751-0028"
+        }
+      },
+      {
+        "id": "FDA-2015-N-2103-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-16T19:56:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02884",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Removal of Review and Reclassification Procedures for Biological Products Licensed Prior to July 1, 1972",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "FDA-2015-N-2103",
+          "subtype": "Final Rule",
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e6977c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2015-N-2103-0002"
+        }
+      },
+      {
+        "id": "DOS-2016-0007-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-25T17:36:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02962",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": "2016-04-05T03:59:59Z",
+          "title": "Visas: Documentation of Nonimmigrants under the Immigration and Nationality Act, as Amended",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "DOS-2016-0007",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e6952c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2016-0007-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0124-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-12T15:18:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-03053",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2016-03-01T04:59:59Z",
+          "title": "Trade Monitoring Procedures for Fishery Products; International Trade in Seafood: Permit Requirements for Importers and Exporters Public Meetings; Correction",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0124",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e6965e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0124-0009"
+        }
+      },
+      {
+        "id": "FCC-2016-0049-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-12T15:15:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02899",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Petitions for Reconsideration of Action in a Rulemaking Proceeding",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e69781"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2016-0049-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2015-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-04-13T04:00:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02843",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2016-04-13T03:59:59Z",
+          "title": "Pacific Island Fisheries: Hawaii Bottomfish and Seamount Groundfish; Revised Essential Fish Habitat and Habitat Areas of Particular Concern\n \n(NOTE: VIEW PDF FOR ACCURATE TABLES)",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "NOAA-NMFS-2015-0056",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e69c88"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2015-0056-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2015-0594-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T16:49:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02831",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Clean Air Act Operating Permit Programs: West Virginia; Revision",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2015-0594",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e69783"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2015-0594-0017"
+        }
+      },
+      {
+        "id": "CMS-2012-0020-0206",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-17T21:34:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02789",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Reporting and Returning of Overpayments",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "CMS-2012-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e695b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2012-0020-0206"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2015-0855-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-13T15:00:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02846",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-03-15T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Idaho; Interstate Transport Requirements for the 2010 Nitrogen Dioxide  National Ambient Air Quality Standards",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2015-0855",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e69529"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2015-0855-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2014-0672-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T20:37:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02816",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerances: Diflubenzuron",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2014-0672",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e6965d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2014-0672-0009"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0320",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T15:15:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02810",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Benefits Payable in Terminated Single-Employer Plans; Interest Assumptions for Paying Benefits",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e6974e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0320"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-18694",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T15:15:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02955",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Allocations of Cross-State Air Pollution Rule Allowances from New Unit Set-Asides for the 2015 Compliance Year",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e69780"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-18694"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2014-0250-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-16T14:28:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02844",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2016-03-15T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals andPromulgations: Tennessee; Removal of I/M Program in Memphis and Revisions to the 1997 8-Hour Ozone Maintenance Plan for Shelby County, TN",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2014-0250",
+          "subtype": null,
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e695b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2014-0250-0001"
+        }
+      },
+      {
+        "id": "USCG-2015-1126-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-03-14T20:00:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02814",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2016-03-15T03:59:59Z",
+          "title": "Special Local Regulation; Chesapeake Bay, Between Sandy Point and Kent Island, MD",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "USCG-2015-1126",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2016-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481e696fd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2015-1126-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2014-0783-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-12T20:53:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2016-02815",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Requirements of a Tolerance; Exemptions: Benzyl acetate",
+          "postedDate": "2016-02-12T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2014-0783",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481e696b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2014-0783-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 119,
+            "label": "Other"
+          },
+          {
+            "docCount": 81,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 77,
+            "label": "Notice"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Denial"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2016-02-12",
+          "toDate": "2016-02-12"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

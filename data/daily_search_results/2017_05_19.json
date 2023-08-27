@@ -1,0 +1,722 @@
+[
+  {
+    "data": [
+      {
+        "id": "COLC_FRDOC_0001-0036",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-19T11:50:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10219",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": null,
+          "title": "Authentication of Electronic Signatures on Electronically Filed Statements of Account",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "COLC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e750e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC_FRDOC_0001-0036"
+        }
+      },
+      {
+        "id": "FAA-2017-0340-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-07-04T13:01:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10033",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-07-04T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2017-0340",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7512"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0340-0001"
+        }
+      },
+      {
+        "id": "FEMA-2017-0002-0055",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-19T19:44:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10161",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FEMA-2017-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064825e75d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2017-0002-0055"
+        }
+      },
+      {
+        "id": "FAA-2017-0476-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-07-03T01:01:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10134",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-07-04T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2017-0476",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7656"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0476-0001"
+        }
+      },
+      {
+        "id": "CPSC-2017-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-08-03T13:02:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10044",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2017-08-03T03:59:59Z",
+          "title": "Safety Standards: Booster Seats",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "CPSC-2017-0023",
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7659"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2017-0023-0001"
+        }
+      },
+      {
+        "id": "USCG-2017-0334-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-19T14:24:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10212",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2017-06-20T03:59:59Z",
+          "title": "Special Local Regulation; Commencement Bay, Tacoma, WA",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "USCG-2017-0334",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7762"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0334-0001"
+        }
+      },
+      {
+        "id": "USCG-2017-0294-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-19T14:21:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10213",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Sabine River, Orange, Texas",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "USCG-2017-0294",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064825e7655"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0294-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-0287-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-22T15:13:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10032",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "(Posted to Incorrect Docket Submit Comments to FAA-2017-0472) Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2017-0287",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7696"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0287-0002"
+        }
+      },
+      {
+        "id": "FCC-2017-0183-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-06-21T14:20:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10099",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2017-07-19T03:59:59Z",
+          "title": "Connect America Fund: ETC Annual Reports and Certifications, Developing a Unified Intercarrier Compensation Regime",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e769d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2017-0183-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2012-0918-0439",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-28T04:02:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10245",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Air Quality Designations for the 2012 Primary Annual Fine Particle National Ambient Air Quality Standard for Areas in Tennessee",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2012-0918",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064825e60a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2012-0918-0439"
+        }
+      },
+      {
+        "id": "FAA-2017-0210-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-19T12:47:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10081",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-07-04T03:59:59Z",
+          "title": "Amendment of Class D and E Airspace: Kenosha, WI",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2017-0210",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e758c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0210-0001"
+        }
+      },
+      {
+        "id": "CMS-2016-0135-0227",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-19T13:07:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10340",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Advancing Care Coordination Through Episode Payment Models; Cardiac Rehabilitation Incentive Payment Model; and Changes to the Comprehensive Care for Joint Replacement Model; Delay of Effective Date",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "CMS-2016-0135",
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7763"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2016-0135-0227"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0511",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T16:46:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10149",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "340B Drug Pricing Program Ceiling Price and Manufacturer Civil Monetary Penalties Regulation",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e750b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0511"
+        }
+      },
+      {
+        "id": "FAA-2016-7264-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-07-08T21:36:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10035",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-07-04T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2016-7264",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7694"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-7264-0004"
+        }
+      },
+      {
+        "id": "COLC-2017-0002-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-11-16T14:49:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10218",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": null,
+          "title": "Disruption of Copyright Office Electronic Systems",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "COLC-2017-0002",
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7698"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2017-0002-0008"
+        }
+      },
+      {
+        "id": "FHWA-2013-0054-8284",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-31T02:35:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10092",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "National Performance Management Measures: Assessing Performance of the National Highway System, Freight Movement on the Interstate System, and Congestion Mitigation and Air Quality Improvement Program",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FHWA-2013-0054",
+          "subtype": "Final Rule",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e761b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2013-0054-8284"
+        }
+      },
+      {
+        "id": "HRSA_FRDOC_0001-0319",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-19T11:49:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10149",
+          "withdrawn": false,
+          "agencyId": "HRSA",
+          "commentEndDate": null,
+          "title": "340B Drug Pricing Program Ceiling Price and Manufacturer Civil Monetary Penalties Regulation",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "HRSA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e60a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HRSA_FRDOC_0001-0319"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2017-0129-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-08-16T01:08:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10108",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-06-20T03:59:59Z",
+          "title": "LA059.001 Air Quality State Implementation Plans; Approval and Promulgation: Louisiana; Regional Haze State Implementation Plan, Proposed rule, 14 pages.",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2017-0129",
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7549"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2017-0129-0001"
+        }
+      },
+      {
+        "id": "FAA-2017-0287-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-19T12:57:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10077",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-07-04T03:59:59Z",
+          "title": "Amendment of Class E Airspace: Wayne, NE",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2017-0287",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7695"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0287-0001"
+        }
+      },
+      {
+        "id": "FAA-2016-6429-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-06-10T21:11:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10034",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-07-04T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2016-6429",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e769a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2016-6429-0005"
+        }
+      },
+      {
+        "id": "FAA-2017-0472-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-05-22T15:12:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10032",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-07-04T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2017-0472",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-05-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825f4f32"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0472-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2013-0280-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-07-19T13:04:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10001",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2017-07-19T03:59:59Z",
+          "title": "State of North Dakota Underground Injection Control Program; Class VI Primacy Approval",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2013-0280",
+          "subtype": null,
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7511"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2013-0280-0013"
+        }
+      },
+      {
+        "id": "FAA-2017-0481-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-06-03T21:11:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10133",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2017-07-04T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc., Airplanes",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "FAA-2017-0481",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2017-05-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064825e7765"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2017-0481-0001"
+        }
+      },
+      {
+        "id": "USCG-2017-0131-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-05-19T14:27:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2017-10148",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Space Coast Super Boat Grand Prix; Atlantic Ocean, Cocoa Beach, FL",
+          "postedDate": "2017-05-19T04:00:00Z",
+          "docketId": "USCG-2017-0131",
+          "subtype": "Temporary Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064825e7795"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2017-0131-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 110,
+            "label": "Other"
+          },
+          {
+            "docCount": 97,
+            "label": "Notice"
+          },
+          {
+            "docCount": 29,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "COLC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "HRSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 18,
+            "label": "Today",
+            "fromDate": "2023-06-22 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 71,
+            "label": "Last 3 Days",
+            "fromDate": "2023-06-20 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 98,
+            "label": "Last 7 Days",
+            "fromDate": "2023-06-16 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 223,
+            "label": "Last 15 Days",
+            "fromDate": "2023-06-08 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 432,
+            "label": "Last 30 Days",
+            "fromDate": "2023-05-24 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          },
+          {
+            "docCount": 1356,
+            "label": "Last 90 Days",
+            "fromDate": "2023-03-25 00:00:00",
+            "toDate": "2023-06-22 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2017-05-19",
+          "toDate": "2017-05-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "lastPage": true,
+      "firstPage": true
+    }
+  }
+]
