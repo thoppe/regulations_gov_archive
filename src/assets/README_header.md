@@ -16,12 +16,3 @@ This project only collects documents on the first two types: `Rule` and `Propose
 ## Artifacts
 
 + [All documents under `Rule` and `Proposed Rules`](artifacts/LISTING_rules_and_posted_rules.csv)
-
-
-## Data Statistics
-+ 55,147 total documents
-+ Unique agencies: 224
-+ Unique dockets : 24,786
-+ Earliest date  : 2014-06-25
-+ Latest date    : 2023-07-28
-
