@@ -1,0 +1,639 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2011-1196-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-14T14:33:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32041",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-31T04:59:59Z",
+          "title": "Proposed Amendments and Proposed Establishments of Class E Airspace: Columbia, SC and Pelion, SC",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "FAA-2011-1196",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f82437"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1196-0001"
+        }
+      },
+      {
+        "id": "TTB-2011-0005-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-14T17:37:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32017",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-99, Establishment of Naches Heights Viticultural Area",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "TTB-2011-0005",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480f82491"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2011-0005-0003"
+        }
+      },
+      {
+        "id": "FAA-2011-1381-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-01-26T18:59:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Provision of Navigation Services: Next Generation Air Transportation System Transition to Performance-Based Navigation",
+          "postedDate": "2011-12-15T00:00:00Z",
+          "docketId": "FAA-2011-1381",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480f83b5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1381-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0625-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:30:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31854",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendments of Class D and E Airspace: NorthPhiladelphia, PA",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "FAA-2011-0625",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f82470"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0625-0002"
+        }
+      },
+      {
+        "id": "IRS-2008-0107-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:22:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32069",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Employer's Annual Federal Tax Return and Modifications to Deposit Rules",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "IRS-2008-0107",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f82403"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0107-0004"
+        }
+      },
+      {
+        "id": "FRA-2009-0108-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-14T14:38:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31990",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Alternate Passenger Rail Service Pilot Program",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "FRA-2009-0108",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f82421"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0108-0012"
+        }
+      },
+      {
+        "id": "CFTC-2011-0148-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-14T13:49:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31646",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "Process for Designated Contract Market or Swap Execution Facility To Make Swap Available To Trade",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8244f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2011-0148-0001"
+        }
+      },
+      {
+        "id": "CFTC-2011-0149-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-14T13:51:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31355",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "Retail Commodity Transactions Under Commodity Exchange Act: Interpretation; Request for Comments",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f824a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2011-0149-0001"
+        }
+      },
+      {
+        "id": "NOAA-NOS-2009-0103-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:32:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31918",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Research Area Within Grays Reef National Marine Sanctuary; Effective Date",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "NOAA-NOS-2009-0103",
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f823e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NOS-2009-0103-0013"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2011-0822-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-14T15:12:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31908",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-14T04:59:59Z",
+          "title": "Approvals and Promulgations of Implementation Plans: State of Missouri",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "EPA-R07-OAR-2011-0822",
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f82453"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2011-0822-0002"
+        }
+      },
+      {
+        "id": "NLRB_FRDOC_0001-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-14T13:47:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32085",
+          "withdrawn": false,
+          "agencyId": "NLRB",
+          "commentEndDate": null,
+          "title": "Special Procedural Rules Governing Periods When the National Labor Relations Board Lacks a Quorum of Members",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "NLRB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f823dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NLRB_FRDOC_0001-0024"
+        }
+      },
+      {
+        "id": "USCG-2011-0363-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:21:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32007",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "DFR:  Seagoing Barges (Federal Register Publication)",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "USCG-2011-0363",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f823e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2011-0363-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0627-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-24T19:30:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32039",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace: Pelion, SC; Withdrawal",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "FAA-2011-0627",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f823fe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0627-0002"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2011-0879-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-15T14:11:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32059",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-14T04:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans: Massachusetts and New Hampshire; Determination of Attainment of the One-Hour Ozone Standard",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "EPA-R01-OAR-2011-0879",
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f824aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2011-0879-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0156-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-24T19:30:12Z",
+          "highlightedContent": "",
+          "frDocNum": "77557",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-01-31T04:59:59Z",
+          "title": "Fisheries of Exclusive Economic Zone Off Alaska: Chinook Salmon Bycatch Management in Gulf of Alaska Pollock Fishery; Amendment 93",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0156",
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f82431"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0156-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2010-0916-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-14T14:15:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32086",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "Pesticide Tolerances: Hexythiazox",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2010-0916",
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8246d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2010-0916-0007"
+        }
+      },
+      {
+        "id": "FCC-2011-0497-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-14T13:51:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31404",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2012-01-14T04:59:59Z",
+          "title": "Hearing Aid-Compatible Mobile Handsets; Amendments",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8248b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2011-0497-0001"
+        }
+      },
+      {
+        "id": "TTB-2011-0004-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-14T17:28:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32016",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-98,  Establishment of Fort Ross-Seaview Viticultural Area",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "TTB-2011-0004",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480f8241e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2011-0004-0020"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2011-0822-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-14T15:08:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31919",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-14T04:59:59Z",
+          "title": "Approvals and Promulgations of Implementation Plans: State of Missouri",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "EPA-R07-OAR-2011-0822",
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f823fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2011-0822-0001"
+        }
+      },
+      {
+        "id": "TTB-2011-0006-0057",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:35:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32018",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-100, Establishment of Coombsville Viticultural Area",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "TTB-2011-0006",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480f82423"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2011-0006-0057"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2011-0732-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:28:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32072",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "Tolerance Exemptions: Butyl acrylate-methacrylic acid-styrene polymer",
+          "postedDate": "2011-12-14T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2011-0732",
+          "subtype": null,
+          "commentStartDate": "2011-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f82424"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2011-0732-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 142,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 88,
+            "label": "Other"
+          },
+          {
+            "docCount": 58,
+            "label": "Notice"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "TTB"
+          },
+          {
+            "docCount": 2,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NLRB"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-12-14",
+          "toDate": "2011-12-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

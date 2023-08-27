@@ -1,0 +1,199 @@
+[
+  {
+    "data": [
+      {
+        "id": "CMS-2013-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-23T13:32:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicaid, Children\u2019s Health Insurance Programs, and Exchanges: Essential Health Benefits in Alternative Benefit Plans, Eligibility Notices, Fair Hearing and Appeal Processes for Medicaid and Exchange Eligibility Appeals and Other Provisions Related to Eligibility and Enrollment for Exchanges, Medicaid and CHIP, and Medicaid Premiums and Cost Sharing.",
+          "postedDate": "2013-01-16T00:00:00Z",
+          "docketId": "CMS-2013-0012",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064811bf610"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2013-0012-0001"
+        }
+      },
+      {
+        "id": "FDA-2013-S-0009-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-16T23:36:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "See Document ID FDA-2011-N-0920-0001",
+          "postedDate": "2013-01-16T00:00:00Z",
+          "docketId": "FDA-2013-S-0009",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064811c0669"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2013-S-0009-0002"
+        }
+      },
+      {
+        "id": "FDA-2013-S-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-16T23:42:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "See Document ID FDA-2012-N-1258-0001",
+          "postedDate": "2013-01-16T00:00:00Z",
+          "docketId": "FDA-2013-S-0009",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064811c0637"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2013-S-0009-0001"
+        }
+      },
+      {
+        "id": "FDA-2013-S-0009-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-16T23:39:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "See Document ID FDA-2011-N-0921-0001",
+          "postedDate": "2013-01-16T00:00:00Z",
+          "docketId": "FDA-2013-S-0009",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064811c075e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2013-S-0009-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 77,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 75,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-01-15",
+          "toDate": "2013-01-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

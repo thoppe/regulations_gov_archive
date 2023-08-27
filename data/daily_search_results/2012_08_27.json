@@ -1,0 +1,851 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2011-0945-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-10-15T02:01:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21008",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Honeywell International Inc. Turbofan Engines",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FAA-2011-0945",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f242d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0945-0003"
+        }
+      },
+      {
+        "id": "CPSC-2012-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-11-17T03:11:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21011",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2012-11-15T04:59:59Z",
+          "title": "All-Terrain Vehicle Safety Summit",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "CPSC-2012-0048",
+          "subtype": "Public Meeting",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f2600"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2012-0048-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2012-0156-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-12T01:01:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21017",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2012-09-27T03:59:59Z",
+          "title": "Gross Combination Weight Rating; Definition",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FMCSA-2012-0156",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f24d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2012-0156-0001"
+        }
+      },
+      {
+        "id": "FTC-2012-0073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-09-19T12:55:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21041",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": null,
+          "title": "Telemarketing Sales Rule Fees",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FTC-2012-0073",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f24db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2012-0073-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-11-0093-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-28T13:02:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21036",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Increased Assessment Rate: Olives Grown in California",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "AMS-FV-11-0093",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f2544"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-11-0093-0002"
+        }
+      },
+      {
+        "id": "AMS-DA-11-0067-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-27T18:51:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20973",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Milk in the Mideast Marketing Area",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "AMS-DA-11-0067",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f24a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-DA-11-0067-0009"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0145-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-10-04T18:44:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21092",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-09-27T03:59:59Z",
+          "title": "International Fisheries: Western and Central Pacific Fisheries for Highly Migratory Species; Bigeye Tuna Catch Limit in Longline Fisheries for 2012",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0145",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f24a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0145-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0253",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-27T17:07:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20981",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": "Correction",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f259e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0253"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0110-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-10-03T14:42:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21058",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Mackerel, Squid, and Butterfish Fisheries; Framework Adjustment 6",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0110",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f242b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0110-0006"
+        }
+      },
+      {
+        "id": "USCG-2012-0794-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:21:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20977",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operations: Cape Fear River, Wilmington, NC (Federal Register Publication) ( Notice of temporary deviation from regulations.)",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "USCG-2012-0794",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f25d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0794-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0258-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-10-12T02:01:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20880",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-10-12T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FAA-2011-0258",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f259a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0258-0009"
+        }
+      },
+      {
+        "id": "FMCSA-2012-0020-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-27T15:52:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21021",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Rescission of Quarterly Financial Reporting Requirements; Withdrawal",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FMCSA-2012-0020",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f259b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2012-0020-0004"
+        }
+      },
+      {
+        "id": "AMS-FV-09-0064-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-28T13:08:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20974",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Specialty Crops; Import Regulations: New Pistachio Import Requirements",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "AMS-FV-09-0064",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f25ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-09-0064-0006"
+        }
+      },
+      {
+        "id": "USCG-2012-0774-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:21:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20978",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2013-03-01T04:59:59Z",
+          "title": "Drawbridge Operations: Wando River, Cainhoy, SC (Federal RegisterPublication) (Notice of temporary deviation from regulations; request for comments)",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "USCG-2012-0774",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f2607"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0774-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2009-0786-0033",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-10-06T02:01:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21040",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-09-27T03:59:59Z",
+          "title": "Approvals and Promulgations of Implementation Plans: Tennessee; Regional Haze State Implementation Plan, Best Available Retrofit Technology for Eastman Chemical Company",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2009-0786",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f1ce2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2009-0786-0033"
+        }
+      },
+      {
+        "id": "FEMA-2010-0003-0162",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-27T16:34:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20984",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FEMA-2010-0003",
+          "subtype": "Correction",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f2471"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2010-0003-0162"
+        }
+      },
+      {
+        "id": "FMCSA-2011-0313-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-27T15:50:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21031",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Transportation of Household Goods in Interstate Commerce; Consumer Protection Regulations: Household Goods Motor Carrier Record Retention Requirements",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FMCSA-2011-0313",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f2597"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2011-0313-0003"
+        }
+      },
+      {
+        "id": "EERE-2006-STD-0078-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-07-06T19:55:15Z",
+          "highlightedContent": "",
+          "frDocNum": "97-4427",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "1997-02-24  Energy Conservation Program for Consumer Products: Workshop to Consider a Revised Approach for Analyzing the Manufacturer Impacts from New or Revised Appliance Energy-Efficiency Standards; Notice of Workshop on a Revised Manufacturer Impact Analysis Approach",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "EERE-2006-STD-0078",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064810efece"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-STD-0078-0008"
+        }
+      },
+      {
+        "id": "EERE-2006-STD-0078-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-09-24T14:55:08Z",
+          "highlightedContent": "",
+          "frDocNum": "99-5700",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "1996-03-12  Energy Conservation Program for Consumer Products: Public Workshop on the Improvements of the Appliance Standards Rulemaking Process; Notice of new location of public workshop.",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "EERE-2006-STD-0078",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810e5c31"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-STD-0078-0015"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2010-0162-3645",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-27T15:50:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21032",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "EPA's Denial of the Petition to Reconsider the Greenhouse Gas Emissions Standards and Fuel Efficiency Standards for Medium - and Heavy-Duty Engines and Vehicles",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2010-0162",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064810f25d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2010-0162-3645"
+        }
+      },
+      {
+        "id": "FAA-2012-0810-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-08-11T03:24:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20879",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-10-12T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FAA-2012-0810",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f24a7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0810-0001"
+        }
+      },
+      {
+        "id": "NPS-2012-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-10-27T02:01:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20898",
+          "withdrawn": false,
+          "agencyId": "NPS",
+          "commentEndDate": "2012-10-27T03:59:59Z",
+          "title": "Special Regulations: Areas of the National Park System, New River Gorge National River, Bicycle Routes",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "NPS-2012-0004",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f24ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NPS-2012-0004-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0859-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-09-15T05:50:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20968",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-10-12T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes; Rescission",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FAA-2012-0859",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f251c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0859-0001"
+        }
+      },
+      {
+        "id": "FEMA-2010-0003-0163",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-27T16:45:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20985",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FEMA-2010-0003",
+          "subtype": "Correction",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f2521"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2010-0003-0163"
+        }
+      },
+      {
+        "id": "DOJ-OAG-2012-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-09-13T15:27:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20923",
+          "withdrawn": false,
+          "agencyId": "DOJ",
+          "commentEndDate": null,
+          "title": "Authorization to Seize Property Involved in Drug Offenses for Administrative Forfeiture  (2012R-9P)",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "DOJ-OAG-2012-0022",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f253f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOJ-OAG-2012-0022-0001"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-0948",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-27T15:26:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20943",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Adjustment of Appendices to the Dairy Tariff-Rate Import Quota Licensing Regulation for the 2012 Tariff-Rate Quota Year",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f259d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-0948"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0245-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-10-03T14:46:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-21060",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Atlantic Mackerel, Squid, and Butterfish Fisheries; Specifications and Management Measures",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0245",
+          "subtype": null,
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f24e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0245-0015"
+        }
+      },
+      {
+        "id": "FAA-2012-0858-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-08-11T03:24:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20966",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-10-12T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FAA-2012-0858",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f25d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0858-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0860-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-10-10T02:01:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-20967",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-10-12T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2012-08-27T04:00:00Z",
+          "docketId": "FAA-2012-0860",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810f2641"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0860-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 61,
+            "label": "Notice"
+          },
+          {
+            "docCount": 54,
+            "label": "Other"
+          },
+          {
+            "docCount": 23,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 13,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Public Meeting"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "AMS"
+          },
+          {
+            "docCount": 3,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 3,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EERE"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOJ"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "NPS"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2012-08-27",
+          "toDate": "2012-08-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

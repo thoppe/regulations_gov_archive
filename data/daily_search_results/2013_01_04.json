@@ -1,0 +1,378 @@
+[
+  {
+    "data": [
+      {
+        "id": "DEA-2015-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-11-17T17:24:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31698",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Establishment of Drug Codes for 26 Substances",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": "DEA-2015-0023",
+          "subtype": null,
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a802a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2015-0023-0001"
+        }
+      },
+      {
+        "id": "RHS-13-MFH-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-02-24T02:02:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31712",
+          "withdrawn": false,
+          "agencyId": "RHS",
+          "commentEndDate": "2013-02-05T04:59:59Z",
+          "title": "Civil Monetary Penalties",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": "RHS-13-MFH-0001",
+          "subtype": null,
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a802c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RHS-13-MFH-0001-0001"
+        }
+      },
+      {
+        "id": "FERC-2013-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-04T13:56:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31142",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Revisions to Electric Reliability Organization Definition of Bulk Electric System and Rules of Procedure",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a8030"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2013-0010-0001"
+        }
+      },
+      {
+        "id": "USCG-2012-1070-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31647",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operations: Atlantic Intracoastal Waterway, Wrightsville Beach, NC (Federal Register Publication) (Notice of temporary deviation from regulations.)",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": "USCG-2012-1070",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a8028"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-1070-0001"
+        }
+      },
+      {
+        "id": "NRC-2011-0286-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-04T17:09:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31705",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Decommissioning Planning During Operations; Regulatory Guide Issuance",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": "NRC-2011-0286",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064811a7f2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2011-0286-0013"
+        }
+      },
+      {
+        "id": "IRS-2013-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-18T15:00:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31747",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Treasury Inflation-Protected Securities Issued at a Premium; Bond Premium Carryforward",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": "IRS-2013-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a7ee7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2013-0002-0001"
+        }
+      },
+      {
+        "id": "USCG-2012-1055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31648",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR:  Safety Zones: Hampton Harbor Channel Obstruction, Hampton Harbor; Hampton, NH (Federal Register Publication)",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": "USCG-2012-1055",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a7fae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-1055-0001"
+        }
+      },
+      {
+        "id": "EERE-2012-BT-TP-0024-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-10-05T20:17:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31700",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2013-02-20T04:59:59Z",
+          "title": "2013-01-04  Energy Conservation Program for Consumer Products: Test Procedure for Residential Furnaces and Boilers; Request for information (RFI).",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": "EERE-2012-BT-TP-0024",
+          "subtype": "Request for Information",
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a802b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2012-BT-TP-0024-0002"
+        }
+      },
+      {
+        "id": "FERC-2013-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-04T13:55:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31085",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2013-03-06T04:59:59Z",
+          "title": "Auxiliary Installations, Replacement Facilities, and Siting and Maintenance Regulations",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a7f69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2013-0007-0001"
+        }
+      },
+      {
+        "id": "IRS-2013-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-18T15:01:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31746",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2013-04-05T03:59:59Z",
+          "title": "Bond Premium Carryforward",
+          "postedDate": "2013-01-04T05:00:00Z",
+          "docketId": "IRS-2013-0003",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811a7fe8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2013-0003-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 110,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 62,
+            "label": "Notice"
+          },
+          {
+            "docCount": 49,
+            "label": "Other"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Information"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 10,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FERC"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "RHS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-01-04",
+          "toDate": "2013-01-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 10,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 10,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

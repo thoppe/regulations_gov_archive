@@ -1,0 +1,682 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2013-0137-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-23T14:35:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01058",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "EDGAR Filer Manual",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d32b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2013-0137-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1188-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-28T00:45:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-00985",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bell Helicopter Textron, Inc. (Bell) Helicopters",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "FAA-2011-1188",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d31ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1188-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2011-0941-0177",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-23T14:42:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01194",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-02-23T04:59:59Z",
+          "title": "Significant New Use Rule on Certain Chemical Substances",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2011-0941",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d33a1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2011-0941-0177"
+        }
+      },
+      {
+        "id": "NHTSA-2013-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-10-25T01:02:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-00682",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2013-04-24T03:59:59Z",
+          "title": "Uniform Procedures for State Highway Safety Grant Programs",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "NHTSA-2013-0001",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d31cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2013-0001-0001"
+        }
+      },
+      {
+        "id": "MSHA-2011-0001-0202",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-23T16:00:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01250",
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": null,
+          "title": "Pattern of Violations",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "MSHA-2011-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064811d3215"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2011-0001-0202"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2012-0712-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-23T17:49:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01339",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-02-23T04:59:59Z",
+          "title": "Revisions to State Implementation Plans: Washington; Tacoma-Pierce County Nonattainment Area",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2012-0712",
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3218"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2012-0712-0001"
+        }
+      },
+      {
+        "id": "NIST_FRDOC_0001-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-23T14:35:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-27466",
+          "withdrawn": false,
+          "agencyId": "NIST",
+          "commentEndDate": null,
+          "title": "Revisions to Department of Commerce Regulations Reflecting Re-delegations of Authority: America Competes Act",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "NIST_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3214"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIST_FRDOC_0001-0006"
+        }
+      },
+      {
+        "id": "USCG-2012-0938-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01239",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR:  Security Zones: Potomac and Anacostia Rivers, Washington, DC (Federal Register Publication)",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "USCG-2012-0938",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3256"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0938-0006"
+        }
+      },
+      {
+        "id": "SEC-2013-0132-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-23T14:35:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01269",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Lost Securityholders and Unresponsive Payees",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d31c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2013-0132-0001"
+        }
+      },
+      {
+        "id": "USCG-2013-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01234",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR:  Regulated Navigation Area: Reporting Requirements for Barges Loaded With Certain Dangerous Cargoes, Inland Rivers, Ninth Coast Guard District; Stay Suspension (Federal Register Publication)",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "USCG-2013-0019",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d31cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-0019-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2012-0615-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-26T02:01:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01196",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-03-26T03:59:59Z",
+          "title": "Exemptions from Requirements of a Tolerance: Epoxy Polymer",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2012-0615",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d31d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2012-0615-0003"
+        }
+      },
+      {
+        "id": "FWS-R3-ES-2012-0087-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-02-16T03:02:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01153",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2013-03-26T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Establishment of a Nonessential Experimental Population of Topeka Shiner in Northern Missouri",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "FWS-R3-ES-2012-0087",
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3212"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R3-ES-2012-0087-0001"
+        }
+      },
+      {
+        "id": "DOC-2015-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-05-29T13:21:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-27466",
+          "withdrawn": false,
+          "agencyId": "DOC",
+          "commentEndDate": null,
+          "title": "Revisions to Department of Commerce Regulations Reflecting Re-delegations of Authority: America Competes Act",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "DOC-2015-0007",
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d32b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOC-2015-0007-0001"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2009-0449-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-02-23T03:02:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01340",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-02-23T04:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut; Reasonably Available Control Technology for the 1997 8-Hour Ozone Standard",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "EPA-R01-OAR-2009-0449",
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3362"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2009-0449-0001"
+        }
+      },
+      {
+        "id": "ED-2013-OPE-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-02-04T19:54:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01125",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Final Priorities: Gaining Early Awareness and Readiness for Undergraduate Programs; College Savings Account Research Demonstration Project",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "ED-2013-OPE-0010",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3409"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2013-OPE-0010-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2012-0837-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-23T15:40:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01205",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-02-23T04:59:59Z",
+          "title": "Air Quality Implementation Plans; Approval and Promulgations: South Carolina; New Source Review-Prevention of Significant Deterioration",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2012-0837",
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3217"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2012-0837-0001"
+        }
+      },
+      {
+        "id": "NIGC_FRDOC_0001-0089",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-23T14:35:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-00942",
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": null,
+          "title": "Fees",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "NIGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3219"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC_FRDOC_0001-0089"
+        }
+      },
+      {
+        "id": "EERE-2012-BT-TP-0046-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-10-11T19:04:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01065",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2013-04-09T03:59:59Z",
+          "title": "2013-01-23  Energy Conservation Program: Test Procedure for Set-Top Boxes; Notice of proposed rulemaking.",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "EERE-2012-BT-TP-0046",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3255"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2012-BT-TP-0046-0002"
+        }
+      },
+      {
+        "id": "SEC-2013-0139-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-23T14:35:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01202",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Authority Citation Correction",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d32b7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2013-0139-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-08-11T04:55:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01008",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-03-26T03:59:59Z",
+          "title": "Airworthiness Directives: Bell Helicopter Textron Canada Limited Helicopters",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "FAA-2013-0022",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d331e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0022-0001"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2011-0063-0039",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-02-23T03:01:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01155",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2013-02-23T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Removal of the Valley Elderberry Longhorn Beetle from the Federal List of Endangered and Threatened Wildlife",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "FWS-R8-ES-2011-0063",
+          "subtype": null,
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3321"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2011-0063-0039"
+        }
+      },
+      {
+        "id": "USCG-2012-0952-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-01238",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2013-03-26T03:59:59Z",
+          "title": "DFR:  Inland Waterways Navigation Regulations: Sacramento River, CA (Federal Register Publication)",
+          "postedDate": "2013-01-23T05:00:00Z",
+          "docketId": "USCG-2012-0952",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2013-01-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811d3360"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0952-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 168,
+            "label": "Other"
+          },
+          {
+            "docCount": 85,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 55,
+            "label": "Notice"
+          },
+          {
+            "docCount": 15,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Temporary Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 22,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "SEC"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOC"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NIGC"
+          },
+          {
+            "docCount": 1,
+            "value": "NIST"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-01-23",
+          "toDate": "2013-01-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 22,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 22,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,940 @@
+[
+  {
+    "data": [
+      {
+        "id": "RHS-12-ADMIN-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-21T19:42:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33025",
+          "withdrawn": false,
+          "agencyId": "RHS",
+          "commentEndDate": null,
+          "title": "Intergovernmental Review",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "RHS-12-ADMIN-0005",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89d78"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RHS-12-ADMIN-0005-0001"
+        }
+      },
+      {
+        "id": "CPSC-2011-0095-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-02-08T02:02:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32908",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "Fire Pots and Gel Fuel; Advance Notice of Proposed Rulemaking; Request for Comments and Information",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "CPSC-2011-0095",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f897eb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2011-0095-0001"
+        }
+      },
+      {
+        "id": "USCG-2011-1023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-10T22:25:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33032",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "NPRM:  Special Local Regulations and Safety Zones: Recurring Events in Northern New England (Federal Register Publication)",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "USCG-2011-1023",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89878"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2011-1023-0001"
+        }
+      },
+      {
+        "id": "DOD-2010-OS-0043-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-01-03T11:38:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33104",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Mandatory Declassification Review Program",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "DOD-2010-OS-0043",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89805"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2010-OS-0043-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2007-0544-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-06-30T02:02:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32843",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants from the Pulp and Paper Industry",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2007-0544",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8981d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2007-0544-0023"
+        }
+      },
+      {
+        "id": "FEC-2011-0073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-27T14:32:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32632",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": "2012-02-04T04:59:59Z",
+          "title": "Independent Expenditures and Electioneering Communications by Corporations and Labor Organizations",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89d3d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2011-0073-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2009-0491-4827",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T17:04:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32821",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Implementation Plans for Iowa, Michigan, Missouri, Oklahoma and Wisconsin: Determination for Kansas Regarding Interstate Transport of Ozone",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2009-0491",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480f89d7e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2009-0491-4827"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2011-0675-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T15:52:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32998",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans: State of Kansas; Regional Haze",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "EPA-R07-OAR-2011-0675",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89154"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2011-0675-0010"
+        }
+      },
+      {
+        "id": "SEC-2011-2020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T14:26:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33146",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Extension of Temporary Registration of Municipal Advisors",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f897e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2011-2020-0001"
+        }
+      },
+      {
+        "id": "OFPP_FRDOC_0001-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T14:28:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32745",
+          "withdrawn": false,
+          "agencyId": "OFPP",
+          "commentEndDate": null,
+          "title": "Cost Accounting Standards: Cost Accounting Standards 412 and 413 - Cost Accounting Standards Pension Harmonization",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "OFPP_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89806"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFPP_FRDOC_0001-0011"
+        }
+      },
+      {
+        "id": "FERC-2011-1951-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-27T14:29:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32744",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "Filing of Privileged Materials and Answers to Motions",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8985f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2011-1951-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2011-0006-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-24T19:33:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33149",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-27T04:59:59Z",
+          "title": "Approval and Promulgation of State Plans for Designated Facilities and Pollutants: Florida; Control of Hospital/Medical/Infectious Waste Incinerator Emissions from Existing Facilities",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2011-0006",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89862"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2011-0006-0002"
+        }
+      },
+      {
+        "id": "NIGC_FRDOC_0001-0062",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-27T14:30:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33028",
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "Definition of Enforcement Action",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "NIGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89879"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC_FRDOC_0001-0062"
+        }
+      },
+      {
+        "id": "FMC-2011-0202-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-27T14:33:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33007",
+          "withdrawn": false,
+          "agencyId": "FMC",
+          "commentEndDate": "2012-03-27T03:59:59Z",
+          "title": "Non-Vessel-Operating Common Carriers Negotiated Rate Arrangements: Tariff Filing Exemption",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89d58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMC-2011-0202-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2011-0767-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-01-03T16:12:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33012",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans: Oregon; New Source Review, Prevention of Significant Deterioration Rule Revisions, etc.",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2011-0767",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8981c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2011-0767-0013"
+        }
+      },
+      {
+        "id": "NIGC_FRDOC_0001-0061",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-27T14:29:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32757",
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "Enforcement Actions",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "NIGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89866"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC_FRDOC_0001-0061"
+        }
+      },
+      {
+        "id": "WHD-2011-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-11-22T02:02:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32657",
+          "withdrawn": false,
+          "agencyId": "WHD",
+          "commentEndDate": "2012-03-22T03:59:59Z",
+          "title": "Application of the Fair Labor Standards Act to Domestic Service",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "WHD-2011-0003",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8987b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/WHD-2011-0003-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1238-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T15:02:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33019",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Revocation and Establishment of Compulsory Reporting Point: Alaska",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "FAA-2011-1238",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f898e9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1238-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0114-0037",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-18T19:44:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32246",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2012-03-27T03:59:59Z",
+          "title": "Guidance Regarding Deduction and Capitalization ofExpenditures Related to Tangible Property",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "IRS-2007-0114",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89838"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0114-0037"
+        }
+      },
+      {
+        "id": "FMCSA-2004-19608-28408",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-08T01:02:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32696",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Hours of Service of Drivers",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "FMCSA-2004-19608",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f898c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2004-19608-28408"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0047-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T17:48:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32873",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Groundfish of the Gulf of Alaska; Amendment 88",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0047",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f898e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0047-0018"
+        }
+      },
+      {
+        "id": "FAA-2011-1387-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-27T15:09:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33049",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-27T04:59:59Z",
+          "title": "Special Conditions: XtremeAir GmbH, XA42; Acrobatic Category Aerodynamic Stability",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "FAA-2011-1387",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89868"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1387-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2011-0106-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T13:02:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32818",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Cincinnati, Ohio 1997 PM2.5 Annual Standard redesignation",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2011-0106",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f899cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2011-0106-0008"
+        }
+      },
+      {
+        "id": "CFPB-2011-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-28T19:16:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31725",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "Electronic Fund Transfers (Regulation E)",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "CFPB-2011-0021",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89804"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB-2011-0021-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0230-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T17:25:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33169",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-01-27T04:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Bering Sea and Aleutian Islands Proposed 2012 and 2013 Harvest Specifications for Groundfish",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0230",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89809"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0230-0001"
+        }
+      },
+      {
+        "id": "RBS-12-NONE-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-01-09T14:16:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33025",
+          "withdrawn": false,
+          "agencyId": "RBS",
+          "commentEndDate": null,
+          "title": "Intergovernmental Review",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "RBS-12-NONE-0005",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8981a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RBS-12-NONE-0005-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0114-0036",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:41:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32024",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Guidance Regarding Deduction and Capitalization of Expenditures Related to Tangible Property",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "IRS-2007-0114",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8981f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0114-0036"
+        }
+      },
+      {
+        "id": "FCC-2011-0512-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-27T14:29:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33154",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Review of the Emergency Alert System",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89821"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2011-0512-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2011-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-01-06T17:20:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33151",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-27T04:59:59Z",
+          "title": "Approval and Promulgation of State Plans for Designated Facilities and Pollutants: Florida; Control of Hospital/Medical/Infectious Waste Incinerator Emissions from Existing Facilities",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2011-0006",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8983d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2011-0006-0001"
+        }
+      },
+      {
+        "id": "FCA-2011-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-27T14:30:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-32698",
+          "withdrawn": false,
+          "agencyId": "FCA",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "Funding and Fiscal Affairs, Loan Policies and Operations, and Funding Operations; Liquidity and Funding",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f89899"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCA-2011-0036-0001"
+        }
+      },
+      {
+        "id": "DOD-2011-HA-0134-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-01-05T16:13:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33109",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2012-02-28T04:59:59Z",
+          "title": "TRICARE: Certified Mental Health Counselors",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "DOD-2011-HA-0134",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f898ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2011-HA-0134-0001"
+        }
+      },
+      {
+        "id": "FSA_FRDOC_0001-0174",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:22:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-33025",
+          "withdrawn": false,
+          "agencyId": "FSA",
+          "commentEndDate": null,
+          "title": "Intergovernmental Review",
+          "postedDate": "2011-12-27T05:00:00Z",
+          "docketId": "FSA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f898cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSA_FRDOC_0001-0174"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 191,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 115,
+            "label": "Notice"
+          },
+          {
+            "docCount": 36,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 13,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "DOD"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NIGC"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FEC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FSA"
+          },
+          {
+            "docCount": 1,
+            "value": "OFPP"
+          },
+          {
+            "docCount": 1,
+            "value": "RBS"
+          },
+          {
+            "docCount": 1,
+            "value": "RHS"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "WHD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-12-27",
+          "toDate": "2011-12-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

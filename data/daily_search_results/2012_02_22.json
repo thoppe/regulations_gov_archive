@@ -1,0 +1,943 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2012-0303-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T14:05:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04046",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Investment Adviser Performance Compensation",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd654"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2012-0303-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0755-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T14:32:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03863",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Rolls-Royce plc (RR) RB211-Trent 800 Series Turbofan Engines",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FAA-2010-0755",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd655"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0755-0011"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2011-0958-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-02-22T15:18:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03918",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-03-24T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans: West Virginia Ambient Air Quality Standards",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2011-0958",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd678"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2011-0958-0001"
+        }
+      },
+      {
+        "id": "USCBP-2012-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-23T02:03:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-02819",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": "2012-08-28T03:59:59Z",
+          "title": "Changes to the In-Bond Process",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "USCBP-2012-0002",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd67a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2012-0002-0001"
+        }
+      },
+      {
+        "id": "CPSC-2012-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-08T20:38:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03990",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": null,
+          "title": "Mandatory Consumer Product Safety Standards: ASTM F963-11",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "CPSC-2012-0015",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd67f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2012-0015-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2012-0140-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-02-22T16:26:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04172",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-03-24T03:59:59Z",
+          "title": "California State Implementation Plans: South Coast Rule 1315; Air Quality Management District; Revision",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2012-0140",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd68e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2012-0140-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0144-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-02-22T14:27:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04163",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-04-10T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FAA-2012-0144",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd598"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0144-0001"
+        }
+      },
+      {
+        "id": "BIS-2012-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-14T10:33:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04062",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Updated Statements of Legal Authority to Reflect Continuation of Emergency Declared in Executive Orders 12947 and 13224",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "BIS-2012-0006",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd60b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2012-0006-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0145-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-10-11T23:36:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04161",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-04-10T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Co. Airplanes",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FAA-2012-0145",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd611"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0145-0001"
+        }
+      },
+      {
+        "id": "IRS-2011-0048-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T16:57:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03904",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Reporting of Specified Foreign Financial Assets; Correction",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "IRS-2011-0048",
+          "subtype": "Correction",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd659"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2011-0048-0009"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2009-0695-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-02-22T15:18:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04171",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-03-24T03:59:59Z",
+          "title": "Proposed Approval of Wisconsin VOC RACT rules",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2009-0695",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2009-0695-0001"
+        }
+      },
+      {
+        "id": "TREAS_FRDOC_0001-0160",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T14:07:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04091",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Duty-Free Treatment of Certain Visual and Auditory Materials",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0160"
+        }
+      },
+      {
+        "id": "FERC-2012-0299-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-02-22T14:00:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04041",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2012-03-24T03:59:59Z",
+          "title": "Standards for Business Practices for Interstate Natural Gas Pipelines",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd5aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2012-0299-0001"
+        }
+      },
+      {
+        "id": "TREAS_FRDOC_0001-0159",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-04-24T12:01:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-02819",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Changes to In-Bond Process",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd5ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0159"
+        }
+      },
+      {
+        "id": "FAR-2011-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-31T02:01:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03905",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Federal Acquisition Regulations: Unallowability of Costs Associated with Foreign Contractor Excise Tax; FAR Case 2011\u2013011",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FAR-2011-0011",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd5af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2011-0011-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0956-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:34:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03973",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Various Transport Category Airplanes",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FAA-2010-0956",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0956-0009"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-21T18:28:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04111",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-03-24T03:59:59Z",
+          "title": "Fisheries of Northeastern United States: 2012-2013 Northeast Skate Complex Fishery Specifications",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0015",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd595"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0015-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2011-0073-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T14:40:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03978",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Harmonizing Schedule I Drug Requirements; Correction",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FMCSA-2011-0073",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd599"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2011-0073-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2011-0028-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-26T10:59:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03778",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-03-24T03:59:59Z",
+          "title": "Mandatory Reporting of Greenhouse Gases Rule: Confidentiality Determinations and Best Available Monitoring Methods Provisions",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2011-0028",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd5c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2011-0028-0008"
+        }
+      },
+      {
+        "id": "FHFA-2012-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T14:06:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04056",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": null,
+          "title": "Regulatory Review Plans",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2012-0006-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0146-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-10-27T02:01:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04160",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-04-10T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FAA-2012-0146",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0146-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2008-0168-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T14:22:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03795",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Pesticide Tolerances: Metaflumizone",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2008-0168",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd594"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2008-0168-0011"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2011-0512-0057",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-26T10:59:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03769",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Greenhouse Gas Reporting Program: Electronics Manufacturing; Revisions to Heat Transfer Fluid Provisions",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2011-0512",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480fbd5a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2011-0512-0057"
+        }
+      },
+      {
+        "id": "IRS-2011-0003-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T16:57:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03989",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Rewards and Awards for Information Relating to Violations of Internal Revenue Laws",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "IRS-2011-0003",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd610"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2011-0003-0028"
+        }
+      },
+      {
+        "id": "NIH-2008-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-04-24T12:01:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-03900",
+          "withdrawn": false,
+          "agencyId": "NIH",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Loan Repayment Programs",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "NIH-2008-0003",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIH-2008-0003-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0147-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-06-25T01:19:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04162",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-04-10T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Co. Airplanes",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FAA-2012-0147",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0147-0001"
+        }
+      },
+      {
+        "id": "USCBP-2011-0030-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T16:46:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04091",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Duty-Free Treatment of Certain Visual and Auditory Materials",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "USCBP-2011-0030",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480fbd60a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2011-0030-0003"
+        }
+      },
+      {
+        "id": "FAA-2012-0149-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-06-25T01:29:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04002",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-04-10T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Co. Airplanes",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "FAA-2012-0149",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd60e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0149-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0034-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T16:31:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04115",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of Exclusive Economic Zone Off Alaska: Pacific Cod by Catcher Vessels Using Hook-and-Line or Pot Gear in Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0034",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd612"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0034-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-2011-0965-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-02-22T15:49:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04059",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-03-24T03:59:59Z",
+          "title": "Designation of Hazardous Substances: Designation, Reportable Quantities, and Notification",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2011-0965",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2011-0965-0010"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-20T20:22:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04113",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-03-24T03:59:59Z",
+          "title": "Magnuson-Stevens Act Provisions; Fisheries off West Coast States: Pacific Coast Groundfish Fishery; 2012 Tribal Fishery for Pacific Whiting",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0041",
+          "subtype": null,
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd6f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0041-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-2011-0965-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-22T15:45:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-04060",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Designation of Hazardous Substances: Designation, Reportable Quantities, and Notification",
+          "postedDate": "2012-02-22T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2011-0965",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2012-02-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fbd67e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2011-0965-0001"
+        }
+      },
+      {
+        "id": "HUD-2010-0063-0908",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-02-28T18:23:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR\u20135572\u2013N\u201301 Federal Housing Administration (FHA) Risk Management Initiatives: Revised Seller Concessions",
+          "postedDate": "2012-02-23T00:00:00Z",
+          "docketId": "HUD-2010-0063",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480fbeb33"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2010-0063-0908"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 113,
+            "label": "Notice"
+          },
+          {
+            "docCount": 78,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 77,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 14,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 5,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 33,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "EPA"
+          },
+          {
+            "docCount": 7,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 2,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "FAR"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "NIH"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2012-02-22",
+          "toDate": "2012-02-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

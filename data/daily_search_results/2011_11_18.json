@@ -1,0 +1,827 @@
+[
+  {
+    "data": [
+      {
+        "id": "NOAA-NMFS-2011-0234-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-07T20:43:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29845",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-01-04T04:59:59Z",
+          "title": "Atlantic Coastal Fisheries Cooperative Management Act Provisions: American Lobster Fishery",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0234",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f57f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0234-0015"
+        }
+      },
+      {
+        "id": "DARS-2011-0043-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T15:37:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29428",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Fire-Resistant Fiber for Production of Military Uniforms",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0043",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0043-0012"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0253-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:43:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29850",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Western and Central Pacific Fisheries for Highly Migratory Species: 2011 BigeyeTuna Longline Fishery Closure",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0253",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0253-0001"
+        }
+      },
+      {
+        "id": "HUD-2009-0007-0094",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-01-27T13:45:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29642",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": "2012-01-18T04:59:59Z",
+          "title": "FR-5275-P-11 Native American Housing Assistance and Self-Determination Reauthorization Act of 2008: Amendments to Program Regulations",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "HUD-2009-0007",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2009-0007-0094"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0234-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T20:36:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-01-04T04:59:59Z",
+          "title": "Proposed Rule",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0234",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f95a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0234-0001"
+        }
+      },
+      {
+        "id": "DARS-2011-0073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T14:49:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29900",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Transition to System for Award Management",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0073",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f553"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0073-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1230-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-11-18T14:09:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29798",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-04T04:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "FAA-2011-1230",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f56b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1230-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-UST-2011-0301-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-03-13T20:14:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29293",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-04-17T03:59:59Z",
+          "title": "Underground Storage Tanks: Secondary Containment, and Operator Training Requirements",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "EPA-HQ-UST-2011-0301",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-UST-2011-0301-0001"
+        }
+      },
+      {
+        "id": "IRS-2011-0034-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:28:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29922",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Deduction for Qualified Film and Television Production Costs: Correction",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "IRS-2011-0034",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2011-0034-0003"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2009-1011-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T14:21:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29777",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approvals and Promulgations of Implementation Plans and Designations of Areas for Air Quality Planning Purposes: North Carolina; Redesignation of Greensboro-Winston-Salem-High Point 1997 Annual Fine Particulate Matter, etc.; Correcting Amendment",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2009-1011",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2009-1011-0014"
+        }
+      },
+      {
+        "id": "DARS-2011-0058-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T16:03:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29433",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Simplified Acquisition Threshold for Humanitarian or Peacekeeping Operations",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0058",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0058-0002"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2009-1010-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T14:24:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29769",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approvals and Promulgations of Implementation Plans and Designation of Areas for Air Quality Planning Purposes: North Carolina; Redesignation of Hickory-Morganton-Lenoir 1997 Annual Fine Particulate Matter, etc.; Correcting Amendment",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2009-1010",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2009-1010-0014"
+        }
+      },
+      {
+        "id": "DARS-2011-0056-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T14:54:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29903",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Notification Requirements for Awards of Single-Source Task- or Delivery-Order Contracts",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0056",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f566"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0056-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2010-0780-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T14:13:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29751",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-18T04:59:59Z",
+          "title": "Pesticide Tolerances: Prohexadione Calcium",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2010-0780",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5b7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2010-0780-0004"
+        }
+      },
+      {
+        "id": "SEC-2011-1778-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T13:58:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29802",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Reporting Line for Commission's Ethics Counsel",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f601"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2011-1778-0001"
+        }
+      },
+      {
+        "id": "FCA-2011-0033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-11-18T13:57:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29690",
+          "withdrawn": false,
+          "agencyId": "FCA",
+          "commentEndDate": "2012-01-18T04:59:59Z",
+          "title": "Federal Agricultural Mortgage Corporation Funding and Fiscal Affairs: Farmer Mac Investments and Liquidity Management",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f598"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCA-2011-0033-0001"
+        }
+      },
+      {
+        "id": "DARS-2011-0032-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T15:52:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29416",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Responsibility and Liability for Government Property",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0032",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0032-0003"
+        }
+      },
+      {
+        "id": "EERE-2011-BT-STD-0047-0376",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-08-23T20:16:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29503",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2011-11-18  Energy Conservation Program: Energy Conservation Standards for Direct Heating Equipment; Final Rule",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "EERE-2011-BT-STD-0047",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480f6f5d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2011-BT-STD-0047-0376"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2011-0474-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T15:42:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29767",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans: West Virginia; Determination of Clean Data for 2006 Fine Particulate Standard for Charleston Area",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2011-0474",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480f6f557"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2011-0474-0004"
+        }
+      },
+      {
+        "id": "DARS-2011-0042-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T16:09:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29421",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Representation Relating to Compensation of Former DoD Officials",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0042",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f615"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0042-0006"
+        }
+      },
+      {
+        "id": "PRC-2011-0219-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-11-18T13:57:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29813",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": "2011-12-06T04:59:59Z",
+          "title": "Periodic Reporting",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f59a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2011-0219-0001"
+        }
+      },
+      {
+        "id": "IRS-2008-0045-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T17:28:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29921",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2012-02-17T04:59:59Z",
+          "title": "Gross Estate; Election to Value on Alternate Valuation Date",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "IRS-2008-0045",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0045-0013"
+        }
+      },
+      {
+        "id": "CFTC-2011-0139-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T13:58:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-28809",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2012-01-18T04:59:59Z",
+          "title": "Position Limits for Futures and Swaps",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f616"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2011-0139-0001"
+        }
+      },
+      {
+        "id": "DARS-2011-0075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T16:13:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29426",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Administering Trafficking in Persons Regulations",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0075",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f618"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0075-0001"
+        }
+      },
+      {
+        "id": "DARS-2010-0076-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T15:05:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29894",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Management of Manufacturing Risk in Major Defense Acquisition Programs",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2010-0076",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f56c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2010-0076-0005"
+        }
+      },
+      {
+        "id": "DARS-2011-0074-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T15:58:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29897",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Extension of Department of Defense Mentor-Protege Pilot Program",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0074",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f5d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0074-0001"
+        }
+      },
+      {
+        "id": "DOE-HQ-2011-0001-0310",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:28:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29503",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Energy Conservation Program: Energy Conservation Standards for Direct Heating Equipment",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DOE-HQ-2011-0001",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f558"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2011-0001-0310"
+        }
+      },
+      {
+        "id": "FAA-2011-1231-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-11-18T14:08:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29800",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-04T04:59:59Z",
+          "title": "Airworthiness Directives: Boeing Co. Airplanes",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "FAA-2011-1231",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f559"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1231-0001"
+        }
+      },
+      {
+        "id": "DARS-2011-0035-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-18T15:19:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-29859",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Accelerate Small Business Payments",
+          "postedDate": "2011-11-18T05:00:00Z",
+          "docketId": "DARS-2011-0035",
+          "subtype": null,
+          "commentStartDate": "2011-11-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f6f57a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2011-0035-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 232,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 64,
+            "label": "Notice"
+          },
+          {
+            "docCount": 53,
+            "label": "Other"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "DARS"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FCA"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-11-18",
+          "toDate": "2011-11-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

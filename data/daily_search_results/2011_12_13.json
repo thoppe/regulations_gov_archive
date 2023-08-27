@@ -1,0 +1,958 @@
+[
+  {
+    "data": [
+      {
+        "id": "FCC-2011-0495-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-13T13:22:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31988",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Hearing Aid-Compatible Mobile Handsets; Amendments",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81323"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2011-0495-0001"
+        }
+      },
+      {
+        "id": "FDIC-2011-0168-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T13:22:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31885",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "Mutual Insurance Holding Company Treated as Insurance Company",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81324"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2011-0168-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0207-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-01-10T00:06:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31975",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries Off West Coast States: Pacific Coast Groundfish Fishery; 2012 Specifications and Management Measures",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0207",
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81327"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0207-0008"
+        }
+      },
+      {
+        "id": "FAA-2011-0104-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:33:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31853",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment to and Establishment of Restricted Areas: Warren Grove, NJ",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-0104",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8132a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0104-0003"
+        }
+      },
+      {
+        "id": "FAA-2010-1190-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:36:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-30925",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Apical Industries, Inc., (Apical) Emergency Float Kits",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2010-1190",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8130e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1190-0005"
+        }
+      },
+      {
+        "id": "FAA-2011-0649-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:31:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31269",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Boeing Co. Airplanes",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-0649",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8126c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0649-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1999-0013-0084",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-13T15:43:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31912",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Oil and Hazardous Substances Pollution Contingency Plan; National Priorities List: Deletion of Hiteman Leather Superfund Site",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1999-0013",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480f81277"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1999-0013-0084"
+        }
+      },
+      {
+        "id": "FAA-2011-1040-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:33:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31623",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: PIAGGIO AERO INDUSTRIES S.p.A. Airplanes",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-1040",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8127b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1040-0003"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2008-0930-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T19:03:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31665",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-10T04:59:59Z",
+          "title": "(Withdrawal of Proposed Rule) Approval and Promulgation of Air Quality Implementation Plans: Delaware, Maryland, New Jersey, Pennsylvania; Determinations of Attainment, etc.; Withdrawal",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2008-0930",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f814af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2008-0930-0013"
+        }
+      },
+      {
+        "id": "FAA-2011-0382-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:33:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31418",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-0382",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8128f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0382-0009"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0258-0065",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-24T19:31:30Z",
+          "highlightedContent": "",
+          "frDocNum": "77466",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Proposed Threatened Status for Subspecies of Ringed Seal",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0258",
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0258-0065"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0336",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T15:54:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31864",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Patient Protection and Affordable Care Act; Establishment of Consumer Operated and Oriented Plan Program",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8133f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0336"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0259-0067",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-01-03T03:08:18Z",
+          "highlightedContent": "",
+          "frDocNum": "77465",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Proposed Threatened Status for Distinct Population Segments of the Bearded Seal",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0259",
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81291"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0259-0067"
+        }
+      },
+      {
+        "id": "VA-2011-VACO-0027-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T15:26:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31870",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "AN40 - Proposed Rule - Servicemembers' Group Life Insurance and Veterans' Group Life Insurance; Slayer's Rule Exclusion",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "VA-2011-VACO-0027",
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2011-VACO-0027-0001"
+        }
+      },
+      {
+        "id": "DOE-HQ-2011-0037-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-02-04T02:42:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31759",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": "2012-01-28T04:59:59Z",
+          "title": "Coordination of Federal Authorizations for Electric Transmission Facilities",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "DOE-HQ-2011-0037",
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81344"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2011-0037-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1149-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-12-31T03:02:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31976",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-02-09T04:59:59Z",
+          "title": "Designated Aircraft Dispatcher Examiners: Clarification of Policy; Reopening of Comment Period",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-1149",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8127c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1149-0023"
+        }
+      },
+      {
+        "id": "FAA-2011-1126-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-24T19:35:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31843",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-28T04:59:59Z",
+          "title": "Proposed Amendment of Class E Airspace: Omaha, NE",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-1126",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81325"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1126-0002"
+        }
+      },
+      {
+        "id": "FAA-2011-0726-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T14:52:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31857",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-28T04:59:59Z",
+          "title": "Proposed Establishment of Class E Airspace: Piseco, NY",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-0726",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81311"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0726-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0098-0037",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-17T16:13:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31855",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "New Markets Tax Credit Non-Real Estate Investments; Hearing Cancellation",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "IRS-2007-0098",
+          "subtype": "Public Hearing",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f8130f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0098-0037"
+        }
+      },
+      {
+        "id": "FAA-2011-0527-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:35:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31847",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of ClassC Airspace: Palm Beach International Airport, FL",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-0527",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81314"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0527-0008"
+        }
+      },
+      {
+        "id": "FMCSA-2011-0259-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T15:16:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31858",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2012-01-13T04:59:59Z",
+          "title": "Amendment to Agency Rules of Practice",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FMCSA-2011-0259",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81329"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2011-0259-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2008-0928-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T19:00:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31665",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-10T04:59:59Z",
+          "title": "(Withdrawal of Proposed Rule) Approval and Promulgation of Air Quality Implementation Plans: Delaware, Maryland, New Jersey, Pennsylvania; Determinations of Attainment, etc.; Withdrawal",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2008-0928",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f814ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2008-0928-0012"
+        }
+      },
+      {
+        "id": "FAA-2011-1359-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T14:14:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31971",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-13T04:59:59Z",
+          "title": "Advisory Circular for Stall and Stick Pusher Training",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-1359",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81263"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1359-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1126-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T14:18:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31844",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-28T04:59:59Z",
+          "title": "Proposed Amendment of Class E Airspace: Omaha, NE",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-1126",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81279"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1126-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0940-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-24T19:28:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-30952",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-31T04:59:59Z",
+          "title": "Critical Parts for Airplane Propellers",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2010-0940",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81838"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0940-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2008-0929-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T19:02:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31665",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-10T04:59:59Z",
+          "title": "(Withdrawal of Proposed Rule) Approval and Promulgation of Air Quality Implementation Plans: Delaware, Maryland, New Jersey, Pennsylvania; Determinations of Attainment, etc.; Withdrawal",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2008-0929",
+          "subtype": "Withdrawal",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f814ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2008-0929-0024"
+        }
+      },
+      {
+        "id": "FAA-2010-0710-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-13T14:40:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31797",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Turbomeca Arriel 1 Series Turboshaft Engines",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2010-0710",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0710-0007"
+        }
+      },
+      {
+        "id": "FAA-2009-0330-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T14:54:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31798",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "Airworthiness Directives: Turbomeca S.A. Turboshaft Engines",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2009-0330",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f81313"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0330-0006"
+        }
+      },
+      {
+        "id": "FAA-2011-1105-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T14:33:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31845",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-28T04:59:59Z",
+          "title": "Proposed Amendment of Class E Airspace: Decatur, IL",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-1105",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1105-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1341-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-13T14:38:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31794",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-28T04:59:59Z",
+          "title": "Airworthiness Directives: Continental Motors, Inc. Reciprocating Engines",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-1341",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1341-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0248-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T17:11:26Z",
+          "highlightedContent": "",
+          "frDocNum": "77467",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-02-14T04:59:59Z",
+          "title": "Endangered and Threatened Species: Initiation of Status Review for Ribbon Seal",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0248",
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0248-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0911-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:33:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31314",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: BAE SYSTEMS (Operations) Limited Airplanes",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-0911",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0911-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1999-0013-0087",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-13T15:49:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31914",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-01-13T04:59:59Z",
+          "title": "National Oil and Hazardous Substances Pollution Contingency Plan; National Priorities List: Deletion of Hiteman Leather Superfund Site",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1999-0013",
+          "subtype": null,
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812df"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1999-0013-0087"
+        }
+      },
+      {
+        "id": "FAA-2011-1298-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-13T14:48:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-31868",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-01-28T04:59:59Z",
+          "title": "Airworthiness Directives: Pratt&Whitney Canada Turboprop Engines",
+          "postedDate": "2011-12-13T05:00:00Z",
+          "docketId": "FAA-2011-1298",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2011-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480f812f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1298-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 80,
+            "label": "Other"
+          },
+          {
+            "docCount": 77,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 64,
+            "label": "Notice"
+          },
+          {
+            "docCount": 20,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 14,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 3,
+            "label": "Withdrawal"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Public Hearing"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 34,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 18,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-12-13",
+          "toDate": "2011-12-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 34,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 34,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

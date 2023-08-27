@@ -1,0 +1,808 @@
+[
+  {
+    "data": [
+      {
+        "id": "FCC-2013-0110-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T12:41:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06322",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Connect America Fund; High-Cost Universal Service Support",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234bef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0110-0001"
+        }
+      },
+      {
+        "id": "CMS-2011-0018-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-19T20:00:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06276",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare and Medicaid Programs: Requirements for Long-Term Care Facilities; Notice of Facility Closure",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "CMS-2011-0018",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234d71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2011-0018-0014"
+        }
+      },
+      {
+        "id": "FCC-2013-0114-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T12:41:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06316",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Television Broadcasting Services: Hampton-Norfolk, Virginia; Norfolk, Virginia-Elizabeth City, North Carolina",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234dad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0114-0001"
+        }
+      },
+      {
+        "id": "FCC-2013-0113-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T12:41:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06307",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services: Ehrenberg, First Mesa, Kachina Village, Munds Park, Wickenburg, and Williams, AZ",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234d6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0113-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0884-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T17:44:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06210",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-04-19T03:59:59Z",
+          "title": "Direct Final Approval of the Cleveland-Akron-Lorain and Columbus, Ohio 1997 8-Hr Ozone MOBILE to MOVES Maintenance Plan Updates",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0884",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481236124"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0884-0002"
+        }
+      },
+      {
+        "id": "NRC-2010-0194-0032",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T21:36:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-05895",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Physical Protection of Byproduct Material",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "NRC-2010-0194",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648123601b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2010-0194-0032"
+        }
+      },
+      {
+        "id": "FAA-2013-0147-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-03-19T15:10:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06303",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-05-04T03:59:59Z",
+          "title": "Class E Airspace; Establishments: Tuba City, AZ",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "FAA-2013-0147",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234e01"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0147-0001"
+        }
+      },
+      {
+        "id": "FCC-2013-0109-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T12:41:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06296",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Commercial Mobile Alert System",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234bea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0109-0001"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2013-0054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-05-07T01:04:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06214",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2013-05-04T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Status Review of West Coast Distinct Population Segment of Fisher as Endangered or Threatened",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "FWS-R8-ES-2013-0054",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234c4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2013-0054-0001"
+        }
+      },
+      {
+        "id": "IRS-2008-0092-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:40:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-05700",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Certain Outbound Property Transfers by Domestic Corporations: Certain Stock Distributions by Domestic Corporations",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "IRS-2008-0092",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234c90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0092-0005"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2012-0448-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T14:03:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06076",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Air Quality Implementation Plans; Approvals and Promulgations: Georgia; Control Techniques Guidelines and Reasonably Available Control Technology; Amendments",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2012-0448",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234d0e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2012-0448-0009"
+        }
+      },
+      {
+        "id": "IRS-2013-0013-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:40:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-05696",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Indirect Stock Transfers and Coordination Rule Exceptions: Transfers of Stockor Securities in Outbound Asset Reorganizations",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "IRS-2013-0013",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234d70"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2013-0013-0002"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-1051",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T12:41:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06086",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Export Sales Reporting Requirements",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234dae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-1051"
+        }
+      },
+      {
+        "id": "USCG-2012-1079-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T14:56:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06253",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR: Special Local Regulation 2013 International Rolex Regatta; St. Thomas Harbor; St. Thomas, U.S. Virgin Islands (Federal Register Publication)",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "USCG-2012-1079",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234e37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-1079-0002"
+        }
+      },
+      {
+        "id": "FAA-2012-0852-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-03-19T13:27:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06305",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-05-04T03:59:59Z",
+          "title": "Class E Airspace; Amendments: Eureka, NV",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "FAA-2012-0852",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234c49"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0852-0002"
+        }
+      },
+      {
+        "id": "FCC-2013-0112-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-03-19T12:41:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06315",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2013-04-06T03:59:59Z",
+          "title": "Commercial Operations in 3550-3650 MHz Band",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234d11"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2013-0112-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0970-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T17:41:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06210",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-04-19T03:59:59Z",
+          "title": "Direct Final Approval of the Cleveland-Akron-Lorain and Columbus, Ohio 1997 8-Hr Ozone MOBILE to MOVES Maintenance Plan Updates",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0970",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234d69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0970-0002"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2013-0135-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-03-19T17:46:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06199",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-04-19T03:59:59Z",
+          "title": "Designations of Areas for Air Quality Planning Purposes: State of California; Imperial Valley Planning Area for PM10; Clarification of Nonattainment Area Boundary",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2013-0135",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234c4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2013-0135-0017"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2013-0135-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T17:21:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06208",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-04-19T03:59:59Z",
+          "title": "Designations of Areas for Air Quality Planning Purposes: State of California; Imperial Valley Planning Area for PM10; Clarification of Nonattainment Area Boundary",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2013-0135",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234d0c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2013-0135-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2011-0640-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T16:06:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06198",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "State Implementation Plans; Approvals and Promulgations: Idaho",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R10-OAR-2011-0640",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234d6c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2011-0640-0008"
+        }
+      },
+      {
+        "id": "FAA-2001-8994-0137",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T15:14:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06306",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Type Certification Procedures for Changed Products",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "FAA-2001-8994",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234e05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8994-0137"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0023-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-28T14:11:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06284",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: 2013 Commercial Accountability Measure and Closure for Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0023",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234e33"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0023-0004"
+        }
+      },
+      {
+        "id": "NRC-2008-0120-0163",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-19T21:34:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-05895",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Physical Protection of Byproduct Material",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "NRC-2008-0120",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006481234c8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2008-0120-0163"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2013-0009-0029",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-08-17T01:02:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06196",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-08-06T03:59:59Z",
+          "title": "Air Quality Implementation Plans; Approvals and Promulgations: Navajo Nation; Regional Haze Requirements for Navajo Generating Station",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2013-0009",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234c93"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2013-0009-0029"
+        }
+      },
+      {
+        "id": "FAS-2013-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-04-19T01:04:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06084",
+          "withdrawn": false,
+          "agencyId": "FAS",
+          "commentEndDate": "2013-04-19T03:59:59Z",
+          "title": "Export Sales Reporting Requirements",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "FAS-2013-0002",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234cd6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAS-2013-0002-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0970-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-03-19T17:35:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06209",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-04-19T03:59:59Z",
+          "title": "Proposed Approval of the Cleveland-Akron-Lorain and Columbus, Ohio 1997 8-Hr Ozone MOBILE to MOVES Maintenance Plan Updates",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0970",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234cd9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0970-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2012-0884-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-03-19T17:38:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-06209",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-04-19T03:59:59Z",
+          "title": "Proposed Approval of the Cleveland-Akron-Lorain and Columbus, Ohio 1997 8-Hr Ozone MOBILE to MOVES Maintenance Plan Updates",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2012-0884",
+          "subtype": null,
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481235cf6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2012-0884-0001"
+        }
+      },
+      {
+        "id": "IRS-2013-0013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-18T15:37:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-05702",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2013-06-18T03:59:59Z",
+          "title": "Indirect Stock Transfers and Coordination Rule Exceptions: Transfers of Stock or Securities in Outbound Asset Reorganizations",
+          "postedDate": "2013-03-19T04:00:00Z",
+          "docketId": "IRS-2013-0013",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-03-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006481234e04"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2013-0013-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 74,
+            "label": "Other"
+          },
+          {
+            "docCount": 64,
+            "label": "Notice"
+          },
+          {
+            "docCount": 44,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 10,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 28,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "EPA"
+          },
+          {
+            "docCount": 5,
+            "value": "FCC"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FAS"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-03-19",
+          "toDate": "2013-03-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 28,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 28,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

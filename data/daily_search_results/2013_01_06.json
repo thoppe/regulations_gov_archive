@@ -1,0 +1,141 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-R03-OAR-2012-0371-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-07T14:53:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31565",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans: Delaware, New Jersey, and Pennsylvania; Determination of Attainment of 200624-hour Fine Particulate Matter Standard, etc.",
+          "postedDate": "2013-01-06T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2012-0371",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064811adf56"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2012-0371-0003"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2012-0446-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-01-07T14:52:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-31560",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Utah; Determination of Clean Data for 1987 PM10 Standard for Ogden Area",
+          "postedDate": "2013-01-07T00:00:00Z",
+          "docketId": "EPA-R08-OAR-2012-0446",
+          "subtype": null,
+          "commentStartDate": "2013-01-07T00:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064811adf51"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2012-0446-0028"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-01-06",
+          "toDate": "2013-01-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

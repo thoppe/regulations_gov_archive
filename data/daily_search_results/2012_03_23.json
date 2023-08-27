@@ -1,0 +1,946 @@
+[
+  {
+    "data": [
+      {
+        "id": "HHS-OS-2011-0022-0692",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-28T19:33:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06594",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Patient Protection and Affordable Care Act: Standards Related to Reinsurance, Risk Corridors and Risk Adjustment",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "HHS-OS-2011-0022",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf406"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2011-0022-0692"
+        }
+      },
+      {
+        "id": "FDA-2012-N-0205-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-06-06T02:00:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06969",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2012-06-07T03:59:59Z",
+          "title": "Agreements and Memoranda of Understanding with Other Departments, Agencies, and Organizations",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FDA-2012-N-0205",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2012-N-0205-0002"
+        }
+      },
+      {
+        "id": "USCG-2012-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-23T14:53:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06980",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2012-05-08T03:59:59Z",
+          "title": "NPRM:  Special Local Regulations: Macy's Fourth of July Fireworks Display Spectator Viewing Areas; Hudson River; New York, NY (Federal Register Publication)",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "USCG-2012-0004",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3c1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0004-0001"
+        }
+      },
+      {
+        "id": "USCG-2011-0118-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:31:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06781",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "FR:  Safety Zones: Fireworks Displays within the Fifth Coast Guard District (Federal Register Publication)",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "USCG-2011-0118",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2011-0118-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0186-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-26T13:44:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-07062",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern U.S.: Northeast Multispecies Fishery; Amendment 17",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0186",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf225"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0186-0007"
+        }
+      },
+      {
+        "id": "USCG-2012-0073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-23T14:45:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06986",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2012-05-23T03:59:59Z",
+          "title": "NPRM:  Special Local Regulations: Ocean State Tall Ships Festival 2012, Narragansett Bay, RI (Federal Register Publication)",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "USCG-2012-0073",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf229"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0073-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0288-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T13:44:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06995",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-05-08T03:59:59Z",
+          "title": "Airworthiness Directives: Rolls-Royce Deutschland Ltd and Co KG Turbofan Engines",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2012-0288",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf357"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0288-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0282-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-04-24T12:01:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-07045",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Snapper-Grouper Fishery off the Southern Atlantic States; Amendment 18A",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0282",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf375"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0282-0041"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0066-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T16:34:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-07046",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2012-04-05T03:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Pollock in Statistical Area 630 in the Gulf of Alaska",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0066",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf394"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0066-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0315-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T13:40:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06956",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Special Conditions: Embraer S.A., Model EMB 505; Inflatable Side-Facing Seat Three-Point Restraint Safety Belt, etc.",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2012-0315",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf223"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0315-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0324-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-08-11T01:47:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-07012",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-05-08T03:59:59Z",
+          "title": "Airworthiness Directives: Burkhart GROB Luft- und Raumfahrt GmbH Powered Sailplanes",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2012-0324",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf37b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0324-0001"
+        }
+      },
+      {
+        "id": "CMS-2011-0139-0489",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-05-17T02:00:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06560",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2012-05-08T03:59:59Z",
+          "title": "Eligibility Changes under Affordable Care Act",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "CMS-2011-0139",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf391"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2011-0139-0489"
+        }
+      },
+      {
+        "id": "FDA-2012-M-0206-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T14:07:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06975",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; Neurological Devices: Classification of the Near Infrared Brain Hematoma Detector",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FDA-2012-M-0206",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480fdf3ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2012-M-0206-0001"
+        }
+      },
+      {
+        "id": "FDA-2012-N-0205-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T13:56:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06967",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2012-06-07T03:59:59Z",
+          "title": "Agreements and Memoranda of Understanding with Other Departments, Agencies, and Organizations",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FDA-2012-N-0205",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf22b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2012-N-0205-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1090-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:31:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06530",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2011-1090",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf372"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1090-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2010-0544-0188",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-26T10:59:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-07029",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: Secondary Aluminum Production; Notice of Extension of public comment period",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2010-0544",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480fdf415"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2010-0544-0188"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0064-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T16:50:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06816",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of Exclusive Economic Zone Off Alaska: Pollock in West Yakutat District of Gulf of Alaska",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0064",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf859"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0064-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2011-0776-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-26T10:59:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06918",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Protection of Stratospheric Ozone: Amendment to HFO-1234yf SNAP Rule for Motor Vehicle Air Conditioning Sector; Notice of proposed rulemaking",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2011-0776",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf407"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2011-0776-0001"
+        }
+      },
+      {
+        "id": "USCG-2012-0132-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T15:01:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06984",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operations: Willamette River, Portland, OR (Federal Register Publication)",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "USCG-2012-0132",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf412"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0132-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0079-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-12-01T03:01:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06965",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-05-23T03:59:59Z",
+          "title": "Airworthiness Directives: Pratt and Whitney Division Turbofan Engines",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2012-0079",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf397"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0079-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2007-0089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-26T10:58:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06911",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Air Quality: Revision to Definition of Volatile Organic Compounds; Exclusion of a Group of Four Hydrofluoropolyethers (HFPEs)",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2007-0089",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf227"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2007-0089-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1194-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:35:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06996",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt&Whitney Division Turbofan Engines",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2011-1194",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1194-0007"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2010-0670-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-24T19:35:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06929",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Submission to Secretary of Agriculture of Two Draft Regulatory Documents under FIFRA",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2010-0670",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2010-0670-0005"
+        }
+      },
+      {
+        "id": "FAA-2012-0311-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T13:55:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06957",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-04-24T03:59:59Z",
+          "title": "Special Conditions: Boeing Model 787 Series Airplanes; Single-place Side-facing Seats with Inflatable Lapbelts",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2012-0311",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf414"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0311-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0272-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T13:49:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06778",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-05-08T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Airplanes",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2012-0272",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0272-0001"
+        }
+      },
+      {
+        "id": "USCG-2012-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-23T14:59:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06982",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2012-08-02T03:59:59Z",
+          "title": "Drawbridge Operations: Miami River, Miami, FL (Federal Register Publication)",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "USCG-2012-0078",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2012-0078-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-1176-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-24T19:28:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06952",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt&Whitney (PW) Turbofan Engines",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FAA-2011-1176",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf22a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-1176-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2011-0049-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-03-23T14:18:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06929",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Submission to Secretary of Agriculture of Two Draft Regulatory Documents under FIFRA",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2011-0049",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf311"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2011-0049-0003"
+        }
+      },
+      {
+        "id": "FDA-2009-N-0582-0055",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-11-30T03:02:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06948",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2012-04-10T03:59:59Z",
+          "title": "Direct-to-Consumer Prescription Drug Advertisements; Presentation of the Major Statement in Television and Radio Advertisements in a Clear, Conspicuous, and Neutral Manner; Reopening of the Comment Period",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "FDA-2009-N-0582",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2009-N-0582-0055"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0067-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-07T16:54:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-07043",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Central Regulatory Area of the Gulf of Alaska: Pacific Cod by Catcher Vessels Greater Than or Equal to 50 Feet Length Overall Using Hook-and-line Gear",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0067",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf3d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0067-0001"
+        }
+      },
+      {
+        "id": "USCG-2001-10486-0476",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-05-20T02:00:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06579",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2012-05-23T03:59:59Z",
+          "title": "FR:  Standards for Living Organisms in Ships' Ballast Water Discharged in U.S. Waters (Federal Register Publication)",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "USCG-2001-10486",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf403"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10486-0476"
+        }
+      },
+      {
+        "id": "AMS-LS-11-0049-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-05-24T02:01:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06992",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2012-05-23T03:59:59Z",
+          "title": "Livestock Mandatory Reporting Program: Establishment of the Reporting Regulation for Wholesale Pork",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "AMS-LS-11-0049",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf35c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-LS-11-0049-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2010-0671-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-03-27T12:07:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-06938",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of the Illinois VOC RACT rules",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2010-0671",
+          "subtype": null,
+          "commentStartDate": "2012-03-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf35d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2010-0671-0008"
+        }
+      },
+      {
+        "id": "EERE-2006-TP-0106-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-01-20T18:46:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-16648",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2006-11-10T04:59:59Z",
+          "title": "2006-10-10  Energy Conservation Program for Consumer Products: Test Procedure for Residential Central Air Conditioners and Heat Pumps; Correction: Proposed Rule; technical correction and reopening of comment period",
+          "postedDate": "2012-03-23T04:00:00Z",
+          "docketId": "EERE-2006-TP-0106",
+          "subtype": "Notice of Extension",
+          "commentStartDate": "2006-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480fdf4e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-TP-0106-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 132,
+            "label": "Other"
+          },
+          {
+            "docCount": 81,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 80,
+            "label": "Notice"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 14,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 7,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Extension"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 34,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "FAA"
+          },
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 6,
+            "value": "USCG"
+          },
+          {
+            "docCount": 5,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2012-03-23",
+          "toDate": "2012-03-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 34,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 34,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

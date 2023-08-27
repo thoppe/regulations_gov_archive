@@ -1,0 +1,940 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OPP-2012-0139-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-04-05T14:25:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07980",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Pesticide Tolerances: Flumioxazin",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2012-0139",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d8c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2012-0139-0004"
+        }
+      },
+      {
+        "id": "NRC-2013-0050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-07-04T01:01:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07960",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2013-07-06T03:59:59Z",
+          "title": "Potential Changes to Interlocutory Appeals Process for Adjudicatory Decisions",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "NRC-2013-0050",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d8c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2013-0050-0001"
+        }
+      },
+      {
+        "id": "EERE-2010-BT-STD-0043-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-05-21T01:02:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07971",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2013-05-18T03:59:59Z",
+          "title": "2013-04-05  Energy Conservation Program: Availability of the Interim Technical Support Document for High-Intensity Discharge Lamps; Notice of extension of public comment period.",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "EERE-2010-BT-STD-0043",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d908"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2010-BT-STD-0043-0022"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-05-07T01:05:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07990",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-05-07T03:59:59Z",
+          "title": "Enhanced Document Requirements to Support Use of the Dolphin Safe Label on Tuna Products",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0016",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d90f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0016-0001"
+        }
+      },
+      {
+        "id": "CMS-2013-0064-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-06-20T01:02:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07951",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2013-05-07T03:59:59Z",
+          "title": "Patient Protection and Affordable Care Act: Exchange Functions; Standards for Navigators and Non-Navigator Assistance Personnel",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "CMS-2013-0064",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126da63"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2013-0064-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0143-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-09-08T00:08:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07930",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Airworthiness Directives: Rolls-Royce plc Turbofan Engines",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "FAA-2013-0143",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126db12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0143-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0366",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T15:57:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07737",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Loan Repayment Programs",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126da65"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0366"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0367",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T15:57:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07521",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "National Practitioner Data Bank",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126dadc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0367"
+        }
+      },
+      {
+        "id": "IRS-2013-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-18T15:48:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07959",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2013-07-06T03:59:59Z",
+          "title": "Community Health Needs Assessments for Charitable Hospitals",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "IRS-2013-0016",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126da98"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2013-0016-0001"
+        }
+      },
+      {
+        "id": "CMS-2013-0063-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-07-10T01:03:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07950",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Medicare and Medicaid Programs: Survey, Certification and Enforcement Procedures",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "CMS-2013-0063",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126da9b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2013-0063-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2012-0180-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-02-20T02:02:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07766",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2013-07-06T03:59:59Z",
+          "title": "New Car Assessment Program",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "NHTSA-2012-0180",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d911"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2012-0180-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0286",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-04-05T13:24:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07962",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": "2013-05-07T03:59:59Z",
+          "title": "Boards and Committees",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d9d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0286"
+        }
+      },
+      {
+        "id": "NIH_FRDOC_0001-7724",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-04-05T13:24:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07737",
+          "withdrawn": false,
+          "agencyId": "NIH",
+          "commentEndDate": null,
+          "title": "Loan Repayment Programs",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "NIH_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d8c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIH_FRDOC_0001-7724"
+        }
+      },
+      {
+        "id": "EERE-2011-BT-STD-0006-0026",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-04-05T14:35:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07974",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2013-05-14T03:59:59Z",
+          "title": "2013-04-05  Energy Conservation Program: Availability of the Preliminary Technical Support Document for General Service Fluorescent Lamps and Incandescent Reflector Lamps; Notice of extension of public comment period.",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "EERE-2011-BT-STD-0006",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126da97"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2011-BT-STD-0006-0026"
+        }
+      },
+      {
+        "id": "USCG-2013-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-10T22:26:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07909",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "NPRM:  Safety Zones: Swim Events in Hudson River, East River, Upper New York Bay, Lower New York Bay, New York, NY (Federal Register Publication)",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "USCG-2013-0026",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126dae1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-0026-0001"
+        }
+      },
+      {
+        "id": "BSEE-2012-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-04-05T16:34:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07738",
+          "withdrawn": false,
+          "agencyId": "BSEE",
+          "commentEndDate": null,
+          "title": "Oil and Gas and Sulphur Operations in the Outer Continental Shelf: Safety and Environmental Management Systems Revisions",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "BSEE-2012-0011",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126db14"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BSEE-2012-0011-0001"
+        }
+      },
+      {
+        "id": "TTB-2013-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-05-14T01:03:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07882",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Notice No.134:  Proposed Establishment of the Big Valley District-Lake County and Kelsey Bench-Lake County Viticultural Areas, and Modification of the Red Hills Lake County Viticultural Area",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "TTB-2013-0003",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d944"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2013-0003-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-12-15T04:16:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07935",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Airworthiness Directives: Rolls-Royce plc Turbofan Engines",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "FAA-2013-0029",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d97b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0029-0001"
+        }
+      },
+      {
+        "id": "HRSA_FRDOC_0001-0108",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:22:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07521",
+          "withdrawn": false,
+          "agencyId": "HRSA",
+          "commentEndDate": null,
+          "title": "National Practitioner Data Bank",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "HRSA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d97f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HRSA_FRDOC_0001-0108"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2013-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-04-06T02:03:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07991",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-05-07T03:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Commercial Trap Sectors of the Reef Fish and Spiny Lobster Fisheries in the U.S. Caribbean; Control Date",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "NOAA-NMFS-2013-0022",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126da66"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2013-0022-0001"
+        }
+      },
+      {
+        "id": "FNS-2011-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-12-17T03:01:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07602",
+          "withdrawn": false,
+          "agencyId": "FNS",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Supplemental Nutrition Assistance Program: Nutrition Education and Obesity Prevention Grant Program",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "FNS-2011-0017",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d978"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FNS-2011-0017-0001"
+        }
+      },
+      {
+        "id": "USCG-2013-0020-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07911",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "FR:  Safety Zones: Annual Events in the Captain of the Port Lake Michigan Zone (Federal Register Publication)",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "USCG-2013-0020",
+          "subtype": "Final Rule",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126da99"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-0020-0008"
+        }
+      },
+      {
+        "id": "FAA-2013-0197-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-07-14T15:16:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07934",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Airworthiness Directives: Pratt and Whitney Canada Corp. Turboprop Engines",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "FAA-2013-0197",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d9d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0197-0001"
+        }
+      },
+      {
+        "id": "OPM_FRDOC_0001-0761",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-04-05T13:24:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07872",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Political Activity; Federal Employees Residing in Designated Localities",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "OPM_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d9dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM_FRDOC_0001-0761"
+        }
+      },
+      {
+        "id": "FRS-2013-0092-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-04-05T13:24:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07688",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Definitions: Predominantly Engaged in Financial Activities and Significant Nonbank Financial Company and Bank Holding Company",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d8c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2013-0092-0001"
+        }
+      },
+      {
+        "id": "USCG-2013-0063-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:22:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07908",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR:  Drawbridge Operation Regulations: Pelican Island Causeway, Galveston, Channel, TX (Federal Register Publication)",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "USCG-2013-0063",
+          "subtype": "Temporary Rule",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d8c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2013-0063-0001"
+        }
+      },
+      {
+        "id": "CPSC-2013-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-06-20T01:02:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07687",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2013-06-20T03:59:59Z",
+          "title": "Safety Standards for Soft Infant and Toddler Carriers",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "CPSC-2013-0014",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d942"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2013-0014-0001"
+        }
+      },
+      {
+        "id": "FAA-2013-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-11-14T03:06:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07931",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Airworthiness Directives: Rolls-Royce plc Turbofan Engines",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "FAA-2013-0052",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d947"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2013-0052-0001"
+        }
+      },
+      {
+        "id": "DOD-2008-OS-0124-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-04-08T11:59:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07803",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Sexual Assault Prevention and Response Program",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "DOD-2008-OS-0124",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126dadb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2008-OS-0124-0006"
+        }
+      },
+      {
+        "id": "NARA-13-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-07-17T14:51:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-08020",
+          "withdrawn": false,
+          "agencyId": "NARA",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Use of Meeting Rooms and Public Spaces",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "NARA-13-0001",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126db13"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NARA-13-0001-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0261-0044",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-07-11T01:01:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07781",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2013-06-05T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Scalloped Hammerhead Sharks; Proposed Endangered, Threatened, and Not Warranted Listing Determinations",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0261",
+          "subtype": null,
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126da26"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0261-0044"
+        }
+      },
+      {
+        "id": "USCG-2007-28915-0127",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-03-10T22:26:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2013-07910",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2013-05-22T03:59:59Z",
+          "title": "NPRM:  Transportation Worker Identification Credentials: Reader Requirements; Public Hearing (Federal Register Publication",
+          "postedDate": "2013-04-05T04:00:00Z",
+          "docketId": "USCG-2007-28915",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2013-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648126d23d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2007-28915-0127"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 67,
+            "label": "Notice"
+          },
+          {
+            "docCount": 46,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 42,
+            "label": "Other"
+          },
+          {
+            "docCount": 20,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          },
+          {
+            "docCount": 1,
+            "label": "Temporary Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "USCG"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "CMS"
+          },
+          {
+            "docCount": 2,
+            "value": "EERE"
+          },
+          {
+            "docCount": 2,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "BSEE"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FNS"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "HRSA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NARA"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NIH"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "TTB"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2013-04-05",
+          "toDate": "2013-04-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

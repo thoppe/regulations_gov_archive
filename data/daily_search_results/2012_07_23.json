@@ -1,0 +1,931 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2012-0704-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-28T00:30:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17559",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-09-22T03:59:59Z",
+          "title": "Airworthiness Directives: Eurocopter Deutschland GmbH Helicopters",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAA-2012-0704",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9acc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0704-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0485-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T14:37:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17864",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: Tamarack Aerospace Group, Cirrus Model SR22; Active Technology Load Alleviation System",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAA-2012-0485",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9b49"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0485-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2010-1075-0079",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T14:23:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17895",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Significant New Use Rules on Certain Chemical Substances",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2010-1075",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064810a9b8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2010-1075-0079"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2011-0317-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-30T02:01:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17902",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut, Maine, Massachusetts, New Hampshire; Infrastructure SIPs for 1997 and 2006 Fine Particulate Matter Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2011-0317",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a98c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2011-0317-0001"
+        }
+      },
+      {
+        "id": "FAR-2011-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-09-27T02:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17477",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2012-09-22T03:59:59Z",
+          "title": "Federal Acquisition Regulations: Contractors Performing Private Security Functions Outside the United States; FAR Case 2011-029",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAR-2011-0029",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9986"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2011-0029-0001"
+        }
+      },
+      {
+        "id": "DOE-HQ-2012-0001-0176",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T21:39:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17878",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Energy Conservation Standards for Commercial and Industrial Electric Motors; Meeting, etc.",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "DOE-HQ-2012-0001",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a998b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2012-0001-0176"
+        }
+      },
+      {
+        "id": "OSHA-2011-0184-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-07-23T15:36:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17871",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2012-07-24T03:59:59Z",
+          "title": "Corrected Federal Register Notice for original Federal Register which is document number OSHA-2011-0184-0001; Head Protection",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "OSHA-2011-0184",
+          "subtype": "Correction",
+          "commentStartDate": "2012-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a998f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2011-0184-0005"
+        }
+      },
+      {
+        "id": "FAA-2012-0149-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T14:06:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-16964",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAA-2012-0149",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9a90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0149-0004"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2009-0459-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-30T02:01:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17902",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut, Maine, Massachusetts, New Hampshire; Infrastructure SIPs for 1997 and 2006 Fine Particulate Matter Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2009-0459",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a98c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2009-0459-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0730-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-28T00:30:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17278",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-09-22T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Vertol (Type Certificate currently held by Columbia Helicopters, Inc. (CHI)) and Kawasaki Heavy Industries, Limited Helicopters (Kawasaki)",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAA-2012-0730",
+          "subtype": "Final Rule with Request for Comments",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9ac6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0730-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0329-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T14:35:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17389",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airowrthiness Directives: Airbus Airplanes",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAA-2012-0329",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9b0e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0329-0004"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2011-0324-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-30T02:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17902",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut, Maine, Massachusetts, New Hampshire; Infrastructure SIPs for 1997 and 2006 Fine Particulate Matter Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2011-0324",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9b0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2011-0324-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2012-0553-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-23T02:03:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17885",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Air Quality Implementation Plans: Florida, Mississippi, and South Carolina; Clean Air Act Transport Requirements, etc.",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2012-0553",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9b47"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2012-0553-0001"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2011-0321-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-30T02:01:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17902",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut, Maine, Massachusetts, New Hampshire; Infrastructure SIPs for 1997 and 2006 Fine Particulate Matter Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2011-0321",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a98c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2011-0321-0001"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2009-0460-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-30T02:01:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17902",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut, Maine, Massachusetts, New Hampshire; Infrastructure SIPs for 1997 and 2006 Fine Particulate Matter Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2009-0460",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a98c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2009-0460-0001"
+        }
+      },
+      {
+        "id": "FAA-2012-0739-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-09-22T02:01:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17279",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2012-09-22T03:59:59Z",
+          "title": "Airworthiness Directives: Various Restricted Category Helicopters",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAA-2012-0739",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9955"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0739-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2012-0081-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-07-23T14:44:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17893",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Implementation Plans: Mississippi; New Source Review-Prevention of Significant Deterioration; Fine Particulate Matter",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2012-0081",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9a94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2012-0081-0001"
+        }
+      },
+      {
+        "id": "EIB-2011-0010-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-14T18:09:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17896",
+          "withdrawn": false,
+          "agencyId": "EIB",
+          "commentEndDate": null,
+          "title": "Privacy Act; Implementation of Exemptions Office of Inspector General Investigative Records; Correction",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EIB-2011-0010",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9acb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EIB-2011-0010-0004"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2011-0322-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-30T02:01:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17902",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut, Maine, Massachusetts, New Hampshire; Infrastructure SIPs for 1997 and 2006 Fine Particulate Matter Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2011-0322",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a98c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2011-0322-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2012-0042-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T14:39:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17762",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans: Maryland; Offset Lithographic Printing and Letterpress Printing Regulations",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2012-0042",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064810a9a06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2012-0042-0005"
+        }
+      },
+      {
+        "id": "EPA_FRDOC_0001-12711",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T13:33:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17905",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hazardous Waste Management System; Identification and Listing of Hazardous Waste; Amendment",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9b96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA_FRDOC_0001-12711"
+        }
+      },
+      {
+        "id": "SEC-2012-1192-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T13:32:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17763",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Commission Guidances: Definitions of Mortgage Related Security and Small Business Related Security",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9a91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2012-1192-0001"
+        }
+      },
+      {
+        "id": "USN-2012-0001-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-09T11:15:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17874",
+          "withdrawn": false,
+          "agencyId": "USN",
+          "commentEndDate": null,
+          "title": "Certifications and Exemptions Under the International Regulations for Preventing Collisions at Sea",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "USN-2012-0001",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a994d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USN-2012-0001-0008"
+        }
+      },
+      {
+        "id": "OSHA-2011-0184-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T15:44:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17872",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2012-07-24T03:59:59Z",
+          "title": "Corrected Federal Register Notice for original Federal Register which is document number OSHA-2011-0184-0002; Head Protection",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "OSHA-2011-0184",
+          "subtype": "Correction",
+          "commentStartDate": "2012-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9a8e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2011-0184-0006"
+        }
+      },
+      {
+        "id": "FAA-2012-0271-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T14:31:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-16967",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAA-2012-0271",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9aca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2012-0271-0003"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2011-0353-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T14:50:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17644",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans: Tennessee; Infrastructure Requirements for the 1997 8-Hour Ozone National Ambient Air Quality Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2011-0353",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9b0c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2011-0353-0008"
+        }
+      },
+      {
+        "id": "FAA-2011-0304-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-28T00:30:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17558",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FAA-2011-0304",
+          "subtype": "Final Rule",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a9b4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0304-0009"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2011-0318-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-30T02:00:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17902",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut, Maine, Massachusetts, New Hampshire; Infrastructure SIPs for 1997 and 2006 Fine Particulate Matter Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2011-0318",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a98c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2011-0318-0001"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2011-0323-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-30T02:01:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17902",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2012-08-23T03:59:59Z",
+          "title": "Approvals and Promulgations of Air Quality Implementation Plans: Connecticut, Maine, Massachusetts, New Hampshire; Infrastructure SIPs for 1997 and 2006 Fine Particulate Matter Standards",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2011-0323",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a98c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2011-0323-0001"
+        }
+      },
+      {
+        "id": "FEMA-2012-0003-0053",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T15:11:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17810",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspensions of Community Eligibility",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "FEMA-2012-0003",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064810a994c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2012-0003-0053"
+        }
+      },
+      {
+        "id": "BIS-2012-0033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-08T10:58:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17757",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "United Nations Sanctions under the Export Administration Regulations: Export and Reexport Controls to Rwanda",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "BIS-2012-0033",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a998a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2012-0033-0001"
+        }
+      },
+      {
+        "id": "FCC-2012-0229-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-23T13:31:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17793",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Unlicensed Personal Communications Service Devices in the 1920-1930 MHz Band",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a99bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2012-0229-0001"
+        }
+      },
+      {
+        "id": "EERE-2010-BT-STD-0027-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-09-10T01:02:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2012-17878",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2012-09-08T03:59:59Z",
+          "title": "2012-07-23  Energy Conservation Standards for Commercial and Industrial Electric Motors: Public Meeting and Availability of the Preliminary Technical Support Document; Notice of public meeting and availability of preliminary technical support document.",
+          "postedDate": "2012-07-23T04:00:00Z",
+          "docketId": "EERE-2010-BT-STD-0027",
+          "subtype": null,
+          "commentStartDate": "2012-07-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810a99be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2010-BT-STD-0027-0022"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 124,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 81,
+            "label": "Notice"
+          },
+          {
+            "docCount": 57,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 14,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Correction"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule with Request for Comments"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 33,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 14,
+            "value": "EPA"
+          },
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "EIB"
+          },
+          {
+            "docCount": 1,
+            "value": "FAR"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USN"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2012-07-23",
+          "toDate": "2012-07-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]
