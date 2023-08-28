@@ -1,0 +1,882 @@
+[
+  {
+    "data": [
+      {
+        "id": "MSHA-2010-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-09-19T20:21:02Z",
+          "highlightedContent": "",
+          "frDocNum": "Vol. 75, No. 20",
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": "2010-04-03T03:59:59Z",
+          "title": "Proximity Detection Systems for Underground Mines",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "MSHA-2010-0001",
+          "subtype": "Other",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c694"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2010-0001-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2010-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:15:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02293",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2010-03-06T04:59:59Z",
+          "title": "Participation by Disadvantaged Business Enterprises in Airport Concessions",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "DOT-OST-2010-0022",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c86d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2010-0022-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2010-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:15:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02294",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": null,
+          "title": "Participation by Disadvantaged Business Enterprises in Department of Transportation Financial Assistance Programs",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "DOT-OST-2010-0021",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c7a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2010-0021-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2009-0019-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-03T19:38:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02306",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Information Collection Activities",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "PHMSA-2009-0019",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c83f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2009-0019-0004"
+        }
+      },
+      {
+        "id": "NRC-2007-0008-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:14:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02283",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Alternate Fracture Toughness Requirements for Protection Against Pressurized Thermal Shock Events; Correction",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "NRC-2007-0008",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a8c850"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2007-0008-0020"
+        }
+      },
+      {
+        "id": "CRB-2009-0009-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-04T23:43:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02219",
+          "withdrawn": false,
+          "agencyId": "CRB",
+          "commentEndDate": null,
+          "title": "Determination of Rates and Terms for Preexisting Subscription Services and Satellite Digital Audio Radio Services",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c812"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CRB-2009-0009-0002"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-0108",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-07-11T15:01:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02220",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Belarus Sanctions Regulations",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c815"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-0108"
+        }
+      },
+      {
+        "id": "FRA-2009-0122-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-03T16:44:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02247",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2010-03-21T03:59:59Z",
+          "title": "Notice of Application for Approval of Discontinuance or Modification of a Railroad Signal System or Relief From the Requirements ofTitle 49 Code of Federal Regulations Part 236",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "FRA-2009-0122",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c82f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0122-0004"
+        }
+      },
+      {
+        "id": "EBSA-2010-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:16:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "EBSA",
+          "commentEndDate": "2010-05-04T03:59:59Z",
+          "title": "Request for Information Regarding Lifetime Income Options",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EBSA-2010-0007",
+          "subtype": "Request for Information",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8bccc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EBSA-2010-0007-0001"
+        }
+      },
+      {
+        "id": "WCPO_FRDOC_0001-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:52:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01925",
+          "withdrawn": false,
+          "agencyId": "WCPO",
+          "commentEndDate": null,
+          "title": "Claims for Compensation; Death Gratuity Under the Federal Employees' Compensation Act",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "WCPO_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c817"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/WCPO_FRDOC_0001-0009"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:17:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02257",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Vessels Catching Pacific Cod for Processing by the InshoreComponent in the Central Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0043",
+          "subtype": null,
+          "commentStartDate": "2010-02-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c819"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0043-0001"
+        }
+      },
+      {
+        "id": "FTA-2010-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-04T17:59:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02312",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "Notice of Establishment of Emergency Relief Docket for Calendar Year 2010",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "FTA-2010-0003",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c856"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2010-0003-0001"
+        }
+      },
+      {
+        "id": "DHS-2009-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-09T20:05:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02200",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Privacy Act of 1974: Implementation of Exemptions; Department of Homeland Security/U.S. Customs and Border Protection-007 Border Crossing Information System of Records",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "DHS-2009-0052",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a8c872"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2009-0052-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2009-0261-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-04T23:39:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02254",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Chlorantraniliprole; Pesticide Tolerances",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2009-0261",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8caa1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2009-0261-0006"
+        }
+      },
+      {
+        "id": "EERE-2009-BT-STD-0018-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-04-27T20:49:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02295",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2010-02-06T04:59:59Z",
+          "title": "2010-02-03  Energy Conservation Program: Energy Conservation Standards for Metal Halide Lamp Fixtures: Public Meeting and Availability of the Framework Document; Notice of extension of public comment period",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EERE-2009-BT-STD-0018",
+          "subtype": "ANOPR",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c222"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2009-BT-STD-0018-0002"
+        }
+      },
+      {
+        "id": "FRA-2009-0086-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-03T16:46:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02246",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2010-03-21T03:59:59Z",
+          "title": "Petition for Waiver of Compliance; Notice of Petition for Statutory Exemption",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "FRA-2009-0086",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c851"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0086-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2009-0261-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-04T23:39:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02254",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Chlorantraniliprole; Pesticide Tolerances",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2009-0261",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c83c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2009-0261-0004"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0235-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:16:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02282",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Atlantic Mackerel, Squid, and Butterfish Fisheries; Specifications and ManagementMeasures",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0235",
+          "subtype": null,
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c843"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0235-0003"
+        }
+      },
+      {
+        "id": "DHS-2009-0055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-09T20:07:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02201",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Privacy Act of 1974: Implementation of Exemptions; Department of Homeland Security/U.S. Customs and Border Protection-006 Automated Targeting System of Records",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "DHS-2009-0055",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a8c828"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2009-0055-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2007-0460-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-04T23:39:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02145",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Dithianon; Pesticide Tolerances",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2007-0460",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c82a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2007-0460-0006"
+        }
+      },
+      {
+        "id": "PHMSA-2007-27954-0195",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:55:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02190",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Pipeline Safety: Control Room Management/Human Factors, Correction",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "PHMSA-2007-27954",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c83e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2007-27954-0195"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:17:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02284",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands; Final 2009 and 2010 Harvest Specifications forGroundfish; Correction",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0047",
+          "subtype": null,
+          "commentStartDate": "2010-02-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c857"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0047-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2008-0211-0048",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-03T19:39:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02240",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Pipeline Safety: Implementation of Revised Incident/Accident Report Forms for Distribution Systems, Gas Transmission and GatheringSystems, and Hazardous Liquid Systems",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "PHMSA-2008-0211",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c870"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2008-0211-0048"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2008-0262-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-04T23:39:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02144",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Spiromesifen; Pesticide Tolerances",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2008-0262",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c890"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2008-0262-0014"
+        }
+      },
+      {
+        "id": "USCG-2009-0878-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02215",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR:  Safety Zone; AICW Closure Safety Zone for Ben Sawyer Bridge Replacement Project, Sullivan's Island, SC (Federal Register Publication)",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "USCG-2009-0878",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c789"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2009-0878-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0176-0173",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:15:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02291",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Reporting Requirement for Midwater Trawl Vessels Fishing in Closed Area I",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0176",
+          "subtype": null,
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c88c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0176-0173"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2009-0771-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-04T16:01:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02248",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Correction to Indiana 2008 Annual CFR Update",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2009-0771",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-02-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c892"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2009-0771-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2009-0686-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:08:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02256",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-03-06T04:59:59Z",
+          "title": "Proposed Significant New Use Rule for Multi-walled Carbon Nanotubes",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2009-0686",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c7eb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2009-0686-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2010-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-06-28T01:00:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01958",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2010-04-06T03:59:59Z",
+          "title": "Federal Motor Vehicle Safety Standards; Motor Vehicle Brake Fluids",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "NHTSA-2010-0012",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c81a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2010-0012-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2009-0540-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-16T14:55:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02148",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hexythiazox; Pesticide Tolerances for Emergency Exemptions",
+          "postedDate": "2010-02-03T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2009-0540",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a8c81b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2009-0540-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 58,
+            "label": "Other"
+          },
+          {
+            "docCount": 41,
+            "label": "Notice"
+          },
+          {
+            "docCount": 34,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 27,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 10,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 7,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "ANOPR"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Other"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Information"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 30,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 2,
+            "value": "DHS"
+          },
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "CRB"
+          },
+          {
+            "docCount": 1,
+            "value": "EBSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "WCPO"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-02-03",
+          "toDate": "2010-02-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 30,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 30,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

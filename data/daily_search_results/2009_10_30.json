@@ -1,0 +1,724 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2009-1538-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-10-30T13:08:24Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26150",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Adoption of Updated EDGAR Filer Manual",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e580"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2009-1538-0001"
+        }
+      },
+      {
+        "id": "DOD-2006-OS-0033-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:07:48Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26183",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Office of the Secretary of Defense and Joint Staff Privacy Program",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "DOD-2006-OS-0033",
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e4f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-OS-0033-0002"
+        }
+      },
+      {
+        "id": "FAA-2009-1000-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26123",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-15T04:59:59Z",
+          "title": "Airworthiness Directives; Boeing Model 747-100, 747-100B, 747-100B SUD, 747-200B, 747-200C, 747-200F, 747-300, 747SR, and 747SP Series Airplanes",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "FAA-2009-1000",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e4fd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1000-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2009-0034-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-03T15:35:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26090",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Maryland; Clean Air Interstate Rule",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2009-0034",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a4e631"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2009-0034-0006"
+        }
+      },
+      {
+        "id": "FCC-2009-0302-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-10-30T13:08:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26196",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Promoting Diversification of Ownership in Broadcast Services",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e59b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2009-0302-0001"
+        }
+      },
+      {
+        "id": "FCC-2009-0303-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-10-30T13:09:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26071",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Promoting Diversification of Ownership in the Broadcasting Services",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e5f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2009-0303-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2009-0117-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:50:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26135",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2009-12-30T04:59:59Z",
+          "title": "Federal Motor Vehicle Safety Standards; New Pneumatic and Certain Specialty Tires",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "NHTSA-2009-0117",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e561"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2009-0117-0001"
+        }
+      },
+      {
+        "id": "CMS-2008-0021-0072",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:25:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26297",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2009-11-20T04:59:59Z",
+          "title": "Medicaid Program: State Flexibility for Medicaid Benefit Packages and Premiums and Cost Sharing",
+          "postedDate": "2009-10-30T14:52:56Z",
+          "docketId": "CMS-2008-0021",
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4ea40"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2008-0021-0072"
+        }
+      },
+      {
+        "id": "HHS-OCR-2009-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:28:27Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26203",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": "2009-12-30T04:59:59Z",
+          "title": "HIPAA Administrative Simplification: Enforcement",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "HHS-OCR-2009-0020",
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e565"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OCR-2009-0020-0001"
+        }
+      },
+      {
+        "id": "FEMA-2009-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26191",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Technical Amendment; Federal Emergency Management Agency's Claims Appeals",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "FEMA-2009-0009",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a4e583"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2009-0009-0001"
+        }
+      },
+      {
+        "id": "FRA-2009-0103-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-10-30T13:43:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26214",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2009-12-15T04:59:59Z",
+          "title": "Petition for Waiver of Compliance",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "FRA-2009-0103",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e5b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0103-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-1003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26120",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-30T04:59:59Z",
+          "title": "Airworthiness Directives; Bell Helicopter Textron Canada Model 407 and 427 Helicopters",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "FAA-2009-1003",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e5cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1003-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-1001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26122",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-15T04:59:59Z",
+          "title": "Airworthiness Directives; EMBRAER Model EMB-120, -120ER, -120FC, -120QC, and -120RT Airplanes",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "FAA-2009-1001",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e617"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1001-0001"
+        }
+      },
+      {
+        "id": "CMS-2009-0058-4078",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:35:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2009-12-30T04:59:59Z",
+          "title": "Medicare Program; Payment Policies Under the Physician Fee Schedule and Other Revisions to Part B for CY 2010",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "CMS-2009-0058",
+          "subtype": "Final Rule with Comment Period",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4eb34"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2009-0058-4078"
+        }
+      },
+      {
+        "id": "FAA-2007-0115-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26126",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Reims Aviation S.A. Model F406 Airplanes",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "FAA-2007-0115",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e59d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0115-0014"
+        }
+      },
+      {
+        "id": "SBA-2009-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:57:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26211",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2010-01-29T04:59:59Z",
+          "title": "The American Recovery and Reinvestment Act of 2009: Secondary Market First Lien Position 504 Loan Pool Guarantee",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "SBA-2009-0011",
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e5a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2009-0011-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2008-0508-2278",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:04:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-23315",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Mandatory Reporting of Greenhouse Gases",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2008-0508",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a4e5fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2008-0508-2278"
+        }
+      },
+      {
+        "id": "FAA-2009-1015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26200",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-30T04:59:59Z",
+          "title": "Airworthiness Directives; Piper Aircraft, Inc. PA-28, PA-32, PA-34 and PA-44 Series Airplanes",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "FAA-2009-1015",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e57c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1015-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2009-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:28:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26008",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": "2009-12-30T04:59:59Z",
+          "title": "Total Inward Leakage Requirements for Respirators",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "HHS-OS-2009-0019",
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e4fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2009-0019-0001"
+        }
+      },
+      {
+        "id": "IRS-2008-0086-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-08-11T01:30:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26152",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 108 Reduction of Tax Attributes for S Corporations",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "IRS-2008-0086",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e5a1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0086-0006"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0371-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-10-30T19:17:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26178",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Revisions to the California State Implementation Plan, Northern Sierra Air Quality Management District and San Joaquin Valley Unified Air Pollution Control District",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0371",
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e5cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0371-0015"
+        }
+      },
+      {
+        "id": "FCC-2009-0304-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-10-30T13:09:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26198",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Promoting Diversification of Ownership in Broadcast Services",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e613"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2009-0304-0001"
+        }
+      },
+      {
+        "id": "SSA-2007-0053-1526",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-04-18T21:14:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26194",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": null,
+          "title": "Compassionate Allowances for Schizophrenia; Office of the Commissioner, Hearing",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "SSA-2007-0053",
+          "subtype": null,
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4e630"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2007-0053-1526"
+        }
+      },
+      {
+        "id": "CMS-2009-0060-1549",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:35:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2009-11-21T04:59:59Z",
+          "title": "Medicare Program:  Changes to the Hospital Outpatient Prospective Payment System and CY 2010 Payment Rates; Changes to the Ambulatory Surgical Center Payment System and CY 2010 Payment Rates",
+          "postedDate": "2009-10-30T04:00:00Z",
+          "docketId": "CMS-2009-0060",
+          "subtype": "Final Rule with Comment Period",
+          "commentStartDate": "2009-10-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a4ebcf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2009-0060-1549"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 48,
+            "label": "Notice"
+          },
+          {
+            "docCount": 44,
+            "label": "Other"
+          },
+          {
+            "docCount": 35,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule with Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "CMS"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-10-30",
+          "toDate": "2009-10-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

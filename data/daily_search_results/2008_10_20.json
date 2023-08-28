@@ -1,0 +1,925 @@
+[
+  {
+    "data": [
+      {
+        "id": "CPSC-2008-0037-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-04-06T17:12:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24712",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": null,
+          "title": "Standard for the Flammability of Clothing Textiles; Corrections",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "CPSC-2008-0037",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a47b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2008-0037-0001"
+        }
+      },
+      {
+        "id": "DOS-2010-0210-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:14:33Z",
+          "highlightedContent": "",
+          "frDocNum": "208",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "2008 - Uncertified Foreign Health-Care Workers",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "DOS-2010-0210",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a49f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2010-0210-0001"
+        }
+      },
+      {
+        "id": "IRS-2008-0099-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:34:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24666",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Final Rules for Group Health Plans and Health Insurance Issuers Under the Newborns and Mothers Health Protection Act",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "IRS-2008-0099",
+          "subtype": "Final Rule",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a4b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0099-0001"
+        }
+      },
+      {
+        "id": "CDC_FRDOC_0001-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-07-14T16:04:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24797",
+          "withdrawn": false,
+          "agencyId": "CDC",
+          "commentEndDate": null,
+          "title": "Medical Examination of Aliens--Revisions to Medical Screening Process",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "CDC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a4bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CDC_FRDOC_0001-0005"
+        }
+      },
+      {
+        "id": "ECAB-2008-0001-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:16:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24930",
+          "withdrawn": false,
+          "agencyId": "ECAB",
+          "commentEndDate": null,
+          "title": "Rules of Procedure",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "ECAB-2008-0001",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a3fe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ECAB-2008-0001-0012"
+        }
+      },
+      {
+        "id": "WHD-2008-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:06:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24762",
+          "withdrawn": false,
+          "agencyId": "WHD",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "Protecting the Privacy of Workers: Labor Standards Provisions Applicable to Contracts Covering Federally Financed and Assisted Construction",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "WHD-2008-0004",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a481"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/WHD-2008-0004-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0432-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-19T12:14:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24924",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "Television Broadcasting Services; Omaha, NE",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a4b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0432-0001"
+        }
+      },
+      {
+        "id": "DOS-2010-0213-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-05-11T14:46:16Z",
+          "highlightedContent": "",
+          "frDocNum": "203",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "2008 - Board of Appellate Review; Review of Loss of Nationality",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "DOS-2010-0213",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a3f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2010-0213-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0430-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-19T12:11:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24913",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "Television Broadcasting Services; Danville, KY",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a423"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0430-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0020-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:19:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24670",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Unified Rule for Loss on Subsidiary Stock; Correction",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "IRS-2007-0020",
+          "subtype": "Final Rule",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a446"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0020-0011"
+        }
+      },
+      {
+        "id": "MARAD-2008-0102-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-10-21T14:37:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24909",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "Reports, Forms and Recordkeeping Requirements; Agency Information Collection Activity Under OMB Review",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "MARAD-2008-0102",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a455"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2008-0102-0001"
+        }
+      },
+      {
+        "id": "FHWA-2006-26383-0043",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-10-21T14:32:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24704",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Publication of Final Guidance on the Congestion Mitigation and Air Quality Improvement (CMAQ) Program",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "FHWA-2006-26383",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a44a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2006-26383-0043"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0009-0145",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:58:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24013",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-12-05T04:59:59Z",
+          "title": "National Emission Standards for Halogenated Solvent Cleaning",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0009",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807688c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0009-0145"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0280-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:11:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24905",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Hook-and- Line Gear in the Gulf of Alaska",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0280",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a470"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0280-0001"
+        }
+      },
+      {
+        "id": "USCG-2008-0752-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24808",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2008-12-20T04:59:59Z",
+          "title": "Security Zone; West Basin, Port Canaveral Harbor, Cape Canaveral, FL",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "USCG-2008-0752",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a47d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0752-0001"
+        }
+      },
+      {
+        "id": "FEC-2008-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-21T15:36:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24505",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": "2008-11-22T04:59:59Z",
+          "title": "Increased Contribution and Coordinated Party Expenditure Limits for Candidates Opposing Self-financed Candidates",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a3e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2008-0030-0001"
+        }
+      },
+      {
+        "id": "NRC-2007-0017-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-02-04T21:04:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24897",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Thomas E. Magette on Behalf of EnergySolutions, LLC; Notice of Denial of Petition for Rulemaking",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "NRC-2007-0017",
+          "subtype": "Denial of PRM",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648076a41c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2007-0017-0011"
+        }
+      },
+      {
+        "id": "TREAS-DO-2008-0019-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-10-20T13:10:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "TARP Capital Purchase Program",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "TREAS-DO-2008-0019",
+          "subtype": "Interim Rule",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076866b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0019-0005"
+        }
+      },
+      {
+        "id": "DARS-2008-0053-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:06:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24480",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement; Evaluation Factor for Use of Members of the Selected Reserve (DFARS Case 2006- D014)",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "DARS-2008-0053",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a4a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2008-0053-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0035-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:32:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24926",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 1367 Regarding Open Account Debt",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "IRS-2007-0035",
+          "subtype": "Final Rule",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a4ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0035-0008"
+        }
+      },
+      {
+        "id": "TREAS-DO-2008-0019-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-10-21T12:41:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24781",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Tarp Capital Purchase Program",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "TREAS-DO-2008-0019",
+          "subtype": "Interim Rule",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a3e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS-DO-2008-0019-0007"
+        }
+      },
+      {
+        "id": "AMS-FV-08-0081-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-19T12:11:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24919",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "Tomatoes Grown In Florida; Increased Assessment Rate",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "AMS-FV-08-0081",
+          "subtype": "N/A",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a411"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-08-0081-0001"
+        }
+      },
+      {
+        "id": "DHS-2008-0095-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-19T12:11:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24805",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "Privacy Act of 1974: Implementation of Exemptions; Grievances, Appeals, and Disciplinary Action System of Records",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "DHS-2008-0095",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a41e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2008-0095-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0433-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-19T12:14:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24911",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "Television Broadcasting Services; Huntsville, AL",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a4c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0433-0001"
+        }
+      },
+      {
+        "id": "EBSA-2008-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:15:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24666",
+          "withdrawn": false,
+          "agencyId": "EBSA",
+          "commentEndDate": null,
+          "title": "Final Rules for Group Health Plans and Health Insurance Issuers Under the Newborns and Mothers Health Protection Act",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "EBSA-2008-0022",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a443"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EBSA-2008-0022-0001"
+        }
+      },
+      {
+        "id": "FERC-2006-2394-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-10-20T21:02:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24630",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Mandatory Reliability Standards for Critical Infrastructure Protection; Notice of Extension of Time",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a468"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2006-2394-0006"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0080-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:08:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24923",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2008-11-20T04:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Revisions to the Pollock Trip Limit Regulations in the Gulf of Alaska",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0080",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a4bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0080-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-08-0037-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-04T12:13:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24918",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2008-11-05T04:59:59Z",
+          "title": "Irish Potatoes Grown in Washington; Modification of Late Payment and Interest Charge Regulation",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "AMS-FV-08-0037",
+          "subtype": "N/A",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a4d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-08-0037-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0020-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:19:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24672",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Unified Rule for Loss on Subsidiary Stock; Correction",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "IRS-2007-0020",
+          "subtype": "Final Rule",
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a415"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0020-0010"
+        }
+      },
+      {
+        "id": "DARS-2008-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:06:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24486",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2008-12-20T04:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement; Clarification of Central Contractor Registration and Procurement Instrument Identification Data Requirements (DFARS Case 2008-D010)",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "DARS-2008-0052",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a441"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2008-0052-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T15:26:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-24666",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Final Rules for Group Health Plans and Health Insurance Issuers Under the Newborns and Mothers Health Protection Act",
+          "postedDate": "2008-10-20T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2008-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648076a419"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 140,
+            "label": "Other"
+          },
+          {
+            "docCount": 55,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 54,
+            "label": "Notice"
+          },
+          {
+            "docCount": 17,
+            "label": "Rule"
+          },
+          {
+            "docCount": 14,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Interim Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "Denial of PRM"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 31,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "IRS"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "DARS"
+          },
+          {
+            "docCount": 2,
+            "value": "DOS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "CDC"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "EBSA"
+          },
+          {
+            "docCount": 1,
+            "value": "ECAB"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FEC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "WHD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-10-20",
+          "toDate": "2008-10-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 31,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 31,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,961 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2007-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03192",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-03-25T03:59:59Z",
+          "title": "Airworthiness Directives; Rolls-Royce plc RB211 Series Turbofan Engines",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2007-0078",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0078-0001"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2005-ME-0008-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-24T11:06:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03246",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-03-25T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Maine; Open Burning Rule",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "EPA-R01-OAR-2005-ME-0008",
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2005-ME-0008-0002"
+        }
+      },
+      {
+        "id": "MMS-2007-OMM-0059-0034",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:32:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03201",
+          "withdrawn": false,
+          "agencyId": "MMS",
+          "commentEndDate": "2008-03-18T03:59:59Z",
+          "title": "Oil and Gas and Sulphur Operations in the Outer Continental Shelf-Pipelines and Pipeline Rights-of-Way; Reopening Public Comment Period",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "MMS-2007-OMM-0059",
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9efd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MMS-2007-OMM-0059-0034"
+        }
+      },
+      {
+        "id": "FAA-2007-0279-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:06:05Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00766",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Amendment of Class E Airspace; Franklin, PA",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2007-0279",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0279-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0059-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:06:32Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00734",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Establishment of Class E Airspace; Fort Kent, ME",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0059",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0059-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22491-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T14:44:52Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00728",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace; Williamsport, PA",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2005-22491",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22491-0002"
+        }
+      },
+      {
+        "id": "OCC-2008-0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-11-24T20:08:21Z",
+          "highlightedContent": "",
+          "frDocNum": "Z8-03004",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": null,
+          "title": "Assessment of Fees; Correction",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "OCC-2008-0001",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2008-0001-0002"
+        }
+      },
+      {
+        "id": "FCC-2007-0184-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T12:09:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03130",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "IP-Enabled Services, Telephone Number Portability, Numbering Resource Optimization",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2007-0184-0003"
+        }
+      },
+      {
+        "id": "FCC-2008-0075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-03-24T11:05:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03129",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-03-25T03:59:59Z",
+          "title": "Telephone Number Requirements for IP-Enabled Services Providers; Local Number Portability Porting Interval and Validation Requirements",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9ed0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0075-0001"
+        }
+      },
+      {
+        "id": "FCC-2007-0192-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T12:08:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03133",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "2006 Quadrennial Regulatory Review--Review of the Commissions Broadcast Ownership Rules and Other Rules Adopted Pursuant to Section 202 of the Telecommunications Act of 1996",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9ed8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2007-0192-0002"
+        }
+      },
+      {
+        "id": "FAA-2008-0067-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:05:52Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00725",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Establishment of Class E Airspace; Rockport, ME",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0067",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9ee9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0067-0001"
+        }
+      },
+      {
+        "id": "FHWA-2008-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T15:03:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03195",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Environmental Impact Statement: Albuquerque, NM",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FHWA-2008-0020",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f6b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2008-0020-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0106-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T14:55:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03208",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2007-0106",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0106-0003"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2005-ME-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-03-24T11:04:50Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03302",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-03-25T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Maine; Open Burning Rule",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "EPA-R01-OAR-2005-ME-0008",
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9ea4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2005-ME-0008-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0072-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T12:08:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03263",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services; Norfolk and Windsor, VA",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9eb4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0072-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0027-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T14:30:57Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00733",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E5 Airspace; Eagle Pass, TX",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0027",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9eff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0027-0002"
+        }
+      },
+      {
+        "id": "FAA-2008-0130-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:06:08Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00727",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Modification of Class E Airspace; Wilkes-Barre, PA",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0130",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f0d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0130-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0182-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:15:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03190",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-03-25T03:59:59Z",
+          "title": "Airworthiness Directives; Empresa Brasileira de Aeronautica S.A. (EMBRAER) Model EMB-135ER, -135KE, -135KL, and -135LR Airplanes, and Model EMB-145, -145ER, -145MR, -145LR, -145XR, -145MP, and -145EP Airplanes",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0182",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f51"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0182-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:06:52Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00722",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Proposed Amendment of Class E Airspace; Waynesburg, PA",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2007-0022",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f6d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0022-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T12:10:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03135",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Amendment of Part 0 of the Commissions Rules to Delegate Administration of Part 4 of the Commissions Rule to the Public Safety and Homeland Security Bureau",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f9d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0078-0001"
+        }
+      },
+      {
+        "id": "FDA-2008-N-0039-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-11T12:41:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03265",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Oral Dosage Form New Animal Drugs; Altrenogest",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FDA-2008-N-0039",
+          "subtype": "Final Rule",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2008-N-0039-0011"
+        }
+      },
+      {
+        "id": "FHWA-2008-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T15:00:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03196",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Environmental Assessment: Milwaukee County, WI",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FHWA-2008-0019",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2008-0019-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:05:18Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00735",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Establishment of Class E Airspace; La Pointe, WI",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0025",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9ea8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0025-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0310-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:06:14Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00726",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Amendment of Class E Airspace; Bradford, PA",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2007-0310",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f1c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0310-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0065-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:06:35Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00729",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Establishment of Class E Airspace; Carrabassett, ME",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0065",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f47"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0065-0001"
+        }
+      },
+      {
+        "id": "USAF-2007-0001-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:04:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-02948",
+          "withdrawn": false,
+          "agencyId": "USAF",
+          "commentEndDate": null,
+          "title": "Air Force Academy Preparatory School",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "USAF-2007-0001",
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USAF-2007-0001-0003"
+        }
+      },
+      {
+        "id": "FAA-2008-0064-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:05:22Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00724",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Establishment of Class E Airspace; Bridgton, ME",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0064",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9ebb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0064-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0062-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:07:06Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00731",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Establishment of Class E Airspace; Stonington, ME",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0062",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0062-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-28503-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:13:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03271",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-05-22T03:59:59Z",
+          "title": "Airworthiness Standards; Fire Protection",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2007-28503",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f38"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28503-0002"
+        }
+      },
+      {
+        "id": "FCC-2008-0073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-21T12:08:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03262",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services; Peach Springs, AZ",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9eb9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0073-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:07:37Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00787",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Sablefish Managed Under the Individual Fishing Quota Program",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0048",
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0048-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0077-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-03-24T11:06:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03225",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-03-25T03:59:59Z",
+          "title": "Radio Broadcasting Services; Dededo, GU",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0077-0001"
+        }
+      },
+      {
+        "id": "FDA-2008-N-0039-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-10T15:41:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03266",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Oral Dosage Form New Animal Drugs; Ivermectin Liquid",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FDA-2008-N-0039",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f98"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2008-N-0039-0010"
+        }
+      },
+      {
+        "id": "FAA-2008-0066-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-07T11:06:16Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00730",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-08T03:59:59Z",
+          "title": "Establishment of Class E Airspace; Dover-Foxcroft, ME",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0066",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f20"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0066-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0194-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:15:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03191",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-03-25T03:59:59Z",
+          "title": "Airworthiness Directives; Embraer Model EMB-135BJ Airplanes",
+          "postedDate": "2008-02-21T05:00:00Z",
+          "docketId": "FAA-2008-0194",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-02-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803b9f4f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0194-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 92,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 59,
+            "label": "Notice"
+          },
+          {
+            "docCount": 32,
+            "label": "Other"
+          },
+          {
+            "docCount": 31,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 20,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "NFR-Notice of Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 35,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 18,
+            "value": "FAA"
+          },
+          {
+            "docCount": 7,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "MMS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "USAF"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-02-21",
+          "toDate": "2008-02-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 35,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 35,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

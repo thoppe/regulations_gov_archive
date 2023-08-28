@@ -1,0 +1,632 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2008-0020-0185",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-18T14:53:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11513",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Final Flood Elevation Determinations",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648099c3f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0185"
+        }
+      },
+      {
+        "id": "USCBP-2005-0035-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-18T16:05:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11538",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Extension of Port Limits of St. Louis, MO",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "USCBP-2005-0035",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648099c42a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2005-0035-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-23742-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11477",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt and Whitney (PW) JT9D-7R4 Series Turbofan Engines; Correction",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "FAA-2006-23742",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c43d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23742-0028"
+        }
+      },
+      {
+        "id": "DOE-2008-0003-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T16:55:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11522",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Acquisition Regulation:   Security Clause",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "DOE-2008-0003",
+          "subtype": null,
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c468"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-2008-0003-0003"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0187",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-18T15:27:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11516",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648099c47b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0187"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0129-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:14:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11539",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Northern Rockfish, Pacific Ocean Perch, and Pelagic Shelf Rockfish in the Western Regulatory Area and West Yakutat District",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0129",
+          "subtype": null,
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c49b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0129-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0067-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-08-29T15:16:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11540",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2009-07-03T03:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Tilefish; Amendment 1",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0067",
+          "subtype": null,
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c43e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0067-0002"
+        }
+      },
+      {
+        "id": "FAA-2008-0731-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:16:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11280",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Boeing Model 747-100, 747-100B, 747-100B SUD, 747-200B, 747-200C, 747-200F, et al. Series Airplanes; Correction",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "FAA-2008-0731",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c444"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0731-0009"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-0060",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-07-11T15:01:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11294",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Terrorism List Governments Sanctions Regulations",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c35c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-0060"
+        }
+      },
+      {
+        "id": "FAA-2008-0545-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:16:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11423",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-06-18T03:59:59Z",
+          "title": "Airworthiness Directives: Dowty Propellers Models R354/4-123-F/13, R354/4-123-F/20, R375/4-123-F/21, R389/4-123-F/25, et al.",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "FAA-2008-0545",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c4a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0545-0005"
+        }
+      },
+      {
+        "id": "OSHA-2009-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-05-08T13:24:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11426",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2009-07-18T03:59:59Z",
+          "title": "Lead in General Industry Standard; Extension of the Office of Management and Budget's (OMB) Approval of Informaton Collection (Paperwork) Requirements",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "OSHA-2009-0009",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c357"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2009-0009-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0545-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:16:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11478",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-06-18T03:59:59Z",
+          "title": "Airworthiness Directives: Dowty Propellers Models R354/4-123-F/13, R354/4-123-F/20, R375/4-123-F/21, et al. Propellers",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "FAA-2008-0545",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c3a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0545-0004"
+        }
+      },
+      {
+        "id": "NRC-2008-0122-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:15:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-10947",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2009-10-20T03:59:59Z",
+          "title": "Enhancements to Emergency Preparedness Regulations",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "NRC-2008-0122",
+          "subtype": null,
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c3f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2008-0122-0010"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0186",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-05-18T15:17:27Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11514",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648099c425"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0186"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0140-0060",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T16:55:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11491",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "United States Standards for Grades of Table Grapes (European or Vinifera Type); Withdrawn",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "AMS-FV-07-0140",
+          "subtype": "N/A",
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c442"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0140-0060"
+        }
+      },
+      {
+        "id": "PRC-2009-0033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-18T13:46:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11533",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": null,
+          "title": "Updates to Rules of Practice",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c443"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2009-0033-0001"
+        }
+      },
+      {
+        "id": "USCBP-2008-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-05-18T15:59:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11551",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": "2009-07-18T03:59:59Z",
+          "title": "Extension of Port Limits of Columbus, OH",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "USCBP-2008-0047",
+          "subtype": null,
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c424"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2008-0047-0001"
+        }
+      },
+      {
+        "id": "OPM-2010-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:54:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11589",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": "2009-08-17T03:59:59Z",
+          "title": "Time in Grade Eliminated, Delay of Effective Date",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "OPM-2010-0002",
+          "subtype": null,
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c467"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2010-0002-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2009-0115-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-18T16:04:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11542",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2009-06-02T03:59:59Z",
+          "title": "Funding Availability; Request for Comments on Grant Criteria: Supplemental Discretionary Grants for Capital Investments in Surface Transportation Infrastructure, etc.",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "DOT-OST-2009-0115",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c359"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2009-0115-0001"
+        }
+      },
+      {
+        "id": "IRS-2009-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-25T19:43:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11481",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2009-08-18T03:59:59Z",
+          "title": "Suspension or Reduction of Safe Harbor Nonelective Contributions",
+          "postedDate": "2009-05-18T04:00:00Z",
+          "docketId": "IRS-2009-0012",
+          "subtype": "ANPRM",
+          "commentStartDate": "2009-05-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648099c469"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2009-0012-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 67,
+            "label": "Notice"
+          },
+          {
+            "docCount": 29,
+            "label": "Other"
+          },
+          {
+            "docCount": 15,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "ANPRM"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 20,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-05-18",
+          "toDate": "2009-05-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 20,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 20,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

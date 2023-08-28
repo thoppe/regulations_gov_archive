@@ -1,0 +1,963 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OARM-2008-0817-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:06:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22038",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "EPA Acquisition Regulation (EPAAR) Prescription and Clauses-Government Property-Contract Property Administration",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "EPA-HQ-OARM-2008-0817",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a236f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OARM-2008-0817-0002"
+        }
+      },
+      {
+        "id": "AMS-FV-09-0012-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-16T12:32:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22115",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Onions Grown in South Texas; Change in Regulatory Period",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "AMS-FV-09-0012",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23753"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-09-0012-0002"
+        }
+      },
+      {
+        "id": "FCC-2009-0263-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-15T16:02:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22252",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Uniform System of Accounts for Telecommunications Companies",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a236b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2009-0263-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0788-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22081",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-10-31T03:59:59Z",
+          "title": "Airworthiness Directives; Boeing Model 737-300, -400, and -500 Series Airplanes",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FAA-2009-0788",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a236d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0788-0001"
+        }
+      },
+      {
+        "id": "FCC-2009-0264-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-15T16:02:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22058",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Procedures To Govern the Use of Satellite Earth Stations on Board Vessels in the 5925-6425 MHz/3700-4200 MHz Bands and 14.0-14.5 GHz/11.7-12.2 GHz Bands",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a236d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2009-0264-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0222",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-09-16T05:11:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22135",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a237aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0222"
+        }
+      },
+      {
+        "id": "OCC-2009-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:52:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-21497",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": "2009-10-16T03:59:59Z",
+          "title": "Risk-Based Capital Guidelines; Capital Adequacy Guidelines; Capital Maintenance: Regulatory Capital; Impact of Modifications to Generally Accepted Accounting Principles; Consolidation of Asset-Backed Commercial Paper Programs; and Other Related Issues",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "OCC-2009-0012",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23707"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2009-0012-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0830-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-03-23T15:34:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22144",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airport Privatization Pilot Program",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FAA-2009-0830",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a2370b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0830-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0160-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T19:26:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22176",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Scup Fishery; Adjustment to the 2009 Winter II Quota",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0160",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a2373d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0160-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0223",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-09-16T05:13:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22111",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a237f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0223"
+        }
+      },
+      {
+        "id": "IRS-2009-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-25T20:00:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22221",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2009-12-15T04:59:59Z",
+          "title": "Damages Received on Account of Personal Physical Injuries or Physical Sickness",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "IRS-2009-0023",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23738"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2009-0023-0001"
+        }
+      },
+      {
+        "id": "FWS-R9-NSR-2008-0042-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-02-26T17:39:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22260",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "2008-2009 Refuge-Specific Hunting and Sport Fishing Regulations",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FWS-R9-NSR-2008-0042",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a237a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R9-NSR-2008-0042-0010"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0185-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:15:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22170",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Modification of the Gear Requirements for the U.S./Canada Management Area",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0185",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a237d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0185-0001"
+        }
+      },
+      {
+        "id": "DOJ-OAG-2010-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-01T20:07:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22124",
+          "withdrawn": false,
+          "agencyId": "DOJ",
+          "commentEndDate": null,
+          "title": "The Attorney General's Advisory Committee of United States Attorneys",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "DOJ-OAG-2010-0015",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a2370c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOJ-OAG-2010-0015-0001"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0096",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-15T16:03:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22129",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Allocation of Assets in Single-Employer Plans; Benefits Payable in Terminated Single-Employer Plans; Interest Assumptions for Valuing and Paying Benefits",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23750"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0096"
+        }
+      },
+      {
+        "id": "FISCAL_FRDOC_0001-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-12-10T19:57:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22147",
+          "withdrawn": false,
+          "agencyId": "FISCAL",
+          "commentEndDate": null,
+          "title": "Sale and Issue of Marketable Book-Entry Treasury Bills, Notes, and Bonds; Customer Confirmation Reporting Requirement Threshold Amount",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FISCAL_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a236ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FISCAL_FRDOC_0001-0016"
+        }
+      },
+      {
+        "id": "USCIS-2008-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-03-19T14:29:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-21967",
+          "withdrawn": false,
+          "agencyId": "USCIS",
+          "commentEndDate": "2009-10-15T03:59:59Z",
+          "title": "E-2 Nonimmigrant Status for Aliens in the Commonwealth of the Northern Mariana Islands with Long-Term Investor Status",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "USCIS-2008-0035",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a231db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCIS-2008-0035-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0221",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-09-16T05:09:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22112",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a2378a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0221"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0032-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:12:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22181",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries in the Western Pacific; Compensation to Federal Commercial Bottomfish and Lobster Fishermen Due to Fishery Closures in the Papahanaumokuakea Marine National Monument, Northwestern Hawaiian Islands",
+          "postedDate": "2009-09-15T16:09:23Z",
+          "docketId": "NOAA-NMFS-2009-0032",
+          "subtype": null,
+          "commentStartDate": "2009-09-14T16:09:23Z",
+          "openForComment": false,
+          "objectId": "0900006480a237a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0032-0019"
+        }
+      },
+      {
+        "id": "FAA-2009-0700-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22139",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-10-31T03:59:59Z",
+          "title": "Proposed Modification of Restricted Areas and Other Special Use Airspace; Fallon, NV",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FAA-2009-0700",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a237ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0700-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2009-0257-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-03-23T18:19:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22259",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Parts and Accessories Necessary for Safe Operation; Lamps and Reflective Devices",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FMCSA-2009-0257",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a237f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2009-0257-0001"
+        }
+      },
+      {
+        "id": "FERC-2009-1392-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-15T16:03:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-21946",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Sales of Electric Power to the Bonneville Power Administration; Revisions to Average System Cost Methodology",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a236f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2009-1392-0001"
+        }
+      },
+      {
+        "id": "FWS-R6-ES-2009-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T19:26:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22125",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants; Taxonomic Change of Sclerocactus Glaucus",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FWS-R6-ES-2009-0035",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23728"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R6-ES-2009-0035-0001"
+        }
+      },
+      {
+        "id": "MARAD-2009-0089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-15T18:49:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22171",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2009-10-20T03:59:59Z",
+          "title": "Procedures for Determining Vessel Service Categories for Purposes of the Cargo Preference Act",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "MARAD-2009-0089",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a2370a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2009-0089-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0220",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-09-16T05:03:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22106",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a23725"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0220"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0051-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:07:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22169",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Atlantic Sea Scallop Fishery; Closure of the Limited Access General Category Scallop Fishery to Individual Fishing Quota Scallop Vessels",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0051",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23727"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0051-0009"
+        }
+      },
+      {
+        "id": "FAA-2009-0809-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-15T18:39:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22117",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-10-01T03:59:59Z",
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "FAA-2009-0809",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a236f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0809-0003"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2008-0690-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-09-15T17:08:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22208",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-10-16T03:59:59Z",
+          "title": "Approval and Promulgation of State Implementation Plans: Alaska",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "EPA-R10-OAR-2008-0690",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23790"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2008-0690-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-09-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-09-16T12:35:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22065",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2009-10-16T03:59:59Z",
+          "title": "Domestic Dates Produced or Packed in Riverside County, CA; Changes to Nomination Procedures and a Reporting Date",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "AMS-FV-09-0035",
+          "subtype": "N/A",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a2378c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-09-0035-0001"
+        }
+      },
+      {
+        "id": "NRC-2008-0361-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:15:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22126",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2009-12-01T04:59:59Z",
+          "title": "License and Certificate of Compliance Terms",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "NRC-2008-0361",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a2374b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2008-0361-0006"
+        }
+      },
+      {
+        "id": "AMS-FV-09-0002-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-16T12:30:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22114",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Oranges, Grapefruit, Tangerines and Tangelos Grown in Florida and Imported Grapefruit; Relaxation of Size Requirements for Grapefruit",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "AMS-FV-09-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a236f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-09-0002-0002"
+        }
+      },
+      {
+        "id": "FDIC-2009-0082-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22070",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Interest on Deposits",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23323"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2009-0082-0001"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-05-27T15:31:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-22255",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Acquisition Regulations",
+          "postedDate": "2009-09-15T04:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2009-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a23770"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0020"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 87,
+            "label": "Notice"
+          },
+          {
+            "docCount": 79,
+            "label": "Other"
+          },
+          {
+            "docCount": 23,
+            "label": "Rule"
+          },
+          {
+            "docCount": 22,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "NPRM"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 33,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOJ"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FISCAL"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCIS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-09-15",
+          "toDate": "2009-09-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

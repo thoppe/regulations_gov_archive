@@ -1,0 +1,786 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2009-0512-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T17:14:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17857",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-09-11T03:59:59Z",
+          "title": "Proposed Amendment of Class E Airspace; Platteville, WI",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "FAA-2009-0512",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb3e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0512-0001"
+        }
+      },
+      {
+        "id": "FTC-2009-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-08-03T18:31:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17758",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": "2009-09-26T03:59:59Z",
+          "title": "Cooling-Off Period for Sales Made at Homes or at Certain Other Locations",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "FTC-2009-0078",
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb3f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2009-0078-0001"
+        }
+      },
+      {
+        "id": "PRC-2009-0062-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T16:10:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17842",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": null,
+          "title": "Priority Mail Contract",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb44a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2009-0062-0001"
+        }
+      },
+      {
+        "id": "NIGC_FRDOC_0001-0029",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:51:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17121",
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": null,
+          "title": "Amendments to Various National Indian Gaming Commission Regulations",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "NIGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb44e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC_FRDOC_0001-0029"
+        }
+      },
+      {
+        "id": "FAA-2009-0647-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T17:19:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17771",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-08-18T03:59:59Z",
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "FAA-2009-0647",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb487"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0647-0003"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0353-0033",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-07-27T18:20:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17832",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-08-28T03:59:59Z",
+          "title": "Revisions to the California State Implementation Plan, California Air Resources Board Consumer Products Regulations; Extension of Comment Period",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0353",
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb488"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0353-0033"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2008-0080-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-07-27T16:12:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17826",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-08-27T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants for Area Sources: Prepared Feeds Manufacturing",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2008-0080",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb60e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2008-0080-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0533-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T17:16:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17770",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-08-18T03:59:59Z",
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "FAA-2009-0533",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb3f5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0533-0003"
+        }
+      },
+      {
+        "id": "AMS-FV-09-0024-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-07-27T16:16:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17804",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2009-09-26T03:59:59Z",
+          "title": "Potato Research and Promotion Plan; Assessment Increase",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "AMS-FV-09-0024",
+          "subtype": "N/A",
+          "commentStartDate": "2009-07-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb414"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-09-0024-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0161-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:15:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17838",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2009-08-27T03:59:59Z",
+          "title": "Listing Endangered and Threatened Wildlife and Designating Critical Habitat; 90-day Finding for a Petition to Revise Designated Critical Habitat for Elkhorn and Staghorn Corals",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0161",
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb434"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0161-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0165-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:15:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17835",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Ocean Perch in the West Yakutat District of the Gulf of Alaska",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0165",
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb44b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0165-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0407-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T17:20:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17772",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-08-18T03:59:59Z",
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "FAA-2009-0407",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb48b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0407-0002"
+        }
+      },
+      {
+        "id": "USCBP-2009-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-08-14T15:01:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17876",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Cargo Container and Road Vehicle Certification Pursuant to International Conventions: Designated Certifying Authorities",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "USCBP-2009-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064809fb410"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2009-0020-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-2009-0501-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T19:18:27Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17562",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-08-27T03:59:59Z",
+          "title": "National Oil and Hazardous Substance; Pollution Contingency Plan; National Priorities List",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2009-0501",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb435"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2009-0501-0001"
+        }
+      },
+      {
+        "id": "OTS-2009-0007-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T14:08:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "OTS",
+          "commentEndDate": null,
+          "title": "Risk Based Capital - Residential Mortgage Loans Modified Pursuant to the Making Home Affordable Program",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "OTS-2009-0007",
+          "subtype": "Interim Rule",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb2f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OTS-2009-0007-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-0219-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-03-23T17:57:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17599",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Pratt and Whitney Canada (PWC) PW206A, PW206B, PW206B2, PW206C, PW206E, PW207C, PW207D, and PW207E Turboshaft Engines; Correction",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "FAA-2007-0219",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb465"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0219-0003"
+        }
+      },
+      {
+        "id": "IRS-2009-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-25T19:49:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17747",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2009-10-27T03:59:59Z",
+          "title": "Taxpayer Assistance Orders",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "IRS-2009-0016",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb49b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2009-0016-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0205-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T16:06:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17813",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Assessment and Collection of Regulatory Fees for Fiscal Year 2008",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb419"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0205-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-2009-0501-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-07-27T19:22:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17564",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-08-27T03:59:59Z",
+          "title": "National Oil and Hazardous Substance Pollution Contingency Plan National Priorities List",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2009-0501",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb438"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2009-0501-0002"
+        }
+      },
+      {
+        "id": "NHTSA-2009-0083-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:50:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17533",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2009-09-11T03:59:59Z",
+          "title": "Federal Motor Vehicle Safety Standards; Air Brake Systems",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "NHTSA-2009-0083",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb3c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2009-0083-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0164-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:15:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17841",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pelagic Shelf Rockfish by Vessels Subject to Amendment 80 Sideboard Limits in the Western Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0164",
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb3dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0164-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-09-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-07-27T16:11:48Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17802",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2009-09-26T03:59:59Z",
+          "title": "Blueberry Promotion, Research, and Information Order; Assessment Increase",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "AMS-FV-09-0021",
+          "subtype": "N/A",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb3ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-09-0021-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2009-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-07-30T14:03:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17823",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-08-27T03:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans; Kentucky; Variance of Avis Rent-A-Car and Budget Rent-A-Car Facilities Located at the Cincinnati/Northern Kentucky International Airport",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2009-0023",
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb3f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2009-0023-0001"
+        }
+      },
+      {
+        "id": "FERC-2009-0459-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T15:55:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17624",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Smart Grid Policy",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb3c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2009-0459-0004"
+        }
+      },
+      {
+        "id": "FAA-2009-0628-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-27T17:17:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17773",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-08-18T03:59:59Z",
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "FAA-2009-0628",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb445"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0628-0002"
+        }
+      },
+      {
+        "id": "EERE-2008-BT-TP-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-04-26T19:33:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-17555",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2009-10-14T03:59:59Z",
+          "title": "2009-07-27  Energy Conservation Program for Consumer Products: Test Procedures for Residential Furnaces and Boilers; Notice of proposed rulemaking and public meeting",
+          "postedDate": "2009-07-27T04:00:00Z",
+          "docketId": "EERE-2008-BT-TP-0020",
+          "subtype": "NOPR",
+          "commentStartDate": "2009-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809fb1d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2008-BT-TP-0020-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 80,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 51,
+            "label": "Notice"
+          },
+          {
+            "docCount": 33,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 10,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "NOPR"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NIGC"
+          },
+          {
+            "docCount": 1,
+            "value": "OTS"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-07-27",
+          "toDate": "2009-07-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

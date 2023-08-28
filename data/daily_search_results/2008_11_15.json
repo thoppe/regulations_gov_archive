@@ -1,0 +1,158 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-1997-N-0398-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-15T19:35:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1998-06-30T03:59:59Z",
+          "title": "Medical Devices; Refurbishers, Rebuilder, Reconditioners, Servicers, and \u201cAs Is\u201d Remarketer of Medical Devices; Review and Revision of Compliance Policy Guides and Regulatory Requirements; Request for Comments and Information; Extension Comment Period",
+          "postedDate": "2008-11-15T05:00:00Z",
+          "docketId": "FDA-1997-N-0398",
+          "subtype": "NEC-Notice of Extension",
+          "commentStartDate": "2008-11-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d417e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1997-N-0398-0002"
+        }
+      },
+      {
+        "id": "FDA-1997-N-0398-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-11-15T19:27:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1998-03-24T04:59:59Z",
+          "title": "Medical Devices; Refurbishers, Rebuilder, Reconditioners, Servicers, and \u201cAs Is\u201d Remarketer of Medical Devices; Review and Revision of Compliance Policy Guides and Regulatory Requirements; Request for Comments and Information",
+          "postedDate": "2008-11-15T05:00:00Z",
+          "docketId": "FDA-1997-N-0398",
+          "subtype": "NAP-Advanced Notice of Proposed Rulemaking",
+          "commentStartDate": "2008-11-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d414c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1997-N-0398-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 69,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "NAP-Advanced Notice of Proposed Rulemaking"
+          },
+          {
+            "docCount": 1,
+            "label": "NEC-Notice of Extension"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-11-15",
+          "toDate": "2008-11-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

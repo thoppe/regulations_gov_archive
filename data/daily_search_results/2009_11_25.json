@@ -1,0 +1,897 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2008-0020-0241",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-11-25T20:23:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28314",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e8e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0241"
+        }
+      },
+      {
+        "id": "NPS-2009-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:51:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28248",
+          "withdrawn": false,
+          "agencyId": "NPS",
+          "commentEndDate": "2010-01-26T04:59:59Z",
+          "title": "Minerals Management, Nonfederal Oil and Gas Development",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "NPS-2009-0004",
+          "subtype": null,
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e96b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NPS-2009-0004-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0959-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T15:12:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28175",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class D and E Airspace; Fort Stewart (Hinesville), GA",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FAA-2009-0959",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e9b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0959-0001"
+        }
+      },
+      {
+        "id": "DOS-2009-0264-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-27T16:12:08Z",
+          "highlightedContent": "",
+          "frDocNum": "226",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Visas: Documentation of Immigrants and Nonimmigrants-Visa Classification Symbols",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "DOS-2009-0264",
+          "subtype": null,
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e95c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2009-0264-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-08-0042-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-12-02T13:33:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28149",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Raisins Produced From Grapes Grown in California; Withdrawal of a Proposed Rule",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "AMS-FV-08-0042",
+          "subtype": "N/A",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e970"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-08-0042-0028"
+        }
+      },
+      {
+        "id": "FAA-2009-0960-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T15:11:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28199",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Revocation of Class E Airspace; Hinesville, GA",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FAA-2009-0960",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e987"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0960-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0244",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T20:40:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28318",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e98c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0244"
+        }
+      },
+      {
+        "id": "FAA-2009-1072-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:21:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28161",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-12T04:59:59Z",
+          "title": "Airworthiness Directives; Bombardier Model DHC-8-102, DHC-8-103, DHC-8-106, DHC-8-201, DHC-8-202, DHC-8-301, DHC-8-311, and DHC-8-315 Airplanes",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FAA-2009-1072",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e8bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1072-0001"
+        }
+      },
+      {
+        "id": "USCBP-2009-0021-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:05:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28285",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Drawback of Internal Revenue Excise Tax",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "USCBP-2009-0021",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e8be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2009-0021-0008"
+        }
+      },
+      {
+        "id": "PRC-2009-0127-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T14:31:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28205",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": null,
+          "title": "New Postal Product",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e903"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2009-0127-0001"
+        }
+      },
+      {
+        "id": "FDA-2009-N-0665-0064",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-09T18:28:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28217",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs; Change of Sponsor",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FDA-2009-N-0665",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e995"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2009-N-0665-0064"
+        }
+      },
+      {
+        "id": "IRS-2009-0031-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-28T19:17:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-27948",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2010-02-09T04:59:59Z",
+          "title": "Regulations Under I.R.C. Section 7430 Relating to Awards of Administrative Costs and Attorneys Fees",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "IRS-2009-0031",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e938"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2009-0031-0001"
+        }
+      },
+      {
+        "id": "DOS-2009-0267-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:14:29Z",
+          "highlightedContent": "",
+          "frDocNum": "226",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": "2010-01-26T04:59:59Z",
+          "title": "Amendment to the International Arms Traffic in Arms Regulations: U.S. Government Transfer Programs and Foreign-Owned Military Aircraft and Naval Vessels",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "DOS-2009-0267",
+          "subtype": null,
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e8c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2009-0267-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0240",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T20:42:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28317",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Final Flood Elevation Determinations",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e8d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0240"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0238",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-11-25T20:22:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28312",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e8bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0238"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0239",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T20:42:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28310",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Final Flood Elevation Determinations",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e8c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0239"
+        }
+      },
+      {
+        "id": "FERC-2009-1764-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T14:31:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28216",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Preventing Undue Discrimination and Preference in Transmission Service",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e93a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2009-1764-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0243",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T20:39:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28309",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e958"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0243"
+        }
+      },
+      {
+        "id": "IRS-2007-0041-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T16:58:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28332",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Guidance Under Section 2053 Regarding Post-Death Events; Correction",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "IRS-2007-0041",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e96d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0041-0013"
+        }
+      },
+      {
+        "id": "FAA-2009-1071-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:21:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28163",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-26T04:59:59Z",
+          "title": "Airworthiness Directives; McDonnell Douglas Corporation Model DC-10-10 and DC-10-10F Airplanes, Model DC-10-15 Airplanes, Model DC-10-30 and DC-10-30F (KC-10A and KDC-10) Airplanes, Model DC-10-40 and DC-10-40F Airplanes",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FAA-2009-1071",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e7f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1071-0001"
+        }
+      },
+      {
+        "id": "FDA-1977-N-0013-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-02-22T12:55:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28296",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Organ-Specific Warnings; Internal Analgesic, Antipyretic, and Antirheumatic Drug Products for Over-the-Counter Human Use; Final Monograph; Technical Amendment",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FDA-1977-N-0013",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e8d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1977-N-0013-0041"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0069-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:13:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28319",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2009-12-11T04:59:59Z",
+          "title": "Fraser River Sockeye and Pink Salmon Fisheries; Inseason Orders",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0069",
+          "subtype": null,
+          "commentStartDate": "2009-11-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e939"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0069-0002"
+        }
+      },
+      {
+        "id": "IRS-2007-0053-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T19:26:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28330",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Agreements for Payment of Tax Liabilities in Installments",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "IRS-2007-0053",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e9b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0053-0002"
+        }
+      },
+      {
+        "id": "FAA-2009-1128-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T20:38:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28200",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "IFR Altitudes; Miscellaneous Amendments",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FAA-2009-1128",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e93b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1128-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0263-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:16:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28295",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Vessels Catching Pacific Cod for Processing by the Inshore Component in the Western Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0263",
+          "subtype": null,
+          "commentStartDate": "2009-11-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e98b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0263-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0245",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-11-25T20:21:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28311",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e98f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0245"
+        }
+      },
+      {
+        "id": "CMS-2009-0058-4079",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-28T14:35:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-26502",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2009-12-30T04:59:59Z",
+          "title": "Medicare Program; Payment Policies Under the Physician Fee Schedule and Other Revisions to Part B for CY 2010",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "CMS-2009-0058",
+          "subtype": "Final Rule with Comment Period",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e991"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2009-0058-4079"
+        }
+      },
+      {
+        "id": "FRA-2008-0059-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:25:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-27974",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2010-01-26T04:59:59Z",
+          "title": "Railroad Workplace Safety; Adjacent-Controlled-Track On-Track Safety for Roadway Workers",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FRA-2008-0059",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e8d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2008-0059-0019"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0169-0175",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:01:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-27943",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-12-29T04:59:59Z",
+          "title": "Fuel Economy Regulations for Automobiles: Technical Amendments and Corrections; Proposed Rule",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0169",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2009-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a5e8e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0169-0175"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0242",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-11-25T20:40:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28316",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Changes in Flood Elevation Determinations",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e905"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0242"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0169-0174",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:01:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-27945",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Fuel Economy Regulations for Automobiles: Technical Amendments and Corrections; Direct Final Rule",
+          "postedDate": "2009-11-25T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0169",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a5e7f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0169-0174"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 61,
+            "label": "Notice"
+          },
+          {
+            "docCount": 56,
+            "label": "Other"
+          },
+          {
+            "docCount": 47,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 23,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule with Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 31,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "DOS"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "NPS"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-11-25",
+          "toDate": "2009-11-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 31,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 31,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,736 @@
+[
+  {
+    "data": [
+      {
+        "id": "NASA_FRDOC_0001-0235",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:49:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12487",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "NASA Mentor-Prot\u00e9g\u00e9 Program",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be768"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0235"
+        }
+      },
+      {
+        "id": "FDA-2008-N-0446-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-29T15:29:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12494",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Beverages: Bottled Water",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "FDA-2008-N-0446",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be76c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2008-N-0446-0016"
+        }
+      },
+      {
+        "id": "FCC-2008-0441-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-29T13:25:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12535",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services; Beatty and Goldfield, NV",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be76d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0441-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0071-0069",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:59:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12565",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Update of Continuous Instrumental Test Methods; Correction",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0071",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064809be799"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0071-0069"
+        }
+      },
+      {
+        "id": "FAA-2009-0489-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:19:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12524",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-07-29T03:59:59Z",
+          "title": "Airworthiness Directives; Air Tractor, Inc. Models AT-802 and AT-802A Airplanes",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "FAA-2009-0489",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0489-0001"
+        }
+      },
+      {
+        "id": "FRS-2009-0145-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-29T13:20:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12432",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Reserve Requirements for Depository Institutions",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be6d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2009-0145-0001"
+        }
+      },
+      {
+        "id": "FCC-2009-0157-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-05-29T13:21:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12534",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2009-06-30T03:59:59Z",
+          "title": "Radio Broadcasting Services; McNary, AZ",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be6eb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2009-0157-0001"
+        }
+      },
+      {
+        "id": "ETA-2008-0001-1860",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:19:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12436",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": null,
+          "title": "Temporary Employment of H-2A Aliens in the United States",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "ETA-2008-0001",
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7fb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA-2008-0001-1860"
+        }
+      },
+      {
+        "id": "FDA-1998-N-0564-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-05-29T15:40:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1998-07-24T03:59:59Z",
+          "title": "Dissemination of Information on Unapproved/New Uses for Marketed Drugs, Bioiogics, and Devices",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "FDA-1998-N-0564",
+          "subtype": "NPR-Notice of Proposed Rule-Making",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648059b782"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-N-0564-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-08-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-06-02T12:38:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12186",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2009-07-29T03:59:59Z",
+          "title": "Vegetable Import Regulations; Modification of Potato Import Regulations",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "AMS-FV-08-0018",
+          "subtype": "N/A",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be6ac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-08-0018-0001"
+        }
+      },
+      {
+        "id": "NRCS-2009-0003-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:51:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12562",
+          "withdrawn": false,
+          "agencyId": "NRCS",
+          "commentEndDate": "2009-06-30T03:59:59Z",
+          "title": "Environmental Quality Incentives Program; Amendment",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "NRCS-2009-0003",
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRCS-2009-0003-0003"
+        }
+      },
+      {
+        "id": "FAA-2009-0507-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-29T14:23:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12435",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Transport Category Airplanes, Various Technical Amendments and Corrections",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "FAA-2009-0507",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be6ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0507-0001"
+        }
+      },
+      {
+        "id": "FRA-2009-0037-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-06-24T06:11:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12423",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Notice of Application for Approval of Discontinuance or Modification of a Railroad Signal System or Relief From the Requirements of Title 49 Code of Federal Regulations Part 236",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "FRA-2009-0037",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0037-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0140-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:08:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12428",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries in the Western Pacific; Crustacean Fisheries; Deepwater Shrimp",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0140",
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0140-0008"
+        }
+      },
+      {
+        "id": "FDIC-2009-0040-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:21:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12549",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Special Assessments",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be6b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2009-0040-0001"
+        }
+      },
+      {
+        "id": "GSA-GSAR-2008-0007-0104",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:28:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12362",
+          "withdrawn": false,
+          "agencyId": "GSA",
+          "commentEndDate": null,
+          "title": "General Services Administration Acquisition Regulation; GSAR Case 2006-G518; Rewrite of GSAR Part 547, Transportation",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "GSA-GSAR-2008-0007",
+          "subtype": "Final",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be6d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GSA-GSAR-2008-0007-0104"
+        }
+      },
+      {
+        "id": "FCC-2008-0467-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-29T13:21:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12537",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services; Williston, SC",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be6d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0467-0002"
+        }
+      },
+      {
+        "id": "FRS-2008-0053-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-29T13:27:24Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12431",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Reserve Requirements of Depository Institutions; Issue and Cancellation of Federal Reserve Bank Capital Stock",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2008-0053-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2002-0043-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-05-29T14:14:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12566",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-07-29T03:59:59Z",
+          "title": "Pesticide Tolerance Nomenclature Changes; Proposed Technical Amendment",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2002-0043",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2002-0043-0017"
+        }
+      },
+      {
+        "id": "USCBP-2009-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-29T18:05:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12513",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Western Hemisphere Travel Initiative: Designation of Enhanced Driver's Licenses and Identity Documents Issued by the States of Vermont and Michigan and the Provinces of Quebec, Manitoba, British Columbia, and Ontario as Acceptable Documents To Denote Identity and Citizenship",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "USCBP-2009-0016",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064809be6ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2009-0016-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2005-KY-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-05-29T22:11:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12557",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-06-30T03:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans; Kentucky; NOx SIP Call Phase II",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2005-KY-0003",
+          "subtype": null,
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be6f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2005-KY-0003-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-13744-0021",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12532",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Robinson R-22/R-44 Special Training and Experience Requirements",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "FAA-2002-13744",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be74a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13744-0021"
+        }
+      },
+      {
+        "id": "FRA-2008-0143-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-05-29T14:32:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12421",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2009-06-25T03:59:59Z",
+          "title": "Port Authority Trans-Hudson Corporation; Notice of Public Hearing",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "FRA-2008-0143",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2008-0143-0003"
+        }
+      },
+      {
+        "id": "FAA-2009-0495-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:19:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-12522",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Airworthiness Directives; Learjet Model 60 Airplanes",
+          "postedDate": "2009-05-29T04:00:00Z",
+          "docketId": "FAA-2009-0495",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809be7e9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0495-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 70,
+            "label": "Notice"
+          },
+          {
+            "docCount": 55,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "NFR-Notice of Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "NPR-Notice of Proposed Rule-Making"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 2,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "ETA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "GSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRCS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-05-29",
+          "toDate": "2009-05-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

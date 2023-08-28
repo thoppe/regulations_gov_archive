@@ -1,0 +1,813 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2008-1281-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T17:33:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28494",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Air Traffic Procedures Advisory Committee",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FAA-2008-1281",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1281-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0221",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:49:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28626",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": "2009-02-03T04:59:59Z",
+          "title": "Information Technology (IT) Security",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0221"
+        }
+      },
+      {
+        "id": "GSA-GSAR-2008-0007-0085",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:28:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28604",
+          "withdrawn": false,
+          "agencyId": "GSA",
+          "commentEndDate": "2009-02-03T04:59:59Z",
+          "title": "General Services Administration Acquisition Regulation; GSAR 2008-G509; Rewrite of Part 536, Construction and Architect-Engineer Contracts",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "GSA-GSAR-2008-0007",
+          "subtype": "Proposed Rules",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d6c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GSA-GSAR-2008-0007-0085"
+        }
+      },
+      {
+        "id": "FCC-2008-0298-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T18:25:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28609",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Television Broadcasting Services; Glendive, MT",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0298-0002"
+        }
+      },
+      {
+        "id": "FAA-2008-1282-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T17:33:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28026",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Notice of Passenger Facility Charge (PFC) Approvals and Disapprovals",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FAA-2008-1282",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8db0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1282-0001"
+        }
+      },
+      {
+        "id": "NCUA-2008-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:50:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28085",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Organization and Operations of Federal Credit Unions; Underserved Areas (IRPS 08-2)",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "NCUA-2008-0056",
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8de1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2008-0056-0001"
+        }
+      },
+      {
+        "id": "FERC-2008-0005-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T18:26:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28097",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Pipeline Posting Requirements Under Section 23 of the Natural Gas Act",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8ded"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2008-0005-0003"
+        }
+      },
+      {
+        "id": "PHMSA-2008-0321-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T23:34:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28399",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Office of Hazardous Materials Safety; Notice of Delays in Processing of Special Permits Applications",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "PHMSA-2008-0321",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8e18"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2008-0321-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0081-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T16:07:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28522",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Determining the Amount of Taxes Paid for Purposes of Section 901; Hearing Cancellation",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "IRS-2007-0081",
+          "subtype": "NPRM",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8e1c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0081-0003"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-31T14:34:48Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28518",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Final Flood Elevation Determinations",
+          "postedDate": "2008-12-02T14:34:46Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064807c8e3c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0291-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:11:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28616",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2009-01-03T04:59:59Z",
+          "title": "Fisheries ofthe Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Gulf of Mexico Gag Grouper Management Measures",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0291",
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d08"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0291-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-1251-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28347",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-02-03T04:59:59Z",
+          "title": "Airworthiness Directives; MD Helicopters, Inc. Model MD900 Helicopters",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FAA-2008-1251",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d9d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1251-0001"
+        }
+      },
+      {
+        "id": "OSHA-2007-0066-0112",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-02-19T14:17:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28608",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2009-01-23T04:59:59Z",
+          "title": "Cranes and Derricks in Construction; Notice of Proposed Rulemaking; Extension of Written Comment Period",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "OSHA-2007-0066",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8dd3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2007-0066-0112"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0324-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:11:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28617",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2009-01-03T04:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Gulf of Alaska; Proposed 2009 and 2010 Harvest Specifications for Groundfish",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0324",
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8e27"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0324-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2008-0018-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-31T12:12:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28565",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2009-01-03T04:59:59Z",
+          "title": "Information Collection Activity Under OMB Review",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "PHMSA-2008-0018",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d86"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2008-0018-0002"
+        }
+      },
+      {
+        "id": "FWS-R6-ES-2008-0111-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T16:02:48Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28528",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2009-02-03T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants; 90-Day Finding on a Petition To List the Black-tailed Prairie Dog as Threatened or Endangered",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FWS-R6-ES-2008-0111",
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d42"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R6-ES-2008-0111-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2007-0932-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-11-17T03:32:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28161",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-02-03T04:59:59Z",
+          "title": "Amendment to the Universal Waste Rule: Addition of Pharmaceuticals",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2007-0932",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2007-0932-0001"
+        }
+      },
+      {
+        "id": "FDIC-2008-0093-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:21:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28405",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Assessment Dividends",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d78"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2008-0093-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2008-0362-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T18:29:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28492",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Medical Review Board Public Meeting",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FMCSA-2008-0362",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c9340"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2008-0362-0001"
+        }
+      },
+      {
+        "id": "FAA-1999-6482-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28562",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Revisions to Digital Flight Data Recorder Regulations for Boeing 737 Airplanes and for All Part 125 Airplanes",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FAA-1999-6482",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8e29"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-6482-0035"
+        }
+      },
+      {
+        "id": "FRA-2008-0134-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-09T19:28:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28568",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2009-01-03T04:59:59Z",
+          "title": "Applications; Approval of Discontinuance, etc.",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FRA-2008-0134",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8e3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2008-0134-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-1122-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28549",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-01-03T04:59:59Z",
+          "title": "Airworthiness Directives; Rolls-Royce plc RB211 Trent 500 Series Turbofan Engines",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FAA-2008-1122",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d39"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1122-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0485-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-12-31T12:11:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28610",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2009-01-03T04:59:59Z",
+          "title": "Television Broadcasting Services; Montgomery, AL",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0485-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0222",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:49:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28634",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": "2009-02-03T04:59:59Z",
+          "title": "Government Property",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8da9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0222"
+        }
+      },
+      {
+        "id": "DOJ-OAG-2008-0027-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T15:32:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28620",
+          "withdrawn": false,
+          "agencyId": "DOJ",
+          "commentEndDate": null,
+          "title": "Amendments to the Justice Department Regulations Regarding Countries Whose Agents Do Not Qualify for the Legal Commercial Transaction Exemption Provided in 18 U.S.C. 951(d)(4)",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "DOJ-OAG-2008-0027",
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8e05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOJ-OAG-2008-0027-0001"
+        }
+      },
+      {
+        "id": "FDIC-2008-0094-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T18:25:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28407",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Rules of Practice and Procedure",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8e3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2008-0094-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-1241-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-28158",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-02-03T04:59:59Z",
+          "title": "Airworthiness Directives; Boeing Model 777-200LR Series Airplanes Powered by General Electric (GE) Model GE90-110B Engines, and Model 777-300ER Series Airplanes Powered by GE Model GE90-115B Engines",
+          "postedDate": "2008-12-02T05:00:00Z",
+          "docketId": "FAA-2008-1241",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807c8d56"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1241-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 534,
+            "label": "Other"
+          },
+          {
+            "docCount": 112,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 64,
+            "label": "Notice"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 10,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rules"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 2,
+            "value": "NASA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOJ"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "GSA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-12-02",
+          "toDate": "2008-12-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

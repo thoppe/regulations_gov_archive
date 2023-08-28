@@ -1,0 +1,977 @@
+[
+  {
+    "data": [
+      {
+        "id": "OSHA-2007-0031-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T14:19:29Z",
+          "highlightedContent": "",
+          "frDocNum": "233",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2010-01-22T04:59:59Z",
+          "title": "Nationally Recognized Testing Laboratories; Proposed Rule",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "OSHA-2007-0031",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a65f15"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2007-0031-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2003-15892-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T17:01:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2003-15892",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a66034"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2003-15892-0022"
+        }
+      },
+      {
+        "id": "OSM-2009-0005-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-17T21:06:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29108",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "Utah Regulatory Program",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "OSM-2009-0005",
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64a72"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2009-0005-0006"
+        }
+      },
+      {
+        "id": "FAA-2009-0061-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:16:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28894",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-22T04:59:59Z",
+          "title": "Establishment of Class E Airspace: Mountain City, TN",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FAA-2009-0061",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64a73"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0061-0001"
+        }
+      },
+      {
+        "id": "FEC-2009-0067-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:14:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28637",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": null,
+          "title": "Campaign Travel",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64a87"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2009-0067-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-1163-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:20:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29016",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-08T04:59:59Z",
+          "title": "Passenger Facility Charge Approvals and Disapprovals",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FAA-2009-1163",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64aaa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1163-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0739-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:22:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28892",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-22T04:59:59Z",
+          "title": "Establishment of Class E Airspace: Fort A.P. Hill, VA",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FAA-2009-0739",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64ac8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0739-0001"
+        }
+      },
+      {
+        "id": "EEOC-2009-0011-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:17:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29012",
+          "withdrawn": false,
+          "agencyId": "EEOC",
+          "commentEndDate": null,
+          "title": "Procedural and Administrative Regulations to Include Genetic Information Nondiscrimination Act (of 2008)",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "EEOC-2009-0011",
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64a2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EEOC-2009-0011-0002"
+        }
+      },
+      {
+        "id": "SBA-2009-0019-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:57:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29115",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Small Business Size Regulations 8(a) Business Development/Small Disadvantaged Business Status Determinations; Tribal Consultation",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "SBA-2009-0019",
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64ac2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2009-0019-0003"
+        }
+      },
+      {
+        "id": "FMCSA-2009-0343-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T17:12:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29112",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2009-12-08T04:59:59Z",
+          "title": "Meetings: Medical Review Board",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2009-0343",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64ac9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2009-0343-0001"
+        }
+      },
+      {
+        "id": "NRC-2000-0026-0032",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-12-07T16:49:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29054",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "State of Nevada; Denial of Portions of Petition for Rulemaking, Consideration of the Remaining Portions in the Rulemaking Process",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "NRC-2000-0026",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a64b01"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0026-0032"
+        }
+      },
+      {
+        "id": "FMCSA-2002-12844-0046",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:57:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2002-12844",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a66032"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-12844-0046"
+        }
+      },
+      {
+        "id": "FMCSA-2003-15268-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:59:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2003-15268",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a66033"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2003-15268-0022"
+        }
+      },
+      {
+        "id": "FMCSA-2007-27897-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T17:10:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2007-27897",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a66038"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2007-27897-0015"
+        }
+      },
+      {
+        "id": "FMCSA-1999-5578-0061",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T17:10:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-1999-5578",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64a77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1999-5578-0061"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0206-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:15:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29062",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Magnuson-Stevens Fishery Conservation and Management Act: Regional Fishery Management Councils; Operations",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0206",
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64a8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0206-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0207-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:15:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29064",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Scup Fishery; Commercial Quota Harvested for 2009 Winter II Period",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0207",
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64ade"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0207-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0107-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:14:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29072",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "International Fisheries: Western and Central Pacific Fisheries for Highly Migratory Species; Bigeye Tuna Catch Limits in Longline Fisheries, etc.",
+          "postedDate": "2009-12-07T20:46:55Z",
+          "docketId": "NOAA-NMFS-2009-0107",
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a63c12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0107-0010"
+        }
+      },
+      {
+        "id": "FAA-2008-1167-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:18:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28899",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-08T04:59:59Z",
+          "title": "Amendment of the South Florida Low Offshore Airspace Area; Florida",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FAA-2008-1167",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64a78"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1167-0003"
+        }
+      },
+      {
+        "id": "FAA-2008-1170-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:21:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28897",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-08T04:59:59Z",
+          "title": "Amendment of the Atlantic Low Offshore Airspace Area; East Coast United States",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FAA-2008-1170",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64ac0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1170-0004"
+        }
+      },
+      {
+        "id": "FEC-2009-0066-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-12-07T16:13:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28733",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": "2010-02-09T04:59:59Z",
+          "title": "Participation by Federal Candidates and Officeholders at Non-Federal Fundraising Events",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a63c0d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2009-0066-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0937-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:15:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28889",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-22T04:59:59Z",
+          "title": "Establishment of Class E Airspace: Jackson, AL",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FAA-2009-0937",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a63c11"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0937-0001"
+        }
+      },
+      {
+        "id": "USCBP-2008-0047-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-04-18T17:34:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29057",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Extension of Port Limits of Columbus, OH",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "USCBP-2008-0047",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a64ac4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2008-0047-0002"
+        }
+      },
+      {
+        "id": "FAA-2009-1164-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:26:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28844",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-08T04:59:59Z",
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FAA-2009-1164",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64ae1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1164-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2009-0349-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T17:13:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29073",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2009-12-08T04:59:59Z",
+          "title": "Pipeline Safety: Operator Qualification Program Modifications",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "PHMSA-2009-0349",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64aff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2009-0349-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-1165-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:29:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29014",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-08T04:59:59Z",
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FAA-2009-1165",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64b1b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1165-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2005-22194-0034",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T17:08:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2005-22194",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a66037"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2005-22194-0034"
+        }
+      },
+      {
+        "id": "FMCSA-1999-6480-0065",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:38:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-1999-6480",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64f6e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1999-6480-0065"
+        }
+      },
+      {
+        "id": "FMCSA-2002-11426-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:42:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2002-11426",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6602f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-11426-0040"
+        }
+      },
+      {
+        "id": "FMCSA-2001-10578-0048",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:53:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2001-10578",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a66030"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2001-10578-0048"
+        }
+      },
+      {
+        "id": "FMCSA-2005-21711-0031",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T17:05:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29114",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-07T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "FMCSA-2005-21711",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a66036"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2005-21711-0031"
+        }
+      },
+      {
+        "id": "EPA-R02-OAR-2009-0638-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-10T15:09:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28971",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Determinations of Attainment of the One-Hour and Eight-Hour Ozone Standards for Various Ozone Nonattainment Areas in New Jersey and Upstate New York",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "EPA-R02-OAR-2009-0638",
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64a89"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-OAR-2009-0638-0005"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2009-0338-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-08T20:06:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28967",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans and Designations of Areas for Air Quality Planning Purposes: North Carolina; Redesignation of Great Smoky Mountains National Park 1997 8-Hour Ozone Nonattainment Area to Attainment",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2009-0338",
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64aa5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2009-0338-0010"
+        }
+      },
+      {
+        "id": "OSHRC-2009-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-07T16:16:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28845",
+          "withdrawn": false,
+          "agencyId": "OSHRC",
+          "commentEndDate": null,
+          "title": "Rules of Procedure; Regulations Implementing the Government in the Sunshine Act: Implementation of the Equal Access to Justice Act in Proceedings",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64ae5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHRC-2009-0002-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-09-0071-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-12-09T15:38:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-28925",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Mango Promotion, Research and Information Order; Continuance Referendum",
+          "postedDate": "2009-12-07T05:00:00Z",
+          "docketId": "AMS-FV-09-0071",
+          "subtype": "N/A",
+          "commentStartDate": "2009-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a64afc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-09-0071-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 141,
+            "label": "Other"
+          },
+          {
+            "docCount": 120,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 47,
+            "label": "Notice"
+          },
+          {
+            "docCount": 29,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 20,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 35,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FEC"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "EEOC"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OSM"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-12-07",
+          "toDate": "2009-12-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 35,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 35,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

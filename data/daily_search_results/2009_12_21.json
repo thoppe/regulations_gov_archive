@@ -1,0 +1,816 @@
+[
+  {
+    "data": [
+      {
+        "id": "FCC-2009-0290-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-21T14:28:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30293",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Television Broadcasting Services: Cincinnati, OH",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efd0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2009-0290-0002"
+        }
+      },
+      {
+        "id": "FAA-2009-1233-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T19:12:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-29602",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-22T04:59:59Z",
+          "title": "Meetings: Air Traffic Procedures Advisory Committee",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-1233",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efa2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1233-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2009-0092-0059",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-12T15:11:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30229",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2009-12-22T04:59:59Z",
+          "title": "Applications for Certificate Authority: Caribbean Sun Airlines, Inc.",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "DOT-OST-2009-0092",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef33"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2009-0092-0059"
+        }
+      },
+      {
+        "id": "DHS_FRDOC_0001-0660",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:07:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Application of Immigration Regulations to the Commonwealth of the Northern Mariana Islands; Correcting Amendment",
+          "postedDate": "2009-12-22T00:00:00Z",
+          "docketId": "DHS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a6f735"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS_FRDOC_0001-0660"
+        }
+      },
+      {
+        "id": "FRA-2009-0116-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-03-31T04:11:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30279",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2010-02-05T04:59:59Z",
+          "title": "Petition for Waiver of Compliance",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FRA-2009-0116",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0116-0003"
+        }
+      },
+      {
+        "id": "FAA-2009-1127-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T19:15:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30198",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-29T04:59:59Z",
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-1127",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efd5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1127-0003"
+        }
+      },
+      {
+        "id": "FAA-2009-1185-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:21:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30220",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-20T04:59:59Z",
+          "title": "Airworthiness Directives: Honeywell International LTS101-600A Series and LTS101-700D-2 Turboshaft Engines and LTP101-600A-1A, and LTP101-700A-1A Turboprop Engines",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-1185",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef48"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1185-0001"
+        }
+      },
+      {
+        "id": "EEOC-2010-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:17:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30162",
+          "withdrawn": false,
+          "agencyId": "EEOC",
+          "commentEndDate": "2010-02-20T04:59:59Z",
+          "title": "Federal Sector Equal Employment Opportunity",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "EEOC-2010-0001",
+          "subtype": "Notice of Proposed Rulemaking (NPRM, NOPR)",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EEOC-2010-0001-0001"
+        }
+      },
+      {
+        "id": "FSA_FRDOC_0001-0113",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T16:57:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30264",
+          "withdrawn": false,
+          "agencyId": "FSA",
+          "commentEndDate": null,
+          "title": "Dairy Economic Loss Assistance Payment Program",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FSA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efbb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSA_FRDOC_0001-0113"
+        }
+      },
+      {
+        "id": "SEC-2009-1788-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:59:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30185",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2010-01-01T04:59:59Z",
+          "title": "Extension of Filing Accomodation for Static Pool Information in Filings with respect to Asset-backed Securities",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2009-1788-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-1234-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T19:14:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30298",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-21T04:59:59Z",
+          "title": "Waiver of Aeronautical Land-Use Assurance: Indianapolis International Airport; Indianapolis, IN",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-1234",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1234-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0091-0056",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-12-21T15:31:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30154",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-01-21T04:59:59Z",
+          "title": "Outer Continental Shelf Air Regulations: Consistency Update for California",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0091",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0091-0056"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2008-0379-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-21T16:00:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30134",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Maintenance Plan for Carbon Monoxide: Arizona; Tucson Air Planning Area",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2008-0379",
+          "subtype": null,
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6eff0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2008-0379-0017"
+        }
+      },
+      {
+        "id": "FAA-2009-1036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T15:44:24Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30281",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-05T04:59:59Z",
+          "title": "Proposed Revision of Class E Airspace: Iliamna, AK",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-1036",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef35"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1036-0001"
+        }
+      },
+      {
+        "id": "FHWA-2009-0142-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T19:30:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30223",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2009-12-22T04:59:59Z",
+          "title": "Rescind Notice of Intent to Prepare an Environmental Impact Statement: Polk County, IA",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FHWA-2009-0142",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2009-0142-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0818-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T22:18:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30152",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-01-20T04:59:59Z",
+          "title": "Revisions to the California State Implementation Plan: South Coast Air Quality Management District",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0818",
+          "subtype": null,
+          "commentStartDate": "2009-12-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efbd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0818-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0818-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-12-23T18:50:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30151",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-01-21T04:59:59Z",
+          "title": "Revisions to the California State Implementation Plan: South Coast Air Quality Management District",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0818",
+          "subtype": null,
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef80"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0818-0002"
+        }
+      },
+      {
+        "id": "FCC-2009-0225-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-21T14:28:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30284",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Television Broadcasting Services: Columbus, OH",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6efb8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2009-0225-0002"
+        }
+      },
+      {
+        "id": "FAA-2008-1353-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:18:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30219",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-20T04:59:59Z",
+          "title": "Airworthiness Directives: CFM International, S.A. CFM56 5B1/P,  5B2/P,  5B3/P,  5B3/P1,  5B4/P,  5B5/P,  5B6/P, et al., Turbofan Engines",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2008-1353",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef2d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1353-0003"
+        }
+      },
+      {
+        "id": "FAA-2009-0457-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T15:45:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30172",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-23T04:59:59Z",
+          "title": "Establishment of Class E Airspace: Point (Pt.) Thomson, AK",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-0457",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef46"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0457-0002"
+        }
+      },
+      {
+        "id": "FAA-2009-1101-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T15:49:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30289",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-05T04:59:59Z",
+          "title": "Proposed Modifications of Class E Airspace: West Yellowstone, MT",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-1101",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef5f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1101-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2009-0691-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-16T14:54:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30190",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Tolerance Exemption: 2propenoic Acid, Butyl Ester, Polymer with Ethenylbenzene, Methyl 2methyl2propenoate and 2propenoic Acid",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2009-0691",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef85"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2009-0691-0003"
+        }
+      },
+      {
+        "id": "FAA-2009-1232-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-22T19:09:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30206",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-12-22T04:59:59Z",
+          "title": "Passenger Facility Charge Approvals and Disapprovals",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-1232",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef9b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1232-0001"
+        }
+      },
+      {
+        "id": "FHFB-2009-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-21T14:26:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30374",
+          "withdrawn": false,
+          "agencyId": "FHFB",
+          "commentEndDate": null,
+          "title": "Members of the Banks; CFR Correction",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6eed3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFB-2009-0003-0001"
+        }
+      },
+      {
+        "id": "FDA-2009-N-0665-0076",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-09T15:52:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30222",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Implantation or Injectable Dosage Form New Animal Drugs: Polysulfated Glycosaminoglycan",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FDA-2009-N-0665",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a6eff2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2009-N-0665-0076"
+        }
+      },
+      {
+        "id": "DOT-OST-2009-0092-0058",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-12T15:11:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30231",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2009-12-22T04:59:59Z",
+          "title": "Applications for Certificates of Public Convenience and Necessity and Foreign Air Carrier Permits Filed Under Subpart B (Formerly Subpart Q)",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "DOT-OST-2009-0092",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef34"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2009-0092-0058"
+        }
+      },
+      {
+        "id": "PRC-2009-0142-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-12-21T14:27:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30230",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": null,
+          "title": "New Postal Product",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef60"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2009-0142-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0883-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30221",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-20T04:59:59Z",
+          "title": "Airworthiness Directives: Pratt and Whitney JT8D-209, -217, -217C, and -219 Turbofan Engines",
+          "postedDate": "2009-12-21T05:00:00Z",
+          "docketId": "FAA-2009-0883",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a6ef82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0883-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 50,
+            "label": "Notice"
+          },
+          {
+            "docCount": 25,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Other"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 14,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM, NOPR)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 28,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "EEOC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFB"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-12-21",
+          "toDate": "2009-12-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 28,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 28,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

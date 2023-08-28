@@ -1,0 +1,220 @@
+[
+  {
+    "data": [
+      {
+        "id": "AMS-FV-09-0070-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-02-17T21:09:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2010-03-09T04:59:59Z",
+          "title": "Cranberries Grown in the States of Massachusetts, Rhode Island, Connecticut, New Jersey, Wisconsin, Michigan, Minnesota, Oregon, Washington, and Long Island in the State of New York; Revised Nomination and Balloting Procedures",
+          "postedDate": "2010-02-17T05:00:00Z",
+          "docketId": "AMS-FV-09-0070",
+          "subtype": "N/A",
+          "commentStartDate": "2010-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa696d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-09-0070-0001"
+        }
+      },
+      {
+        "id": "AMS-TM-06-0198-4165",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:39:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-3023",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2010-04-20T03:59:59Z",
+          "title": "National Organic Program NOP - Access to Pasture Livestock",
+          "postedDate": "2010-02-17T05:00:00Z",
+          "docketId": "AMS-TM-06-0198",
+          "subtype": "Final Rule",
+          "commentStartDate": "2010-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa60c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-TM-06-0198-4165"
+        }
+      },
+      {
+        "id": "FAA-2009-1100-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-25T01:27:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02999",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-04-14T03:59:59Z",
+          "title": "Airworthiness Directives: International Aero Engines AG (IAE) V2500-A1, V2522-A5, V2524-A5, V2525-D5, V2527-A5, V2527E-A5, et al. Turbofan Engines",
+          "postedDate": "2010-02-17T05:00:00Z",
+          "docketId": "FAA-2009-1100",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa6966"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1100-0001"
+        }
+      },
+      {
+        "id": "HUD-2009-0155-0155",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:30:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-03087",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR\u20135271\u2013N\u201302 SAFE Mortgage Licensing Act: HUD Responsibilities under the SAFE Act Extension of Public Comment Deadline",
+          "postedDate": "2010-02-17T05:00:00Z",
+          "docketId": "HUD-2009-0155",
+          "subtype": null,
+          "commentStartDate": "2010-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa60cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2009-0155-0155"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 68,
+            "label": "Other"
+          },
+          {
+            "docCount": 30,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 15,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-02-17",
+          "toDate": "2010-02-17"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

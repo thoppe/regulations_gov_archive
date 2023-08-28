@@ -1,0 +1,678 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOE-2008-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T21:03:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-11005",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": "2008-07-16T03:59:59Z",
+          "title": "Assistance Regulations",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "DOE-2008-0010",
+          "subtype": null,
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d52cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-2008-0010-0001"
+        }
+      },
+      {
+        "id": "FEMA-2005-0001-0038",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-09-29T17:22:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10936",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Assistance Program Under the 9/11 Heroes Stamp Act of 2001",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "FEMA-2005-0001",
+          "subtype": null,
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d52e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2005-0001-0038"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0062-0260",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:59:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10768",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Implementation of the New Source Review (NSR) Program for Particulate Matter Less Than 2.5 Micrometers (PM2.5)",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0062",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064805d53c1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0062-0260"
+        }
+      },
+      {
+        "id": "APHIS-2007-0141-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T21:03:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10918",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2008-07-16T03:59:59Z",
+          "title": "Importation of Horses, Ruminants, Swine, and Dogs; Remove Panama From Lists of Regions Where Screwworm Is Considered To Exist",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "APHIS-2007-0141",
+          "subtype": "Proposed rule",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d5389"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2007-0141-0001"
+        }
+      },
+      {
+        "id": "FWS-R6-ES-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T21:03:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-09282",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2008-07-16T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants; Proposed Removal of Erigeron maguirei From the Federal List of Endangered and Threatened Plants; Availability of Post-Delisting Monitoring Plan",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "FWS-R6-ES-2008-0001",
+          "subtype": null,
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d53db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R6-ES-2008-0001-0001"
+        }
+      },
+      {
+        "id": "USCG-2007-0023-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-01250",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Anchorage Regulation; San Francisco Bay, CA",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "USCG-2007-0023",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d59f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2007-0023-0002"
+        }
+      },
+      {
+        "id": "FAR-FAR-2007-0001-0250",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T21:03:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-11137",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2008-07-16T03:59:59Z",
+          "title": "FAR Case 2007-006, Contractor Compliance Program and Integrity Reporting (2nd Proposed Rule)",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "FAR-FAR-2007-0001",
+          "subtype": "Proposed Rules",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d52fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-FAR-2007-0001-0250"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2007-1125-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-06-16T11:06:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10922",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-06-17T03:59:59Z",
+          "title": "Pesticide Inert Ingredient; Proposal to Revoke the Obsolete Tolerance Exemption for Sperm Oil",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2007-1125",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d5358"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2007-1125-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2008-0022-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:50:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10831",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Vehicle Identification Number Requirements; Correction",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "NHTSA-2008-0022",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d53de"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2008-0022-0002"
+        }
+      },
+      {
+        "id": "APHIS-2008-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:56:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10923",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2008-07-16T03:59:59Z",
+          "title": "Importation of Tomatoes From Souss-Massa, Morocco",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "APHIS-2008-0017",
+          "subtype": "Proposed rule",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d53ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2008-0017-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0193-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-07-15T11:08:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-11043",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-07-16T03:59:59Z",
+          "title": "In the Matter of Promoting Diversification of Ownership in the Broadcasting Services",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d5319"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0193-0001"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0070",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-01-09T14:55:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10931",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Final Flood Elevation Determinations",
+          "postedDate": "2008-05-16T19:17:00Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064805d5333"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0070"
+        }
+      },
+      {
+        "id": "FRS-2008-0169-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-05-16T11:06:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10973",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Availability of Funds and Collection of Checks",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d5348"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2008-0169-0001"
+        }
+      },
+      {
+        "id": "CMS-2008-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:25:45Z",
+          "highlightedContent": "",
+          "frDocNum": "08-01244",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2008-07-16T03:59:59Z",
+          "title": "Medicare Program; Revisions to the Medicare Advantage and Prescription Drug Benefit Programs",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "CMS-2008-0056",
+          "subtype": null,
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d5391"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2008-0056-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0081-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-05-16T13:16:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-11010",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-06-06T03:59:59Z",
+          "title": "Petitions for Exemption; Summary of Petitions Received",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "FAA-2008-0081",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d53cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0081-0002"
+        }
+      },
+      {
+        "id": "APHIS-2007-0144-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T21:03:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10920",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2008-07-16T03:59:59Z",
+          "title": "Importation of Baby Squash and Baby Courgettes From Zambia",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "APHIS-2007-0144",
+          "subtype": "Proposed rule",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d52e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2007-0144-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0022-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-09-26T17:10:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10425",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace; Waynesburg, PA",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "FAA-2007-0022",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d53a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0022-0002"
+        }
+      },
+      {
+        "id": "AMS-LS-07-0106-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-01-13T14:01:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10185",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Livestock Mandatory Reporting; Reestablishment and Revision of the Reporting Regulation for Swine, Cattle, Lamb, and Boxed Beef",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "AMS-LS-07-0106",
+          "subtype": null,
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d53d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-LS-07-0106-0025"
+        }
+      },
+      {
+        "id": "FCC-2008-0193-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-05-16T11:07:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-11039",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "In the Matter of Promoting Diversification of Ownership in the Broadcasting Services",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d53e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0193-0002"
+        }
+      },
+      {
+        "id": "FAA-2008-0219-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-05-16T13:10:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-11011",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-06-06T03:59:59Z",
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "FAA-2008-0219",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d5314"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0219-0004"
+        }
+      },
+      {
+        "id": "FEMA-2008-0020-0071",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-01-09T15:03:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10933",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2008-05-16T19:21:48Z",
+          "docketId": "FEMA-2008-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064805d53e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2008-0020-0071"
+        }
+      },
+      {
+        "id": "NHTSA-2008-0105-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-05-16T13:21:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-10983",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Petition for Exemption From the Vehicle Theft Prevention Standard; smart USA Distributor LLC",
+          "postedDate": "2008-05-16T04:00:00Z",
+          "docketId": "NHTSA-2008-0105",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-05-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805d52fe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2008-0105-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 82,
+            "label": "Notice"
+          },
+          {
+            "docCount": 79,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 51,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Rule"
+          },
+          {
+            "docCount": 10,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rules"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 22,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "FAR"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-05-16",
+          "toDate": "2008-05-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 22,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 22,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

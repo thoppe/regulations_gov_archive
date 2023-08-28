@@ -1,0 +1,901 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRS-2008-0268-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T11:10:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18275",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Truth in Lending",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b7564"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2008-0268-0001"
+        }
+      },
+      {
+        "id": "MARAD-2008-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T14:26:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18378",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2008-10-08T03:59:59Z",
+          "title": "Information Collection Available for Public Comments and Recommendations",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "MARAD-2008-0047",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b75a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2008-0047-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0867-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-09-08T11:08:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18083",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Agency Information Collection Activity Seeking OMB Approval",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FAA-2008-0867",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b751f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0867-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0327-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-09-08T11:07:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18359",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Television Broadcasting Services; Bangor, ME",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b7508"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0327-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0326-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-09-08T11:06:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18358",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Television Broadcasting Services; La Crosse, WI",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0326-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0866-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T13:13:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18086",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Approval of Noise Compatibility Program for Fresno-Yosemite International Airport, Fresno, CA",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FAA-2008-0866",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0866-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0203-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-07-07T17:46:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2008-09-23T03:59:59Z",
+          "title": "EPA Notice of DEIS Availability",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0203",
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b79a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0203-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0868-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T13:36:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18088",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Agency Information Collection Activity Seeking OMB Approval",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FAA-2008-0868",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b7538"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0868-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2008-0189-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T21:18:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18188",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Pennsylvania; Section 110(a)(1) 8-Hour Ozone Maintenance Plan and 2002 Base-Year Inventory for the Schuylkill County Area",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2008-0189",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064806b7544"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2008-0189-0008"
+        }
+      },
+      {
+        "id": "FAA-2008-0871-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T13:57:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18133",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Airborne Omega Receiving Equipment",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FAA-2008-0871",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b75b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0871-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0865-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T13:11:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18134",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Notice of Passenger Facility Charge (PFC) Approvals and Disapprovals.",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FAA-2008-0865",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0865-0001"
+        }
+      },
+      {
+        "id": "FTA-2008-0024-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T14:07:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18313",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "Notice of Buy America Waiver for the National Fuel Cell Bus Technology Development Program",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FTA-2008-0024",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2008-0024-0011"
+        }
+      },
+      {
+        "id": "FTA-2008-0020-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T14:09:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18315",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "Final Guidance on New Starts/Small Starts Policies and Procedures",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FTA-2008-0020",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2008-0020-0022"
+        }
+      },
+      {
+        "id": "FMCSA-2008-0204-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-14T19:37:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18344",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Application by American Trucking Associations, Inc. for a Preemption Determination on the City of Bostons Routing and Transportation Restrictions Applicable to Certain Hazardous Materials",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FMCSA-2008-0204",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74fd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2008-0204-0001"
+        }
+      },
+      {
+        "id": "FNS-2007-0039-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:24:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18230",
+          "withdrawn": false,
+          "agencyId": "FNS",
+          "commentEndDate": null,
+          "title": "Management of Donated Foods in Child Nutrition Programs, the Nutrition Services Incentive Program, and Charitable Institutions",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FNS-2007-0039",
+          "subtype": "Final rule",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FNS-2007-0039-0001"
+        }
+      },
+      {
+        "id": "USCG-2008-0302-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18351",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulations; Smith Creek at Wilmington, NC",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "USCG-2008-0302",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b7511"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0302-0002"
+        }
+      },
+      {
+        "id": "NRC-2006-0022-0081",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:19:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18291",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "The Attorney General of Commonwealth of Massachusetts, The Attorney General of California; Denial of Petitions for Rulemaking",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "NRC-2006-0022",
+          "subtype": "Denial of PRM",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064806b7534"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2006-0022-0081"
+        }
+      },
+      {
+        "id": "CMS-2008-0045-0115",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-19T19:58:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-17948",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program; Prospective Payment System and Consolidated Billing for Skilled Nursing Facilities for FY 2009",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "CMS-2008-0045",
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b753c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2008-0045-0115"
+        }
+      },
+      {
+        "id": "FAA-2008-0869-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T13:52:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18099",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Agency Information Collection Activity Seeking OMB Approval",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FAA-2008-0869",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b755e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0869-0001"
+        }
+      },
+      {
+        "id": "ACF-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:54:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18208",
+          "withdrawn": false,
+          "agencyId": "ACF",
+          "commentEndDate": "2008-10-08T03:59:59Z",
+          "title": "Temporary Assistance for Needy Families (TANF) Program, Elimination of Enhanced Caseload Reduction Credit for Excess Maintenance-of-Effort Expenditures",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "ACF-2008-0001",
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ACF-2008-0001-0001"
+        }
+      },
+      {
+        "id": "USCG-2006-24644-0569",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18100",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2008-09-23T03:59:59Z",
+          "title": "TORP Terminal LP, Bienville Offshore Energy Terminal Liquefied Natural Gas Deepwater Port License Application; Final Application Public Hearing and Final Environmental Impact Statement",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "USCG-2006-24644",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b7e40"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2006-24644-0569"
+        }
+      },
+      {
+        "id": "OSM-2008-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-09-08T11:08:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18297",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Alabama Regulatory Program",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "OSM-2008-0015",
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b753a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2008-0015-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0872-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T14:01:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18085",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Agency Information Collection Activity Seeking OMB Approval",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FAA-2008-0872",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b75bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0872-0001"
+        }
+      },
+      {
+        "id": "USCG-2008-0218-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18095",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Annual Events Requiring Safety Zones in the Captain of the Port Detroit Zone",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "USCG-2008-0218",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0218-0002"
+        }
+      },
+      {
+        "id": "NHTSA-2008-0138-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-08T14:32:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18300",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Reports, Forms, and Recordkeeping Requirements; Agency Information Collection Activity: Under OMB Review",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "NHTSA-2008-0138",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2008-0138-0001"
+        }
+      },
+      {
+        "id": "CMS-2008-0041-0407",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-19T19:58:50Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-17795",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program; Hospice Wage Index for Fiscal Year 2009",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "CMS-2008-0041",
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b7517"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2008-0041-0407"
+        }
+      },
+      {
+        "id": "GSA-GSAR-2008-0007-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:28:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18290",
+          "withdrawn": false,
+          "agencyId": "GSA",
+          "commentEndDate": null,
+          "title": "GSAR Amendment 2008-01, GSAR Case 2006-G505, Rewrite of GSAR Part 522, Application of Labor Laws to Government Acquisitions (Change 22)",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "GSA-GSAR-2008-0007",
+          "subtype": "Final",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b756f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GSA-GSAR-2008-0007-0023"
+        }
+      },
+      {
+        "id": "FAA-2008-0870-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-09-08T11:09:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18082",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Agency Information Collection Activity Seeking OMB Approval",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "FAA-2008-0870",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b757e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0870-0001"
+        }
+      },
+      {
+        "id": "CMS-2008-0044-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-19T19:58:51Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-17797",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2009",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "CMS-2008-0044",
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b75a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2008-0044-0018"
+        }
+      },
+      {
+        "id": "NPS-2008-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:51:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18412",
+          "withdrawn": false,
+          "agencyId": "NPS",
+          "commentEndDate": "2008-09-23T03:59:59Z",
+          "title": "Special Regulation: Areas of the National Park System, National Capital Region",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": "NPS-2008-0004",
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b75cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NPS-2008-0004-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0325-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-09-08T11:06:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18357",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Television Broadcasting Services; Honolulu, HI",
+          "postedDate": "2008-08-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b74be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0325-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 49,
+            "label": "Other"
+          },
+          {
+            "docCount": 48,
+            "label": "Notice"
+          },
+          {
+            "docCount": 26,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 23,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 16,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Denial of PRM"
+          },
+          {
+            "docCount": 1,
+            "label": "Final"
+          },
+          {
+            "docCount": 1,
+            "label": "Final rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 31,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "CMS"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "ACF"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FNS"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "GSA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NPS"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OSM"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-08-08",
+          "toDate": "2008-08-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 31,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 31,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

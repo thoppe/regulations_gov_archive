@@ -1,0 +1,935 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-R04-OAR-2008-0160-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-18T14:28:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13599",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of State Plans for Designated Facilities and Pollutants: Tennessee and Kentucky",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2008-0160",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc335"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2008-0160-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0082-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-08-19T14:02:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-11992",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-08-11T03:59:59Z",
+          "title": "Airworthiness Directives: Rolls-Royce Corporation AE 2100D2, AE 2100D2A, AE 2100D3, and AE 2100J Turboprop Engines",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2009-0082",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc345"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0082-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0612-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:16:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13406",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Boeing Model 747 Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2008-0612",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc396"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0612-0010"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2008-0831-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-18T14:03:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13591",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans: Georgia; State Implementation Plan Revision",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2008-0831",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2008-0831-0002"
+        }
+      },
+      {
+        "id": "DOE-2006-0003-0021",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T19:25:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Occupational Radiation Protection; Correction",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "DOE-2006-0003",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cbcb6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-2006-0003-0021"
+        }
+      },
+      {
+        "id": "OTS-2009-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-06-11T20:37:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "OTS",
+          "commentEndDate": null,
+          "title": "Registration of Mortgage Loan Originators",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "OTS-2009-0004",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cd11b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OTS-2009-0004-0001"
+        }
+      },
+      {
+        "id": "FDIC-2009-0050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-11T20:57:51Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13749",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Technical Amendments to Interest Rate Restrictions on Insured Depository Institutions That Are Not Well Capitalized: Withdrawal",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc2af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2009-0050-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2008-0831-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-06-18T14:03:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13593",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans: Georgia; State Implementation Plan Revision",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2008-0831",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc31d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2008-0831-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0099-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:13:24Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13714",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2009-08-11T03:59:59Z",
+          "title": "List of Fisheries for 2010",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0099",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0099-0001"
+        }
+      },
+      {
+        "id": "FISCAL-FMS-2008-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:23:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13617",
+          "withdrawn": false,
+          "agencyId": "FISCAL",
+          "commentEndDate": "2009-08-11T03:59:59Z",
+          "title": "Debt Collection Authorities under the Debt Collection Improvement Act (1996)",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FISCAL-FMS-2008-0002",
+          "subtype": "Interim Rule",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FISCAL-FMS-2008-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0005-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:18:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13138",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Construcciones Aeronauticas, S.A. (CASA), Model C 212 CB, et al., Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2009-0005",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0005-0003"
+        }
+      },
+      {
+        "id": "FAA-2007-0163-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13305",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Boeing Model 737 300,  400,  500,  600,  700,  700C,  800, and  900 Series Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2007-0163",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc320"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0163-0013"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0230-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-11T18:59:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13481",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Revisions to the California State Implementation Plan: Monterey Bay Unified Air Pollution Control District, Placer County Air Pollution Control District",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0230",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc32f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0230-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-29067-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:14:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13137",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Boeing Model 757-200, -200CB, and -300 Series Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2007-29067",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc331"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-29067-0008"
+        }
+      },
+      {
+        "id": "FDA-2009-N-0665-0027",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-08T13:12:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13685",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Oral Dosage Form New Animal Drugs: Methimazole - Final Rule",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FDA-2009-N-0665",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc342"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2009-N-0665-0027"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0142-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-06-11T18:58:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13482",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Revisions to the California State Implementation Plan: Antelope Valley Air Quality Management District and South Coast Air Quality Management District",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0142",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc357"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0142-0002"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0230-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-06-11T18:58:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13479",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Revisions to the California State Implementation Plan: Monterey Bay Unified Air Pollution Control District, Placer County Air Pollution Control District",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0230",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc35e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0230-0002"
+        }
+      },
+      {
+        "id": "FAA-2008-1364-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:18:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13304",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Boeing Model 737-300, -400, and -500 Series Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2008-1364",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1364-0006"
+        }
+      },
+      {
+        "id": "NRC-2008-0122-0033",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:15:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13713",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2009-10-20T03:59:59Z",
+          "title": "Enhancements to Emergency Preparedness Regulations; Extension of Comment Period",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "NRC-2008-0122",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2008-0122-0033"
+        }
+      },
+      {
+        "id": "FAA-2009-0531-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:19:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13576",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Airworthiness Directives: GROB-Werke Model G120A Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2009-0531",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc35a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0531-0001"
+        }
+      },
+      {
+        "id": "IRS-2009-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:34:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13521",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Application of Separate Limitations to Dividends from Noncontrolled Section 902 Corporations",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "IRS-2009-0014",
+          "subtype": "Final Rule",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc377"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2009-0014-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0530-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:19:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13570",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier Model DHC 8 400 Series Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2009-0530",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc2e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0530-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0323-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-11T19:19:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13590",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans: Hawaii",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0323",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc2c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0323-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2009-0033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-06-11T18:58:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13725",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans: West Virginia; Clean Air Interstate Rule",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2009-0033",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc2dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2009-0033-0001"
+        }
+      },
+      {
+        "id": "FDIC-2009-0051-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-11T18:59:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13748",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Technical Amendments to Interest Rate Restrictions on Insured Depository Institutions That Are Not Well Capitalized: Correction",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc2f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2009-0051-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-1237-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13405",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: ATR Model ATR42-200, ATR42-300, ATR42-320, ATR42 500, ATR72-101, ATR72-201, et al. Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2008-1237",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc31f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1237-0004"
+        }
+      },
+      {
+        "id": "FISCAL-FMS-2008-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:23:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13604",
+          "withdrawn": false,
+          "agencyId": "FISCAL",
+          "commentEndDate": "2009-08-11T03:59:59Z",
+          "title": "Offset of Tax Refund Payments to Collect Past-Due, Legally Enforceable Nontax Debt",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FISCAL-FMS-2008-0003",
+          "subtype": "NPRM",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc334"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FISCAL-FMS-2008-0003-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0142-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-11T18:59:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13483",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Revisions to the California State Implementation Plan: Antelope Valley Air Quality Management District and South Coast Air Quality Management District",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0142",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0142-0001"
+        }
+      },
+      {
+        "id": "FRA-2009-0046-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-11T18:58:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13629",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Application for Approval of Discontinuance or Modification of a Railroad Signal System or Relief from the Requirements",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FRA-2009-0046",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc359"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0046-0003"
+        }
+      },
+      {
+        "id": "FAA-2009-0532-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:19:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13727",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-07-14T03:59:59Z",
+          "title": "Airworthiness Directives: BAE Systems (Operations) Limited Model BAe 146 and Avro 146 RJ Airplanes",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "FAA-2009-0532",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc374"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0532-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2008-0158-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-18T14:30:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13601",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of State Plans for Designated Facilities and Pollutants: Jefferson County, KY; and Forsyth County, NC; and Knox and Davidson Counties, TN",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2008-0158",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc397"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2008-0158-0001"
+        }
+      },
+      {
+        "id": "SSA-2008-0051-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-04-18T21:12:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13621",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": "2009-08-11T03:59:59Z",
+          "title": "Exclusion of Certain Military Pay from Deemed Income and Resources",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "SSA-2008-0051",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2008-0051-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2008-0161-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-18T14:31:51Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-13602",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of State Plans for Designated Facilities and Pollutants: Davidson, Knox, and Memphis-Shelby Counties, TN",
+          "postedDate": "2009-06-11T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2008-0161",
+          "subtype": null,
+          "commentStartDate": "2009-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064809cc3ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2008-0161-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 113,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 71,
+            "label": "Notice"
+          },
+          {
+            "docCount": 54,
+            "label": "Other"
+          },
+          {
+            "docCount": 24,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 11,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "NPRM"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 33,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "EPA"
+          },
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 2,
+            "value": "FISCAL"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OTS"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2009-06-11",
+          "toDate": "2009-06-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

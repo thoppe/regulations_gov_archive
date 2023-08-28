@@ -1,0 +1,231 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2009-0568-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:19:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-03000",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Turbomeca Arriel 2S1 Turboshaft Engines",
+          "postedDate": "2010-02-16T05:00:00Z",
+          "docketId": "FAA-2009-0568",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa4dd0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0568-0003"
+        }
+      },
+      {
+        "id": "LMSO-2007-0002-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T16:57:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01740",
+          "withdrawn": false,
+          "agencyId": "LMSO",
+          "commentEndDate": "2010-01-28T04:59:59Z",
+          "title": "Labor Organization Officer and Employee Reports",
+          "postedDate": "2010-02-16T05:00:00Z",
+          "docketId": "LMSO-2007-0002",
+          "subtype": null,
+          "commentStartDate": "2010-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa59c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/LMSO-2007-0002-0006"
+        }
+      },
+      {
+        "id": "LMSO-2007-0002-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T16:57:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01740",
+          "withdrawn": false,
+          "agencyId": "LMSO",
+          "commentEndDate": "2010-01-28T04:59:59Z",
+          "title": "Labor Organization Officer and Employee Reports",
+          "postedDate": "2010-02-16T05:00:00Z",
+          "docketId": "LMSO-2007-0002",
+          "subtype": null,
+          "commentStartDate": "2010-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa59c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/LMSO-2007-0002-0004"
+        }
+      },
+      {
+        "id": "FTA-2010-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-16T16:40:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-02996",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "FTA Fiscal Year 2010 Apportionments, Allocations, and Program Information",
+          "postedDate": "2010-02-16T05:00:00Z",
+          "docketId": "FTA-2010-0008",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa4dd1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2010-0008-0001"
+        }
+      },
+      {
+        "id": "LMSO-2007-0002-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T16:57:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01740",
+          "withdrawn": false,
+          "agencyId": "LMSO",
+          "commentEndDate": "2010-01-28T04:59:59Z",
+          "title": "Labor Organization Officer and Employee Reports",
+          "postedDate": "2010-02-16T05:00:00Z",
+          "docketId": "LMSO-2007-0002",
+          "subtype": null,
+          "commentStartDate": "2010-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480aa59c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/LMSO-2007-0002-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 58,
+            "label": "Other"
+          },
+          {
+            "docCount": 37,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "LMSO"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-02-16",
+          "toDate": "2010-02-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

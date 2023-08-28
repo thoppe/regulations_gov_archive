@@ -1,0 +1,647 @@
+[
+  {
+    "data": [
+      {
+        "id": "DHS_FRDOC_0001-0449",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:07:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Adjustment of Status to Lawful Permanent Resident for Aliens in T or U Nonimmigrant Status",
+          "postedDate": "2008-12-12T00:00:00Z",
+          "docketId": "DHS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064807d87d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS_FRDOC_0001-0449"
+        }
+      },
+      {
+        "id": "FAA-2008-0732-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:16:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29072",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Dassault Model Mystere-Falcon 50 Airplanes",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "FAA-2008-0732",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d7037"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0732-0004"
+        }
+      },
+      {
+        "id": "DOJ-OAG-2008-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:10:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29328",
+          "withdrawn": false,
+          "agencyId": "DOJ",
+          "commentEndDate": null,
+          "title": "Office of the Attorney General; Certification Process for State Capital Counsel Systems",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "DOJ-OAG-2008-0029",
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d7069"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOJ-OAG-2008-0029-0001"
+        }
+      },
+      {
+        "id": "USPS-2008-0063-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-12-20T23:18:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29299",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Procedures To Adjudicate Claims for Personal Injury or Property Damage Arising Out of the Operation of the U.S. Postal Service",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d6f8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2008-0063-0001"
+        }
+      },
+      {
+        "id": "HUD-2008-0191-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:30:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29304",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": "2009-01-13T04:59:59Z",
+          "title": "FR\u20135247\u2013F\u201301 Matching Requirement in McKinney-Vento Act Programs",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "HUD-2008-0191",
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d6f9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2008-0191-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-27739-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:13:24Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29076",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Airbus Model A330 Airplanes; and Model A340-200 and -300 Airplanes",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "FAA-2007-27739",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d6fb3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27739-0010"
+        }
+      },
+      {
+        "id": "FCC-2008-0451-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-12-31T12:11:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29367",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2009-01-13T04:59:59Z",
+          "title": "An Inquiry Into the Commissions Policies and Rules Regarding AM Radio Service Directional Antenna Performance Verification",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d6fd6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0451-0002"
+        }
+      },
+      {
+        "id": "DHS-2008-0122-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-12-31T12:12:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29285",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": "2009-01-13T04:59:59Z",
+          "title": "Privacy Act of 1974: Implementation of Exemptions; United States Coast Guard Notice of Arrival and Departure System",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "DHS-2008-0122",
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d7012"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2008-0122-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-1274-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:18:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29182",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2009-01-13T04:59:59Z",
+          "title": "Airworthiness Directives; Airbus Model A319, A320, and A321 Series Airplanes Equipped With International Aero Engines (IAE) Model V2500-A1 Engines or Model V25xx-A5 Series Engines",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "FAA-2008-1274",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d6fa1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1274-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0493-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-12-31T12:13:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29372",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2009-01-13T04:59:59Z",
+          "title": "Television Broadcasting Services; Waco, TX",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d703c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0493-0001"
+        }
+      },
+      {
+        "id": "DOC-2008-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:07:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29263",
+          "withdrawn": false,
+          "agencyId": "DOC",
+          "commentEndDate": null,
+          "title": "Civil Monetary Penalties; Adjustment for Inflation",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "DOC-2008-0004",
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d7065"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOC-2008-0004-0001"
+        }
+      },
+      {
+        "id": "IRS-2008-0101-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:34:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29276",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Information Reporting for Discharges of Indebtedness; Correction",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "IRS-2008-0101",
+          "subtype": "Final Rule",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d6fbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0101-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPA-2008-0569-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:06:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29379",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Corrected Federal Noice posted on December 11, 2008 for original Federal Register which is document number EPA-HQ-OPA-2008-0569-0001",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "EPA-HQ-OPA-2008-0569",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d700d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPA-2008-0569-0002"
+        }
+      },
+      {
+        "id": "SBA-2009-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:57:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29197",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2009-03-12T03:59:59Z",
+          "title": "Lender Oversight Program",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "SBA-2009-0002",
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d7063"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2009-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0590-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:16:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29073",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Boeing Model 747-100, 747-100B, 747- 100B SUD, 747-200B, 747-200C, 747-200F, 747-300, 747-400, 747-400D, 747-400F, and 747SR Series Airplanes",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "FAA-2008-0590",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d706f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0590-0006"
+        }
+      },
+      {
+        "id": "BOR-2008-0003-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-03-08T20:38:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29088",
+          "withdrawn": false,
+          "agencyId": "BOR",
+          "commentEndDate": null,
+          "title": "Public Conduct on Bureau of Reclamation Facilities, Lands, and Waterbodies",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "BOR-2008-0003",
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d6f96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BOR-2008-0003-0010"
+        }
+      },
+      {
+        "id": "DHS-2008-0180-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-12-31T12:14:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29394",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": "2009-01-13T04:59:59Z",
+          "title": "Privacy Act of 1974: Implementation of Exemptions; United States Immigration and Customs Enforcement External Investigations",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "DHS-2008-0180",
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d708f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2008-0180-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-1007-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29077",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Bombardier Model CL-600-2C10 (Regional Jet Series 700, 701 and 702) Airplanes and Model CL-600-2D24 (Regional Jet Series 900) Airplanes",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "FAA-2008-1007",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d6fe9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-1007-0003"
+        }
+      },
+      {
+        "id": "IRS-2008-0101-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:34:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29273",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Information Reporting for Discharges of Indebtedness; Correction",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "IRS-2008-0101",
+          "subtype": "Final Rule",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d7010"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0101-0004"
+        }
+      },
+      {
+        "id": "FAA-2007-0175-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29079",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Boeing Model 757 Airplanes",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "FAA-2007-0175",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d7021"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0175-0005"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0300-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:11:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-29377",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2009-01-17T04:59:59Z",
+          "title": "Atlantic Highly Migratory Species; Atlantic Swordfish Quotas",
+          "postedDate": "2008-12-11T05:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0300",
+          "subtype": null,
+          "commentStartDate": "2008-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064807d708b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0300-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 194,
+            "label": "Other"
+          },
+          {
+            "docCount": 60,
+            "label": "Notice"
+          },
+          {
+            "docCount": 25,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 6,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "DHS"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "BOR"
+          },
+          {
+            "docCount": 1,
+            "value": "DOC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOJ"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-12-11",
+          "toDate": "2008-12-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

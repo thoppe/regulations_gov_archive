@@ -1,0 +1,889 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2009-1228-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-25T01:42:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31289",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-20T04:59:59Z",
+          "title": "Airworthiness Directives: Lockheed Martin Corporation/Lockheed Martin Aeronautics Company Model 382, 382B, 382E, 382F, and 382G Airplanes",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FAA-2009-1228",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76fac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1228-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2008-0132-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-05T19:12:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31334",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2010-01-06T04:59:59Z",
+          "title": "Denial of Appeal of Decision on Inconsequential Noncompliance: Dorel Juvenile Group",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "NHTSA-2008-0132",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76ea8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2008-0132-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2009-0898-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-05T14:32:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31173",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Finding of Failure to Submit Certain State Implementation Plans Required for the 1-Hour Ozone NAAQS",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2009-0898",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a76efd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2009-0898-0001"
+        }
+      },
+      {
+        "id": "TREAS_FRDOC_0001-0082",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-10-17T19:14:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30920",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": "2010-03-09T04:59:59Z",
+          "title": "Customs and Border Protections Bond Program",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76f3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0082"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0195-0159",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:09:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30662",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Limited Access for Guided Sport Charter Vessels in Alaska: Pacific Halibut Fisheries",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0195",
+          "subtype": null,
+          "commentStartDate": "2010-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76fc6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0195-0159"
+        }
+      },
+      {
+        "id": "USCBP-2006-0013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:05:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30920",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": "2010-03-09T04:59:59Z",
+          "title": "Customs and Border Protection\u2019s Bond Program",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "USCBP-2006-0013",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76fc7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2006-0013-0001"
+        }
+      },
+      {
+        "id": "USPS-2010-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-01-05T13:31:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31218",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2010-02-05T04:59:59Z",
+          "title": "Restricting the Mailing of Replica or Inert Explosive Devices",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76ec4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2010-0001-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0272-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:16:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31297",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2010-02-05T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife: 90-Day Finding on a Petition to List the Insular Population of Hawaiian False Killer Whales as an Endangered Species",
+          "postedDate": "2010-01-06T00:56:44Z",
+          "docketId": "NOAA-NMFS-2009-0272",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76eea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0272-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2009-0804-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-01-05T14:29:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31278",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-02-05T04:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans: Delaware; Amendment to Electric Generating Unit Multi-Pollutant Regulation",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2009-0804",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76f02"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2009-0804-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2009-0751-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-05T21:45:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31084",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans and Designations of Areas for Air Quality Planning Purposes: North Carolina; Hickory-Morganton-Lenoir; Determination of Attaining Data for the 1997 Fine Particulate Matter Standard",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2009-0751",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76ea1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2009-0751-0003"
+        }
+      },
+      {
+        "id": "EERE-2006-TP-0092-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-14T12:14:27Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30887",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2010-01-05  Energy Conservation Program: Certification, Compliance, and Enforcement Requirements for Certain Consumer Products and Commercial and Industrial Equipment; Final Rule",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "EERE-2006-TP-0092",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a77055"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-TP-0092-0005"
+        }
+      },
+      {
+        "id": "FAA-2009-0690-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-05T19:04:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30319",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-06T04:59:59Z",
+          "title": "Class E Airspace; Establishment: Riverside/Rubidous Flabob Airport, Riverside CA",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FAA-2009-0690",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76f6c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0690-0002"
+        }
+      },
+      {
+        "id": "FAA-2009-1231-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:21:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31276",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-20T04:59:59Z",
+          "title": "Airworthiness Directives: Empresa Brasileira de Aeronautica S.A. (EMBRAER) Model ERJ 170 Airplanes; and Model ERJ 190-100 STD, et al., Airplanes",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FAA-2009-1231",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76f70"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1231-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-1225-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:21:27Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31134",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-20T04:59:59Z",
+          "title": "Airworthiness Directives:Fire Fighting Enterprises Limited Portable Halon 1211 Fire Extinguishers as Installed on Various Transport Airplanes, Small Airplanes, and Rotorcraft",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FAA-2009-1225",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76ea6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1225-0002"
+        }
+      },
+      {
+        "id": "USCG-2008-0456-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31228",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2010-01-06T04:59:59Z",
+          "title": "FR:  Drawbridge Operation Regulations: Harlem River, New York, NY (Federal Register Publication)",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "USCG-2008-0456",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76e42"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0456-0006"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0240-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:16:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31296",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Atlantic Highly Migratory Species: Atlantic Commercial Shark Management Measures",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0240",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76e81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0240-0017"
+        }
+      },
+      {
+        "id": "FHFB-2010-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-05T13:31:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31003",
+          "withdrawn": false,
+          "agencyId": "FHFB",
+          "commentEndDate": null,
+          "title": "Federal Home Loan Bank Membership for Community Development Financial Institutions",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76f19"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFB-2010-0001-0001"
+        }
+      },
+      {
+        "id": "FWS-R9-ES-2009-0084-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-02-26T17:29:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31101",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2010-03-09T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Listing Six Foreign Birds as Endangered Throughout Their Range",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FWS-R9-ES-2009-0084",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76f36"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R9-ES-2009-0084-0001"
+        }
+      },
+      {
+        "id": "FWS-R9-IA-2009-0059-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T19:27:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31102",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2010-03-09T04:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Listing Foreign Bird Species in Peru and Bolivia as Endangered Throughout Their Range",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FWS-R9-IA-2009-0059",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76e87"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R9-IA-2009-0059-0001"
+        }
+      },
+      {
+        "id": "FWS-R9-ES-2009-0086-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-02-26T17:23:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31308",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Final Rule to List the Galapagos Petrel and Heinroth's Shearwater as Threatened Throughout Their Ranges",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FWS-R9-ES-2009-0086",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76ea0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R9-ES-2009-0086-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-1229-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:21:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31290",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-20T04:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. (Type Certificate Previously Held by Bombardier Aerospace, Inc.; Canadair) Model CL 600 2B19 (Regional Jet Series 100 and 440) Airplanes",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FAA-2009-1229",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76fa7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1229-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-1004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31275",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-02-05T04:59:59Z",
+          "title": "Airworthiness Directives: Rolls-Royce plc RB211-Trent 800 Series Turbofan Engines",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FAA-2009-1004",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76fee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-1004-0001"
+        }
+      },
+      {
+        "id": "FHFA-2010-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31003",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": null,
+          "title": "Federal Home Loan Bank Membership for Community Development Financial Institutions",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76f3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2010-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2008-0080-0068",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:04:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30498",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: Area Source Standards for Prepared Feeds Manufacturing",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2008-0080",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a76e43"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2008-0080-0068"
+        }
+      },
+      {
+        "id": "FWS-R9-ES-2009-0089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-02-26T17:08:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31215",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Withdrawal of Proposed Rule to List Cooks Petrel",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FWS-R9-ES-2009-0089",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76e82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R9-ES-2009-0089-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0244-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:16:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31310",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2010-04-24T03:59:59Z",
+          "title": "Endangered and Threatened Species: Critical Habitat Designation for the Endangered Leatherback Sea Turtle",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0244",
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76e84"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0244-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2004-19608-3533",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:24:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31194",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-01-06T04:59:59Z",
+          "title": "Hours of Service",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FMCSA-2004-19608",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76e88"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2004-19608-3533"
+        }
+      },
+      {
+        "id": "FHWA-2009-0123-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-05T19:20:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31225",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2010-03-02T04:59:59Z",
+          "title": "Funding Availability for Applications for Credit Assistance under the Transportation Infrastructure Finance and Innovation Act (TIFIA) Program",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FHWA-2009-0123",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a7744c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2009-0123-0010"
+        }
+      },
+      {
+        "id": "FAA-2009-0785-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:24Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31136",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-06T04:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. (Type Certificate Previously Held by de Havilland, Inc.) Model DHC-8-400 Series Airplanes",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "FAA-2009-0785",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76f86"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0785-0004"
+        }
+      },
+      {
+        "id": "FRS-2010-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-05T13:31:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-31254",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Availability of Funds and Collection of Checks",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a76ee6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2010-0002-0001"
+        }
+      },
+      {
+        "id": "EERE-2006-TP-0121-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-02-01T18:51:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E9-30887",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2010-01-05  Energy Conservation Program: Certification, Compliance, and Enforcement Requirements for Certain Consumer Products and Commercial and Industrial Equipment; Final rule.",
+          "postedDate": "2010-01-05T05:00:00Z",
+          "docketId": "EERE-2006-TP-0121",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a77059"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-TP-0121-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 86,
+            "label": "Notice"
+          },
+          {
+            "docCount": 75,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 47,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 11,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 31,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "FWS"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFB"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-01-05",
+          "toDate": "2010-01-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 31,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 31,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

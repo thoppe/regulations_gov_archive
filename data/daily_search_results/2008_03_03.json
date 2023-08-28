@@ -1,0 +1,835 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2008-0226-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:15:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03928",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-05-03T03:59:59Z",
+          "title": "Airworthiness Directives; Boeing Model 757-200, -200PF, and - 200CB Series Airplanes",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FAA-2008-0226",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4dcd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0226-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0004-0021",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T12:59:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04016",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Walnuts Grown in California; Order Amending Marketing Order and Agreement No. 984",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "AMS-FV-07-0004",
+          "subtype": "Final Order",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803e4dd3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0004-0021"
+        }
+      },
+      {
+        "id": "NCUA-2008-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T12:08:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03799",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Procedures for Debt Collection",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "NCUA-2008-0006",
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4de2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2008-0006-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-29249-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:14:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03930",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Airbus Model A318, A319, A320, and A321 Series Airplanes",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FAA-2007-29249",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-29249-0010"
+        }
+      },
+      {
+        "id": "FAA-2008-0232-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:15:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03969",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-03T03:59:59Z",
+          "title": "Airworthiness Directives; Airbus Model A330-200 and A340-300 Series Airplanes",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FAA-2008-0232",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e13"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0232-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2007-28735-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T14:31:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04012",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Mazda North American Operations, Grant of Petition for Decision etc.",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "NHTSA-2007-28735",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e60"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-28735-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0744-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:05:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04039",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2008-03-19T03:59:59Z",
+          "title": "Magnuson-Stevens Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; 2008 Georges Bank Cod Hook Sector Operations Plan and Agreement and Allocation of Georges Bank Cod Total Allowable Catch",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0744",
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e73"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0744-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2007-28769-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T14:33:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04043",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Grant of Petition for Decision of Inconsequential Noncompliance: Ford Motor Co.",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "NHTSA-2007-28769",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-28769-0004"
+        }
+      },
+      {
+        "id": "NHTSA-2007-0038-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T14:24:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04004",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2008-04-18T03:59:59Z",
+          "title": "Notice and Request for Information and Comment on Development and Application of Crash Warning Interface Metrics",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "NHTSA-2007-0038",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4ddd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-0038-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0231-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:15:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03971",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-03T03:59:59Z",
+          "title": "Airworthiness Directives; Fokker F.28 Mark 0070 and Mark 0100 Airplanes",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FAA-2008-0231",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4de4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0231-0001"
+        }
+      },
+      {
+        "id": "FCIC-07-0012-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:21:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03964",
+          "withdrawn": false,
+          "agencyId": "FCIC",
+          "commentEndDate": null,
+          "title": "Common Crop Insurance Regulations; Cultivated Wild Rice Crop Insurance Provisions",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FCIC-07-0012",
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e09"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCIC-07-0012-0002"
+        }
+      },
+      {
+        "id": "NHTSA-2007-28734-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T14:29:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04045",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Grant of Petition for Decision of Inconsequential Noncompliance: DaimlerChrysler Corp.",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "NHTSA-2007-28734",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e35"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-28734-0003"
+        }
+      },
+      {
+        "id": "FAA-2008-0276-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T14:12:19Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00919",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-04-03T03:59:59Z",
+          "title": "Public Notice of Intent To Rule on Request To Release Surplus Airport Property at Shawnee Regional Airport, Shawnee, OK",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FAA-2008-0276",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0276-0001"
+        }
+      },
+      {
+        "id": "SSA-2007-0036-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-04-18T21:13:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03945",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": null,
+          "title": "Amendment to the Attorney Advisor Program",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "SSA-2007-0036",
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4ddb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2007-0036-0005"
+        }
+      },
+      {
+        "id": "AMS-FV-06-0176-0077",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:37:22Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00899",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Honey Packers and Importers Research, Promotion, Consumer Education and Industry Information Order; Referendum Procedures",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "AMS-FV-06-0176",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803e4e4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-06-0176-0077"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0050-0033",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-03-03T13:02:48Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04017",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Almonds Grown in California; Secretarys Decision and Referendum Order on Proposed Amendment of Marketing Order No. 981",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "AMS-FV-07-0050",
+          "subtype": "N/A",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803e4e1d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0050-0033"
+        }
+      },
+      {
+        "id": "FAA-2008-0247-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:15:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04005",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-05-03T03:59:59Z",
+          "title": "Airworthiness Directives; Air Tractor, Inc. AT-200, AT-300, AT- 400, AT-500, AT-600, AT-800 Series Airplanes",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FAA-2008-0247",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0247-0001"
+        }
+      },
+      {
+        "id": "FCC-2008-0091-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T12:09:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04028",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services; Blanca, CO",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4de9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0091-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2008-0036-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T14:27:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04026",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2008-04-03T03:59:59Z",
+          "title": "Notice of Receipt of Petition for Decision That Nonconforming 2006 and 2007 Subaru Forester Passenger Cars Are Eligiblefor Importation",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "NHTSA-2008-0036",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4df7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2008-0036-0002"
+        }
+      },
+      {
+        "id": "FCIC-07-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:21:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03963",
+          "withdrawn": false,
+          "agencyId": "FCIC",
+          "commentEndDate": null,
+          "title": "Common Crop Insurance Regulations; Mustard Crop Insurance Provisions",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FCIC-07-0002",
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4dfb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCIC-07-0002-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-06-0176-0078",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:37:22Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00900",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Establishment of Honey Packers and Importers Research, Promotion, Consumer Education and Industry Information Order and Termination of the Honey Research, Promotion, and Consumer Information Order",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "AMS-FV-06-0176",
+          "subtype": "N/A",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803e4e17"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-06-0176-0078"
+        }
+      },
+      {
+        "id": "FHWA-2008-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T14:22:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03981",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Environmental Impact Statement: Tooele County, UT",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FHWA-2008-0030",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4dc5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2008-0030-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0177-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:15:10Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00892",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-03-22T03:59:59Z",
+          "title": "Airworthiness Directives; Taylorcraft Models A, B, and F Series Airplanes",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FAA-2008-0177",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T14:06:45Z",
+          "openForComment": false,
+          "objectId": "09000064803e4dcf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0177-0006"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0119-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T13:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-04008",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Tart Cherries Grown in the States of Michigan, et al.; Final Free and Restricted Percentages for the 2007-2008 Crop Year for Tart Cherries",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "AMS-FV-07-0119",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803e4ded"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0119-0002"
+        }
+      },
+      {
+        "id": "FAA-2008-0277-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T14:16:49Z",
+          "highlightedContent": "",
+          "frDocNum": "08-00920",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Government/Industry Aeronautical Charting Forum Meeting",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FAA-2008-0277",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e62"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0277-0001"
+        }
+      },
+      {
+        "id": "FNS-2008-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:44:48Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03880",
+          "withdrawn": false,
+          "agencyId": "FNS",
+          "commentEndDate": "2008-06-03T03:59:59Z",
+          "title": "Special Supplemental Nutrition Program for Women, Infants and Children (WIC): Implementation of Nondiscretionary WIC Certification and General Administrative Provisions",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "FNS-2008-0007",
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FNS-2008-0007-0001"
+        }
+      },
+      {
+        "id": "DARS-2008-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:06:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03946",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement; Codification and Modification of Berry Amendment (DFARS Case 2002-D002)",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "DARS-2008-0018",
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e76"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2008-0018-0001"
+        }
+      },
+      {
+        "id": "DARS-2008-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:06:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-03947",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement; Mandatory Use of Wide Area WorkFlow (DFARS Case 2006-D049)",
+          "postedDate": "2008-03-03T05:00:00Z",
+          "docketId": "DARS-2008-0019",
+          "subtype": null,
+          "commentStartDate": "2008-03-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803e4e8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2008-0019-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OARM-2007-1115-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:06:46Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans; State of Iowa",
+          "postedDate": "2008-03-04T00:00:00Z",
+          "docketId": "EPA-HQ-OARM-2007-1115",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803e66e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OARM-2007-1115-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 75,
+            "label": "Other"
+          },
+          {
+            "docCount": 57,
+            "label": "Notice"
+          },
+          {
+            "docCount": 26,
+            "label": "Rule"
+          },
+          {
+            "docCount": 23,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 14,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Order"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "AMS"
+          },
+          {
+            "docCount": 5,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 2,
+            "value": "DARS"
+          },
+          {
+            "docCount": 2,
+            "value": "FCIC"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FNS"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-03-03",
+          "toDate": "2008-03-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

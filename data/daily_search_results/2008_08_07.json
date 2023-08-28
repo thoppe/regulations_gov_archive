@@ -1,0 +1,908 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-R08-OAR-2007-1030-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-09-08T11:09:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-16269",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Colorado; Affirmative Defense Provisions for Malfunctions; Common Provisions Regulation",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "EPA-R08-OAR-2007-1030",
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2007-1030-0002"
+        }
+      },
+      {
+        "id": "SEC-2008-1103-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-11-05T12:12:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18148",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2008-11-06T04:59:59Z",
+          "title": "Commission Guidance on the Use of Company Web Sites",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4127"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2008-1103-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0847-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18211",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-23T03:59:59Z",
+          "title": "Airworthiness Directives; Boeing Model 777 Airplanes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0847",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4010"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0847-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0211-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:10:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18204",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Shortraker Rockfish in the Western Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0211",
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b3fe9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0211-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0849-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18210",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Airworthiness Directives; Airbus Model A310 Series Airplanes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0849",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4002"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0849-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0848-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18202",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Airworthiness Directives; Saab Model SAAB 2000 Airplanes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0848",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4050"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0848-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0850-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18225",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Airworthiness Directives; Fokker Model F.28 Mark 0100 Airplanes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0850",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0850-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0863-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-07T13:10:55Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18356",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Newark Liberty International Airport Slots; Request for Bids",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0863",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0863-0001"
+        }
+      },
+      {
+        "id": "USCG-2008-0761-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18096",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Special Local Regulations for Marine Events; St. Leonard Creek, Patuxent River, Calvert County, MD",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "USCG-2008-0761",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b403d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0761-0001"
+        }
+      },
+      {
+        "id": "FDIC-2008-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:21:48Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18052",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Fair Housing and Nondiscrimination on the Basis of Disability",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2008-0047-0001"
+        }
+      },
+      {
+        "id": "USCG-2008-0251-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18180",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Collection of Information Under Review by Office of Management and Budget: OMB Control Numbers: 1625-0010",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "USCG-2008-0251",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b3fe4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0251-0003"
+        }
+      },
+      {
+        "id": "OPM-2008-0129-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:54:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18244",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": null,
+          "title": "Prevailing Rate Systems; North American Industry Classification System Based Federal Wage System Wage Area",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "OPM-2008-0129",
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b3feb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2008-0129-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0837-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:16:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-17786",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-10-07T03:59:59Z",
+          "title": "Airworthiness Directives; Eclipse Aviation Corporation Model EA500 Airplanes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0837",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b3fed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0837-0001"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2007-1030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-09-08T11:09:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-16268",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Colorado; Affirmative Defense Provisions for Malfunctions; Common Provisions Regulation",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "EPA-R08-OAR-2007-1030",
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b413e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2007-1030-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0854-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18228",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-10-07T03:59:59Z",
+          "title": "Airworthiness Directives; Allied Ag Cat Productions, Inc. G-164 Series Airplanes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0854",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4007"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0854-0001"
+        }
+      },
+      {
+        "id": "USCG-2008-0470-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18078",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Regulated Navigation Area and Safety Zone, Chicago Sanitary and Ship Canal, Romeoville, IL",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "USCG-2008-0470",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4047"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0470-0006"
+        }
+      },
+      {
+        "id": "FAA-2008-0862-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-08-07T13:03:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-17614",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0862",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4069"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0862-0001"
+        }
+      },
+      {
+        "id": "USCG-2008-0244-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18178",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Collection of Information Under Review by Office of Management and Budget: OMB Control Numbers: 1625-0081 and 1625-0083",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "USCG-2008-0244",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0244-0004"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0210-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:10:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18068",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Greenland Turbot in the Bering Sea Subarea of the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0210",
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0210-0001"
+        }
+      },
+      {
+        "id": "IRS-2008-0090-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-02T16:27:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-17953",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2008-11-06T04:59:59Z",
+          "title": "Substantiation and Reporting Requirements for Cash and Noncash Charitable Contribution Deductions",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "IRS-2008-0090",
+          "subtype": "NPRM",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0090-0001"
+        }
+      },
+      {
+        "id": "FDA-2008-N-0039-0064",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-11T13:44:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18129",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs For Use in Animal Feeds; Oxytetracycline",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FDA-2008-N-0039",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064806b4074"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2008-N-0039-0064"
+        }
+      },
+      {
+        "id": "SEC-2008-1083-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-17856",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2008-09-23T03:59:59Z",
+          "title": "Proposed Amendment to Municipal Securities Disclosure",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b3ff2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2008-1083-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2008-0235-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:24:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18173",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2008-09-23T03:59:59Z",
+          "title": "Elimination of Route Designation Requirement for Motor Carriers Transporting Passengers Over Regular Routes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FMCSA-2008-0235",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4004"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2008-0235-0001"
+        }
+      },
+      {
+        "id": "USCG-2008-0456-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:20:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18175",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2008-10-07T03:59:59Z",
+          "title": "Drawbridge Operation Regulations; Harlem River, New York, NY",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "USCG-2008-0456",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2008-0456-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0109-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:08:27Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18198",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Closure",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0109",
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0109-0004"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0202-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:09:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18066",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Commercial Quota Harvested for the Commonwealth of Massachusetts",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0202",
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4109"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0202-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-13744-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18239",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-11-06T04:59:59Z",
+          "title": "Robinson R-22/R-44 Special Training and Experience Requirements",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2002-13744",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b411b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13744-0016"
+        }
+      },
+      {
+        "id": "FCC-2008-0321-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-09-15T11:08:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18212",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-09-16T03:59:59Z",
+          "title": "Radio Broadcasting Services; Ehrenberg and First Mesa, AZ; Needles, CA",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4043"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2008-0321-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0846-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:17:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18222",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-09-23T03:59:59Z",
+          "title": "Airworthiness Directives; Boeing Model 757-200, 757-200PF, and 757-300 Series Airplanes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2008-0846",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b406b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0846-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-27268-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:13:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18231",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-10-07T03:59:59Z",
+          "title": "Airworthiness Directives; Cessna Aircraft Company (Type Certificate Previously Held by Columbia Aircraft Manufacturing) Models LC40-550FG, LC41-550FG, and LC42-550FG Airplanes",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "FAA-2007-27268",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b40b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27268-0011"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2008-0472-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-09-08T11:09:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-18191",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-09-09T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Virginia; Stafford County Reasonably Available Control Technology Under the 8-Hour Ozone National Ambient Air Quality Standard",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2008-0472",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b413a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2008-0472-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-08-0054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-08-11T11:10:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E8-17088",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2008-08-12T03:59:59Z",
+          "title": "Walnuts Grown in California; Increased Assessment Rate",
+          "postedDate": "2008-08-07T04:00:00Z",
+          "docketId": "AMS-FV-08-0054",
+          "subtype": "N/A",
+          "commentStartDate": "2008-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064806b4310"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-08-0054-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 65,
+            "label": "Notice"
+          },
+          {
+            "docCount": 64,
+            "label": "Other"
+          },
+          {
+            "docCount": 50,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 26,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 17,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "USCG"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-08-07",
+          "toDate": "2008-08-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

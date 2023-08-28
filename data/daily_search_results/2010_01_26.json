@@ -1,0 +1,655 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2009-0713-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:20:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01290",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-27T04:59:59Z",
+          "title": "Airworthiness Directives; Airbus Model A318 Series Airplanes",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "FAA-2009-0713",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83d92"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0713-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2009-0596-0179",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:09:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01220",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-04-29T03:59:59Z",
+          "title": "Water Quality Standards for the State of Florida's Lakes and Flowing Waters",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "EPA-HQ-OW-2009-0596",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83e17"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2009-0596-0179"
+        }
+      },
+      {
+        "id": "CFTC-2010-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:04:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01209",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2010-04-27T03:59:59Z",
+          "title": "Federal Speculative Position Limits for Referenced Energy Contracts and Associated Regulations",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83cb9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2010-0004-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2009-0421-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T15:23:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01497",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2010-01-27T04:59:59Z",
+          "title": "Pipeline Safety: Leak Detection on Hazardous Liquid Pipelines",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "PHMSA-2009-0421",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83e36"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2009-0421-0001"
+        }
+      },
+      {
+        "id": "FCC-2010-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-01-26T14:04:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01426",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2010-03-09T04:59:59Z",
+          "title": "FM TABLE OF ALLOTMENTS, DEBEQUE, CO",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83e38"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2010-0022-0001"
+        }
+      },
+      {
+        "id": "PRC-2010-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T14:04:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01452",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": null,
+          "title": "New Postal Product",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83dd9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2010-0007-0001"
+        }
+      },
+      {
+        "id": "APHIS-2008-0022-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:56:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01375",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Phytosanitary Treatments; Location of and Process for Updating Treatment Schedules",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "APHIS-2008-0022",
+          "subtype": "Final rule",
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83e15"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2008-0022-0018"
+        }
+      },
+      {
+        "id": "RUS-09-ELECTRIC-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:57:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01401",
+          "withdrawn": false,
+          "agencyId": "RUS",
+          "commentEndDate": "2010-03-30T03:59:59Z",
+          "title": "Emergency Restoration Plan (ERP)",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "RUS-09-ELECTRIC-0003",
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83d59"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RUS-09-ELECTRIC-0003-0001"
+        }
+      },
+      {
+        "id": "FCC-2010-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-01-26T14:03:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01427",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2010-03-09T04:59:59Z",
+          "title": "FM TABLE OF ALLOTMENTS, BRACKETTVILLE, TX",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83dba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2010-0020-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2010-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T15:22:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01470",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2010-02-26T04:59:59Z",
+          "title": "Pipeline Safety: Requests for Special Permit",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "PHMSA-2010-0016",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83df9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2010-0016-0001"
+        }
+      },
+      {
+        "id": "FTC-2010-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-22T13:20:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01418",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": null,
+          "title": "Trade Regulation Rule Relating to Power Output Claims for Amplifiers Utilized in Home Entertainment Products",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "FTC-2010-0016",
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83dfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2010-0016-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:17:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01479",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Spiny Dogfish Fishery; Commercial Period 2 Quota Harvested",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0019",
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83cb6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0019-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2009-0475-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T17:49:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01385",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Revisions to the California State Implementation Plan, San Joaquin Valley Air Pollution Control District",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2009-0475",
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83d93"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2009-0475-0028"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2008-0307-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T16:59:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01386",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-02-25T04:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Montana; Revisions to the Administrative Rules of Montana",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "EPA-R08-OAR-2008-0307",
+          "subtype": null,
+          "commentStartDate": "2010-01-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83da6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2008-0307-0001"
+        }
+      },
+      {
+        "id": "FERC-2010-0106-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T14:02:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01446",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Annual Update of Filing Fees",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83d3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2010-0106-0001"
+        }
+      },
+      {
+        "id": "USPS-2010-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-01-26T14:02:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01499",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2010-02-26T04:59:59Z",
+          "title": "Streamlining Hard-Copy Postage Statement Processing",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83d55"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2010-0006-0001"
+        }
+      },
+      {
+        "id": "SEC-2010-0131-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01269",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2010-03-30T03:59:59Z",
+          "title": "Risk Management Controls for Brokers or Dealers With Market Access",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83d56"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2010-0131-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0326-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T15:06:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01379",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-01-27T04:59:59Z",
+          "title": "Establishment of Class D and Class E Airspace, Modification of Class E Airspace; Ocala, FL",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "FAA-2009-0326",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83dbb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0326-0002"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2008-0307-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-01-29T16:05:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01398",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-02-25T04:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Montana; Revisions to the Administrative Rules of Montana",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "EPA-R08-OAR-2008-0307",
+          "subtype": null,
+          "commentStartDate": "2010-01-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83d76"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2008-0307-0007"
+        }
+      },
+      {
+        "id": "PHMSA-2009-0377-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T15:07:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01472",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2010-02-10T04:59:59Z",
+          "title": "Pipeline Safety: Request To Modify Special Permit",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "PHMSA-2009-0377",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480a83d3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2009-0377-0001"
+        }
+      },
+      {
+        "id": "FEMA-2010-0003-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-01-26T14:20:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-01414",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2010-01-26T05:00:00Z",
+          "docketId": "FEMA-2010-0003",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480a83d5c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2010-0003-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 69,
+            "label": "Other"
+          },
+          {
+            "docCount": 67,
+            "label": "Notice"
+          },
+          {
+            "docCount": 47,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "RUS"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-01-26",
+          "toDate": "2010-01-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]
