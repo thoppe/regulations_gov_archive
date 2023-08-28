@@ -1,0 +1,943 @@
+[
+  {
+    "data": [
+      {
+        "id": "BIS-2010-0039-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-12-10T14:40:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30966",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Commerce Control List: Revising Descriptions of Items and Foreign Availability",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "BIS-2010-0039",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d1d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2010-0039-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1237-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:23:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30976",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-11T04:59:59Z",
+          "title": "Requests to Release Airport Property: Kearney Municipal Airport, Kearney, NE",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FAA-2010-1237",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d31"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1237-0001"
+        }
+      },
+      {
+        "id": "BSEE-2012-0002-0038",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-08-22T20:38:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30990",
+          "withdrawn": false,
+          "agencyId": "BSEE",
+          "commentEndDate": null,
+          "title": "Oil and Gas and Sulphur Operations in the Outer Continental Shelf-Increased Safety Measures for Energy Development on the Outer Continental Shelf; Correction",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "BSEE-2012-0002",
+          "subtype": null,
+          "commentStartDate": "2012-08-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064810e7964"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BSEE-2012-0002-0038"
+        }
+      },
+      {
+        "id": "NHTSA-2010-0147-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:50:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30357",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Anthropomorphic Test Devices: Hybrid III 6-Year-Old Child Test Dummy, Hybrid III 6-Year-Old Weighted Child Test Dummy",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "NHTSA-2010-0147",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb287f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2010-0147-0001"
+        }
+      },
+      {
+        "id": "FINCEN-2010-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:23:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30765",
+          "withdrawn": false,
+          "agencyId": "FINCEN",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Anti-Money Laundering Program and Suspicious Activity Report Filing Requirements: Residential Mortgage Lenders and Originators",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FINCEN-2010-0001",
+          "subtype": "NPRM",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2896"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FINCEN-2010-0001-0001"
+        }
+      },
+      {
+        "id": "BOEM-2010-0034-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:00:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30990",
+          "withdrawn": false,
+          "agencyId": "BOEM",
+          "commentEndDate": null,
+          "title": "Oil and Gas and Sulphur Operations in the Outer Continental Shelf: Increased Safety Measures for Energy Development; Correction",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "BOEM-2010-0034",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BOEM-2010-0034-0016"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0035-0181",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30394",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Snapper-Grouper Fishery off the Southern Atlantic States; Amendment 17A",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0035",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0035-0181"
+        }
+      },
+      {
+        "id": "FHFB-2010-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:23:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30519",
+          "withdrawn": false,
+          "agencyId": "FHFB",
+          "commentEndDate": null,
+          "title": "Use of Community Development Loans by Community Financial Institutions to Secure Advances: Secured Lending by Federal Home Loan Banks to Members and their Affiliates; Transfer of Advances and New Business Activity Regulations",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFB-2010-0012-0001"
+        }
+      },
+      {
+        "id": "CPSC-2010-0041-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-16T19:12:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30491",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": null,
+          "title": "Publicly Available Consumer Product Safety Information Database",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "CPSC-2010-0041",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d49"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2010-0041-0040"
+        }
+      },
+      {
+        "id": "EPA-R10-RCRA-2010-0947-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-02-27T19:34:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31011",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-01-11T04:59:59Z",
+          "title": "Oregon; Correction of Federal Authorization of the State's Hazardous Waste Management Program",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "EPA-R10-RCRA-2010-0947",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d18"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-RCRA-2010-0947-0001"
+        }
+      },
+      {
+        "id": "BIS-2010-0038-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:59:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30968",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Export Control Modernization: Strategic Trade Authorization License Exception",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "BIS-2010-0038",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d1c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2010-0038-0001"
+        }
+      },
+      {
+        "id": "FRA-2010-0153-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-27T23:39:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30911",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Petitions for Waivers of Compliance: Roger W. Stabler and Gloria J. Stabler",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FRA-2010-0153",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2010-0153-0003"
+        }
+      },
+      {
+        "id": "FRA-2009-0031-0047",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:32:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31013",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Environmental Impact Statements; Availability, etc.: Milwaukee, WI,  to Minneapolis, MN, Rail Corridor",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FRA-2009-0031",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d2d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0031-0047"
+        }
+      },
+      {
+        "id": "FAA-2010-0614-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:23:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30832",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Rolls-Royce Deutschland Ltd&Co KG Models BR700-710A1-10; BR700-710A2-20; and BR700-710C4-11 Turbofan Engines",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FAA-2010-0614",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb289b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0614-0004"
+        }
+      },
+      {
+        "id": "FAA-2010-1235-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:17:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30619",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-11T04:59:59Z",
+          "title": "Change in Use of Aeronautical Property: Houlton International Airport, Houlton, ME",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FAA-2010-1235",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2899"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1235-0001"
+        }
+      },
+      {
+        "id": "OPM_FRDOC_0001-0490",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:54:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30962",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": null,
+          "title": "Federal Employees Health Benefits Program Miscellaneous Changes",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "OPM_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM_FRDOC_0001-0490"
+        }
+      },
+      {
+        "id": "FAA-2010-1236-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:22:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30591",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FAA-2010-1236",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1236-0001"
+        }
+      },
+      {
+        "id": "FHFA-2010-0042-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T14:03:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30519",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": null,
+          "title": "Use of Community Development Loans by Community Financial Institutions to Secure Advances: Secured Lending by Federal Home Loan Banks to Members and their Affiliates; Transfer of Advances and New Business Activity Regulations",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2010-0042-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2010-0157-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:50:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30975",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "NHTSA-2010-0157",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2010-0157-0001"
+        }
+      },
+      {
+        "id": "DARS-2010-0125-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:06:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30953",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2011-01-11T04:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Business Systems-Definition and Administration",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "DARS-2010-0125",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d32"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2010-0125-0003"
+        }
+      },
+      {
+        "id": "FAA-2010-1179-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31002",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-25T04:59:59Z",
+          "title": "Establishment of Area Navigation Routes: Western United States",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FAA-2010-1179",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2897"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1179-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2010-0133-0089",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:06:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30296",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Regulation of Fuel and Fuel Additives: 2011 Renewable Fuel Standards",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2010-0133",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bb2879"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2010-0133-0089"
+        }
+      },
+      {
+        "id": "CFTC-2010-0183-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:04:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30884",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Reporting, Recordkeeping, and Daily Trading Records Requirements for Swap Dealers and Major Swap Participants",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d30"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2010-0183-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0961-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:20:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30989",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-25T04:59:59Z",
+          "title": "Modification of Class E Airspace: Bryce Canyon, UT",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FAA-2010-0961",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0961-0001"
+        }
+      },
+      {
+        "id": "EAB_FRDOC_0001-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:15:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30970",
+          "withdrawn": false,
+          "agencyId": "EAB",
+          "commentEndDate": null,
+          "title": "Direct Investment Surveys: BE-577, Quarterly Survey of U.S. Direct Investment Abroad-Direct Transactions of U.S. Reporter with Foreign Affiliate",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "EAB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EAB_FRDOC_0001-0019"
+        }
+      },
+      {
+        "id": "USCG-2010-0612-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:21:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30918",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "NPRM:  Drawbridge Operation Regulations: Isle of Wight (Sinepuxent) Bay, Ocean City, MD (Federal Register Publication)",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "USCG-2010-0612",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2010-0612-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1238-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:25:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30586",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FAA-2010-1238",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d33"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1238-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-RCRA-2010-0947-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-27T19:35:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31012",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-01-11T04:59:59Z",
+          "title": "Oregon; Correction of Federal Authorization of State's Hazardous Waste Management Program",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "EPA-R10-RCRA-2010-0947",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-RCRA-2010-0947-0002"
+        }
+      },
+      {
+        "id": "FAA-2010-1180-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:26:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30999",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-25T04:59:59Z",
+          "title": "Establishment of Area Navigation Routes: Western United States",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FAA-2010-1180",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2d6b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1180-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2010-0172-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:35:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31004",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "NHTSA-2010-0172",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb2898"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2010-0172-0001"
+        }
+      },
+      {
+        "id": "FRA-2010-0158-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-11-21T21:18:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30910",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Petitions for Waivers of Compliance: Madison Railroad",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "FRA-2010-0158",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2010-0158-0002"
+        }
+      },
+      {
+        "id": "NHTSA-2010-0159-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T16:48:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30698",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Federal Motor Vehicle Safety Standards: Small Business Impacts of Motor Vehicle Safety",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "NHTSA-2010-0159",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2010-0159-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0243-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30682",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-06-02T03:59:59Z",
+          "title": "Fisheries of the Caribbean, Gulf ofMexico, and South Atlantic: Snapper-Grouper Fishery off the South Atlantic States; Emergency Rule to Delay Effectiveness of Closure",
+          "postedDate": "2010-12-09T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0243",
+          "subtype": null,
+          "commentStartDate": "2010-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb28ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0243-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 79,
+            "label": "Other"
+          },
+          {
+            "docCount": 68,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 63,
+            "label": "Notice"
+          },
+          {
+            "docCount": 27,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 16,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 33,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FRA"
+          },
+          {
+            "docCount": 2,
+            "value": "BIS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "BOEM"
+          },
+          {
+            "docCount": 1,
+            "value": "BSEE"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DARS"
+          },
+          {
+            "docCount": 1,
+            "value": "EAB"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFB"
+          },
+          {
+            "docCount": 1,
+            "value": "FINCEN"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-12-09",
+          "toDate": "2010-12-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

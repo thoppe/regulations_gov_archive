@@ -1,0 +1,782 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2011-0002-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-08T23:49:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03418",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Final Flood Elevation Determinations",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bf03b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0020"
+        }
+      },
+      {
+        "id": "FAA-2011-0092-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-02-16T14:48:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03467",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Removal of Expired Federal Aviation Administration Regulations and References",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FAA-2011-0092",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf03b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0092-0001"
+        }
+      },
+      {
+        "id": "BOEM-2010-0045-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:01:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03515",
+          "withdrawn": false,
+          "agencyId": "BOEM",
+          "commentEndDate": "2011-03-19T03:59:59Z",
+          "title": "Renewable Energy Alternate Uses of Existing Facilities on Outer Continental Shelf: Acquire Lease Noncompetitively",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "BOEM-2010-0045",
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf0325"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BOEM-2010-0045-0011"
+        }
+      },
+      {
+        "id": "FAR-2010-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:19:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03354",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2011-04-19T03:59:59Z",
+          "title": "FAR Case 2010-005; Federal Acquisition Regulation; Updated Financial Accounting Standards Board Accounting References",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FAR-2010-0005",
+          "subtype": "Proposed Rules",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf0349"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2010-0005-0001"
+        }
+      },
+      {
+        "id": "USN-2011-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-02T13:55:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03530",
+          "withdrawn": false,
+          "agencyId": "USN",
+          "commentEndDate": null,
+          "title": "Certifications and Exemptions under International Regulations for Preventing Collisions at Sea, 1972",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "USN-2011-0003",
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf038c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USN-2011-0003-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1129-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-02-16T14:40:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03463",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-03-01T04:59:59Z",
+          "title": "Petitions for Exemptions; Summaries of Petitions Received",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FAA-2010-1129",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf039d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1129-0002"
+        }
+      },
+      {
+        "id": "NRC-2008-0361-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:15:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03493",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "License and Certificate of Compliance Terms",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "NRC-2008-0361",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf03ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2008-0361-0018"
+        }
+      },
+      {
+        "id": "FEMA-2011-0002-0021",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-08T23:50:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03511",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Changes in Flood Elevation Determinations",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bf03e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0021"
+        }
+      },
+      {
+        "id": "AID-2021-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-05-10T18:55:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03401",
+          "withdrawn": false,
+          "agencyId": "AID",
+          "commentEndDate": "2011-04-05T03:59:59Z",
+          "title": "Rules on Source, Origin and Nationality for Commodities and Services Financed by USAID",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "AID-2021-0003",
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf02e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AID-2021-0003-0001"
+        }
+      },
+      {
+        "id": "FEMA-2011-0002-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-08T23:50:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03509",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Flood Elevation Determinations",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bf03d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0022"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2010-0275-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-02-18T17:36:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03400",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Exemption from the Requirement of a Tolerance: Polymerized Fatty Acid Esters with Aminoalcohol Alkoxylates",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2010-0275",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf03d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2010-0275-0005"
+        }
+      },
+      {
+        "id": "FMCSA-2004-19608-7737",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-10-10T02:01:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03267",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2011-03-05T04:59:59Z",
+          "title": "Hours of Service of Drivers; Correction",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FMCSA-2004-19608",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf0286"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2004-19608-7737"
+        }
+      },
+      {
+        "id": "FEMA-2011-0002-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-08T23:49:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03420",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Flood Elevation Determinations",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bf038e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0019"
+        }
+      },
+      {
+        "id": "FAA-2011-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-02-16T14:47:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03413",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-05T03:59:59Z",
+          "title": "Modification of Class E Airspace: Poplar, MT",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FAA-2011-0016",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf03a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0016-0001"
+        }
+      },
+      {
+        "id": "FEMA-2011-0002-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-02-16T16:07:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03508",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bf02ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0017"
+        }
+      },
+      {
+        "id": "FAA-2011-0105-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-25T01:20:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03487",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-05-18T03:59:59Z",
+          "title": "Explosive Siting Requirements",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FAA-2011-0105",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf0346"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0105-0001"
+        }
+      },
+      {
+        "id": "FEMA-2011-0002-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-08T23:48:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03505",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Flood Elevation Determinations",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bf0386"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0018"
+        }
+      },
+      {
+        "id": "TTB-2008-0004-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-08-10T13:25:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01956",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": null,
+          "title": "T.D. TTB-92:  Revision of Distilled Spirits Plant Regulations",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "TTB-2008-0004",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bf0285"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2008-0004-0012"
+        }
+      },
+      {
+        "id": "SEC-2011-0221-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03259",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2011-03-29T03:59:59Z",
+          "title": "Security Ratings",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf03e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2011-0221-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0042-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03532",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-05T03:59:59Z",
+          "title": "Airworthiness Directives: DASSAULT AVIATION Model MYSTERE FALCON 50 Airplanes",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FAA-2011-0042",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf0327"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0042-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-10-0060-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-02-16T20:02:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03500",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Decreased Assessment Rates: Walnuts Grown in California",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "AMS-FV-10-0060",
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf0348"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-10-0060-0002"
+        }
+      },
+      {
+        "id": "STB-2011-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-02-16T13:42:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03397",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": "2011-04-13T03:59:59Z",
+          "title": "National Trails System Act and Railroad Rights-of-Way",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf035e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2011-0025-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-10-0112-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-02-16T20:04:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03501",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Referendum Orders: Pears Grown in Oregon and Washington; Continuance",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "AMS-FV-10-0112",
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf0361"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-10-0112-0001"
+        }
+      },
+      {
+        "id": "CPSC-2011-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-02-17T15:19:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03437",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2011-05-03T03:59:59Z",
+          "title": "Poison Prevention Packaging Requirements: Proposed Exemption of Powder Formulations of Colesevelam Hydrochloride and Sevelamer Carbonate",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "CPSC-2011-0007",
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf038b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2011-0007-0001"
+        }
+      },
+      {
+        "id": "FEMA-2011-0002-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-02-16T15:45:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03423",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Changes in Flood Elevation Determinations",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bf02e9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0016"
+        }
+      },
+      {
+        "id": "HHS-OS-2022-0008-0303",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-05-27T15:49:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-03523",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "National Vaccine Injury Compensation Program: Revisions to Vaccine Injury Table",
+          "postedDate": "2011-02-16T05:00:00Z",
+          "docketId": "HHS-OS-2022-0008",
+          "subtype": null,
+          "commentStartDate": "2011-02-16T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bf03d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-OS-2022-0008-0303"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 143,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 60,
+            "label": "Notice"
+          },
+          {
+            "docCount": 36,
+            "label": "Other"
+          },
+          {
+            "docCount": 14,
+            "label": "Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rules"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "AID"
+          },
+          {
+            "docCount": 1,
+            "value": "BOEM"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAR"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          },
+          {
+            "docCount": 1,
+            "value": "TTB"
+          },
+          {
+            "docCount": 1,
+            "value": "USN"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-02-16",
+          "toDate": "2011-02-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

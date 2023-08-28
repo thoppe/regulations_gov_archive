@@ -1,0 +1,122 @@
+[
+  {
+    "data": [
+      {
+        "id": "ATBCB-2010-0004-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-07-16T17:21:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "ATBCB",
+          "commentEndDate": null,
+          "title": "ADA Accessibility Guidelines for Transportation Vehicles",
+          "postedDate": "2010-07-26T00:00:00Z",
+          "docketId": "ATBCB-2010-0004",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480b21364"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ATBCB-2010-0004-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Other"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "ATBCB"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-07-25",
+          "toDate": "2010-07-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

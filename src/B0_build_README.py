@@ -32,6 +32,7 @@ header = open(f_header).read()
 footer = open(f_footer).read()
 
 readme_text = "\n\n".join([header, content, footer])
+print(content)
 
 with open("README.md", 'w') as FOUT:
     FOUT.write(readme_text)

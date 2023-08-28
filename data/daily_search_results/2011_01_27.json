@@ -1,0 +1,725 @@
+[
+  {
+    "data": [
+      {
+        "id": "DHS_FRDOC_0001-0784",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-02-01T18:08:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Airports of Entry or Departure for Flights To and From Cuba",
+          "postedDate": "2011-01-28T00:00:00Z",
+          "docketId": "DHS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bd50ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS_FRDOC_0001-0784"
+        }
+      },
+      {
+        "id": "ITA-2010-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-16T20:49:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "ITA",
+          "commentEndDate": "2011-06-28T03:59:59Z",
+          "title": "Proposed rule; request for comments",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "ITA-2010-0012",
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd3eaa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ITA-2010-0012-0001"
+        }
+      },
+      {
+        "id": "USCG-2011-0038-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:21:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01804",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2011-03-01T04:59:59Z",
+          "title": "NPRM:  Security Zones: Cruise Ships, Port of San Diego, CA (Federal Register Publication)",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "USCG-2011-0038",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2011-0038-0001"
+        }
+      },
+      {
+        "id": "CCC_FRDOC_0001-0187",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:37:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01701",
+          "withdrawn": false,
+          "agencyId": "CCC",
+          "commentEndDate": null,
+          "title": "Establishment of New Agency; Revision of Delegations of Authority",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "CCC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4622"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0187"
+        }
+      },
+      {
+        "id": "RITA-2008-0002-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-05-20T13:37:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01747",
+          "withdrawn": false,
+          "agencyId": "RITA",
+          "commentEndDate": "2011-03-29T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Report of Financial and Operating Statistics for Small AircraftOperators",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "RITA-2008-0002",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4510"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RITA-2008-0002-0018"
+        }
+      },
+      {
+        "id": "USPS-2011-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-27T14:25:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01702",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "New Mailing Standards for Domestic Mailing Services",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2011-0012-0001"
+        }
+      },
+      {
+        "id": "FCIC_FRDOC_0001-0085",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:21:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01701",
+          "withdrawn": false,
+          "agencyId": "FCIC",
+          "commentEndDate": null,
+          "title": "Establishment of New Agency; Revision of Delegations of Authority",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "FCIC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4601"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCIC_FRDOC_0001-0085"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2010-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-27T14:42:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01771",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-03-01T04:59:59Z",
+          "title": "Proposed Approval of Ohio Reinforced Plastic Composites Rule",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2010-0036",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4529"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2010-0036-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2011-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-27T14:42:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01772",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Petitions for Exemption from Vehicle Theft Prevention Standard; Suzuki",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "NHTSA-2011-0017",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2011-0017-0001"
+        }
+      },
+      {
+        "id": "FCC-2011-0031-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-27T14:23:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01405",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2011-02-05T04:59:59Z",
+          "title": "Implementation of the Twenty-First Century Communications and Video Accessibility Act of 2010: Relay Services for Deaf-Blind Individuals",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd450a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2011-0031-0001"
+        }
+      },
+      {
+        "id": "FDIC-2011-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01732",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Deposit Insurance Regulations: Unlimited Coverage for Noninterest-bearing Transaction Accounts; Inclusion of Interest on Lawyers Trust Accounts",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4512"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2011-0008-0001"
+        }
+      },
+      {
+        "id": "RITA-2008-0002-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-05-20T13:37:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01748",
+          "withdrawn": false,
+          "agencyId": "RITA",
+          "commentEndDate": "2011-03-29T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Report of Traffic and Capacity Statistics - T-100 System",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "RITA-2008-0002",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4577"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RITA-2008-0002-0019"
+        }
+      },
+      {
+        "id": "RITA-2008-0002-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-04-18T05:14:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01746",
+          "withdrawn": false,
+          "agencyId": "RITA",
+          "commentEndDate": "2011-03-29T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Report of Financial and Operating Statistics for Large Certificated AirCarriers",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "RITA-2008-0002",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RITA-2008-0002-0020"
+        }
+      },
+      {
+        "id": "TREAS_FRDOC_0001-0114",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-10-17T19:14:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01775",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Privacy Act; Implementation",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0114"
+        }
+      },
+      {
+        "id": "FTA-2011-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-27T14:39:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01761",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2011-03-16T03:59:59Z",
+          "title": "Environmental Impact Statements; Availability, etc.: Potomac Yard Metrorail Station, Alexandria, VA",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "FTA-2011-0006",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2011-0006-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0095-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-27T14:37:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01769",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Meetings: Commercial Space Transportation Advisory Committee",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "FAA-2011-0095",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4620"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0095-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2009-0303-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-25T01:40:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01695",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2011-03-29T03:59:59Z",
+          "title": "Hazardous Materials: Safety Requirements for External Product Piping on Cargo Tanks Transporting Flammable Liquids",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "PHMSA-2009-0303",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd457a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2009-0303-0006"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-0668",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:06:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01701",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Establishment of New Agency; Revision of Delegations of Authority",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4596"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-0668"
+        }
+      },
+      {
+        "id": "ARS_FRDOC_0001-0078",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:56:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01701",
+          "withdrawn": false,
+          "agencyId": "ARS",
+          "commentEndDate": null,
+          "title": "Establishment of New Agency; Revision of Delegations of Authority",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "ARS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd4561"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ARS_FRDOC_0001-0078"
+        }
+      },
+      {
+        "id": "CMS-2011-0006-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:36:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01507",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2011-03-23T03:59:59Z",
+          "title": "Medicare Program: Inpatient Psychiatric Facilities Prospective Payment System; Update for Rate Year Beginning July 1, 2011",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "CMS-2011-0006",
+          "subtype": "Published Proposed Rule",
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2011-0006-0002"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:42:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01839",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-02-12T04:59:59Z",
+          "title": "Fisheries Off West Coast States: Coastal Pelagic Species Fisheries; Annual Specifications",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0015",
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0015-0001"
+        }
+      },
+      {
+        "id": "FCC-2010-0094-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-27T14:25:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01166",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "High-Cost Universal Service Support and Federal-State Joint Board on Universal Service",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd45ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2010-0094-0006"
+        }
+      },
+      {
+        "id": "NIFA_FRDOC_0001-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:51:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01701",
+          "withdrawn": false,
+          "agencyId": "NIFA",
+          "commentEndDate": null,
+          "title": "Establishment of New Agency; Revision of Delegations of Authority",
+          "postedDate": "2011-01-27T05:00:00Z",
+          "docketId": "NIFA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd462f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIFA_FRDOC_0001-0020"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 89,
+            "label": "Notice"
+          },
+          {
+            "docCount": 64,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 29,
+            "label": "Other"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Published Proposed Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 23,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "RITA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "ARS"
+          },
+          {
+            "docCount": 1,
+            "value": "CCC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "ITA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NIFA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-01-27",
+          "toDate": "2011-01-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 23,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 23,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

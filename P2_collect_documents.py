@@ -4,6 +4,7 @@ from dspipe import Pipe
 import utils
 import json
 import bs4
+import time
 
 date_key = "attributes.commentEndDate"
 
@@ -41,6 +42,11 @@ def compute(docID, f1):
     js = r.json()
 
     if not r.ok:
+        if r.status_code == 429:
+            print("Sleeping for one hour")
+            time.sleep(60 * 60)
+            return compute(docID, f1)
+
         if r.status_code == 404:
             print(f"404 {docID} skipping")
             return

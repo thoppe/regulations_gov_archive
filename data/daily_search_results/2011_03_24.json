@@ -1,0 +1,824 @@
+[
+  {
+    "data": [
+      {
+        "id": "FERC-2011-0429-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T13:30:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06490",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Demand Response Compensation in Organized Wholesale Energy Markets",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd65"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2011-0429-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0257-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-27T23:48:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06932",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-05-10T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Model A318, A319, A320, and A321 Series Airplanes",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FAA-2011-0257",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd67"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0257-0001"
+        }
+      },
+      {
+        "id": "CFTC-2011-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:04:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06972",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2011-04-26T03:59:59Z",
+          "title": "Risk Management Requirements for Derivatives Clearing Organizations",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0f8d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2011-0035-0001"
+        }
+      },
+      {
+        "id": "CFTC-2011-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:04:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06976",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Risk Management Requirements for Derivatives Clearing Organizations; Correction",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd48"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2011-0036-0001"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0002-0095",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T13:39:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-6795",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs: Change of Sponsor's Name and Address; Corrections",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FDA-2010-N-0002",
+          "subtype": "NCR-Notice of Correction",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0f8fd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0002-0095"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06981",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic; Closure",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0019",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0019-0001"
+        }
+      },
+      {
+        "id": "FHWA-2011-0031-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T21:42:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06745",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Final Federal Agency Actions on Proposed Highway in California",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FHWA-2011-0031",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2011-0031-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0452-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:22:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06719",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt&Whitney JT8D-209, -217, -217A, -217C, and -219 Series Turbofan Engines",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FAA-2010-0452",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd15"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0452-0009"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0002-0097",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T13:46:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-6790",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Animal Drugs, Feeds, and Related Products; Withdrawal of Approval of  New Animal Drug Applications; Aklomide; Levamisole Hydrochloride; Nitromide and Sulfanitran; Roxarsone; Correction",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FDA-2010-N-0002",
+          "subtype": "NCR-Notice of Correction",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd1e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0002-0097"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0084-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:42:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-07025",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-05-24T03:59:59Z",
+          "title": "Fisheries of Northeastern United States: Atlantic Sea Scallop Fishery; Amendment 15 to Management Plan",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0084",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0084-0001"
+        }
+      },
+      {
+        "id": "STB-2011-0049-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T13:28:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06420",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": "2011-05-24T03:59:59Z",
+          "title": "Solid Waste Rail Transfer Facilities",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0f8d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2011-0049-0001"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0002-0096",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T13:42:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-6789",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs for Use in Animal Feeds: Florfenicol; Correction",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FDA-2010-N-0002",
+          "subtype": "NCR-Notice of Correction",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd16"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0002-0096"
+        }
+      },
+      {
+        "id": "FAA-2011-0258-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06931",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-05-10T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Co. Model 737 600,  700,  700C,  800,  900, and -900ER Series Airplanes",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FAA-2011-0258",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0258-0001"
+        }
+      },
+      {
+        "id": "NCUA-2011-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:50:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06752",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": "2011-05-24T03:59:59Z",
+          "title": "Interest Rate Risk",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "NCUA-2011-0018",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2011-0018-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-RCRA-2010-0132-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T14:38:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06892",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hazardous Waste Management System: Identification and Listing; Final Exclusion",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "EPA-R03-RCRA-2010-0132",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480c0fd6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-RCRA-2010-0132-0040"
+        }
+      },
+      {
+        "id": "USPS-2011-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-03-24T13:30:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06912",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2011-04-26T03:59:59Z",
+          "title": "Combined Mailings of Standard Mail and Periodicals Flats",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2011-0026-0001"
+        }
+      },
+      {
+        "id": "DOS-2011-0053-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:14:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06977",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": "2011-05-24T03:59:59Z",
+          "title": "Amendment to the International Traffic in Arms Regulations: Electronic Payment of Registration Fees; 60-Day Notice of Proposed Statement of Registration Information Collection; Correction",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "DOS-2011-0053",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd6c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2011-0053-0002"
+        }
+      },
+      {
+        "id": "USCBP-2005-0009-0031",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:05:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06945",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Country of Origin of Textile and Apparel Products; Correction",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "USCBP-2005-0009",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480c0fd7b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2005-0009-0031"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2005-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-03-24T18:56:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06975",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-04-26T03:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans: South Carolina;  Prevention of Significant Deterioration and Nonattainment New Source Review",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2005-0004",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd1b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2005-0004-0001"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0002-0098",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T13:48:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06791",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Certain Other Dosage Form New Animal Drugs: Detomidine; Correction",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FDA-2010-N-0002",
+          "subtype": "NCR-Notice of Correction",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0002-0098"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0058-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:42:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-07019",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-06-07T03:59:59Z",
+          "title": "Endangered and Threatened Species: Range Extension for Coho Salmon South of San Francisco Bay",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0058",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0058-0009"
+        }
+      },
+      {
+        "id": "USPS-2011-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T13:29:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06911",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Combined Mailings of Standard Mail and Periodicals Flats; Withdrawal",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0f8d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2011-0025-0001"
+        }
+      },
+      {
+        "id": "NRC-2010-0135-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:16:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06839",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2011-06-08T03:59:59Z",
+          "title": "ESBWR Design Certification",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "NRC-2010-0135",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0f8ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2010-0135-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1170-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T21:36:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06854",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E Airspace: Creighton, NE",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FAA-2010-1170",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0f8d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1170-0002"
+        }
+      },
+      {
+        "id": "EOIR-2012-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-02-29T16:13:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06961",
+          "withdrawn": false,
+          "agencyId": "EOIR",
+          "commentEndDate": null,
+          "title": "Reorganization of Regulations on Control of Employment of Aliens",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "EOIR-2012-0004",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd19"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EOIR-2012-0004-0001"
+        }
+      },
+      {
+        "id": "SSA-2011-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:01:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06983",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": null,
+          "title": "Technical Correction for Neurological Listing Cross-Reference",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "SSA-2011-0019",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd2e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2011-0019-0001"
+        }
+      },
+      {
+        "id": "TREAS_FRDOC_0001-0123",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-10-17T19:14:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06945",
+          "withdrawn": false,
+          "agencyId": "TREAS",
+          "commentEndDate": null,
+          "title": "Country of Origin of Textile and Apparel Products; Correction",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "TREAS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0fd4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TREAS_FRDOC_0001-0123"
+        }
+      },
+      {
+        "id": "FAA-2011-0196-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-24T21:37:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-06958",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-14T03:59:59Z",
+          "title": "Petitions for Exemption; Summaries of Petitions Received",
+          "postedDate": "2011-03-24T04:00:00Z",
+          "docketId": "FAA-2011-0196",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0f8fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0196-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 64,
+            "label": "Other"
+          },
+          {
+            "docCount": 44,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 29,
+            "label": "Notice"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "NCR-Notice of Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 28,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FDA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "EOIR"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          },
+          {
+            "docCount": 1,
+            "value": "TREAS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-03-24",
+          "toDate": "2011-03-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 28,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 28,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

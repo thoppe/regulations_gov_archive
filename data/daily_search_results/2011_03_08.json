@@ -1,0 +1,1151 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2011-0186-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05325",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-05-10T03:59:59Z",
+          "title": "Lavatory Oxygen Systems",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0186",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c032b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0186-0001"
+        }
+      },
+      {
+        "id": "FTZB-2011-0001-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:27:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FTZB",
+          "commentEndDate": null,
+          "title": "Foreign-Trade Zones in the United States, Extension of public comment period",
+          "postedDate": "2011-03-09T00:00:00Z",
+          "docketId": "FTZB-2011-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480c04012"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTZB-2011-0001-0005"
+        }
+      },
+      {
+        "id": "EDA_FRDOC_0001-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:17:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05128",
+          "withdrawn": false,
+          "agencyId": "EDA",
+          "commentEndDate": "2011-04-12T03:59:59Z",
+          "title": "Request for Comments: Review and Improvement of EDAs Regulations",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "EDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03168"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EDA_FRDOC_0001-0010"
+        }
+      },
+      {
+        "id": "FCC-2011-0090-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-08T13:57:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05222",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Review of the Emergency Alert System",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c031de"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2011-0090-0001"
+        }
+      },
+      {
+        "id": "FEMA-2011-0002-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-08T23:53:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05223",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations; Correction",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480c031e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0028"
+        }
+      },
+      {
+        "id": "FS_FRDOC_0001-1049",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-02-11T15:02:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05174",
+          "withdrawn": false,
+          "agencyId": "FS",
+          "commentEndDate": null,
+          "title": "Subsistence Management Regulations for Public Lands in Alaska: Taking of Fish and Shellfish Regulations",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FS_FRDOC_0001",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03200"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FS_FRDOC_0001-1049"
+        }
+      },
+      {
+        "id": "FDA-2011-N-0003-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-08T16:02:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05144",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Oral Dosage Form New Animal Drugs: Spinosad and Milbemycin Oxime",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FDA-2011-N-0003",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0323d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2011-N-0003-0004"
+        }
+      },
+      {
+        "id": "FTA-2011-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-09T02:06:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05201",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2011-04-30T03:59:59Z",
+          "title": "Environmental Impact Statements; Availability, etc.: Proposed Urban Rail System in Austin, TX",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FTA-2011-0018",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0323e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2011-0018-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05224",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Pacific Cod by Catcher Vessels Less Than 60 feet Using Jig or Hook-and-Line Gear, etc.; Closure",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0089",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03240"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0089-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0091-0104",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05232",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Snapper-Grouper Fishery Off the Southern Atlantic States; Amendment 17B; Correction",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0091",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03257"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0091-0104"
+        }
+      },
+      {
+        "id": "NHTSA-2011-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-09T02:10:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05112",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Petition for Exemption from the Federal Motor Vehicle Motor Theft Prevention Standard: General Motors Corp.",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "NHTSA-2011-0035",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03264"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2011-0035-0001"
+        }
+      },
+      {
+        "id": "GAO-2011-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-08T13:59:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-04988",
+          "withdrawn": false,
+          "agencyId": "GAO",
+          "commentEndDate": null,
+          "title": "Public Availability of Government Accountability Office Records",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c032b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GAO-2011-0002-0001"
+        }
+      },
+      {
+        "id": "FTA-2011-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-09T02:07:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05203",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2011-04-08T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FTA-2011-0014",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c032f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2011-0014-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2009-0130-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05227",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic; Trip Limit Reduction",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "NOAA-NMFS-2009-0130",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03205"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2009-0130-0022"
+        }
+      },
+      {
+        "id": "FWS-R2-ES-2011-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-03-08T22:08:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05177",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2011-05-10T03:59:59Z",
+          "title": "Endangered and Threatened Wildlife and Plants: Texas Kangaroo Rat",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FWS-R2-ES-2011-0011",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0324e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R2-ES-2011-0011-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0185-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05176",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-23T03:59:59Z",
+          "title": "Airworthiness Directives: Diamond Aircraft Industries GmbH Models DA 42, DA 42 NG, and DA 42 M-NG Airplanes",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0185",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03267"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0185-0001"
+        }
+      },
+      {
+        "id": "DARS-2010-0128-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:06:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05218",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Reporting of Government-Furnished Property",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "DARS-2010-0128",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c031e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2010-0128-0006"
+        }
+      },
+      {
+        "id": "FAA-2010-0813-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:23:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05244",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Revocation of VOR Federal Airway V-284: New Jersey; Withdrawal",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2010-0813",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03212"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0813-0006"
+        }
+      },
+      {
+        "id": "FAA-2007-28661-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:13:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05156",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-05T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Co. Model 737-600, -700, -700C, -800, and -900 Series Airplanes",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2007-28661",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03218"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28661-0014"
+        }
+      },
+      {
+        "id": "FEMA-2011-0002-0029",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-08T23:54:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05132",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480c03255"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0029"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2010-0028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-03-08T16:13:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-04884",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: 12-Month Finding on a Petition to List the Mt. Charleston Blue Butterfly",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FWS-R8-ES-2010-0028",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03256"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2010-0028-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2010-0666-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-09T00:21:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05193",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans and Designation of Areas for Air Quality Planning Purposes: Tennessee; Redesignation of the Knoxville 1997 8-Hour Ozone Nonattainment Area to Attainment for the 1997 8-Hour Ozone Standards",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2010-0666",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03276"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2010-0666-0014"
+        }
+      },
+      {
+        "id": "NHTSA-2011-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-09T02:12:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05216",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2011-04-08T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "NHTSA-2011-0036",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c032b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2011-0036-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05251",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-23T03:59:59Z",
+          "title": "Helicopter Area Navigation Routes:Northeast United States",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0078",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03164"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0078-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0153-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05158",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-23T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Model 777-200 and -300 Series Airplanes",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0153",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03167"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0153-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0082-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05234",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Reallocation of Pollock in the Bering Sea and Aleutian Islands",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0082",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0323f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0082-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-09T01:56:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05246",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment to Special Use Airspace Restricted Areas R-2203, and R-2205; Alaska",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0055",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03250"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0055-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0155-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05159",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-23T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company 737-200, -200C, -300, -400, and -500 Series Airplanes",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0155",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03251"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0155-0001"
+        }
+      },
+      {
+        "id": "ED_FRDOC_0001-0455",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-06-15T00:59:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-04660",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Department of Education Acquisition Regulation",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "ED_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03266"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED_FRDOC_0001-0455"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0560-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:28:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05147",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Amendments to General Regulations of the Food and Drug Administration",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FDA-2010-N-0560",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c032bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0560-0004"
+        }
+      },
+      {
+        "id": "FWS-R7-SM-2009-0061-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:43:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05174",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Subsistence Management Regulations for Public Lands in Alaska: Taking of Fish and Shellfish Regulations",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FWS-R7-SM-2009-0061",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c032ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R7-SM-2009-0061-0025"
+        }
+      },
+      {
+        "id": "FAA-2011-0226-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-09T01:54:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05242",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Environmental Assessments; Availability, etc.: Pegasus Launches at Cape Canaveral Air Force Station, FL",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0226",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03213"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0226-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-11301-0112",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05257",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-05-10T03:59:59Z",
+          "title": "Antidrug and Alcohol Misuse Prevention Programs for Personnel Engaged in Specified Aviation Activities: Supplemental Regulatory Flexibility Determination",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2002-11301",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03265"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-11301-0112"
+        }
+      },
+      {
+        "id": "SEC-2011-0311-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05183",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2011-04-30T03:59:59Z",
+          "title": "Ownership Limitations and Governance Requirements: Security-Based Swap Clearing Agencies, Security-Based Swap Execution Facilities, and National Securities Exchanges, etc.",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03278"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2011-0311-0001"
+        }
+      },
+      {
+        "id": "MSHA-2010-0007-0064",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:46:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": null,
+          "title": "Federal Register; Proposed rule; request for comment",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "MSHA-2010-0007",
+          "subtype": "None",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480c02ced"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2010-0007-0064"
+        }
+      },
+      {
+        "id": "DHS-2010-0051-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-04-18T16:43:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05094",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": "2011-04-08T03:59:59Z",
+          "title": "Privacy Act of 1974: Implementation of Exemptions; Department of Homeland Security Office of Operations Coordination and Planning\u2014002 National Operations Center Tracker and Senior Watch Officer Logs System of Records",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "DHS-2010-0051",
+          "subtype": null,
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c031e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2010-0051-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0151-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05161",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-23T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Model DHC 8 400 Series Airplanes",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0151",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c031e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0151-0001"
+        }
+      },
+      {
+        "id": "OTS-2011-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:55:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05011",
+          "withdrawn": false,
+          "agencyId": "OTS",
+          "commentEndDate": "2011-05-10T03:59:59Z",
+          "title": "Risk-Based Capital Standards: Advanced Capital Adequacy Framework-Basel II; Establishment of a Risk-Based Capital Floor",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "OTS-2011-0002",
+          "subtype": "NPRM",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c0321b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OTS-2011-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0157-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05292",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-23T03:59:59Z",
+          "title": "Airworthiness Directives: Various Transport Category Airplanes Equipped with Chemical Oxygen Generators Installed in a Lavatory",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0157",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03252"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0157-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0152-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05165",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-04-23T03:59:59Z",
+          "title": "Airworthiness Directives: Dassault-Aviation Model FALCON 7X Airplanes",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "FAA-2011-0152",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c03279"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0152-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2011-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-03-09T20:37:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-05198",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-04-08T03:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans: State of Oregon; Regional Haze State Implementation Plan",
+          "postedDate": "2011-03-08T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2011-0035",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480c032e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2011-0035-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 225,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 64,
+            "label": "Other"
+          },
+          {
+            "docCount": 46,
+            "label": "Notice"
+          },
+          {
+            "docCount": 30,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 17,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "NFR-Notice of Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          },
+          {
+            "docCount": 1,
+            "label": "None"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 41,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 13,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FWS"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 2,
+            "value": "FTA"
+          },
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DARS"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "EDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FS"
+          },
+          {
+            "docCount": 1,
+            "value": "FTZB"
+          },
+          {
+            "docCount": 1,
+            "value": "GAO"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "OTS"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-03-08",
+          "toDate": "2011-03-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 41,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 41,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

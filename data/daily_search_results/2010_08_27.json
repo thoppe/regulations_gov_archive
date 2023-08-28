@@ -1,0 +1,940 @@
+[
+  {
+    "data": [
+      {
+        "id": "ETA-2010-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:19:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21097",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": "2010-10-27T03:59:59Z",
+          "title": "YouthBuild Program",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "ETA-2010-0003",
+          "subtype": "Notice of Proposed Rulemaking",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c429"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA-2010-0003-0001"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0002-0051",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T13:34:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21296",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs; Changes of Sponsors; Withdrawals of Approvals of New Animal Drug Applications: Deslorelin Acetate; Dichlorophene and Toluene Capsules; Pyrantel Pamoate Suspension",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FDA-2010-N-0002",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c459"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0002-0051"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2009-0656-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-10-30T17:14:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21384",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-09-28T03:59:59Z",
+          "title": "NM035.01 Approval and Promulgation of Implementation Plans: New Mexico; Interstate Transport of Pollution; Revisions to Prevention of Significant Deterioration Regulations",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2009-0656",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2009-0656-0001"
+        }
+      },
+      {
+        "id": "FCC-2010-0253-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T12:41:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21430",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Radio Broadcasting Services: DeBeque, CO",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2010-0253-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0057-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21382",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Spiny Dogfish Fishery; Commercial Period 1 Quota Harvested; Closure",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0057",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0057-0010"
+        }
+      },
+      {
+        "id": "FHWA-2010-0115-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T14:05:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21336",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2010-10-01T03:59:59Z",
+          "title": "Environmental Impact Statements; Availability, etc.: Stanislaus County, CA",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FHWA-2010-0115",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2010-0115-0001"
+        }
+      },
+      {
+        "id": "CMS-2008-0007-0209",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:25:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21354",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program: Additional Medicare Durable Medical Equipment, Prosthetics, Orthotics, and Supplies Supplier Enrollment Safeguards",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "CMS-2008-0007",
+          "subtype": "Final Rule",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2008-0007-0209"
+        }
+      },
+      {
+        "id": "FAA-2010-0886-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T14:03:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21214",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-10-27T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: FAA Safety Briefing Readership Survey",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0886",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c478"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0886-0001"
+        }
+      },
+      {
+        "id": "DOS-2010-0359-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:14:35Z",
+          "highlightedContent": "",
+          "frDocNum": "166",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Amendments to International Traffic in Arms Regulations: Export Exemption for Technical Data",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "DOS-2010-0359",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c408"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2010-0359-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0879-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T13:26:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21443",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-10-27T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: High Density Traffic Airports; Slot Allocation and Transfer Methods",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0879",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c35a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0879-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0685-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T13:32:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21215",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-10-13T03:59:59Z",
+          "title": "Proposed Establishment of Class E Airspace: Bamberg, SC",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0685",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0685-0001"
+        }
+      },
+      {
+        "id": "SSA-2006-0154-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:00:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21341",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": null,
+          "title": "Entitlement and Termination Requirements for Stepchildren",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "SSA-2006-0154",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c35c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2006-0154-0005"
+        }
+      },
+      {
+        "id": "FWS-R7-SM-2009-0001-0073",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:43:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21405",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Subsistence Management Regulations for Public Lands in Alaska 2010-11 and 2011-12 Subsistence Taking of Wildlife Regulations; etc.; Correction",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FWS-R7-SM-2009-0001",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c46d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R7-SM-2009-0001-0073"
+        }
+      },
+      {
+        "id": "DARS-2010-0090-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T14:03:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21365",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplements: Acquisition of Commercial Items",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "DARS-2010-0090",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c479"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2010-0090-0001"
+        }
+      },
+      {
+        "id": "VA-2010-VHA-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:54:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21297",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AN76 - Final Rule - Disenrollment Procedures",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "VA-2010-VHA-0022",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c481"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2010-VHA-0022-0001"
+        }
+      },
+      {
+        "id": "FTC-2010-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:27:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21202",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": "2010-09-22T03:59:59Z",
+          "title": "Summary of Rights and Notices of Duties Under the Fair Credit Reporting Act",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FTC-2010-0078",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c402"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2010-0078-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2010-0247-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T14:09:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21428",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-09-28T03:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Diabetes Mellitus",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FMCSA-2010-0247",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c42d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2010-0247-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2009-0924-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:06:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21385",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Supplemental Proposal to Proposed Confidentiality Determinations for Data Required Under Mandatory Greenhouse Gas Reporting Rule; Extension of public comment period",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2009-0924",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480b3c466"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2009-0924-0016"
+        }
+      },
+      {
+        "id": "FMCSA-2010-0202-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T14:09:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21425",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2010-09-28T03:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Diabetes Mellitus",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FMCSA-2010-0202",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c48d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2010-0202-0001"
+        }
+      },
+      {
+        "id": "FHFA-2010-0031-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21324",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": null,
+          "title": "Supplemental Standards of Ethical Conduct for Employees of Federal Housing Finance Agency",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2010-0031-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0850-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:23:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21419",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-10-13T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus Model A300 Series Airplanes",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0850",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c35e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0850-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0880-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T13:31:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21452",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-09-28T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Certification of Airmen for Operation of Light-Sport Aircraft",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0880",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0880-0001"
+        }
+      },
+      {
+        "id": "CPSC-2010-0090-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-07-16T19:14:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21199",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": "2010-09-28T03:59:59Z",
+          "title": "Third Party Testing for Certain Childrens Products; Youth All-Terrain Vehicles: Requirements for Accreditation of Third Party Conformity Assessment Bodies",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "CPSC-2010-0090",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c46b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2010-0090-0001"
+        }
+      },
+      {
+        "id": "DOS-2010-0358-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:14:35Z",
+          "highlightedContent": "",
+          "frDocNum": "166",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Amendments to International Traffic in Arms Regulations: Removing Requirement for Prior Approval for Certain Proposals to Foreign Persons Relating to Significant Military Equipment",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "DOS-2010-0358",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c47f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2010-0358-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0882-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T13:36:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21454",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-10-27T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Physiological Training",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0882",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c415"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0882-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0883-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T13:50:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21453",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-10-27T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Maintenance, Preventative Maintenance, Rebuilding and Alteration",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0883",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c41b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0883-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0884-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T13:59:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21333",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "New Task Assignments: Aviation Rulemaking Advisory Committee; Transport Airplane and Engine Issues",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0884",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c428"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0884-0001"
+        }
+      },
+      {
+        "id": "HUD-2010-0083-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:30:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21322",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": "2010-10-27T03:59:59Z",
+          "title": "FR\u20135304\u2013P\u201301 Multifamily Housing Reform and Affordability Act: Projects Eligible for a Restructuring Plan; When Eligibility is Determined",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "HUD-2010-0083",
+          "subtype": null,
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c48c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2010-0083-0001"
+        }
+      },
+      {
+        "id": "FS-2010-0008-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-01-28T18:06:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21405",
+          "withdrawn": false,
+          "agencyId": "FS",
+          "commentEndDate": null,
+          "title": "Subsistence Management Regulations for Public Lands in Alaska 2010-11 and 2011-12 Subsistence Taking of Wildlife Regulations; etc.; Correction",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FS-2010-0008",
+          "subtype": "Correction",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FS-2010-0008-0005"
+        }
+      },
+      {
+        "id": "FHWA-2010-0116-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T14:07:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21323",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Funding Availabilities: Truck Parking Facilities Program; Application Procedure and Deadlines",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FHWA-2010-0116",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c414"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2010-0116-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0885-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T14:01:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21210",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-09-28T03:59:59Z",
+          "title": "Waivers of Aeronautical Land-Use Assurance: Rickenbacker International Airport, Columbus, OH",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0885",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c458"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0885-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0881-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-27T13:34:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-21440",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-10-27T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Certification; Mechanics, Repairmen, and Parachute Riggers",
+          "postedDate": "2010-08-27T04:00:00Z",
+          "docketId": "FAA-2010-0881",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-08-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b3c3b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0881-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 69,
+            "label": "Notice"
+          },
+          {
+            "docCount": 53,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 31,
+            "label": "Other"
+          },
+          {
+            "docCount": 27,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 14,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "CEP-Certificate Extending Patent Term"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "DOS"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 2,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "DARS"
+          },
+          {
+            "docCount": 1,
+            "value": "ETA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "FS"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-08-27",
+          "toDate": "2010-08-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

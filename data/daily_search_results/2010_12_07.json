@@ -1,0 +1,966 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2010-0003-0130",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-12-07T15:35:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30615",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FEMA-2010-0003",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bb0c95"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2010-0003-0130"
+        }
+      },
+      {
+        "id": "OPPM-2010-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:54:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "OPPM",
+          "commentEndDate": null,
+          "title": "Designation of Biobased Items for Federal Procurement, Round 7 Proposed Rule",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "OPPM-2010-0002",
+          "subtype": null,
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb126f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPPM-2010-0002-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0850-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-27T23:38:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30309",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Model A300 Series Airplanes",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-0850",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c47"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0850-0003"
+        }
+      },
+      {
+        "id": "IRS-2009-0037-0045",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:19:13Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2010-25504",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Basis Reporting by Securities Brokers and Basis Determination for Stock",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "IRS-2009-0037",
+          "subtype": null,
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0bff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2009-0037-0045"
+        }
+      },
+      {
+        "id": "IRS-2010-0026-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:19:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30526",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Electronic Funds Transfer of Depository Taxes",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "IRS-2010-0026",
+          "subtype": null,
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2010-0026-0035"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2008-0708-0642",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:04:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30627",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-02-15T04:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants for Reciprocating Internal Combustion Engines",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2008-0708",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2008-0708-0642"
+        }
+      },
+      {
+        "id": "FAA-2010-1230-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-03-31T02:22:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30602",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-07T04:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Maintenance, Preventative Maintenance, Rebuilding and Alteration",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-1230",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c61"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1230-0001"
+        }
+      },
+      {
+        "id": "SSA-2010-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:01:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30276",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Regulations Regarding Income-Related Monthly Adjustment Amounts to Medicare Beneficiaries Prescription Drug Coverage Premiums",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "SSA-2010-0029",
+          "subtype": null,
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2010-0029-0001"
+        }
+      },
+      {
+        "id": "LMSO-2009-0004-0155",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:19:13Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2010-29226",
+          "withdrawn": false,
+          "agencyId": "LMSO",
+          "commentEndDate": "2010-12-08T04:59:59Z",
+          "title": "Rescission of Form T-1, Trust Annual Report, etc.; Correction",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "LMSO-2009-0004",
+          "subtype": "Corrections/Technical Amendments",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0cc8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/LMSO-2009-0004-0155"
+        }
+      },
+      {
+        "id": "PHMSA-2010-0355-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-07T15:10:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30603",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Pipeline Safety",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "PHMSA-2010-0355",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0ce3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2010-0355-0001"
+        }
+      },
+      {
+        "id": "MARAD-2010-0110-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-07T15:06:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30658",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "MARAD-2010-0110",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0bde"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2010-0110-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0845-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:23:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30199",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Diamond Aircraft Industries GmbH Models DA 40 and DA 40F Airplanes",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-0845",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c2d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0845-0006"
+        }
+      },
+      {
+        "id": "PHMSA-2010-0323-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-07T15:09:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30605",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Pipeline Safety: Random Drug Testing Rate",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "PHMSA-2010-0323",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2010-0323-0001"
+        }
+      },
+      {
+        "id": "FRA-2010-0154-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-08T17:41:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30533",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Applications for Approval of Discontinuance or Modification of Railroad Signal System",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FRA-2010-0154",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0be0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2010-0154-0002"
+        }
+      },
+      {
+        "id": "FRA-2008-0136-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:25:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30824",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Adjustment of Monetary Threshold for Reporting Rail Equipment Accidents/Incidents",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FRA-2008-0136",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0be5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2008-0136-0003"
+        }
+      },
+      {
+        "id": "FAA-2008-0670-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-27T23:38:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-29457",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Model A318-111 and A318-112 Airplanes and Model A319, A320, and A321 Series Airplanes",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2008-0670",
+          "subtype": "Final Rule",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0670-0009"
+        }
+      },
+      {
+        "id": "FAA-2010-1192-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30614",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-22T04:59:59Z",
+          "title": "Airworthiness Directives: Viking Air Ltd. Model DHC-3 Airplanes",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-1192",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0cbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1192-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1190-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30616",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Airworthiness Directives: Apical Industries Inc. Emergency Float Kits",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-1190",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0cdf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1190-0001"
+        }
+      },
+      {
+        "id": "FEMA-2010-0003-0131",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-12-07T15:40:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30609",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FEMA-2010-0003",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bb0cf1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2010-0003-0131"
+        }
+      },
+      {
+        "id": "DOT-OST-2004-16951-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-07T15:18:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30637",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Aircraft Liability Insurance",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "DOT-OST-2004-16951",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2004-16951-0005"
+        }
+      },
+      {
+        "id": "FAA-2010-1231-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-07T14:51:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30659",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Random Drug and Alcohol Testing Percentage Rates of Covered Aviation Employees",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-1231",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c92"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1231-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0934-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-27T23:38:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30518",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Diamond Aircraft Industries GmbH Models DA 40 and DA 40F Airplanes",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2008-0934",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0cac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0934-0006"
+        }
+      },
+      {
+        "id": "CFTC-2010-0178-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:04:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-29994",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Real-time Public Reporting of Swap Transaction Data",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0cc7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2010-0178-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2010-0162-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-03-23T18:48:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30353",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "Federal Motor Vehicle Safety Standard, Rear View Mirrors: Federal Motor Vehicle Safety Standard, Low-Speed Vehicles Phase-in Reporting Requirements",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "NHTSA-2010-0162",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2010-0162-0002"
+        }
+      },
+      {
+        "id": "FAA-2010-1086-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-07T15:03:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30649",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-12-18T04:59:59Z",
+          "title": "Petitions for Exemption; Summaries of Petitions Received",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-1086",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0cf2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1086-0002"
+        }
+      },
+      {
+        "id": "FWS-R7-ES-2009-0042-0252",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:43:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-29925",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Designation of Critical Habitat for the Polar Bear (Ursus maritimus) in the United States",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FWS-R7-ES-2009-0042",
+          "subtype": null,
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0cf3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R7-ES-2009-0042-0252"
+        }
+      },
+      {
+        "id": "FEMA-2010-0003-0129",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-12-07T15:34:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30613",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Proposed Flood Elevation Determinations",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FEMA-2010-0003",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bb0c8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2010-0003-0129"
+        }
+      },
+      {
+        "id": "FAA-2010-0942-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30197",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: British Aerospace Regional Aircraft Models Jetstream Series 3101 and Jetstream Model 3201 Airplanes",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-0942",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0cf8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0942-0003"
+        }
+      },
+      {
+        "id": "AMS-LS-08-0064-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-09T14:49:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30534",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "National Sheep Industry Improvement Center",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "AMS-LS-08-0064",
+          "subtype": "Final Rule",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c01"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-LS-08-0064-0002"
+        }
+      },
+      {
+        "id": "FRA-2009-0078-0090",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-08T17:43:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30532",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Petitions for Waivers of Compliance: American Short Line and Regional Railroad Association",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FRA-2009-0078",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c2c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0078-0090"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-0183",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-07-11T15:01:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30520",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Global Terrorism Sanctions Regulations; Terrorism Sanctions Regulations; Foreign Terrorist Organizations Sanctions Regulations",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-0183"
+        }
+      },
+      {
+        "id": "FRA-2000-7257-0137",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-08T17:45:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30620",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Railroad Safety Advisory Committee Working Group Activity Update",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FRA-2000-7257",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c63"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7257-0137"
+        }
+      },
+      {
+        "id": "FWS-R4-ES-2009-0079-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:43:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30420",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: Designation of Critical Habitat for Vermilion Darter",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FWS-R4-ES-2009-0079",
+          "subtype": null,
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0be4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R4-ES-2009-0079-0011"
+        }
+      },
+      {
+        "id": "FAA-2010-1229-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-07T14:43:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30588",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Noise Exposure Maps: Naples Municipal Airport, Naples, FL",
+          "postedDate": "2010-12-07T05:00:00Z",
+          "docketId": "FAA-2010-1229",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb0c05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1229-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 69,
+            "label": "Notice"
+          },
+          {
+            "docCount": 55,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 36,
+            "label": "Other"
+          },
+          {
+            "docCount": 28,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 19,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Corrections/Technical Amendments"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 34,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FRA"
+          },
+          {
+            "docCount": 3,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 2,
+            "value": "FWS"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "LMSO"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          },
+          {
+            "docCount": 1,
+            "value": "OPPM"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-12-07",
+          "toDate": "2010-12-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 34,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 34,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

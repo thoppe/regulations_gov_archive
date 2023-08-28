@@ -1,0 +1,809 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2011-0080-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T14:44:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00815",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FAA-2011-0080",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1217"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0080-0001"
+        }
+      },
+      {
+        "id": "COLC-2009-0004-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-29T19:19:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01332",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": null,
+          "title": "Registrations of Claims of Copyright",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "COLC-2009-0004",
+          "subtype": null,
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd126f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2009-0004-0018"
+        }
+      },
+      {
+        "id": "FSA-2011-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:26:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-22070",
+          "withdrawn": false,
+          "agencyId": "FSA",
+          "commentEndDate": "2010-11-03T03:59:59Z",
+          "title": "Conservation Loan Program",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FSA-2011-0003",
+          "subtype": "Interim Final",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd0dff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSA-2011-0003-0001"
+        }
+      },
+      {
+        "id": "FAR-2011-0077-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-14T15:49:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01322",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulations: Federal Acquisition Circular 2005-49; Small Entity Compliance Guide",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FAR-2011-0077",
+          "subtype": "Final",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1294"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2011-0077-0001"
+        }
+      },
+      {
+        "id": "NRCS-2009-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:51:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01212",
+          "withdrawn": false,
+          "agencyId": "NRCS",
+          "commentEndDate": "2011-02-24T04:59:59Z",
+          "title": "Farm and Ranch Lands Protection Program",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "NRCS-2009-0004",
+          "subtype": null,
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd12a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRCS-2009-0004-0001"
+        }
+      },
+      {
+        "id": "FCC-2011-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T13:47:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01376",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Television Broadcasting Services: North Pole and Plattsburgh, NY",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1229"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2011-0029-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0251",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:49:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-32740",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Information Technology Security",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd122e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0251"
+        }
+      },
+      {
+        "id": "NHTSA-2010-0023-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T14:58:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01363",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2011-02-24T04:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "NHTSA-2010-0023",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1250"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2010-0023-0002"
+        }
+      },
+      {
+        "id": "APHIS-2006-0074-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:55:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01289",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2011-03-26T03:59:59Z",
+          "title": "Highly Pathogenic Avian Influenza",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "APHIS-2006-0074",
+          "subtype": "Interim rule",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1215"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2006-0074-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0081-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T14:49:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00816",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FAA-2011-0081",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd126b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0081-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2006-0406-0181",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:02:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00906",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants for Source Categories: Gasoline Distribution Bulk Terminals, Bulk Plants, and Pipeline Facilities; and Gasoline Dispensing Facilities",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2006-0406",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bd1274"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2006-0406-0181"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2010-0176-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T14:05:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00229",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-02-24T04:59:59Z",
+          "title": "Approvals and Promulgations of Implementation Plans and Operating Permits Program: State of Missouri",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "EPA-R07-OAR-2010-0176",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd11d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2010-0176-0002"
+        }
+      },
+      {
+        "id": "FTA-2011-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T14:54:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01365",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "Limitations on Claims against Proposed Public Transportation Projects",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FTA-2011-0005",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1226"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2011-0005-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:25:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01136",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-03-11T04:59:59Z",
+          "title": "Airworthiness Directives: PIAGGIO AERO INDUSTRIES S.p.A Model PIAGGIO P-180 airplanes",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FAA-2011-0054",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1227"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0054-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2011-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T14:59:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01364",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2011-02-10T04:59:59Z",
+          "title": "Meetings: National Emergency Medical Services Advisory Council",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "NHTSA-2011-0003",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1251"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2011-0003-0001"
+        }
+      },
+      {
+        "id": "SEC-2011-0104-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T13:48:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01199",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Rules of Practice",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd12a4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2011-0104-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2007-0093-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T19:54:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Regulatory Guidance Concerning Electronic Signatures and Documents, FMCSA, January 4, 2011",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FMCSA-2007-0093",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd14fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2007-0093-0003"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:20:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01369",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of Exclusive Economic Zone Off Alaska: Pollock in Statistical Area 610 in Gulf of Alaska",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0022",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bd11d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0022-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2010-0176-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-24T13:59:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00239",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-02-24T04:59:59Z",
+          "title": "Approvals and Promulgations of Implementation Plans and Operating Permits Program: State of Missouri",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "EPA-R07-OAR-2010-0176",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1291"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2010-0176-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0082-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T14:51:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01161",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-02-24T04:59:59Z",
+          "title": "Surplus Property Releases: Golden Isles Airport, Brunswick, GA",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FAA-2011-0082",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd12a7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0082-0001"
+        }
+      },
+      {
+        "id": "FAR-2010-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:19:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01323",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2011-03-26T03:59:59Z",
+          "title": "Federal Acquisition Regulations: Public Access to the Federal Awardee Performance and Integrity Information System; FAR Case 2010-016",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FAR-2010-0016",
+          "subtype": "Interim",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd0644"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2010-0016-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0281-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:42:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01370",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-02-24T04:59:59Z",
+          "title": "Greater Amberjack Management Measures",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0281",
+          "subtype": null,
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd11d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0281-0001"
+        }
+      },
+      {
+        "id": "FAR-2011-0076-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-03-14T15:53:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01324",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulations: Federal Acquisition Circular 2005-49; Introduction",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FAR-2011-0076",
+          "subtype": "Final",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd12a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-2011-0076-0001"
+        }
+      },
+      {
+        "id": "HUD-2011-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:30:41Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01346",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": "2011-03-26T03:59:59Z",
+          "title": "FR 5359\u2013P\u201301 Equal Access to Housing in HUD Programs Regardless of Sexual Orientation or Gender Identity",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "HUD-2011-0014",
+          "subtype": null,
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1211"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2011-0014-0001"
+        }
+      },
+      {
+        "id": "FTA-2011-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-24T14:52:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01317",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": null,
+          "title": "Establishment of Emergency Relief Docket for Calendar Year 2011",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "FTA-2011-0001",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bd1213"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2011-0001-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:20:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01362",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of Exclusive Economic Zone Off Alaska: Pacific Cod by Catcher Vessels Greater than or Equal to 60 Feet (18.3 Meters) Length Overall Using PotGear in Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0023",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bd1225"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0023-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2011-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-01361",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of Exclusive Economic Zone Off Alaska: Pollock in Statistical Area 630 in Gulf of Alaska",
+          "postedDate": "2011-01-24T05:00:00Z",
+          "docketId": "NOAA-NMFS-2011-0020",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bd11cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2011-0020-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 60,
+            "label": "Other"
+          },
+          {
+            "docCount": 59,
+            "label": "Notice"
+          },
+          {
+            "docCount": 51,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 24,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Final"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAR"
+          },
+          {
+            "docCount": 2,
+            "value": "FTA"
+          },
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "COLC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FSA"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRCS"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-01-24",
+          "toDate": "2011-01-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,793 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2011-0002-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-08T23:17:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00696",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Suspension of Community Eligibility",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "FEMA-2011-0002",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bcae99"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2011-0002-0004"
+        }
+      },
+      {
+        "id": "FAA-2010-1246-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:41:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00812",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-03-01T04:59:59Z",
+          "title": "Proposed Amendments of Class E Airspace: Pueblo, CO",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "FAA-2010-1246",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaead"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1246-0001"
+        }
+      },
+      {
+        "id": "FAA-2011-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:34:42Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00818",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Meetings: RTCA Special Committee 159; Global Positioning System",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "FAA-2011-0056",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae3c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0056-0001"
+        }
+      },
+      {
+        "id": "SBA-2010-0007-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:57:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00652",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Surety Bond Guarantee Program: Disaster and Miscellaneous Amendments",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "SBA-2010-0007",
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2010-0007-0002"
+        }
+      },
+      {
+        "id": "FAA-2010-1301-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00726",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-03-16T03:59:59Z",
+          "title": "Airworthiness Directives: MD Helicopters, Inc. Model MD900 Helicopters",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "FAA-2010-1301",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaeb9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1301-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-RCRA-2010-0738-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-19T20:57:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00749",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-02-15T04:59:59Z",
+          "title": "Final Authorization of State Hazardous Waste Management Program Revision: Minnesota",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "EPA-R05-RCRA-2010-0738",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaee6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-RCRA-2010-0738-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0178-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:42:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00798",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-02-01T04:59:59Z",
+          "title": "Fisheries of Northeastern United States: Atlantic Bluefish Fishery; 2011 Atlantic Bluefish Specifications; Regulatory Amendment",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0178",
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae1a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0178-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0808-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:25:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00867",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendments of Class E Airspace: Kwajalein Island, Marshall Islands, RMI; Correction",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "FAA-2010-0808",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae20"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0808-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2010-0107-0164",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T13:50:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00768",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Action to Ensure Authority to Issue Permits under Prevention of Significant Deterioration Program to Sources of Greenhouse Gas Emissions: Federal Implementation Plan for Jefferson County, KY",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2010-0107",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bcae3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2010-0107-0164"
+        }
+      },
+      {
+        "id": "USCBP-2011-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T16:59:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00679",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": null,
+          "title": "Matters Subject to Protest and Various Protest Time Limits; Technical Corrections",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "USCBP-2011-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bcaea7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2011-0001-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2010-0098-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:47:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00773",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Final Theft Data; Motor Vehicle Theft Prevention Standard",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "NHTSA-2010-0098",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaee0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2010-0098-0003"
+        }
+      },
+      {
+        "id": "USCG-2010-1112-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:21:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00692",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "TFR:  Safety Zones: Lake Mead Intake Construction, Lake Mead, Boulder City, NV (Federal Register Publication)",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "USCG-2010-1112",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaee3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2010-1112-0001"
+        }
+      },
+      {
+        "id": "IRS-2010-0036-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T21:37:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00921",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "User Fees Relating to Enrolled Agents and Enrolled Retirement Plan Agents: Hearing Cancellation",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "IRS-2010-0036",
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaef5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2010-0036-0008"
+        }
+      },
+      {
+        "id": "FCC-2011-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T13:44:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00811",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Requests for Waiver of Various Petitioners to Allow Establishment of 700 MHz Interoperable Public Safety Wireless Broadband Networks",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae39"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2011-0017-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2010-0107-0165",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:01:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00769",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Action to Ensure Authority to Issue Permits Under the Prevention of Significant Deterioration Program to Sources of Greenhouse Gas Emissions: Finding of Failure to Submit State Implementation Plan Revision Required of Louisville Metro Air Pollution Control District for Jefferson County, KY",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2010-0107",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bcae5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2010-0107-0165"
+        }
+      },
+      {
+        "id": "NHTSA-2009-0143-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:50:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00295",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2011-03-01T04:59:59Z",
+          "title": "Certification; Importation of Vehicles and Equipment Subject to Federal Standards: Registered Importers of Vehicles Not Originally Manufactured to Conform to Federal Motor Vehicle Safety Standards",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "NHTSA-2009-0143",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcadff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2009-0143-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0821-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-07-06T02:02:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00775",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-03-01T04:59:59Z",
+          "title": "Airworthiness Directives: Rolls-Royce plc RB211-Trent 800 Series Turbofan Engines",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "FAA-2010-0821",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae56"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0821-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2009-0092-0143",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-12T15:24:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00753",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": null,
+          "title": "Disclosure of Code-Share Service by Air Carriers and Sellers of Air",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "DOT-OST-2009-0092",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcadfb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2009-0092-0143"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2009-0041-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T15:49:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00377",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans: Mississippi; Prevention of Significant Deterioration; Nitrogen Oxides as a Precursor to Ozone; Correction",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "EPA-R04-OAR-2009-0041",
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2009-0041-0006"
+        }
+      },
+      {
+        "id": "NOAA-NOS-2008-0287-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:42:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00630",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-03-16T03:59:59Z",
+          "title": "Olympic Coast National Marine Sanctuary Regulations Revisions",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "NOAA-NOS-2008-0287",
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae92"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NOS-2008-0287-0003"
+        }
+      },
+      {
+        "id": "FAA-2011-0057-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:37:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00804",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Noise Compatibility Program and Request for Review: San Diego International Airport, San Diego, CA",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "FAA-2011-0057",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0057-0001"
+        }
+      },
+      {
+        "id": "FCC-2011-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-14T13:44:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00801",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2011-02-15T04:59:59Z",
+          "title": "Comment Sought on 2010 Review of Hearing Aid Compatibility Regulations",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaeaa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2011-0018-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1221-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:40:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00717",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-02-04T04:59:59Z",
+          "title": "Petitions for Exemption; Summaries of Petitions Received",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "FAA-2010-1221",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaeac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1221-0003"
+        }
+      },
+      {
+        "id": "RITA-2009-0002-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:50:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00770",
+          "withdrawn": false,
+          "agencyId": "RITA",
+          "commentEndDate": null,
+          "title": "Meetings: Advisory Council on Transportation Statistics",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "RITA-2009-0002",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae5a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RITA-2009-0002-0020"
+        }
+      },
+      {
+        "id": "VA-2011-VACO-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:54:52Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00228",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2011-03-16T03:59:59Z",
+          "title": "AL74 - Proposed Rule - Apportionments to Dependents and Payments to Fiduciaries and Incarcerated Beneficiaries",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "VA-2011-VACO-0003",
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcaebf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2011-VACO-0003-0001"
+        }
+      },
+      {
+        "id": "PBGC-2011-0006-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-07-25T19:57:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00725",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Benefits Payable in Terminated Single-Employer Plans: Interest Assumptions for Paying Benefits",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "PBGC-2011-0006",
+          "subtype": null,
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcadad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC-2011-0006-0004"
+        }
+      },
+      {
+        "id": "NHTSA-2011-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-14T14:46:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2011-00819",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2011-02-15T04:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "postedDate": "2011-01-14T05:00:00Z",
+          "docketId": "NHTSA-2011-0008",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bcae21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2011-0008-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 63,
+            "label": "Other"
+          },
+          {
+            "docCount": 56,
+            "label": "Notice"
+          },
+          {
+            "docCount": 40,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 21,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 13,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "RITA"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-01-14",
+          "toDate": "2011-01-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

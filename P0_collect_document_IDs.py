@@ -2,9 +2,9 @@ import json
 from datetime import datetime, timedelta
 from dspipe import Pipe
 import utils
+import time
 
-
-days_back = 5_000  # Number of days we will go backwards
+days_back = 10_000  # Number of days we will go backwards
 buffer_days = 30  # Number of days before we start collecting data
 
 selected_documentType = set(
@@ -50,6 +50,11 @@ def compute(days_back, f1):
         r = session.get(url, headers=headers, params=params)
 
         if not r.ok:
+            if r.status_code == 429:
+                print("Sleeping for one hour")
+                time.sleep(60 * 60)
+                return compute(days_back, f1)
+
             raise ValueError(r.status_code, r.content)
 
         js = r.json()

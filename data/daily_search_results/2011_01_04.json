@@ -1,0 +1,805 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-2011-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T20:10:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33238",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Regulatory Guidance Concerning Electronic Signatures and Documents",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FMCSA-2011-0005",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4ac5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2011-0005-0001"
+        }
+      },
+      {
+        "id": "PRC-2011-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-04T14:15:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33170",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": "2011-01-29T04:59:59Z",
+          "title": "Periodic Reporting",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a5f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2011-0006-0001"
+        }
+      },
+      {
+        "id": "NOAA-NOS-2009-0237-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:42:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33088",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-02-08T04:59:59Z",
+          "title": "National Marine Sanctuary Regulations: Low Overflights in Designated Zones; Amendments",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "NOAA-NOS-2009-0237",
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NOS-2009-0237-0002"
+        }
+      },
+      {
+        "id": "FWS-R7-ES-2010-0061-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-25T15:40:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33187",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: 90-Day Finding on a Petition to List the Red Knot subspecies Calidris canutus roselaari as Endangered",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FWS-R7-ES-2010-0061",
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a87"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R7-ES-2010-0061-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2010-0229-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-03T02:01:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33234",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2011-02-19T04:59:59Z",
+          "title": "Safety of On-Shore Hazardous Liquid Pipelines",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "PHMSA-2010-0229",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a89"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2010-0229-0006"
+        }
+      },
+      {
+        "id": "FAA-2010-0829-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:23:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33171",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Pratt and Whitney Canada Corp. PW305A and PW305B Turbofan Engines; Correction",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FAA-2010-0829",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc49fd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0829-0004"
+        }
+      },
+      {
+        "id": "SEC-2011-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:59:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33142",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Amendments to Form ADV; Extension of Compliance Date",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2011-0004-0001"
+        }
+      },
+      {
+        "id": "FEMA-2010-0003-0157",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T14:59:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33190",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": null,
+          "title": "Final Flood Elevation Determinations",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FEMA-2010-0003",
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a8a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2010-0003-0157"
+        }
+      },
+      {
+        "id": "AMS-TM-07-0136-0034",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:42:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33138",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2011-02-04T04:59:59Z",
+          "title": "National Organic Program (NOP); Sunset Review (2011)",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "AMS-TM-07-0136",
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4aa4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-TM-07-0136-0034"
+        }
+      },
+      {
+        "id": "DOE-HQ-2008-0023-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:37:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30398",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Conduct of Employees and Former Employees; Exemption from Post-Employment: Restrictions forCommunications Furnishing Scientific or Technological Information",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "DOE-HQ-2008-0023",
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4d09"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2008-0023-0002"
+        }
+      },
+      {
+        "id": "SLSDC-2011-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T20:53:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33217",
+          "withdrawn": false,
+          "agencyId": "SLSDC",
+          "commentEndDate": null,
+          "title": "Meetings: Advisory Board",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "SLSDC-2011-0001",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4adc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SLSDC-2011-0001-0001"
+        }
+      },
+      {
+        "id": "FRA-2009-0031-0048",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T20:13:07Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33146",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Environmental Impact Statements; Availability, etc.: Los Angeles to San Luis Obispo Rail Corridor Improvements Studies",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FRA-2009-0031",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a86"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2009-0031-0048"
+        }
+      },
+      {
+        "id": "FAA-2010-1286-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-32798",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-02-19T04:59:59Z",
+          "title": "Airworthiness Directives: ROLLADEN-SCHNEIDER Flugzeugbau GmbH Model LS6 Gliders",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FAA-2010-1286",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1286-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2009-0456-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:07:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33201",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-02-04T04:59:59Z",
+          "title": "Pesticides; Satisfaction of Data Requirements: Procedures to Ensure Protection of Data Submitters' Rights",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2009-0456",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4b4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2009-0456-0005"
+        }
+      },
+      {
+        "id": "EPA-R10-RCRA-2010-0953-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T21:04:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33196",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Adequacy of Alaska Municipal Solid Waste Landfill Permit Program",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "EPA-R10-RCRA-2010-0953",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bc48ee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-RCRA-2010-0953-0010"
+        }
+      },
+      {
+        "id": "PRC-2011-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-04T14:14:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33173",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": "2011-02-04T04:59:59Z",
+          "title": "Periodic Reporting",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4a43"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2011-0005-0001"
+        }
+      },
+      {
+        "id": "FHWA-2011-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T19:33:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33085",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Final Federal Agency Actions on Proposed Highway in Alaska",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FHWA-2011-0001",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4aa9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2011-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-24145-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33167",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-02-19T04:59:59Z",
+          "title": "Airworthiness Directives: General Electric Co. CF6-45 and CF6-50 Series Turbofan Engines",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FAA-2006-24145",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4ac3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24145-0023"
+        }
+      },
+      {
+        "id": "DRBC-2011-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-04T14:16:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-32981",
+          "withdrawn": false,
+          "agencyId": "DRBC",
+          "commentEndDate": "2011-03-17T03:59:59Z",
+          "title": "Water Quality Regulations, Water Code and Comprehensive Plan to Provide for Regulation of Natural Gas Development Projects: Proposed Amendments",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4b12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DRBC-2011-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-R10-RCRA-2010-0953-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-04T20:50:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33195",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-02-04T04:59:59Z",
+          "title": "Adequacy of Alaska's Municipal Solid Waste Landfill Permit Program",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "EPA-R10-RCRA-2010-0953",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4b34"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-RCRA-2010-0953-0009"
+        }
+      },
+      {
+        "id": "FAA-2011-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T19:22:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33223",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Environmental Impact Statements; Availability, etc.: Philadelphia International Airport; Capacity Enhancement Program",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FAA-2011-0006",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4ae1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2011-0006-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-08-0075-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:37:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33137",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Country of Origin Labeling of Packed Honey",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "AMS-FV-08-0075",
+          "subtype": "Final Rule",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4ae2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-08-0075-0008"
+        }
+      },
+      {
+        "id": "FDA-2009-N-0592-0069",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:28:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33193",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Informed Consent Elements",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FDA-2009-N-0592",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4ae4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2009-N-0592-0069"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2010-0907-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-01-04T19:46:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33194",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2011-02-04T04:59:59Z",
+          "title": "Revisions to California State Implementation Plan: San Joaquin Valley Air Pollution Control District",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2010-0907",
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4af1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2010-0907-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1288-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T19:25:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33127",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-15T04:59:59Z",
+          "title": "Petitions for Exemptions; Summaries of Petitions Received",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "FAA-2010-1288",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4b2e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1288-0003"
+        }
+      },
+      {
+        "id": "EPA-R10-RCRA-2010-0953-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-01-04T21:05:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33196",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Adequacy of Alaska Municipal Solid Waste Landfill Permit Program",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "EPA-R10-RCRA-2010-0953",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480bc4a41"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-RCRA-2010-0953-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0160-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-33228",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "International Fisheries; Pacific Tuna Fisheries: Vessel Capacity Limit in Purse Seine Fishery in Eastern Pacific Ocean",
+          "postedDate": "2011-01-04T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0160",
+          "subtype": null,
+          "commentStartDate": "2011-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bc4aa2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0160-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 90,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 63,
+            "label": "Notice"
+          },
+          {
+            "docCount": 34,
+            "label": "Other"
+          },
+          {
+            "docCount": 18,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 10,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "NFR-Notice of Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 27,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "PRC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "DRBC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "SLSDC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2011-01-04",
+          "toDate": "2011-01-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

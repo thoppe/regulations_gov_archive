@@ -1,0 +1,601 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2010-0784-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-12-10T15:31:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30980",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Modifications of Class D and E Airspace, and Revocations of Class E Airspace: Flagstaff, AZ",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "FAA-2010-0784",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb389e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0784-0002"
+        }
+      },
+      {
+        "id": "NRC-2009-0014-0038",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:15:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31084",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Domestic Licensing of Production and Utilization Facilities; Updates to Incorporation by Reference of Regulatory Guides; Correction",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "NRC-2009-0014",
+          "subtype": "Correction",
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb38ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2009-0014-0038"
+        }
+      },
+      {
+        "id": "SEC-2010-1878-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-29956",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2011-01-25T04:59:59Z",
+          "title": "Rules Implementing Amendments to 1940 Investment Advisers Act",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb38d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2010-1878-0001"
+        }
+      },
+      {
+        "id": "STB-2010-0163-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-12-10T13:59:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30967",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": "2011-01-25T04:59:59Z",
+          "title": "Demurrage Liability",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb390c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2010-0163-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0024-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:42:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31121",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of Northeastern United States: Summer Flounder Fishery; Quota Transfer",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0024",
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb38b8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0024-0004"
+        }
+      },
+      {
+        "id": "USCG-2010-0794-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:21:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31118",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2011-01-11T04:59:59Z",
+          "title": "NPRM:  Regulated Navigation Areas: Hudson River South of the Troy Locks, NY (Federal Register Publication)",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "USCG-2010-0794",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb390e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2010-0794-0001"
+        }
+      },
+      {
+        "id": "IRS-2010-0034-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T21:37:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31028",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Specified Tax Return Preparers Required to File Individual Income Tax Returns Using Magnetic Media: Correction",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "IRS-2010-0034",
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb3963"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2010-0034-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2008-0390-0395",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:09:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-29954",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Requirements Under the Underground Injection Control (UIC) Program for Carbon Dioxide (CO2) Geological Sequestration Wells",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "EPA-HQ-OW-2008-0390",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2011-01-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb3881"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2008-0390-0395"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0258-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-08-17T22:38:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30934",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-02-09T04:59:59Z",
+          "title": "Endangered and Threatened Species: Proposed Threatened Status for Subspecies of the Ringed Seal",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0258",
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb38cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0258-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1197-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31040",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-01-25T04:59:59Z",
+          "title": "Airworthiness Directives: Airbus Model A300 B4-600, B4-600R, and F4-600R Series Airplanes, and Model C4 605R Variant F Airplanes, etc.",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "FAA-2010-1197",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb38b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1197-0001"
+        }
+      },
+      {
+        "id": "DOS-2010-0485-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:14:37Z",
+          "highlightedContent": "",
+          "frDocNum": "235",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": "2011-02-09T04:59:59Z",
+          "title": "Revisions to United States Munitions List",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "DOS-2010-0485",
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb38b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2010-0485-0001"
+        }
+      },
+      {
+        "id": "SEC-2010-1883-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-29719",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2011-01-25T04:59:59Z",
+          "title": "Security-Based Swap Data Repository Registration, Duties, and Core Principles",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb394e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2010-1883-0001"
+        }
+      },
+      {
+        "id": "DOS-2010-0484-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:14:36Z",
+          "highlightedContent": "",
+          "frDocNum": "237",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": "2011-02-09T04:59:59Z",
+          "title": "Amendments to International Traffic in Arms Regulations: Revision of U.S. Munitions List Category VII",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "DOS-2010-0484",
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb3898"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2010-0484-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2010-0259-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:42:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-30931",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2011-02-09T04:59:59Z",
+          "title": "Endangered and Threatened Species: Proposed Threatened and Not Warranted Status for Subspecies and Distinct Population Segments of Bearded Seal",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "NOAA-NMFS-2010-0259",
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb38d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2010-0259-0001"
+        }
+      },
+      {
+        "id": "CCC_FRDOC_0001-0183",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-17T21:37:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31061",
+          "withdrawn": false,
+          "agencyId": "CCC",
+          "commentEndDate": null,
+          "title": "Tobacco Transition Payment Program; Tobacco Transition Assessments",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "CCC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb3927"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0183"
+        }
+      },
+      {
+        "id": "SEC-2010-1882-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-29957",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2011-01-25T04:59:59Z",
+          "title": "Exemptions for Advisers to Venture Capital Funds, Private Fund Advisers with Less Than $150 Million in Assets, etc.",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb392e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2010-1882-0001"
+        }
+      },
+      {
+        "id": "CFTC-2010-0184-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:04:14Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2010-29994",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Real-time Public Reporting of Swap Transaction Data; Correction",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb3945"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2010-0184-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0997-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-09T14:57:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31094",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-03-08T04:59:59Z",
+          "title": "Safety Management System for Certificated Airports: Extension of Comment Period",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "FAA-2010-0997",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb3912"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0997-0022"
+        }
+      },
+      {
+        "id": "IRS-2010-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-02-25T17:23:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-31033",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2011-01-11T04:59:59Z",
+          "title": "User Fees Relating to Enrolled Agents and Enrolled Retirement Plan Agents",
+          "postedDate": "2010-12-10T05:00:00Z",
+          "docketId": "IRS-2010-0036",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2010-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480bb3880"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2010-0036-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 403,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 63,
+            "label": "Notice"
+          },
+          {
+            "docCount": 42,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 19,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "SEC"
+          },
+          {
+            "docCount": 2,
+            "value": "DOS"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "CCC"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-12-10",
+          "toDate": "2010-12-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 19,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 19,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

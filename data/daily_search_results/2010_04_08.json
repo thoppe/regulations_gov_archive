@@ -1,0 +1,827 @@
+[
+  {
+    "data": [
+      {
+        "id": "SEC-2010-0529-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T13:29:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07856",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Adoption of Updated EDGAR Filer Manual",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad285f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2010-0529-0001"
+        }
+      },
+      {
+        "id": "FHWA-2010-0037-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T14:44:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07653",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Finding of No Significant Impact: US 421 Milton-Madison Bridge Replacement",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FHWA-2010-0037",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2010-0037-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0405-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T14:27:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07803",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace: Altus, OK; Correction",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2009-0405",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad285d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0405-0004"
+        }
+      },
+      {
+        "id": "IRS-2008-0068-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:33:54Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07932",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Travel Expenses of State Legislators",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "IRS-2008-0068",
+          "subtype": "Final Rule",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0068-0009"
+        }
+      },
+      {
+        "id": "FRA-2010-0005-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T14:47:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07900",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2010-06-08T03:59:59Z",
+          "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FRA-2010-0005",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2010-0005-0008"
+        }
+      },
+      {
+        "id": "FAA-2010-0377-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:22:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07945",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-05-25T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Company Model 767 Airplanes",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2010-0377",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0377-0001"
+        }
+      },
+      {
+        "id": "VA-2010-VACO-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:54:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07792",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AN56 - Final Rule - Removal of Obsolete References to Herbicides Containing Dioxin",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "VA-2010-VACO-0009",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480ad2860"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2010-VACO-0009-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0379-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:22:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07944",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-05-25T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Company Model 737-300, -400, and -500 Series Airplanes",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2010-0379",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad283f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0379-0001"
+        }
+      },
+      {
+        "id": "OCC-2010-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:52:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07940",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": null,
+          "title": "Freedom of Information Act",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "OCC-2010-0008",
+          "subtype": "Final Rule",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2845"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2010-0008-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0380-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:22:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07943",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-05-25T03:59:59Z",
+          "title": "Airworthiness Directives: Cessna Aircraft Company Model 750 Airplanes",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2010-0380",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2d19"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0380-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2007-0993-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-09T01:02:55Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07868",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-05-11T03:59:59Z",
+          "title": "NM024.06 Approval and Promulgation of Implementation Plans: New Mexico; Interstate Transport of Pollution",
+          "postedDate": "2010-04-09T01:02:55Z",
+          "docketId": "EPA-R06-OAR-2007-0993",
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2d2c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2007-0993-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2007-0993-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-04-09T01:01:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07867",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-05-11T03:59:59Z",
+          "title": "NM024.07 Approval and Promulgation of Implementation Plans: New Mexico; Interstate Transport of Pollution",
+          "postedDate": "2010-04-09T01:01:09Z",
+          "docketId": "EPA-R06-OAR-2007-0993",
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2865"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2007-0993-0002"
+        }
+      },
+      {
+        "id": "FCC-2007-0209-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T13:29:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-08012",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Digital Audio Broadcasting Systems and Their Impact on the Terrestrial Radio Broadcast Service",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2880"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2007-0209-0005"
+        }
+      },
+      {
+        "id": "DARS-2010-0044-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:06:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07262",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": "2010-06-08T03:59:59Z",
+          "title": "Defense Federal Acquisition Regulation Supplement: Minimizing Use of Hexavalent Chromium (DFARS Case 2009-D004)",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "DARS-2010-0044",
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2840"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2010-0044-0001"
+        }
+      },
+      {
+        "id": "USPS-2010-0019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T13:30:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07896",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "2010 Standard Mail Incentive Program",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2010-0019-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0299-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T14:28:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-08020",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-05-25T03:59:59Z",
+          "title": "Proposed Revision of Class E Airspace: Galena, AK",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2010-0299",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2863"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0299-0001"
+        }
+      },
+      {
+        "id": "FCC-2010-0094-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T13:29:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-08010",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "High-Cost Universal Service Support, Jurisdictional Separations, and Coalition: Equity in Switching Support Petition for Reconsideration",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad287b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2010-0094-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2009-0731-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-05-07T20:05:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07968",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-05-11T03:59:59Z",
+          "title": "Direct Final Approval of Wisconsin PM 2.5 Standards",
+          "postedDate": "2010-04-08T20:05:39Z",
+          "docketId": "EPA-R05-OAR-2009-0731",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28df"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2009-0731-0002"
+        }
+      },
+      {
+        "id": "FAA-2010-0394-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T14:37:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07645",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Membership: National Parks Overflights Advisory Group Aviation Rulemaking Committee",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2010-0394",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2d14"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0394-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0376-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:22:31Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07946",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-05-25T03:59:59Z",
+          "title": "Airworthiness Directives: Boeing Company Model 777-200, -200LR, -300, and  300ER Series Airplanes",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2010-0376",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2d2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0376-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0095-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T14:30:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-08016",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-05-25T03:59:59Z",
+          "title": "Amendment of Class D Airspace: Goldsboro, NC",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2010-0095",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad287f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0095-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2009-0731-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-05-07T20:05:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07969",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2010-05-11T03:59:59Z",
+          "title": "Proposed Approval of Wisconsin PM 2.5 Standards",
+          "postedDate": "2010-04-08T20:05:20Z",
+          "docketId": "EPA-R05-OAR-2009-0731",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad287c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2009-0731-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2009-0712-0036",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T13:53:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07878",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans: Delaware; Reasonable Further Progress Plan, 2002 Base Year Inventory, etc.",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2009-0712",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480ad2896"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2009-0712-0036"
+        }
+      },
+      {
+        "id": "FAA-2010-0375-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:22:30Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07947",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-05-25T03:59:59Z",
+          "title": "Airworthiness Directives: Bombardier, Inc. Model CL 600 2B19 (Regional Jet Series 100 and 440) Airplanes et al.",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2010-0375",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28fb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0375-0001"
+        }
+      },
+      {
+        "id": "VA-2009-VHA-0019-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:54:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07791",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AM70 - Final Rule - Grants to States for Construction or Acquisition of State Home FacilitiesUpdate of Authorized Beds",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "VA-2009-VHA-0019",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480ad2841"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2009-VHA-0019-0003"
+        }
+      },
+      {
+        "id": "DARS-2010-0042-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-17T20:45:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07258",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Export-Controlled Items (DFARS Case 2004-D010)",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "DARS-2010-0042",
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2881"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2010-0042-0001"
+        }
+      },
+      {
+        "id": "DARS-2010-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:06:27Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07261",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Acquisitions in Support of Operations in Iraq or Afghanistan (DFARS Case 2008-D002)",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "DARS-2010-0041",
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad2864"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2010-0041-0001"
+        }
+      },
+      {
+        "id": "DARS-2010-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-06-17T20:45:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07259",
+          "withdrawn": false,
+          "agencyId": "DARS",
+          "commentEndDate": null,
+          "title": "Defense Federal Acquisition Regulation Supplement: Research and Development Contract Type Determination (DFARS Case 2006-D053)",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "DARS-2010-0043",
+          "subtype": null,
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DARS-2010-0043-0001"
+        }
+      },
+      {
+        "id": "FAA-2009-0926-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-08T14:31:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-07805",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Amendment of Class E Airspace: Dallas-Fort Worth, TX",
+          "postedDate": "2010-04-08T04:00:00Z",
+          "docketId": "FAA-2009-0926",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480ad28c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2009-0926-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 51,
+            "label": "Notice"
+          },
+          {
+            "docCount": 45,
+            "label": "Other"
+          },
+          {
+            "docCount": 39,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 26,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 12,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 4,
+            "value": "DARS"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "VA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-04-08",
+          "toDate": "2010-04-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

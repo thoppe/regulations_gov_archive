@@ -1,0 +1,993 @@
+[
+  {
+    "data": [
+      {
+        "id": "OPM-2010-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:54:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24495",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": "2010-11-30T04:59:59Z",
+          "title": "General Schedule Locality Pay Areas",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "OPM-2010-0014",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6381a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2010-0014-0001"
+        }
+      },
+      {
+        "id": "IRS-2010-0022-0815",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:07:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24652",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "User Fees Relating to Enrollment and Preparer Tax Identification Numbers",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "IRS-2010-0022",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b63864"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2010-0022-0815"
+        }
+      },
+      {
+        "id": "OSM-2010-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-10-07T03:40:22Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24601",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2010-11-02T03:59:59Z",
+          "title": "Louisiana Regulatory Program; Abandoned Mine Land Reclamation Plan",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "OSM-2010-0005",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2010-0005-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:05:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24538",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Aviation Rulemaking Advisory Committee; Renewal",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FAA-2010-1001",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1001-0001"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2007-0022-0335",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-09-30T16:08:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24349",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife and Plants: 12-Month Finding on Petition to List Pygmy Rabbit as Endangered or Threatened",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FWS-R8-ES-2007-0022",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2007-0022-0335"
+        }
+      },
+      {
+        "id": "DOD-2010-OS-0103-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:08:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24537",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2010-11-30T04:59:59Z",
+          "title": "DoD Freedom of Information Act (FOIA) Program",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "DOD-2010-OS-0103",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64103"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2010-OS-0103-0001"
+        }
+      },
+      {
+        "id": "NRC-2010-0075-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:16:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24581",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2010-11-30T04:59:59Z",
+          "title": "Licenses, Certifications, and Approvals for Material Licensees",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "NRC-2010-0075",
+          "subtype": "ANPR Withdrawal",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6416a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2010-0075-0005"
+        }
+      },
+      {
+        "id": "OSM-2010-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-10-07T03:39:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24598",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2010-11-02T03:59:59Z",
+          "title": "Alabama Regulatory Program",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "OSM-2010-0009",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b63859"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2010-0009-0001"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0002-0066",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T15:28:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24494",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Implantation or Injectable Dosage Form New Animal Drugs; Dexmedetomidine",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FDA-2010-N-0002",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64109"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0002-0066"
+        }
+      },
+      {
+        "id": "DOT-OST-2010-0074-0152",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T13:57:20Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24539",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2010-10-15T03:59:59Z",
+          "title": "Meetings: Future of Aviation Advisory Committee Subcommittee on Financing",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "DOT-OST-2010-0074",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6410a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2010-0074-0152"
+        }
+      },
+      {
+        "id": "DOT-OST-2010-0074-0153",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T13:58:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24540",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2010-10-16T03:59:59Z",
+          "title": "Meetings: Future of Aviation Advisory Committee Subcommittee on Competitiveness and Viability",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "DOT-OST-2010-0074",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64134"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2010-0074-0153"
+        }
+      },
+      {
+        "id": "FDIC-2010-0104-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:22:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24594",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": "2010-10-16T03:59:59Z",
+          "title": "Deposit Insurance Regulations: Unlimited Coverage for Noninterest-Bearing Transaction Accounts",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64151"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2010-0104-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:16:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24541",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-11-02T03:59:59Z",
+          "title": "Requests To Release Airport Property: Monroe Regional Airport; Monroe, LA",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FAA-2010-1005",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64154"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1005-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1000-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:02:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24109",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FAA-2010-1000",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1000-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2009-0616-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T18:06:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24573",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerances: Spinosad",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2009-0616",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2009-0616-0004"
+        }
+      },
+      {
+        "id": "IRS-2010-0009-0292",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:09:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24653",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Furnishing Identifying Number of Tax Return Preparer",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "IRS-2010-0009",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2010-0009-0292"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2009-0677-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T15:17:25Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24575",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerances: Fluoxastrobin",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2009-0677",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2009-0677-0004"
+        }
+      },
+      {
+        "id": "FTC-2010-0093-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:27:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24353",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": "2010-11-16T04:59:59Z",
+          "title": "Mortgage Acts and Practices Advertising Rule",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FTC-2010-0093",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64155"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2010-0093-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2012-0139-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-02-02T19:52:37Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24660",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; CFR Correction",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "NOAA-NMFS-2012-0139",
+          "subtype": null,
+          "commentStartDate": "2015-03-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64169"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2012-0139-0001"
+        }
+      },
+      {
+        "id": "IRS-2010-0030-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T17:09:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24488",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Requirements of a Statement Disclosing Uncertain Tax Positions; Correction",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "IRS-2010-0030",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6416f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2010-0030-0003"
+        }
+      },
+      {
+        "id": "FAA-2010-1004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:13:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24542",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Advisory Circulars; Availability, etc.: 120-79A, Developing and Implementing an Air Carrier Continuing Analysis and Surveillance System",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FAA-2010-1004",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6411a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1004-0001"
+        }
+      },
+      {
+        "id": "FHFA-2010-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:22:50Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24578",
+          "withdrawn": false,
+          "agencyId": "FHFA",
+          "commentEndDate": "2010-11-30T04:59:59Z",
+          "title": "Information Sharing Among Federal Home Loan Banks",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6411d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFA-2010-0035-0001"
+        }
+      },
+      {
+        "id": "FHFB-2010-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-09-30T12:57:06Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24578",
+          "withdrawn": false,
+          "agencyId": "FHFB",
+          "commentEndDate": "2010-11-30T04:59:59Z",
+          "title": "Information Sharing Among Federal Home Loan Banks",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b63868"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFB-2010-0010-0001"
+        }
+      },
+      {
+        "id": "FDIC-2010-0102-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24595",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Treatment by the Federal Deposit Insurance Corporation as Conservator or Receiver of Financial Assets, etc.",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2010-0102-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0907-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:24:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24475",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2010-11-30T04:59:59Z",
+          "title": "Airworthiness Directives: Eurocopter France (Eurocopter) Model AS332C, L, L1, and L2 Helicopters",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FAA-2010-0907",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638c1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0907-0001"
+        }
+      },
+      {
+        "id": "OSM-2010-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-10-07T03:41:45Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24599",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": "2010-11-02T03:59:59Z",
+          "title": "Utah Regulatory Program",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "OSM-2010-0012",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6416d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2010-0012-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2009-0092-0122",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-12T15:21:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24547",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": null,
+          "title": "Applications for Certificates of Public Convenience and Necessity and Foreign Air Carrier Permits; etc.",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "DOT-OST-2009-0092",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64107"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2009-0092-0122"
+        }
+      },
+      {
+        "id": "FAA-2010-1003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:10:26Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24543",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2011-02-01T04:59:59Z",
+          "title": "Proposed Modification of the Seattle, WA, Class B Airspace Area",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FAA-2010-1003",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64106"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1003-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-0999-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:00:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24544",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Meetings: RTCA Special Committee 203; Unmanned Aircraft Systems",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FAA-2010-0999",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6385e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-0999-0001"
+        }
+      },
+      {
+        "id": "FTA-2010-0034-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:21:03Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24567",
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2010-11-30T04:59:59Z",
+          "title": "Federal Transit Administrations Research, Technical Assistance, and Training Programs: Application Instructions and Program Management Guidelines (FTA Circular 6100.1D)",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FTA-2010-0034",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b63886"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2010-0034-0001"
+        }
+      },
+      {
+        "id": "FAA-2010-1002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:07:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24119",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures: Miscellaneous Amendments",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FAA-2010-1002",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638ee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2010-1002-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2006-25736-0042",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:55:28Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24336",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Hazardous Material; Miscellaneous Packaging Amendments",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "PHMSA-2006-25736",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b638f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2006-25736-0042"
+        }
+      },
+      {
+        "id": "FHWA-2010-0140-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T14:19:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24469",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2010-10-03T03:59:59Z",
+          "title": "Environmental Impact Statements; Availability, etc.: I-5 North Coast Corridor (I-5NCC) Project",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FHWA-2010-0140",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b6411c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2010-0140-0001"
+        }
+      },
+      {
+        "id": "FWS-R7-SM-2009-0001-0074",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-11-04T14:36:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24662",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Subsistence Management Regulations for Public Lands in Alaska; CFR Correction",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FWS-R7-SM-2009-0001",
+          "subtype": null,
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64136"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R7-SM-2009-0001-0074"
+        }
+      },
+      {
+        "id": "FDA-2010-N-0002-0068",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-30T15:42:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2010-24480",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "New Animal Drugs for Use in Animal Feeds; Melengestrol",
+          "postedDate": "2010-09-30T04:00:00Z",
+          "docketId": "FDA-2010-N-0002",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2010-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480b64158"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2010-N-0002-0068"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 78,
+            "label": "Notice"
+          },
+          {
+            "docCount": 49,
+            "label": "Other"
+          },
+          {
+            "docCount": 42,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 24,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 14,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "NFR-Notice of Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "ANPR Withdrawal"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 35,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "DOT"
+          },
+          {
+            "docCount": 3,
+            "value": "IRS"
+          },
+          {
+            "docCount": 3,
+            "value": "OSM"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 2,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFB"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 32,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 130,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-21 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-13 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-29 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-30 00:00:00",
+            "toDate": "2023-08-27 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2010-09-30",
+          "toDate": "2010-09-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 35,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 35,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]
