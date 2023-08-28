@@ -20,11 +20,11 @@ content = ["## Data Statistics"]
 
 content.append("|     |     |")
 content.append("|---- |---- |")
-content.append(f"| Total document | {len(df):,d}    |")
-content.append(f"| Unique agencies| {n_agency:,}    |")
-content.append(f"| Unique dockets | {n_dockets:,}   |")
-content.append(f"| Unique FR IDs  | {n_FRID:,}      |")
-content.append(f"| Total comments | {n_comments:,}  |")
+content.append(f"| Total documents | {len(df):,d}    |")
+content.append(f"| Unique agencies | {n_agency:,}    |")
+content.append(f"| Unique dockets  | {n_dockets:,}   |")
+content.append(f"| Unique FR IDs   | {n_FRID:,}      |")
+content.append(f"| Total comments  | {n_comments:,}  |")
 content.append("")
 
 content.append("## Data ingestion progress")
@@ -54,7 +54,7 @@ for _, row in df[:20].iterrows():
     docID = row["id"]
     title = row["attributes.title"].replace("|", r"\|")
     url = f"https://www.regulations.gov/document/{docID}"
-    content.append(f"| [{docID}]({url}) | {row.total_comments:,} | {title}")
+    content.append(f"| [{docID}]({url}) | {row.total_comments:,} | {title} |")
 
 content = "\n".join(content)
 
