@@ -23,6 +23,10 @@ This project only collects documents on the first two types: `Rule` and `Propose
 + Unique agencies: 252
 + Unique dockets : 60,896
 + Unique FR IDs  : 103,540
++ Total comments : 188,790.0
+
+## Data ingestion progress
 + Latest date    : 2023-08-14
 + Earliest date  : 1994-01-31
++ Fraction of documents scanned for comments  : 0.0056
 
