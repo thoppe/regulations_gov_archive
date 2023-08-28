@@ -27,7 +27,7 @@ Regulations are organized by five document types: `Rule`, `Proposed Rule`, `Noti
 
 ## Documents with top comments
 | docId | comments | Title |
-|---- |---- :|---- |
+|------|---------:|-------|
 | [FDA-2021-N-1349-0001](https://www.regulations.gov/document/FDA-2021-N-1349-0001) | 175,299 | Tobacco Product Standard for Menthol in Cigarettes |
 | [FDA-2011-N-0921-0199](https://www.regulations.gov/document/FDA-2011-N-0921-0199) | 14,552 | Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption; Extension of Comment Periods |
 | [NHTSA-2017-0082-0001](https://www.regulations.gov/document/NHTSA-2017-0082-0001) | 2,917 | Guidance: Automated Driving Systems - A Vision for Safety |

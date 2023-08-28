@@ -49,7 +49,7 @@ df = df.dropna(subset=["total_comments"]).sort_values(
 #    columns={"attributes.title": "title", "attributes.agencyId": "agency"}
 # )
 content.append("| docId | comments | Title |")
-content.append("|---- |---- :|---- |")
+content.append("|------|---------:|-------|")
 for _, row in df[:20].iterrows():
     docID = row["id"]
     title = row["attributes.title"].replace("|", r"\|")
