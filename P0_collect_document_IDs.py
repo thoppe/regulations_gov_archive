@@ -4,8 +4,8 @@ from dspipe import Pipe
 import utils
 import time
 
-days_back = 10_000  # Number of days we will go backwards
-buffer_days = 30  # Number of days before we start collecting data
+days_back = 12_000  # Number of days we will go backwards
+buffer_days = 14  # Number of days before we start collecting data
 
 selected_documentType = set(
     [
