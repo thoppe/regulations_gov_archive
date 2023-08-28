@@ -41,7 +41,6 @@ df.to_csv("artifacts/LISTING_rules_and_posted_rules.csv", index=False)
 
 print(f"{len(df)} items")
 
+# Print the top 10 counts
 g = df.value_counts("attributes.agencyId")
 print(g[:10])
-
-print(df[df["attributes.agencyId"] == "EPA"])
