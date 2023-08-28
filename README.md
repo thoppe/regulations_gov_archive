@@ -44,8 +44,7 @@ Regulations are organized by five document types: `Rule`, `Proposed Rule`, `Noti
 | [FWS-R4-ES-2012-0103-0001](https://www.regulations.gov/document/FWS-R4-ES-2012-0103-0001) | 331 | Endangered and Threatened Wildlife and Plants: Designation of Critical Habitat for the Northwest Atlantic Ocean Distinct Population Segment of the Loggerhead Sea Turtle |
 | [EPA-HQ-OAR-2018-0225-0001](https://www.regulations.gov/document/EPA-HQ-OAR-2018-0225-0001) | 317 | Air Quality State Implementation Plans; Approvals and Promulgations: Determination Regarding Good Neighbor Obligations for 2008 Ozone National Ambient Air Quality Standard |
 | [CMS-2008-0079-0001](https://www.regulations.gov/document/CMS-2008-0079-0001) | 258 | Medicare Program; Changes in Conditions of Participation Requirements and Payment Provisions for Rural Health Clinics and Federally Qualified Health Centers (CMS-1910-P2) |
-| [FDA-2011-N-0922-0019](https://www.regulations.gov/document/FDA-2011-N-0922-0019) | 252 | Current Good Manufacturing Practice and Hazard Analysis and Risk-Based Preventive Controls for Food for Animals; Extension of Comment
-Period |
+| [FDA-2011-N-0922-0019](https://www.regulations.gov/document/FDA-2011-N-0922-0019) | 252 | Current Good Manufacturing Practice and Hazard Analysis and Risk-Based Preventive Controls for Food for Animals; Extension of Comment Period |
 | [EPA-HQ-OPP-2015-0653-0402](https://www.regulations.gov/document/EPA-HQ-OPP-2015-0653-0402) | 251 | Tolerance Revocations: Chlorpyrifos |
 | [IRS-2012-0036-0001](https://www.regulations.gov/document/IRS-2012-0036-0001) | 224 | Additional Requirements for Charitable Hospitals |
 | [APHIS-2013-0047-0001](https://www.regulations.gov/document/APHIS-2013-0047-0001) | 223 | Enhancing Agricultural Coexistence; Request for Public Input |
