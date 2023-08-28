@@ -22,6 +22,7 @@ This project only collects documents on the first two types: `Rule` and `Propose
 + 131,430 total documents
 + Unique agencies: 252
 + Unique dockets : 60,896
++ Unique FR IDs  : 103,540
 + Latest date    : 2023-08-14
 + Earliest date  : 1994-01-31
 

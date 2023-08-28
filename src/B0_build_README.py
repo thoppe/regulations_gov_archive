@@ -5,18 +5,20 @@ content = ""
 df = pd.read_csv(
     "artifacts/LISTING_rules_and_posted_rules.csv",
     parse_dates=["postedDate"],
-    # nrows=2000
+    nrows=None,
 )
 
 last_date = df["postedDate"].max().strftime("%Y-%m-%d")
 first_date = df["postedDate"].min().strftime("%Y-%m-%d")
 n_agency = len(df["attributes.agencyId"].unique())
 n_dockets = len(df["attributes.docketId"].unique())
+n_FRID = len(df["attributes.frDocNum"].unique())
 
 content = ["## Data Statistics"]
 content.append(f"+ {len(df):,d} total documents")
 content.append(f"+ Unique agencies: {n_agency:,}")
 content.append(f"+ Unique dockets : {n_dockets:,}")
+content.append(f"+ Unique FR IDs  : {n_FRID:,}")
 content.append(f"+ Latest date    : {last_date}")
 content.append(f"+ Earliest date  : {first_date}")
 

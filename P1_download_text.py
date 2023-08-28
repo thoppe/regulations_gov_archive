@@ -88,6 +88,6 @@ for error in P(compute, 5):
 if new_errors:
     new_errors = pd.DataFrame(new_errors)
     err_df = pd.concat([err_df, new_errors])
-    err_df = err_df.sort_values(['frDocNum', 'docID'])
+    err_df = err_df.sort_values(["frDocNum", "docID"])
     err_df.to_csv(f_errors, index=False)
     print(err_df)
