@@ -1,0 +1,564 @@
+[
+  {
+    "data": [
+      {
+        "id": "IRS-2007-0097-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:27:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Foreign Tax Credit: Notification of Foreign Tax Redeterminations; Correction",
+          "postedDate": "2007-12-19T00:00:00Z",
+          "docketId": "IRS-2007-0097",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648037c3e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0097-0014"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2007-0448-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24367",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; West Virginia; Clean Air Interstate Rule",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2007-0448",
+          "subtype": null,
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b9b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2007-0448-0014"
+        }
+      },
+      {
+        "id": "MARAD-2007-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24525",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": null,
+          "title": "Requested Administrative Waiver of the Coastwise Trade Laws",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "MARAD-2007-0023",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b9e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2007-0023-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-29374-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-01T12:08:50Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06065",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-02-02T04:59:59Z",
+          "title": "Proposed Establishment of Class D Airspace; Sherman, TX",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "FAA-2007-29374",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ba59"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-29374-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2007-0092-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:42Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06078",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Office of Hazardous Materials Safety; Notice of Application for Special Permits",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "PHMSA-2007-0092",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ba23"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2007-0092-0001"
+        }
+      },
+      {
+        "id": "MARAD-2007-0024-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24526",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": null,
+          "title": "Requested Administrative Waiver of the Coastwise Trade Laws",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "MARAD-2007-0024",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b99c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2007-0024-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0097-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T17:27:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Foreign Tax Credit: Notification of Foreign Tax Redeterminations; Correction",
+          "postedDate": "2007-12-19T00:00:00Z",
+          "docketId": "IRS-2007-0097",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648037c419"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0097-0013"
+        }
+      },
+      {
+        "id": "PHMSA-2007-0093-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:34Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06079",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2008-01-03T04:59:59Z",
+          "title": "Office of Hazardous Materials Safety; Notice of Applications for Modification of Special Permit",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "PHMSA-2007-0093",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ba8e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2007-0093-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-29372-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-01T12:07:53Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06066",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-02-02T04:59:59Z",
+          "title": "Proposed Establishment of Class D Airspace; New Braunfels, TX",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "FAA-2007-29372",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b9c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-29372-0001"
+        }
+      },
+      {
+        "id": "FRA-2007-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24516",
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": null,
+          "title": "Proposed Agency Information Collection Activities; Comment Request",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "FRA-2007-0029",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ba41"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2007-0029-0001"
+        }
+      },
+      {
+        "id": "CMS-2007-0239-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:25:22Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06093",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2008-02-20T04:59:59Z",
+          "title": "Revisit User Fee Program for Medicare Survey and Certification Activities",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "CMS-2007-0239",
+          "subtype": null,
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ba57"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2007-0239-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-29373-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-01T12:07:17Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06064",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-02-02T04:59:59Z",
+          "title": "Proposed Establishment of Class D Airspace; Georgetown, TX",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "FAA-2007-29373",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b98f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-29373-0001"
+        }
+      },
+      {
+        "id": "CCC_FRDOC_0001-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-17T20:37:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24492",
+          "withdrawn": false,
+          "agencyId": "CCC",
+          "commentEndDate": "2008-01-18T04:59:59Z",
+          "title": "Cash and Share Lease Provisions for Future Farm Programs",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "CCC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b99a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CCC_FRDOC_0001-0024"
+        }
+      },
+      {
+        "id": "ATBCB-2007-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:56:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24506",
+          "withdrawn": false,
+          "agencyId": "ATBCB",
+          "commentEndDate": null,
+          "title": "Telecommunications Act Accessibility Guidelines; Electronic and Information Technology Accessibility Standards",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "ATBCB-2007-0023",
+          "subtype": null,
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ba8a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ATBCB-2007-0023-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0773-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:05:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24505",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish and Halibut Fisheries of the Bering Sea and Aleutian Islands Management Area and Gulf of Alaska, Seabird Avoidance Measures Revisions",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0773",
+          "subtype": null,
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b98d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0773-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0755-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:05:13Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06077",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2008-01-18T04:59:59Z",
+          "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Biennial Specifications and Management Measures; Inseason Adjustments",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0755",
+          "subtype": null,
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b9a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0755-0003"
+        }
+      },
+      {
+        "id": "SEC-2007-1720-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24384",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2008-02-20T04:59:59Z",
+          "title": "Concept Release on Possible Revisions to the Disclosure Requirements Relating to Oil and Gas Reserves",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b9be"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-1720-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2007-28733-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24443",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": null,
+          "title": "Motor vehicle safety standards; exemption petitions, etc.: Bentley Motors, Inc.",
+          "postedDate": "2007-12-18T05:00:00Z",
+          "docketId": "NHTSA-2007-28733",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037b9ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-28733-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 55,
+            "label": "Notice"
+          },
+          {
+            "docCount": 42,
+            "label": "Other"
+          },
+          {
+            "docCount": 36,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 14,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 18,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "ATBCB"
+          },
+          {
+            "docCount": 1,
+            "value": "CCC"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-12-18",
+          "toDate": "2007-12-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 18,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 18,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

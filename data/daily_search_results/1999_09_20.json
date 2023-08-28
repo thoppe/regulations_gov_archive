@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-1999-0008-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:10:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "List of Approved Spent Fuel Storage Casks:  (HI-STAR 100) Addition; Correction",
+          "postedDate": "1999-09-20T19:16:29Z",
+          "docketId": "NRC-1999-0008",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480920941"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-1999-0008-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1999-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:20:30Z",
+          "highlightedContent": "",
+          "frDocNum": "50788",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-09-25T03:59:59Z",
+          "title": "EPA Report to Congress on Fossil Fuel Combustion; Request for Comments; Proposed Rule; Reopening of Period for Public Comment",
+          "postedDate": "1999-09-20T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1999-0023",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800df1d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0023-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 23,
+            "label": "Other"
+          },
+          {
+            "docCount": 14,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-09-20",
+          "toDate": "1999-09-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

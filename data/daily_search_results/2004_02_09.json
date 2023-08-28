@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2002-0056-0115",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-19T18:03:01Z",
+          "highlightedContent": "",
+          "frDocNum": "5944",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Public Hearings for Rule to Reduce Interstate Transport of Fine Particulate Matter and Ozone (Interstate Air Quality Rule) and Proposed NESHAP; and in the Alternative, Proposed Standards of Performance for New and Existing Stationary Sources: Electric Utility Steam Generating Units New and Existing Stationary Sources: Electric Utility Steam Generating Units",
+          "postedDate": "2004-02-09T13:57:05Z",
+          "docketId": "EPA-HQ-OAR-2002-0056",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a6dd4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0056-0115"
+        }
+      },
+      {
+        "id": "FAA-2002-13235-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-02-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Correction (Original)",
+          "postedDate": "2004-02-09T05:00:00Z",
+          "docketId": "FAA-2002-13235",
+          "subtype": "Final Rule",
+          "commentStartDate": "2004-02-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480308fa9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13235-0007"
+        }
+      },
+      {
+        "id": "FAA-2001-10047-0236",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-02-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Correction (Original)",
+          "postedDate": "2004-02-09T05:00:00Z",
+          "docketId": "FAA-2001-10047",
+          "subtype": "Final Rule",
+          "commentStartDate": "2004-02-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300d28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10047-0236"
+        }
+      },
+      {
+        "id": "FAA-1999-5401-0143",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-02-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Interim Final Rule; Correction (Original)",
+          "postedDate": "2004-02-09T05:00:00Z",
+          "docketId": "FAA-1999-5401",
+          "subtype": "Final Rule",
+          "commentStartDate": "2004-02-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032b96e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5401-0143"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 150,
+            "label": "Other"
+          },
+          {
+            "docCount": 52,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 16,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-02-09",
+          "toDate": "2004-02-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

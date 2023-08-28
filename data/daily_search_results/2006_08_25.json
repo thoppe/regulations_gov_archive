@@ -1,0 +1,829 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2000-7953-0095",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FAA-2000-7953",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cbb75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7953-0095"
+        }
+      },
+      {
+        "id": "FAA-2006-24999-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:37:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FAA-2006-24999",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1b95"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24999-0006"
+        }
+      },
+      {
+        "id": "FAA-2006-24954-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Correction",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FAA-2006-24954",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7f2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24954-0009"
+        }
+      },
+      {
+        "id": "FAA-2006-25038-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FAA-2006-25038",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b078b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25038-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0626-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:34Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07160",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Wildlife; Sea Turtle Conservation",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "NOAA-2006-0626",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bed21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0626-0001"
+        }
+      },
+      {
+        "id": "DOD-2006-OS-0191-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-20T16:33:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Removal of Obsolete Regulations",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOD-2006-OS-0191",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bf0de"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-OS-0191-0002"
+        }
+      },
+      {
+        "id": "DOD-2006-OS-0192-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-20T16:33:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Removal of Obsolete Regulations",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOD-2006-OS-0192",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bf14c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-OS-0192-0002"
+        }
+      },
+      {
+        "id": "AMS-2006-0120-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14114",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2006-09-26T03:59:59Z",
+          "title": "Pistachios Grown in California; Decreased Assessment Rate",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "AMS-2006-0120",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bec5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-2006-0120-0001"
+        }
+      },
+      {
+        "id": "FRTIB-2006-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T17:46:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14097",
+          "withdrawn": false,
+          "agencyId": "FRTIB",
+          "commentEndDate": null,
+          "title": "Thrift Savings Plan Service Office and ThriftLine Contact Information",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FRTIB-2006-0015",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801becbe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRTIB-2006-0015-0001"
+        }
+      },
+      {
+        "id": "FRA-2006-24654-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Wavier of Compliance - City of Placentia, California",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FRA-2006-24654",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7e94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2006-24654-0006"
+        }
+      },
+      {
+        "id": "FCC-2006-0036-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:54:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14157",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2006-09-02T03:59:59Z",
+          "title": "Second Further Notice of Proposed Rule Making, In the Matter of Childrens Television Obligations of Digital Television Broadcasters",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bed16"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0036-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-0333-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:12:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14165",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-10-25T03:59:59Z",
+          "title": "Kresoxim-methyl; Pesticide Tolerance",
+          "postedDate": "2006-08-25T21:14:51Z",
+          "docketId": "EPA-HQ-OPP-2006-0333",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-08-25T21:14:51Z",
+          "openForComment": false,
+          "objectId": "09000064801bed28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-0333-0003"
+        }
+      },
+      {
+        "id": "FAA-2006-24959-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FAA-2006-24959",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1b6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24959-0006"
+        }
+      },
+      {
+        "id": "DOD-2006-HA-0182-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-24T13:41:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-13719",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "TRICARE Program; TRICARE Prime Remote for Active Duty Family Members and TRICARE Prime Enrollment Period",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOD-2006-HA-0182",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bee2c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-HA-0182-0001"
+        }
+      },
+      {
+        "id": "APHIS-2006-0096-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:55:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14128",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2006-11-25T04:59:59Z",
+          "title": "Agricultural Inspection and AQI User Fees Along the U.S./Canada Border",
+          "postedDate": "2006-08-25T13:12:47Z",
+          "docketId": "APHIS-2006-0096",
+          "subtype": "Interim rule",
+          "commentStartDate": "2006-08-25T13:12:47Z",
+          "openForComment": false,
+          "objectId": "09000064801bee0e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2006-0096-0001"
+        }
+      },
+      {
+        "id": "DOD-2006-OS-0191-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-20T16:33:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Employment and Volunteer Work of Spouses of Military Personnel",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOD-2006-OS-0191",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bf0ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-OS-0191-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-24521-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:49:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petitions for Exemption Received",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FAA-2006-24521",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ae646"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24521-0005"
+        }
+      },
+      {
+        "id": "ETA-2006-0461-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:18:59Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07067",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": "2006-10-25T03:59:59Z",
+          "title": "Trade Adjustment Assistance for Workers, Workforce Investment Act; Amendment of Regulations",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "ETA-2006-0461",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bec2e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA-2006-0461-0001"
+        }
+      },
+      {
+        "id": "DOS-2006-0267-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:14:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14140",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Visas: Documentation of Nonimmigrants Under the Immigration and Nationality Act; Correction",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOS-2006-0267",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801becb7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2006-0267-0001"
+        }
+      },
+      {
+        "id": "DOD-2006-OS-0192-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-20T16:33:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Intergovernmental Coordination of DoD Federal Development Programs and Activities",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOD-2006-OS-0192",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bf116"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-OS-0192-0001"
+        }
+      },
+      {
+        "id": "AMS-2006-0119-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14108",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Amendments to the Potato Research and Promotion Plan",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "AMS-2006-0119",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bec58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-2006-0119-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-0167-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:19:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14065",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-09-26T03:59:59Z",
+          "title": "Quinoxyfen; Pesticide Tolerance",
+          "postedDate": "2006-08-25T21:07:31Z",
+          "docketId": "EPA-HQ-OPP-2006-0167",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-08-25T21:07:31Z",
+          "openForComment": false,
+          "objectId": "09000064801beca0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-0167-0003"
+        }
+      },
+      {
+        "id": "IRS-2006-0462-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:31:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14090",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Computer Software Under Section 199(c)(5)(B); Hearing Cancellation",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "IRS-2006-0462",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bedc8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0462-0001"
+        }
+      },
+      {
+        "id": "FCC-2006-0039-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:54:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-14161",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2006-10-01T03:59:59Z",
+          "title": "Implementation of the Commercial Spectrum Enhancement Act and Modernization of the Commissions Competitive Bidding Rules and Procedures",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bee66"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0039-0007"
+        }
+      },
+      {
+        "id": "FAA-2006-24979-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:34:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FAA-2006-24979",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1b82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24979-0006"
+        }
+      },
+      {
+        "id": "FAA-2001-11080-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-08-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petitions for Exemption Received",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "FAA-2001-11080",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b9f75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-11080-0016"
+        }
+      },
+      {
+        "id": "DOD-2006-HA-0189-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-24T13:41:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "TRICARE; Sub-Acute Care Program; Uniform Skilled Nursing Facility",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOD-2006-HA-0189",
+          "subtype": "Final Rule",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bef7b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-HA-0189-0001"
+        }
+      },
+      {
+        "id": "DOD-2006-OS-0190-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-20T16:33:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Eligibility Requirements for Education of Minor Dependents in Overseas Areas",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOD-2006-OS-0190",
+          "subtype": "Final Rule",
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bf00a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-OS-0190-0001"
+        }
+      },
+      {
+        "id": "DOD-2006-OS-0190-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-09-20T16:33:09Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07010",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Removal of Obsolete Regulations",
+          "postedDate": "2006-08-25T04:00:00Z",
+          "docketId": "DOD-2006-OS-0190",
+          "subtype": null,
+          "commentStartDate": "2006-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801bd11b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-OS-0190-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 98,
+            "label": "Notice"
+          },
+          {
+            "docCount": 56,
+            "label": "Other"
+          },
+          {
+            "docCount": 34,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 24,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "DOD"
+          },
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "ETA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRTIB"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-08-25",
+          "toDate": "2006-08-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

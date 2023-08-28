@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2001-0007-0044",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-04-19T16:29:20Z",
+          "highlightedContent": "",
+          "frDocNum": "66398",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Environmental Radiation Protection Standards for the Management and Disposal of Spent Nuclear Fuel, High Level and Transuranic Radiaocative Wastes [A-95-12-V-A-3a]",
+          "postedDate": "2001-06-08T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2001-0007",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e29c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2001-0007-0044"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2000-7126-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:18:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2001-06-09T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Administrator for Hazardous Materials Safety",
+          "postedDate": "2001-06-08T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2000-7126",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480338dfe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2000-7126-0006"
+        }
+      },
+      {
+        "id": "FMCSA-2001-8672-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:42:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2001-06-09T03:59:59Z",
+          "title": "Notice; Request for Comments",
+          "postedDate": "2001-06-08T04:00:00Z",
+          "docketId": "FMCSA-2001-8672",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345524"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2001-8672-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2001-0007-0043",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-04-19T16:22:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Public Health And Environmental Radiation Protection Standards For Yucca Mountain, Nevada [A-95-12-V-A-1]",
+          "postedDate": "2001-06-08T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2001-0007",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e29b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2001-0007-0043"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2001-0007-0045",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-19T16:40:09Z",
+          "highlightedContent": "",
+          "frDocNum": "7924",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Environmental Radiation Protection Standards for the Management and Disposal of Spent Nuclear Fuel, High Level and Transuranic Radioactive Waste; Proposed Rule [A-95-12-V-A-3b]",
+          "postedDate": "2001-06-08T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2001-0007",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e29d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2001-0007-0045"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 61,
+            "label": "Other"
+          },
+          {
+            "docCount": 23,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-06-08",
+          "toDate": "2001-06-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

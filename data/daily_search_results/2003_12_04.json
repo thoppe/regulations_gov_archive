@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-2002-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:12:35Z",
+          "highlightedContent": "",
+          "frDocNum": "67916",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-02-05T04:59:59Z",
+          "title": "Reportable Quantity Adjustments for Carbamates and Carbamate-Related Hazardous Waste Streams;  Reportable Quantity Adjustment for Inorganic Chemical Manufacturing Processes Waste (K178); Proposed Rule",
+          "postedDate": "2003-12-04T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2002-0011",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-12-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e296c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2002-0011-0001"
+        }
+      },
+      {
+        "id": "USCG-2003-16571-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-01-08T04:59:59Z",
+          "title": "Interim Rule with Request for Comments",
+          "postedDate": "2003-12-04T05:00:00Z",
+          "docketId": "USCG-2003-16571",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-12-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031904d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2003-16571-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-16370-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:21:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-12-05T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2003-12-04T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-16370",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-12-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480317d21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-16370-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-2002-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:22:54Z",
+          "highlightedContent": "",
+          "frDocNum": "67916",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-02-05T04:59:59Z",
+          "title": "Reportable Quantity Adjustments for Carbamates and Carbamate-Related Hazardous Waste Streams; Reportable Quantity Adjustment for Inorganic Chemical Manufacturing Processes Waste (K178); Proposed Rule",
+          "postedDate": "2003-12-04T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2002-0010",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-12-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e2407"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2002-0010-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 60,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-12-04",
+          "toDate": "2003-12-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

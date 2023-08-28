@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-2004-18039-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:06:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-06-16T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Public Comment on a Proposed Collection of Information",
+          "postedDate": "2004-06-15T04:00:00Z",
+          "docketId": "NHTSA-2004-18039",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f844"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2004-18039-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0059-0686",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:11:27Z",
+          "highlightedContent": "",
+          "frDocNum": "33474",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants (HAP) for Stationary Reciprocating Internal Combustion Engines",
+          "postedDate": "2004-06-15T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0059",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800c4917"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0059-0686"
+        }
+      },
+      {
+        "id": "EPA-HQ-UST-2004-0002-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-24T21:41:14Z",
+          "highlightedContent": "",
+          "frDocNum": "33312",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Underground Storage Tank Program: Approved State Program for Virginia",
+          "postedDate": "2004-06-15T04:00:00Z",
+          "docketId": "EPA-HQ-UST-2004-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800ad0af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-UST-2004-0002-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-UST-2004-0003-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-24T21:41:26Z",
+          "highlightedContent": "",
+          "frDocNum": "33309",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-08-17T03:59:59Z",
+          "title": "Underground Storage Tank Program: Approved State Program for West Virginia",
+          "postedDate": "2004-06-15T04:00:00Z",
+          "docketId": "EPA-HQ-UST-2004-0003",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ad2e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-UST-2004-0003-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-UST-2004-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-24T21:41:26Z",
+          "highlightedContent": "",
+          "frDocNum": "33343",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-07-16T03:59:59Z",
+          "title": "Underground Storage Tank Program: Approved State Program for West Virginia",
+          "postedDate": "2004-06-15T04:00:00Z",
+          "docketId": "EPA-HQ-UST-2004-0003",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ad2c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-UST-2004-0003-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-UST-2004-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-24T21:41:14Z",
+          "highlightedContent": "",
+          "frDocNum": "33344",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-07-16T03:59:59Z",
+          "title": "Underground Storage Tank Program: Approved State Program for Virginia",
+          "postedDate": "2004-06-15T04:00:00Z",
+          "docketId": "EPA-HQ-UST-2004-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-06-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ad098"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-UST-2004-0002-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 72,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Notice"
+          },
+          {
+            "docCount": 13,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-06-15",
+          "toDate": "2004-06-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

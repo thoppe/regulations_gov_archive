@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1999-0046-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:17:39Z",
+          "highlightedContent": "",
+          "frDocNum": "40696",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-08-27T03:59:59Z",
+          "title": "Project XL Site-Specific Rulemaking for University Laboratories at the University of Massachusetts Boston, Boston, MA; the Boston College, Chestnut Hill, MA; and the University of Vermont, Burlington, VT; Proposed Rule [F-1999-NEUP-FFFFF]",
+          "postedDate": "1999-07-27T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1999-0046",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ddb21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0046-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1999-0042-0088",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:15:23Z",
+          "highlightedContent": "",
+          "frDocNum": "40534",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-10-26T03:59:59Z",
+          "title": "Potential Revisions to the Land Disposal Restrictions Mercury Treatment Standards; Extension of Comment Period [F-1999-MTSP-S0044]",
+          "postedDate": "1999-07-27T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1999-0042",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800dda5a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0042-0088"
+        }
+      },
+      {
+        "id": "DOT-OST-1997-2050-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:24:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1999-07-28T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "1999-07-27T04:00:00Z",
+          "docketId": "DOT-OST-1997-2050",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480316275"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1997-2050-0013"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1999-0046-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:11Z",
+          "highlightedContent": "",
+          "frDocNum": "40695",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-08-27T03:59:59Z",
+          "title": "Project XL Site-Specific Rulemaking for University Laboratories at the University of Massachusetts Boston, Boston, Massachusetts; the Boston College, Chestnut Hill, Massachusetts; and the University of Vermont, Burlington, Vermont; Proposed Rule [F-1999-NEUP-S0002]",
+          "postedDate": "1999-07-27T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1999-0046",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ddb82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0046-0019"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1999-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:11:06Z",
+          "highlightedContent": "",
+          "frDocNum": "40534",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-10-26T03:59:59Z",
+          "title": "Potential Revisions to the Land Disposal Restrictions Mercury Treatment Standards; Extension of Comment Period",
+          "postedDate": "1999-07-27T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1999-0043",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ddab3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0043-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 109,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 94,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-07-27",
+          "toDate": "1999-07-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

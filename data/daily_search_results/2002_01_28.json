@@ -1,0 +1,125 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-2001-10660-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-01-29T04:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver of Compliance - The Burlington Northern and Santa Fe Railway Company",
+          "postedDate": "2002-01-28T05:00:00Z",
+          "docketId": "FRA-2001-10660",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-01-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3ba3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2001-10660-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 78,
+            "label": "Other"
+          },
+          {
+            "docCount": 42,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-01-28",
+          "toDate": "2002-01-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

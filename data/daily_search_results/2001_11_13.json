@@ -1,0 +1,171 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2001-10961-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:03:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-11-14T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel Lucky Strike",
+          "postedDate": "2001-11-13T05:00:00Z",
+          "docketId": "MARAD-2001-10961",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803031a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-10961-0001"
+        }
+      },
+      {
+        "id": "MARAD-2001-10960-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-11-14T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel PEZ VELA",
+          "postedDate": "2001-11-13T05:00:00Z",
+          "docketId": "MARAD-2001-10960",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030319b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-10960-0001"
+        }
+      },
+      {
+        "id": "MARAD-2001-10962-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-11-14T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel BATTLEWAGON",
+          "postedDate": "2001-11-13T05:00:00Z",
+          "docketId": "MARAD-2001-10962",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803031a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-10962-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 46,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "MARAD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-11-13",
+          "toDate": "2001-11-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

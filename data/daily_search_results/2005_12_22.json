@@ -1,0 +1,834 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-2004-H-0391-0112",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:37:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "HF-3",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "FDA-2004-H-0391",
+          "subtype": "SET-Settlement Agreement",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480474366"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-H-0391-0112"
+        }
+      },
+      {
+        "id": "FDA-2004-H-0391-0114",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:37:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "HF-3",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "FDA-2004-H-0391",
+          "subtype": "SET-Settlement Agreement",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480474368"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-H-0391-0114"
+        }
+      },
+      {
+        "id": "FAA-2005-22124-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-12-23T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "FAA-2005-22124",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5bd0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22124-0009"
+        }
+      },
+      {
+        "id": "FAA-2005-23400-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-12-23T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Rescission",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "FAA-2005-23400",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033129d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-23400-0001"
+        }
+      },
+      {
+        "id": "AMS-2005-0058-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:31Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24339",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2006-02-22T04:59:59Z",
+          "title": "Melons Grown in South Texas; Proposed Termination of Marketing Order 979",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "AMS-2005-0058",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdf4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-2005-0058-0001"
+        }
+      },
+      {
+        "id": "DOD-2005-0157-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-09-20T16:32:59Z",
+          "highlightedContent": "",
+          "frDocNum": "05-23938",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Criminal Jurisdiction Over Civilians Employed by or Accompanying the Armed Forces Outside the United States, Service Members, and Former Service Members",
+          "postedDate": "2005-12-22T14:11:01Z",
+          "docketId": "DOD-2005-0157",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800fdfd3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2005-0157-0001"
+        }
+      },
+      {
+        "id": "OTS-2005-0007-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:54:42Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24370",
+          "withdrawn": false,
+          "agencyId": "OTS",
+          "commentEndDate": null,
+          "title": "Fair Credit Reporting Medical Information Regulations; Correction",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "OTS-2005-0007",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fddc5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OTS-2005-0007-0002"
+        }
+      },
+      {
+        "id": "APHIS-2005-0107-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E5-07690",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2006-03-11T04:59:59Z",
+          "title": "Importation of Fruits and Vegetables",
+          "postedDate": "2005-12-22T12:20:25Z",
+          "docketId": "APHIS-2005-0107",
+          "subtype": "Proposed rule",
+          "commentStartDate": "2005-12-22T12:20:25Z",
+          "openForComment": false,
+          "objectId": "09000064800fde12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2005-0107-0001"
+        }
+      },
+      {
+        "id": "CFTC-2005-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:37:54Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24360",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Foreign Futures and Options Transactions",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fde68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2005-0030-0001"
+        }
+      },
+      {
+        "id": "SEC-2005-0429-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:58:42Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24359",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2006-02-22T04:59:59Z",
+          "title": "Amendments to the Tender Offer Best-Price Rule",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdf10"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2005-0429-0001"
+        }
+      },
+      {
+        "id": "FDA-1976-N-0027-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-11-10T21:40:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2006-03-23T04:59:59Z",
+          "title": "Notice of Proposed Rule-Making re (OTC) nasal decongestant and weight control drug products containing phenylpropanolamine preparations.",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "FDA-1976-N-0027",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648051b798"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1976-N-0027-0022"
+        }
+      },
+      {
+        "id": "NCUA-2005-0024-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2006-09-02T20:29:49Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24368",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": "2006-03-23T04:59:59Z",
+          "title": "Request for Burden Reduction Recommendation; Rules Relating to Agency Programs, Capital, and Corporate Credit Unions; Economic Growth and Regulatory Paperwork Reduction Act of 1996 Review",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "NCUA-2005-0024",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fde0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2005-0024-0001"
+        }
+      },
+      {
+        "id": "FRS-2005-0095-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:25:18Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24370",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Fair Credit Reporting Medical Information Regulations; Correction",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fde14"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2005-0095-0002"
+        }
+      },
+      {
+        "id": "FDIC-2005-0019-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:21:26Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24370",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Fair Credit Reporting Medical Information Regulations; Correction",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fde7e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2005-0019-0002"
+        }
+      },
+      {
+        "id": "OCC-2005-0012-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:52:04Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24370",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": null,
+          "title": "Fair Credit Reporting Medical Information Regulations; Correction",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "OCC-2005-0012",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdf85"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2005-0012-0002"
+        }
+      },
+      {
+        "id": "USCG-2001-8773-0127",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2005-12-23T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "USCG-2001-8773",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345e4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-8773-0127"
+        }
+      },
+      {
+        "id": "FS-2005-0087-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:25:45Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24353",
+          "withdrawn": false,
+          "agencyId": "FS",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "Subsistence Management Regulations for Public Lands in Alaska, Subpart C and Subpart D-2007-08 Subsistence Taking of Fish and Shellfish Regulations",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "FS-2005-0087",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fde05"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FS-2005-0087-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2005-23389-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:59:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2005-12-23T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Public Comment on Proposed Collection of Information",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "NHTSA-2005-23389",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802af0c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2005-23389-0001"
+        }
+      },
+      {
+        "id": "SBA-2005-0083-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:57:26Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24374",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Cosponsorships, Fee and Non-Fee Based SBA-Sponsored Activities, and Gifts",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "SBA-2005-0083",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdf87"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2005-0083-0002"
+        }
+      },
+      {
+        "id": "HHS-2005-0054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:28:20Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24358",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": "2006-02-22T04:59:59Z",
+          "title": "Procedures for Designating Classes of Employees as Members of the Special Exposure Cohort Under the Energy Employees Occupational Illness Compensation Program Act of 2000; Amendments; Interim Final Rule With Request for Comments",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "HHS-2005-0054",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdfbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-2005-0054-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2005-23383-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2005-12-23T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Public Comment on Proposed Collection of Information",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "NHTSA-2005-23383",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803311cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2005-23383-0001"
+        }
+      },
+      {
+        "id": "AMS-2005-0057-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E5-07677",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2006-01-07T04:59:59Z",
+          "title": "Irish Potatoes Grown in Colorado; Relaxation of Handling Regulation for Area No. 2",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "AMS-2005-0057",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdeb5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-2005-0057-0001"
+        }
+      },
+      {
+        "id": "IRS-2005-0005-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:30:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E5-07650",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Employer Comparable Contributions to Health Savings Accounts Under Section 4980G; Hearing",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "IRS-2005-0005",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdf12"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2005-0005-0002"
+        }
+      },
+      {
+        "id": "NCUA-2005-0015-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:49:46Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24370",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Fair Credit Reporting Medical Information Regulations; Correction",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "NCUA-2005-0015",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdf14"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2005-0015-0002"
+        }
+      },
+      {
+        "id": "NOAA-2005-0260-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:07Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24369",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Modification of the Yellowtail Flounder Landing Limit for Western and Eastern U.S./Canada Areas",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "NOAA-2005-0260",
+          "subtype": null,
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fdfce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2005-0260-0001"
+        }
+      },
+      {
+        "id": "FDA-2004-H-0391-0110",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:37:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "GCF-1",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "FDA-2004-H-0391",
+          "subtype": "SET-Settlement Agreement",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480474364"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-H-0391-0110"
+        }
+      },
+      {
+        "id": "FDA-2004-H-0391-0111",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:37:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "GCF-1",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "FDA-2004-H-0391",
+          "subtype": "SET-Settlement Agreement",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480474365"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-H-0391-0111"
+        }
+      },
+      {
+        "id": "NHTSA-2005-23407-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:15:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2005-12-23T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule; Response to Petitions for Reconsideration; Delay of Effective Date",
+          "postedDate": "2005-12-22T05:00:00Z",
+          "docketId": "NHTSA-2005-23407",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803312ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2005-23407-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 139,
+            "label": "Other"
+          },
+          {
+            "docCount": 92,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 88,
+            "label": "Notice"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "SET-Settlement Agreement"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 28,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FDA"
+          },
+          {
+            "docCount": 3,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "FS"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "OTS"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-12-22",
+          "toDate": "2005-12-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 28,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 28,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

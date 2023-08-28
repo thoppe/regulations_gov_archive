@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2000-8460-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-07-23T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2002-07-22T04:00:00Z",
+          "docketId": "FAA-2000-8460",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480344285"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-8460-0022"
+        }
+      },
+      {
+        "id": "FRA-2001-9972-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-07-23T03:59:59Z",
+          "title": "US. DOT/FRA - Amendment to Order of Particular Applicability Requiring Advanced Civil Speed Enforcement System between New Haven, Connecticut & Boston, Massachusetts/New CSX Transportation, Temporary Operating Protocols Allowing Nighttime Operations",
+          "postedDate": "2002-07-22T04:00:00Z",
+          "docketId": "FRA-2001-9972",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bd3c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2001-9972-0014"
+        }
+      },
+      {
+        "id": "NRC-2002-0009-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-21T01:00:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2002-10-08T03:59:59Z",
+          "title": "Federal Register Notice - Proposed Rule:  Geological and Seismological Characteristics for the Siting and Design of Dry Cask Independent Spent Fuel Storage Installations and Monitored Retrievable Storage Installations",
+          "postedDate": "2002-07-22T20:43:27Z",
+          "docketId": "NRC-2002-0009",
+          "subtype": null,
+          "commentStartDate": "2002-07-22T20:43:27Z",
+          "openForComment": false,
+          "objectId": "09000064803fcb01"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0009-0011"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 73,
+            "label": "Other"
+          },
+          {
+            "docCount": 31,
+            "label": "Notice"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-07-22",
+          "toDate": "2002-07-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2002-0025-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-02-03T19:53:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Salary Offset Procedures for Collecting Debts Owned by Federal Employees to the Federal Government",
+          "postedDate": "2002-09-11T20:26:09Z",
+          "docketId": "NRC-2002-0025",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480792a0e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0025-0002"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-3971-0152",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:24:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1998-12-02T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Correction - Hazardous Materials: Revision to Standards for Infectious Substances",
+          "postedDate": "2002-09-11T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-3971",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323a1c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-3971-0152"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 56,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-09-11",
+          "toDate": "2002-09-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

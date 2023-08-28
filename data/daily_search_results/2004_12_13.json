@@ -1,0 +1,456 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-2001-11213-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2004-12-15T04:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of  Determination",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FRA-2001-11213",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3c38"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2001-11213-0006"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-14315-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:05:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/RSPA - List of Applications for Exemptions",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-14315",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c3787"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-14315-0009"
+        }
+      },
+      {
+        "id": "FAA-2004-19330-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2004-19330",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324f45"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19330-0002"
+        }
+      },
+      {
+        "id": "FAA-2004-19333-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2004-19333",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324f81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19333-0003"
+        }
+      },
+      {
+        "id": "FAA-2004-19329-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2004-19329",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324f37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19329-0002"
+        }
+      },
+      {
+        "id": "FAA-2004-19329-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2004-19329",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324f38"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19329-0003"
+        }
+      },
+      {
+        "id": "FAA-2004-19331-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2004-19331",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324f51"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19331-0002"
+        }
+      },
+      {
+        "id": "FAA-2001-10047-0238",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Correction  - Regulation of Fractional Aircraft Ownership Programs and On-Demand Operations (Original)",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2001-10047",
+          "subtype": "Final Rule",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300d2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10047-0238"
+        }
+      },
+      {
+        "id": "FAA-2004-19332-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2004-19332",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324f71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19332-0002"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2004-19886-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:04:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Interim Final Rule (Original)",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2004-19886",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c4633"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2004-19886-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19522-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-15T04:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2004-19522",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480325cb5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19522-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-17773-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "FAA-2004-17773",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e653"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-17773-0002"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-5129-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-02T18:06:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2004-12-14T04:59:59Z",
+          "title": "U.S. DOT/OST - Semiannual Regulatory Agenda",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "DOT-OST-1999-5129",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7709"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-5129-0010"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0049-0307",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:21:01Z",
+          "highlightedContent": "",
+          "frDocNum": "72140",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-01-13T04:59:59Z",
+          "title": "Options for PM 2.5 and PM 10 Hot-Spot Analyses in the Transportation Conformity Rule Amendments for the New PM 2.5 and Existing PM10 National Ambient Air Quality Standards",
+          "postedDate": "2004-12-13T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0049",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-12-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800c07ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0049-0307"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 80,
+            "label": "Other"
+          },
+          {
+            "docCount": 36,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 11,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 14,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-12-13",
+          "toDate": "2004-12-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 14,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 14,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

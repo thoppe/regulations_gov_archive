@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "id": "TSA-2003-14702-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:56:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2003-10-10T03:59:59Z",
+          "title": "U.S. DHS/TSA HQ - Transportation Security Administration Transition to Department of Homeland Security; Technical Amendments Reflecting Organizational Changes; Final Rule; Correction (Original)",
+          "postedDate": "2003-10-09T04:00:00Z",
+          "docketId": "TSA-2003-14702",
+          "subtype": "Final Rule",
+          "commentStartDate": "2003-10-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ada8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2003-14702-0004"
+        }
+      },
+      {
+        "id": "TSA-2003-14702-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:56:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2003-10-10T03:59:59Z",
+          "title": "U.S. DHS/TSA - Final Rule; Correction",
+          "postedDate": "2003-10-09T04:00:00Z",
+          "docketId": "TSA-2003-14702",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-10-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ada8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2003-14702-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 43,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "TSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-10-09",
+          "toDate": "2003-10-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

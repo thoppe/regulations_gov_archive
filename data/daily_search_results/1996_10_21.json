@@ -1,0 +1,125 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-1997-2299-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-12T00:42:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1996-07-30T03:59:59Z",
+          "title": "Extension of Comment Period - Rules of Practice for Motor Carrier Proceedings; Investigations; Disqualifications and Penalties",
+          "postedDate": "1996-10-21T04:00:00Z",
+          "docketId": "FMCSA-1997-2299",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "1996-10-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480318373"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2299-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 24,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-10-21",
+          "toDate": "1996-10-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

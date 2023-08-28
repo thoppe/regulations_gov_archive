@@ -1,0 +1,398 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2001-10770-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:32:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "FAA-2001-10770",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480302881"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10770-0012"
+        }
+      },
+      {
+        "id": "NRC-2002-0003-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:12:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2002-06-04T03:59:59Z",
+          "title": "Federal Register Notice - Proposed Rule:  Incorporation by Reference of ASME BPV and OM Code Cases",
+          "postedDate": "2002-03-19T21:30:16Z",
+          "docketId": "NRC-2002-0003",
+          "subtype": null,
+          "commentStartDate": "2002-03-19T21:30:16Z",
+          "openForComment": false,
+          "objectId": "09000064805502e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0003-0012"
+        }
+      },
+      {
+        "id": "FMCSA-1998-3297-0289",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "FMCSA-1998-3297",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f305"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3297-0289"
+        }
+      },
+      {
+        "id": "FMCSA-1998-3298-0262",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "Interim Final Rule; Request for Comments",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "FMCSA-1998-3298",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f46c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3298-0262"
+        }
+      },
+      {
+        "id": "NHTSA-2002-11592-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:14:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "NHTSA-2002-11592",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030496f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2002-11592-0002"
+        }
+      },
+      {
+        "id": "NHTSA-2002-11593-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:08:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "NHTSA-2002-11593",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480304999"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2002-11593-0003"
+        }
+      },
+      {
+        "id": "NHTSA-2002-11594-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:07:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Proposed Policy Statement; Request for Comments",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "NHTSA-2002-11594",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803049b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2002-11594-0002"
+        }
+      },
+      {
+        "id": "FMCSA-1998-3299-0265",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:42:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "Interim Final Rule; Request for Comments",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "FMCSA-1998-3299",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f672"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3299-0265"
+        }
+      },
+      {
+        "id": "FMCSA-2001-10886-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:42:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "Notice of Proposed Rulemaking (NPRM); Request for Comments",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "FMCSA-2001-10886",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480302cb2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2001-10886-0004"
+        }
+      },
+      {
+        "id": "FMCSA-2001-11060-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "Interim Final Rule; Request for Comments",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "FMCSA-2001-11060",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030357e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2001-11060-0004"
+        }
+      },
+      {
+        "id": "FAA-2001-11133-0362",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:44:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "Notice of On-Line Public Forum",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "FAA-2001-11133",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802d33cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-11133-0362"
+        }
+      },
+      {
+        "id": "FAA-2001-10770-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-03-20T04:59:59Z",
+          "title": "Final Rule (Original)",
+          "postedDate": "2002-03-19T05:00:00Z",
+          "docketId": "FAA-2001-10770",
+          "subtype": "Final Rule",
+          "commentStartDate": "2002-03-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480302882"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10770-0013"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 59,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 47,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Notice"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 10,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 12,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-03-19",
+          "toDate": "2002-03-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 12,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 12,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

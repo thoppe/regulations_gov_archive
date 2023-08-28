@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1996-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:23:41Z",
+          "highlightedContent": "",
+          "frDocNum": "56631",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "STANDARDS FOR THE MANAGEMENT OF SPECIFIC HAZARDOUS WASTES AND SPECIFIC TYPES OF HAZARDOUS WASTE MANAGEMENT FACILITIES; CORRECTION OF 40 CFR 266.100",
+          "postedDate": "1996-11-04T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1996-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800d9b58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1996-0001-0001"
+        }
+      },
+      {
+        "id": "OSHA-H041-2006-0897-0565",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-08-10T20:11:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "1996-11-05T04:59:59Z",
+          "title": "138: Notice on 1 3 BUTADIENE",
+          "postedDate": "1996-11-04T05:00:00Z",
+          "docketId": "OSHA-H041-2006-0897",
+          "subtype": "Federal Register Notices",
+          "commentStartDate": "1996-11-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802257ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-H041-2006-0897-0565"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 17,
+            "label": "Other"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Notices"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-11-04",
+          "toDate": "1996-11-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

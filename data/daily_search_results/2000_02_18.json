@@ -1,0 +1,148 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1999-6420-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-02-19T04:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2000-02-18T05:00:00Z",
+          "docketId": "USCG-1999-6420",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-02-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480332751"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6420-0006"
+        }
+      },
+      {
+        "id": "USCG-1999-6420-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-02-19T04:59:59Z",
+          "title": "Advanced Notice of Proposed Rulemaking",
+          "postedDate": "2000-02-18T05:00:00Z",
+          "docketId": "USCG-1999-6420",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-02-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033272e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6420-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 22,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-02-18",
+          "toDate": "2000-02-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1999-5735-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-06-04T03:59:59Z",
+          "title": "Notice of Receipt of Petition for Decision that Nonconforming 1993-1995 Volkswagen Eurovan Multi-Purpose Passenger Vehicles (MPVs) are Eligible for Importation",
+          "postedDate": "1999-07-03T04:00:00Z",
+          "docketId": "NHTSA-1999-5735",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-07-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032d905"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5735-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0224-0086",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-11-19T19:02:54Z",
+          "highlightedContent": "",
+          "frDocNum": "33202",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants for Steel Pickling - HCl Process Facilities and Hydrochloric Acid Regeneration Plants",
+          "postedDate": "1999-07-03T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0224",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800be3dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0224-0086"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-3783-0044",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:19:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-06-04T03:59:59Z",
+          "title": "Notice of Availability of Draft Environmental Assessment",
+          "postedDate": "1999-07-03T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-3783",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-07-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803229de"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-3783-0044"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-07-03",
+          "toDate": "1999-07-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

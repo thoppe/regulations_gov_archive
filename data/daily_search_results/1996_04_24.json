@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1996-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:19:48Z",
+          "highlightedContent": "",
+          "frDocNum": "18088",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "HAZARDOUS WASTE MANAGEMENT SYSTEM; IDENTIFICATION AND LISTING OF HAZARDOUS WASTE; FINAL EXCLUSION (BETHLEHEM STEEL CORPORATION, LACKAWANNA, NEW YORK)",
+          "postedDate": "1996-04-24T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1996-0007",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800d9cb8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1996-0007-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1995-188-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:31:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1995-06-20T03:59:59Z",
+          "title": "Electronic Filing of International Airline Passenger Rules Tariffs",
+          "postedDate": "1996-04-24T04:00:00Z",
+          "docketId": "DOT-OST-1995-188",
+          "subtype": "Final Rule",
+          "commentStartDate": "1996-04-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030915b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1995-188-0011"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 11,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-04-24",
+          "toDate": "1996-04-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1996-0073-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:48Z",
+          "highlightedContent": "",
+          "frDocNum": "50978",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "EXCERPTS - FEDERAL REGISTER NOTICE: SOLID WASTE DISPOSAL FACILITY CRITERIA; FINAL RULE (56FR50978)",
+          "postedDate": "1996-08-19T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1996-0073",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dcbf2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1996-0073-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1996-0073-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:15:31Z",
+          "highlightedContent": "",
+          "frDocNum": "52337",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "FEDERAL REGISTER NOTICE: DELAY OF GENERAL COMPLIANCE DATE FOR SMALL MUNICIPAL SOLID WASTE LANDFILLS LOCATED IN EITHER DRY OR REMOTE AREAS; FINAL RULE (60FR52337)",
+          "postedDate": "1996-08-19T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1996-0073",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dcbfc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1996-0073-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1996-0073-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:19Z",
+          "highlightedContent": "",
+          "frDocNum": "40799",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1995-09-12T03:59:59Z",
+          "title": "FEDERAL REGISTER NOTICE: ALTERNATIVES FOR GROUND-WATER MONITORING AND DELAY OF GENERAL COMPLIANCE DATE FOR SMALL MUNICIPAL SOLID WASTE LANDFILLS LOCATED IN EITHER DRY OR REMOTE AREAS; NOTICE OF PROPOSED RULEMAKING AND REQUEST FOR COMMENT (60FR40799)",
+          "postedDate": "1996-08-19T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1996-0073",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1996-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800dcc02"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1996-0073-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1996-0073-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:21:41Z",
+          "highlightedContent": "",
+          "frDocNum": "51536",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "FEDERAL REGISTER NOTICE: SOLID WASTE DISPOSAL FACILITY CRITERIA; DELAY OF COMPLIANCE AND EFFECTIVE DATES; FINAL RULE (58FR51536)",
+          "postedDate": "1996-08-19T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1996-0073",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dcbf6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1996-0073-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 15,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-08-19",
+          "toDate": "1996-08-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

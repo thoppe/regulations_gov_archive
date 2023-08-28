@@ -1,0 +1,218 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1999-5087-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-10-25T03:59:59Z",
+          "title": "Notice of NHTSA Rulemaking Status Meeting",
+          "postedDate": "2000-10-24T04:00:00Z",
+          "docketId": "NHTSA-1999-5087",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032a0b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5087-0013"
+        }
+      },
+      {
+        "id": "NRC-2000-0015-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:11:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2000-11-25T04:59:59Z",
+          "title": "Federal Register Notice - New Dosimetry Technology",
+          "postedDate": "2000-10-24T15:38:14Z",
+          "docketId": "NRC-2000-0015",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2000-10-24T15:38:14Z",
+          "openForComment": false,
+          "objectId": "0900006480651487"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0015-0004"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2000-7283-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:23:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2000-10-25T03:59:59Z",
+          "title": "Safety Advisory Notice",
+          "postedDate": "2000-10-24T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2000-7283",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-10-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033ad10"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2000-7283-0008"
+        }
+      },
+      {
+        "id": "FDA-2000-N-0072-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-01-24T02:04:40Z",
+          "highlightedContent": "",
+          "frDocNum": "00\u201326249",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2001-01-17T04:59:59Z",
+          "title": "Medical Devices; Labeling for Menstrual Tampons; Ranges of Absorbency, Change From \u2018\u2018Junior\u2019\u2019 to \u2018\u2018Light\u2019\u2019",
+          "postedDate": "2000-10-24T04:00:00Z",
+          "docketId": "FDA-2000-N-0072",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2000-10-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064804b0271"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-N-0072-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 53,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-10-24",
+          "toDate": "2000-10-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

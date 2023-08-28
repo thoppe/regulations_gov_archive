@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2000-7641-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-08-09T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2000-08-08T04:00:00Z",
+          "docketId": "USCG-2000-7641",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033fc21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-7641-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2000-0005-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:23:46Z",
+          "highlightedContent": "",
+          "frDocNum": "28702",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hazardous Waste Management System; Final Rule (page 28702 only)  [F-2000-ACAP-S0024]",
+          "postedDate": "2000-08-08T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2000-0005",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800de41f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2000-0005-0041"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-7703-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:25:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-08-09T03:59:59Z",
+          "title": "U.S. DOT/OST - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2000-08-08T04:00:00Z",
+          "docketId": "DOT-OST-2000-7703",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803408da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-7703-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 43,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 41,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-08-08",
+          "toDate": "2000-08-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

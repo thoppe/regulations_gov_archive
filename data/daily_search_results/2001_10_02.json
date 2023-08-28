@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-1974-P-0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-10-06T20:26:27Z",
+          "highlightedContent": "",
+          "frDocNum": "74-19657",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Notice of Proposed Rule-Making re Vinyl Chloride as an Ingredient of Drug and Cosmetic Aerosol Products",
+          "postedDate": "2001-10-02T04:00:00Z",
+          "docketId": "FDA-1974-P-0001",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648046a741"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1974-P-0001-0002"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-4952-0308",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:02:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-08-26T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Propsose Rule; Cancelation of Public Meetings",
+          "postedDate": "2001-10-02T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4952",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-10-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a721b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4952-0308"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 48,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-10-02",
+          "toDate": "2001-10-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "data": [
+      {
+        "id": "FHWA-2000-7122-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2002-10-16T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2002-10-15T04:00:00Z",
+          "docketId": "FHWA-2000-7122",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480338d26"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2000-7122-0009"
+        }
+      },
+      {
+        "id": "FRA-2002-13325-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:57:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-10-16T03:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of Application for Approval of Discontinuance or Modification of a Railroad Signal System or Relief From Requirements - Union Pacific Railroad Company",
+          "postedDate": "2002-10-15T04:00:00Z",
+          "docketId": "FRA-2002-13325",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480309b7a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2002-13325-0003"
+        }
+      },
+      {
+        "id": "FRA-2002-13239-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:57:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-10-16T03:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of Application for Approval of Discontinuance or Modification of a Railroad Signal System or Relief from Requirements - Union Pacific Railroad Company",
+          "postedDate": "2002-10-15T04:00:00Z",
+          "docketId": "FRA-2002-13239",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803090c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2002-13239-0003"
+        }
+      },
+      {
+        "id": "FRA-2002-13398-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-10-16T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waivers of Compliance - Hillsborough Area Regional Transit",
+          "postedDate": "2002-10-15T04:00:00Z",
+          "docketId": "FRA-2002-13398",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802baf57"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2002-13398-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 82,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 9,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-10-15",
+          "toDate": "2002-10-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

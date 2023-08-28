@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-2001-10426-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-05-16T03:59:59Z",
+          "title": "U.S. DOT/FRA - Interim Final Rule; Correction",
+          "postedDate": "2002-05-08T04:00:00Z",
+          "docketId": "FRA-2001-10426",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480301de8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2001-10426-0008"
+        }
+      },
+      {
+        "id": "FAA-2002-12244-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-05-16T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2002-05-08T04:00:00Z",
+          "docketId": "FAA-2002-12244",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030624e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-12244-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2001-0023-0043",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:10:56Z",
+          "highlightedContent": "",
+          "frDocNum": "30811",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hazardous Waste Management System; Identification and Listing of Hazardous Waste: \r\nSpent Catalysts From Dual-Purpose Petroleum Hydroprocessing Reactors, Notice of \r\nAvailability of Response to Comment on the Scope of Petroleum Hazardous Waste \r\nListings",
+          "postedDate": "2002-05-08T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2001-0023",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e134d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2001-0023-0043"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 42,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-05-08",
+          "toDate": "2002-05-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

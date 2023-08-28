@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1997-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:11:21Z",
+          "highlightedContent": "",
+          "frDocNum": "67788",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1998-01-30T04:59:59Z",
+          "title": "Total Mercury and Particulate Continuous Emissions Monitoring Systems; Measurement of Low Level Particulate Emissions; Implementation of Hazardous Waste Combustors; Proposed Rule - Notice of Data Availability and Request for Comments",
+          "postedDate": "1997-12-30T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1997-0016",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1997-12-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800dce2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1997-0016-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0066-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:20:30Z",
+          "highlightedContent": "",
+          "frDocNum": "31114",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1993-07-28T03:59:59Z",
+          "title": "Guidance to Hazardous Waste Generators on the Elements of a Waste Minimization Program [F-1998-RCSF-S0011]",
+          "postedDate": "1997-12-30T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0066",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1997-12-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800df173"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0066-0013"
+        }
+      },
+      {
+        "id": "NHTSA-1997-3111-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1997-12-31T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule, Correcting Amendment - Air Bag On-Off Switches",
+          "postedDate": "1997-12-30T05:00:00Z",
+          "docketId": "NHTSA-1997-3111",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-12-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e3a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1997-3111-0017"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 23,
+            "label": "Other"
+          },
+          {
+            "docCount": 10,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1997-12-30",
+          "toDate": "1997-12-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

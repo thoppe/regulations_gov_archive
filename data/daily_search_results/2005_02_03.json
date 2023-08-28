@@ -1,0 +1,260 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2001-9490-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-02-04T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petition for Exemption Received",
+          "postedDate": "2005-02-03T05:00:00Z",
+          "docketId": "FAA-2001-9490",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b64b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-9490-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0079-0736",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:11:18Z",
+          "highlightedContent": "",
+          "frDocNum": "5593",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-04-01T04:59:59Z",
+          "title": "Implementation of the 8-Hour Ozone National Ambient Quality Standard- Phase 1: Reconsideration",
+          "postedDate": "2005-02-03T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0079",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ab854"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0079-0736"
+        }
+      },
+      {
+        "id": "USCG-2004-19977-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2005-02-04T04:59:59Z",
+          "title": "U.S. DHS/USCG - Notice; Requests for Comments, and Notice of Public Meeting; Change of Location",
+          "postedDate": "2005-02-03T05:00:00Z",
+          "docketId": "USCG-2004-19977",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032746d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-19977-0005"
+        }
+      },
+      {
+        "id": "FTA-1999-5082-0064",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2005-02-04T04:59:59Z",
+          "title": "U.S. DOT/FTA - Withdrawal of Rulemaking; Correction",
+          "postedDate": "2005-02-03T05:00:00Z",
+          "docketId": "FTA-1999-5082",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480329f4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-1999-5082-0064"
+        }
+      },
+      {
+        "id": "FAA-2005-20139-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-02-04T04:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Petition for Exemption Received",
+          "postedDate": "2005-02-03T05:00:00Z",
+          "docketId": "FAA-2005-20139",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802af7e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-20139-0002"
+        }
+      },
+      {
+        "id": "FAA-2005-20049-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-02-04T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petition for Exemption Received",
+          "postedDate": "2005-02-03T05:00:00Z",
+          "docketId": "FAA-2005-20049",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe002"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-20049-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 53,
+            "label": "Other"
+          },
+          {
+            "docCount": 34,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 14,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-02-03",
+          "toDate": "2005-02-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

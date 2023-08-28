@@ -1,0 +1,837 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2005-22120-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-22120",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b45e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22120-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0138-0068",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-09-26T12:53:56Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22108",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-12-22T04:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants: Organic Liquids Distribution (Non-Gasoline)",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0138",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bbfc8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0138-0068"
+        }
+      },
+      {
+        "id": "FAA-2005-22110-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-22110",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b45d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22110-0008"
+        }
+      },
+      {
+        "id": "FAA-2005-22255-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-22255",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b2dd2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22255-0007"
+        }
+      },
+      {
+        "id": "DOD-2005-0105-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:39:36Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22505",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation; Technical Amendments",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "DOD-2005-0105",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f72a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2005-0105-0001"
+        }
+      },
+      {
+        "id": "NASA-2005-0038-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T20:26:28Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22505",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation; Technical Amendments",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "NASA-2005-0038",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f6d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA-2005-0038-0001"
+        }
+      },
+      {
+        "id": "FRS-2005-0087-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T17:35:09Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22520",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Extensions of Credit by Federal Reserve Banks",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f6da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2005-0087-0001"
+        }
+      },
+      {
+        "id": "SBA-2005-0074-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:57:26Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22569",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2005-12-15T04:59:59Z",
+          "title": "Small Business Size Standards; Gulf Opportunity Pilot Loan Program",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "SBA-2005-0074",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f71b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2005-0074-0001"
+        }
+      },
+      {
+        "id": "NSF-2005-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T22:04:21Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22545",
+          "withdrawn": false,
+          "agencyId": "NSF",
+          "commentEndDate": null,
+          "title": "Conservation of Antarctic Animals and Plants",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "NSF-2005-0036",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f758"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NSF-2005-0036-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2005-22114-1909",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:02:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/OST - Notice of Public Hearings",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "DOT-OST-2005-22114",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802db648"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2005-22114-1909"
+        }
+      },
+      {
+        "id": "FAA-2005-22169-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-22169",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1566"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22169-0006"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2005-IN-0009-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:21:38Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22465",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-12-15T04:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans and Designation of Areas for Air Quality Planning Purposes; Indiana; Redesignation of Greene County and Jackson County 8-Hour Ozone Nonattainment Areas to Attainment for Ozone",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2005-IN-0009",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e62b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2005-IN-0009-0009"
+        }
+      },
+      {
+        "id": "GSA-2005-0046-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-09-15T12:37:36Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22505",
+          "withdrawn": false,
+          "agencyId": "GSA",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation; Technical Amendments",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "GSA-2005-0046",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f69e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GSA-2005-0046-0001"
+        }
+      },
+      {
+        "id": "NOAA-2005-0161-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:40:03Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22551",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2005-11-29T04:59:59Z",
+          "title": "South Atlantic Fishery Management Council; Public Hearings",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "NOAA-2005-0161",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f6ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2005-0161-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19863-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2004-19863",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb086"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19863-0017"
+        }
+      },
+      {
+        "id": "FAA-2005-20947-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-20947",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032ac2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-20947-0008"
+        }
+      },
+      {
+        "id": "FAA-2005-22867-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-22867",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b2f34"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22867-0001"
+        }
+      },
+      {
+        "id": "EDA-2005-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:16:56Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22546",
+          "withdrawn": false,
+          "agencyId": "EDA",
+          "commentEndDate": null,
+          "title": "Economic Development Administration Reauthorization Act of 2004 Implementation; Regulatory Revision",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "EDA-2005-0006",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f665"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EDA-2005-0006-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2005-IN-0009-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:13:17Z",
+          "highlightedContent": "",
+          "frDocNum": "69130",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Proposed rulemaking",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2005-IN-0009",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a748f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2005-IN-0009-0008"
+        }
+      },
+      {
+        "id": "NHTSA-2005-22879-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:10:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Interim Final Rule; Technical Amendments",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "NHTSA-2005-22879",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480330244"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2005-22879-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22881-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-22881",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802afcbb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22881-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22910-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:37:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-22910",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802afcdd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22910-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22147-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-11-15T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FAA-2005-22147",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b6bd4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22147-0009"
+        }
+      },
+      {
+        "id": "OPM-2005-0018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:53:30Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22539",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": null,
+          "title": "Prevailing Rate Systems; Redefinition of the Adams-Denver, CO, Nonappropriated Fund Wage Area",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "OPM-2005-0018",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f5a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2005-0018-0001"
+        }
+      },
+      {
+        "id": "GEO-2005-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:27:21Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22476",
+          "withdrawn": false,
+          "agencyId": "GEO",
+          "commentEndDate": "2005-12-15T04:59:59Z",
+          "title": "Additional Exemption for Mutual Funds and Unit Investment Trusts Under 18 U.S.C. 208(b)(2)",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f624"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GEO-2005-0004-0001"
+        }
+      },
+      {
+        "id": "SBA-2005-0073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:57:25Z",
+          "highlightedContent": "",
+          "frDocNum": "05-22570",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2005-12-15T04:59:59Z",
+          "title": "Small Business Size Standards; Surety Bond Guarantee Program",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "SBA-2005-0073",
+          "subtype": null,
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009f701"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2005-0073-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2005-IN-0009-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:13:17Z",
+          "highlightedContent": "",
+          "frDocNum": "69085",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Direct Final rulemaking",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2005-IN-0009",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a748a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2005-IN-0009-0007"
+        }
+      },
+      {
+        "id": "FDA-2004-N-0511-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-29T21:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2006-02-14T04:59:59Z",
+          "title": "Obstetrical and Gynecological Devices; for Condom and Condom with Spermicidal Lubricant",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "FDA-2004-N-0511",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2005-11-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480477bc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-N-0511-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0029-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-07-16T01:01:20Z",
+          "highlightedContent": "",
+          "frDocNum": "69239",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Revisions to the Requirements on Variability in the Composition of Additives Certified Under the Gasoline Additives Certified Under the Gasoline Deposit Control Program; Final Rule",
+          "postedDate": "2005-11-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0029",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800c12a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0029-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 99,
+            "label": "Other"
+          },
+          {
+            "docCount": 69,
+            "label": "Notice"
+          },
+          {
+            "docCount": 25,
+            "label": "Rule"
+          },
+          {
+            "docCount": 24,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 12,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 29,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "GEO"
+          },
+          {
+            "docCount": 1,
+            "value": "GSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NSF"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-11-14",
+          "toDate": "2005-11-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 29,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 29,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

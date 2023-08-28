@@ -1,0 +1,202 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-2000-6923-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2001-02-08T04:59:59Z",
+          "title": "U.S. DOT/FRA - Cancellation of Public Hearing; CSX Transportation, Inc.",
+          "postedDate": "2001-02-07T05:00:00Z",
+          "docketId": "FRA-2000-6923",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480336116"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-6923-0008"
+        }
+      },
+      {
+        "id": "FHWA-1999-5899-0110",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2001-02-08T04:59:59Z",
+          "title": "Final Rule; Delay of Effective Date",
+          "postedDate": "2001-02-07T05:00:00Z",
+          "docketId": "FHWA-1999-5899",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032eb4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-5899-0110"
+        }
+      },
+      {
+        "id": "FRA-2000-6924-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2001-02-08T04:59:59Z",
+          "title": "U.S. DOT/FRA - Cancellation of Public Hearing; CSX Transportation, Inc.",
+          "postedDate": "2001-02-07T05:00:00Z",
+          "docketId": "FRA-2000-6924",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033616d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-6924-0008"
+        }
+      },
+      {
+        "id": "NHTSA-2001-8797-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-02-08T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Proposed Information Collection",
+          "postedDate": "2001-02-07T05:00:00Z",
+          "docketId": "NHTSA-2001-8797",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345f6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-8797-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 106,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-02-07",
+          "toDate": "2001-02-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2000-7471-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-20T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2000-12-19T05:00:00Z",
+          "docketId": "FAA-2000-7471",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033d254"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7471-0007"
+        }
+      },
+      {
+        "id": "MARAD-2000-8517-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2000-12-20T04:59:59Z",
+          "title": "Invitation for Public Comments on a Petition Requesting MARAD to Issue a Determination that the Ownership and Control Requirements of the American Fisheries Act of 1998 and 46 CFR Part 356 are in Conflict With an International Investment Agreement",
+          "postedDate": "2000-12-19T05:00:00Z",
+          "docketId": "MARAD-2000-8517",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803446a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2000-8517-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6578-0397",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-09-07T19:40:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-12-20T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2000-12-19T05:00:00Z",
+          "docketId": "DOT-OST-1999-6578",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c29e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6578-0397"
+        }
+      },
+      {
+        "id": "FAA-2000-7471-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-22T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule (Draft)",
+          "postedDate": "2000-12-19T05:00:00Z",
+          "docketId": "FAA-2000-7471",
+          "subtype": "Final Rule",
+          "commentStartDate": "2000-12-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033d257"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7471-0008"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2000-8026-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2000-12-20T04:59:59Z",
+          "title": "Notice Extending Period for Public Comment",
+          "postedDate": "2000-12-19T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2000-8026",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648034241c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2000-8026-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 37,
+            "label": "Other"
+          },
+          {
+            "docCount": 18,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-12-19",
+          "toDate": "2000-12-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

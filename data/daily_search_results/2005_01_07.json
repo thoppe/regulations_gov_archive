@@ -1,0 +1,613 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-2004-20004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:26:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/OST - Notice",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "DOT-OST-2004-20004",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032761b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2004-20004-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19221-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19221",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803247f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19221-0009"
+        }
+      },
+      {
+        "id": "USCG-2004-19842-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U. S. DHS/USCG - Notice of Public Meeting; Request for Comments",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "USCG-2004-19842",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c56db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-19842-0004"
+        }
+      },
+      {
+        "id": "TSA-2003-15569-0033",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-10T15:05:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/TSA - Protection of Sensitive Security Information - Technical Amendment - Federal Register Publication",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "TSA-2003-15569",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480313df1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2003-15569-0033"
+        }
+      },
+      {
+        "id": "FAA-2004-19575-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19575",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480325fbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19575-0002"
+        }
+      },
+      {
+        "id": "FAA-2004-18601-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-18601",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480321e5f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18601-0008"
+        }
+      },
+      {
+        "id": "FAA-2004-19527-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19527",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480325d0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19527-0006"
+        }
+      },
+      {
+        "id": "FAA-2004-19334-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19334",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324f94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19334-0002"
+        }
+      },
+      {
+        "id": "FAA-2004-19560-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19560",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480325e94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19560-0006"
+        }
+      },
+      {
+        "id": "FAA-2004-18597-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-18597",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480321e3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18597-0007"
+        }
+      },
+      {
+        "id": "FAA-2004-17334-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-17334",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb751"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-17334-0002"
+        }
+      },
+      {
+        "id": "USCG-2004-19621-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-08-27T19:30:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DHS/USCG - Notice of Inquiry; Correction",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "USCG-2004-19621",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802be6d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-19621-0003"
+        }
+      },
+      {
+        "id": "FAA-2004-19580-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19580",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480325ffa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19580-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19813-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19813",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480326b34"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19813-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19579-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19579",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480325fed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19579-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2004-19172-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:20:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/OST - Notice; Correction",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "DOT-OST-2004-19172",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032448d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2004-19172-0002"
+        }
+      },
+      {
+        "id": "FAA-2004-18729-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-18729",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032266e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18729-0007"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2005-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:19:31Z",
+          "highlightedContent": "",
+          "frDocNum": "1357",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Peanuts, Tree Nuts, Milk, Soybeans, Eggs, Fish, Crustacea, and Wheat; Exemption from the Requirement of a Tolerance",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2005-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800b1176"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2005-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0200-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:14:56Z",
+          "highlightedContent": "",
+          "frDocNum": "1640",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-03-09T04:59:59Z",
+          "title": "Revisions to the California State Implementation Plan and Revision to the Definition of Volatile Organic Compounds (VOC)-Removal of VOC Ememptions for California's Aerosol Coating Products Reactivity-Based Regulation",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0200",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bb915"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0200-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-17334-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule: Process for Requesting Waiver of Mandatory Separation Age for Certain Federal Aviation Administration (FAA) Air Traffic Control Specialists (Original)",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-17334",
+          "subtype": "Final Rule",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb746"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-17334-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19576-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-08T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date",
+          "postedDate": "2005-01-07T05:00:00Z",
+          "docketId": "FAA-2004-19576",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480325fc7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19576-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 72,
+            "label": "Other"
+          },
+          {
+            "docCount": 26,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 18,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 14,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "TSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-01-07",
+          "toDate": "2005-01-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

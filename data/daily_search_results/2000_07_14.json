@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "id": "FHWA-2000-7601-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2000-07-15T03:59:59Z",
+          "title": "Notice and Request for Comments",
+          "postedDate": "2000-07-14T04:00:00Z",
+          "docketId": "FHWA-2000-7601",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033f19c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2000-7601-0001"
+        }
+      },
+      {
+        "id": "FRA-1998-4759-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:57:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-07-15T03:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of solicitation of modified and new applications for the designation of additional high-speed corridors",
+          "postedDate": "2000-07-14T04:00:00Z",
+          "docketId": "FRA-1998-4759",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480327ab0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1998-4759-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 79,
+            "label": "Other"
+          },
+          {
+            "docCount": 24,
+            "label": "Notice"
+          },
+          {
+            "docCount": 10,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-07-14",
+          "toDate": "2000-07-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

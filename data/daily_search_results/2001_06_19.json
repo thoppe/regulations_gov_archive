@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-1998-3297-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2001-06-20T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking; Correction",
+          "postedDate": "2001-06-19T04:00:00Z",
+          "docketId": "FMCSA-1998-3297",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f31f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3297-0035"
+        }
+      },
+      {
+        "id": "FRA-2000-8268-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2001-06-20T03:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of Public Hearing - Burlington Northern Santa Fe Railway Company",
+          "postedDate": "2001-06-19T04:00:00Z",
+          "docketId": "FRA-2000-8268",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803434b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-8268-0006"
+        }
+      },
+      {
+        "id": "FAA-2001-9679-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-06-20T03:59:59Z",
+          "title": "Notice of Petitions for Exemption Received",
+          "postedDate": "2001-06-19T04:00:00Z",
+          "docketId": "FAA-2001-9679",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803441ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-9679-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 42,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-06-19",
+          "toDate": "2001-06-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,576 @@
+[
+  {
+    "data": [
+      {
+        "id": "DHS-2007-0028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-09-26T18:34:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Removal of the Standardized Request for Evidence Processing Timeframe",
+          "postedDate": "2007-04-17T00:00:00Z",
+          "docketId": "DHS-2007-0028",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064802278f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2007-0028-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-27824-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-04-17T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final rule; Request for Comments",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "FAA-2007-27824",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802beb11"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27824-0001"
+        }
+      },
+      {
+        "id": "DOC-2007-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:07:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-06699",
+          "withdrawn": false,
+          "agencyId": "DOC",
+          "commentEndDate": "2007-05-17T03:59:59Z",
+          "title": "Commerce Debt Collection",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "DOC-2007-0036",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648022687e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOC-2007-0036-0001"
+        }
+      },
+      {
+        "id": "EERE-2008-OT-0021-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-09-24T14:56:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07133",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "Alternative Fuel Transportation Program; Alternative Compliance",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "EERE-2008-OT-0021",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480226902"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2008-OT-0021-0025"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07179",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2007-05-02T03:59:59Z",
+          "title": "Grapes Grown in a Designated Area of Southeastern California; Change in Reporting Requirements",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "AMS-FV-07-0028",
+          "subtype": "N/A",
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480226924"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0028-0001"
+        }
+      },
+      {
+        "id": "PTO-P-2005-0016-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:56:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07202",
+          "withdrawn": false,
+          "agencyId": "PTO",
+          "commentEndDate": null,
+          "title": "Revisions and Technical Corrections Affecting Requirements for Ex Parte and Inter Partes Reexamination",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "PTO-P-2005-0016",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802269fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PTO-P-2005-0016-0002"
+        }
+      },
+      {
+        "id": "MARAD-2007-27875-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T21:00:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2007-04-17T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice and Request for Comments",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "MARAD-2007-27875",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ad16a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2007-27875-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:32Z",
+          "highlightedContent": "",
+          "frDocNum": "07-01867",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2007-06-16T03:59:59Z",
+          "title": "Nectarines and Peaches Grown in California; Revision of Handling Requirements for Fresh Nectarines and Peaches",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "AMS-FV-07-0030",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802269c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0030-0001"
+        }
+      },
+      {
+        "id": "NOAA-2007-0274-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:41:00Z",
+          "highlightedContent": "",
+          "frDocNum": "07-01883",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2007-05-02T03:59:59Z",
+          "title": "Magnuson-Stevens Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; 2007 Georges Bank Cod Hook Sector Operations Plan and Agreement and Allocation of Georges Bank Cod Total Allowable Catch",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "NOAA-2007-0274",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480226a0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0274-0001"
+        }
+      },
+      {
+        "id": "HUD-2005-0007-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-08-22T15:05:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07087",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR-4748-F-02: Certification and Funding of State and Local Fair Housing Enforcement Agencies",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "HUD-2005-0007",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802268b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2005-0007-0007"
+        }
+      },
+      {
+        "id": "NOAA-2007-0275-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:41:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07193",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2007-05-01T03:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Allocating Gulf of Alaska Fishery Resources",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "NOAA-2007-0275",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480226a54"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0275-0001"
+        }
+      },
+      {
+        "id": "CMS-2007-0059-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:25:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-06989",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program; Revisions to Payment Policies, Five-Year Review of Work Relative Value Units, and Changes to the Practice Expense Methodology Under the Physician Fee Schedule, and Other Changes to Payment Under Part B; Correcting Amendment",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "CMS-2007-0059",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648022699a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2007-0059-0001"
+        }
+      },
+      {
+        "id": "DOD-2007-HA-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:07:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07132",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2007-06-16T03:59:59Z",
+          "title": "TRICARE; Expansion of Geographic Scope of the TRICARE Retiree Dental Program (TRDP)",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "DOD-2007-HA-0015",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480226926"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2007-HA-0015-0001"
+        }
+      },
+      {
+        "id": "NTSB-2007-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-09-03T18:04:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07103",
+          "withdrawn": false,
+          "agencyId": "NTSB",
+          "commentEndDate": null,
+          "title": "Public Availability of Information",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "NTSB-2007-0007",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480226937"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NTSB-2007-0007-0001"
+        }
+      },
+      {
+        "id": "FERC-2007-0471-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:58:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07085",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Preventing Undue Discrimination and Preference in Transmission Service",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802268aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2007-0471-0003"
+        }
+      },
+      {
+        "id": "NOAA-2007-0273-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:41:00Z",
+          "highlightedContent": "",
+          "frDocNum": "07-01882",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2007-05-02T03:59:59Z",
+          "title": "Magnuson-Stevens Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; 2007 Georges Bank Cod Fixed Gear Sector Operations Plan and Agreement and Allocation of Georges Bank Cod Total Allowable Catch",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "NOAA-2007-0273",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648022690c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0273-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-27747-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-04-17T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "FAA-2007-27747",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b9495"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27747-0001"
+        }
+      },
+      {
+        "id": "NOAA-2007-0142-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07192",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Economic Exclusive Zone Off Alaska; Pacific Cod in the Bering Sea and Aleutian Islands",
+          "postedDate": "2007-04-16T04:00:00Z",
+          "docketId": "NOAA-2007-0142",
+          "subtype": null,
+          "commentStartDate": "2007-04-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802269a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0142-0009"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 88,
+            "label": "Notice"
+          },
+          {
+            "docCount": 65,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 18,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "AMS"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NTSB"
+          },
+          {
+            "docCount": 1,
+            "value": "PTO"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-04-16",
+          "toDate": "2007-04-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 18,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 18,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,911 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-2004-E-0268-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:37:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FDA-2004-E-0268",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804721ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-E-0268-0004"
+        }
+      },
+      {
+        "id": "FAA-2006-26134-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-11-23T04:59:59Z",
+          "title": "US DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FAA-2006-26134",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b62d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26134-0001"
+        }
+      },
+      {
+        "id": "FTA-2005-22657-0088",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:52:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2006-11-23T04:59:59Z",
+          "title": "US DOT/FTA - Notice of Meeting Location and time of Meeting",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FTA-2005-22657",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c20b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2005-22657-0088"
+        }
+      },
+      {
+        "id": "APHIS-2006-0096-0081",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19787",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Agricultural Inspection and AQI User Fees Along the U.S./Canada Border; Delay of Effective Date",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "APHIS-2006-0096",
+          "subtype": "Interim rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064801e432d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2006-0096-0081"
+        }
+      },
+      {
+        "id": "NWTRB-2006-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-01-12T12:12:12Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09346",
+          "withdrawn": false,
+          "agencyId": "NWTRB",
+          "commentEndDate": "2007-01-16T04:59:59Z",
+          "title": "Implementation of Privacy Act of 1974",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4537"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NWTRB-2006-0006-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0155",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-11-22T12:06:19Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09309",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation; Federal Acquisition Circular 2005-14; Introduction",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4378"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0155"
+        }
+      },
+      {
+        "id": "CFTC-2006-0091-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:03:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19533",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Financial Reporting Requirements for Introducing Brokers",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4422"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2006-0091-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0157",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-11-22T12:08:26Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09303",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation; Technical Amendments",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4437"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0157"
+        }
+      },
+      {
+        "id": "APHIS-2006-0149-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19769",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2007-01-23T04:59:59Z",
+          "title": "Karnal Bunt; Regulated Areas",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "APHIS-2006-0149",
+          "subtype": "Interim rule",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e448a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2006-0149-0001"
+        }
+      },
+      {
+        "id": "FCC-2006-0330-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:53:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19742",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2007-01-23T04:59:59Z",
+          "title": "Effect of Communications Towers on Migratory Birds",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4346"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0330-0001"
+        }
+      },
+      {
+        "id": "COLC-2006-0010-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-01-29T19:19:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19794",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": "2006-12-19T04:59:59Z",
+          "title": "Retransmission of Digital Broadcast Signals Pursuant to the Cable Statutory License",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "COLC-2006-0010",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e44c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2006-0010-0002"
+        }
+      },
+      {
+        "id": "FCC-2006-0210-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:53:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19657",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2006-12-08T04:59:59Z",
+          "title": "Missoula Intercarrier Compensation Reform Plan Phantom Traffic Proposal",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4511"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0210-0003"
+        }
+      },
+      {
+        "id": "PHMSA-2006-25803-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2006-11-23T04:59:59Z",
+          "title": "US DOT/PHMSA - Notice of Intent to Consider Waiver Requests",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "PHMSA-2006-25803",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3521"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2006-25803-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-24877-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-11-23T04:59:59Z",
+          "title": "US DOT/FAA - Final Rule",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FAA-2006-24877",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cb0ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24877-0010"
+        }
+      },
+      {
+        "id": "FAR-FAR-2006-0020-0065",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:19:51Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09306",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2007-01-23T04:59:59Z",
+          "title": "FAC 2005-14; FAR Case 2006-017, Free Trade Agreements--Bahrain and Guatemala (Federal Register)",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FAR-FAR-2006-0020",
+          "subtype": "Interim",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4307"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-FAR-2006-0020-0065"
+        }
+      },
+      {
+        "id": "FAR-FAR-2006-0020-0064",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:19:52Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09307",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "FAC 2005-14; FAR Case 2005-045, Removal of Sanctions Against Certain EU Countries (Federal Register)",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FAR-FAR-2006-0020",
+          "subtype": "Final",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4324"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-FAR-2006-0020-0064"
+        }
+      },
+      {
+        "id": "NCUA-2006-0066-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:49:50Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19682",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Revisions to the Official Sign Indicating Insured Status",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "NCUA-2006-0066",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4545"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2006-0066-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0156",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-11-22T12:06:37Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09302",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation; Federal Acquisition Circular 2005-14; Small Entity Compliance Guide",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4398"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0156"
+        }
+      },
+      {
+        "id": "NCUA-2006-0065-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-01-22T12:08:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19703",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": "2007-01-23T04:59:59Z",
+          "title": "Share Insurance Appeals; Clarification of Enforcement Authority of the NCUA Board",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "NCUA-2006-0065",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e447f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2006-0065-0001"
+        }
+      },
+      {
+        "id": "AMS-DA-06-0192-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:29Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09340",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2007-01-23T04:59:59Z",
+          "title": "Northeast, et al. -- Tentative Final Decision to Class III and Class IV Product Price Formula Make Allowances",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "AMS-DA-06-0192",
+          "subtype": "N/A",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e44d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-DA-06-0192-0001"
+        }
+      },
+      {
+        "id": "AID-2006-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:55:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19707",
+          "withdrawn": false,
+          "agencyId": "AID",
+          "commentEndDate": "2006-12-09T04:59:59Z",
+          "title": "Mentor-Prot[eacute]g[eacute]Program",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "AID-2006-0026",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e44f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AID-2006-0026-0001"
+        }
+      },
+      {
+        "id": "SEC-2006-1503-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:58:50Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19740",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2006-12-23T04:59:59Z",
+          "title": "Covered Securities Pursuant to Section 18 of the Securities Act of 1933",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e43f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2006-1503-0001"
+        }
+      },
+      {
+        "id": "IRS-2006-0639-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:31:51Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-19789",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2006-12-27T04:59:59Z",
+          "title": "General Allocation and Accounting Regulations Under Section 141; Correction",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "IRS-2006-0639",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e441d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0639-0001"
+        }
+      },
+      {
+        "id": "FAR-FAR-2006-0020-0066",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:19:52Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09305",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "FAC 2005-14; FAR Case 2006-001, Free Trade Agreements--Morocco (Federal Register)",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FAR-FAR-2006-0020",
+          "subtype": "Final",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4435"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-FAR-2006-0020-0066"
+        }
+      },
+      {
+        "id": "PC-2006-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:55:21Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09369",
+          "withdrawn": false,
+          "agencyId": "PC",
+          "commentEndDate": "2006-12-23T04:59:59Z",
+          "title": "Peace Corps Implementation of OMB Guidance on Nonprocurement Debarment and Suspension",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e446b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PC-2006-0007-0001"
+        }
+      },
+      {
+        "id": "FAR-FAR-2006-0020-0058",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:19:53Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09308",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": null,
+          "title": "FAC 2005-014, FAR Case 2005-015, Common Identification Standard for Contractors  (Federal Register)",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FAR-FAR-2006-0020",
+          "subtype": "Final",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4500"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-FAR-2006-0020-0058"
+        }
+      },
+      {
+        "id": "FAA-2006-26236-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-11-23T04:59:59Z",
+          "title": "US DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FAA-2006-26236",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4dbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26236-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0868-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:44Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09342",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Fishery of the Gulf of Mexico; Amendment 26",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "NOAA-2006-0868",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4446"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0868-0001"
+        }
+      },
+      {
+        "id": "NTSB-2006-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-09-03T18:03:25Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09289",
+          "withdrawn": false,
+          "agencyId": "NTSB",
+          "commentEndDate": "2006-12-23T04:59:59Z",
+          "title": "Public Availability of Information",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "NTSB-2006-0023",
+          "subtype": null,
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e4337"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NTSB-2006-0023-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-26378-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-11-23T04:59:59Z",
+          "title": "US DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "FAA-2006-26378",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cba58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26378-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2004-19856-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:04:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2006-11-23T04:59:59Z",
+          "title": "US DOT/PHMSA - Notice; Issurance of Advisory Bullentin",
+          "postedDate": "2006-11-22T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2004-19856",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bccce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2004-19856-0016"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 98,
+            "label": "Notice"
+          },
+          {
+            "docCount": 73,
+            "label": "Other"
+          },
+          {
+            "docCount": 29,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 22,
+            "label": "Rule"
+          },
+          {
+            "docCount": 9,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Final"
+          },
+          {
+            "docCount": 2,
+            "label": "Interim rule"
+          },
+          {
+            "docCount": 1,
+            "label": "CEP-Certificate Extending Patent Term"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 31,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FAR"
+          },
+          {
+            "docCount": 3,
+            "value": "NASA"
+          },
+          {
+            "docCount": 2,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "AID"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "COLC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NTSB"
+          },
+          {
+            "docCount": 1,
+            "value": "NWTRB"
+          },
+          {
+            "docCount": 1,
+            "value": "PC"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-11-22",
+          "toDate": "2006-11-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 31,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 31,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

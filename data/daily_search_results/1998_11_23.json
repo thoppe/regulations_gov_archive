@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2002-0026-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:12:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "1998-12-17T04:59:59Z",
+          "title": "Federal Register Notice - Medical Use of Byproduct Material; Proposed Revision, Reopening of Public Comment Period",
+          "postedDate": "1998-11-23T20:24:49Z",
+          "docketId": "NRC-2002-0026",
+          "subtype": null,
+          "commentStartDate": "1998-11-23T20:24:49Z",
+          "openForComment": false,
+          "objectId": "0900006480792794"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0026-0004"
+        }
+      },
+      {
+        "id": "USCG-1998-4770-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-01-16T04:59:59Z",
+          "title": "Notice of Meeting; Request for Comments",
+          "postedDate": "1998-11-23T05:00:00Z",
+          "docketId": "USCG-1998-4770",
+          "subtype": null,
+          "commentStartDate": "1998-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480327f64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4770-0001"
+        }
+      },
+      {
+        "id": "MARAD-1998-4771-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "1998-11-25T04:59:59Z",
+          "title": "Information Collection Available for Public Comments and Recommendations - Notice and Request for Comments",
+          "postedDate": "1998-11-23T05:00:00Z",
+          "docketId": "MARAD-1998-4771",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480327f8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-1998-4771-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 14,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-11-23",
+          "toDate": "1998-11-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2000-0006-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-02-03T18:19:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2000-08-24T03:59:59Z",
+          "title": "Federal Register Notice - Re-evaluation of Power Reactor Physical Protection Regulations and Position on a Definition of Radiological Sabotage",
+          "postedDate": "2000-06-09T15:39:34Z",
+          "docketId": "NRC-2000-0006",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2000-06-09T15:39:34Z",
+          "openForComment": false,
+          "objectId": "0900006480683f6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0006-0022"
+        }
+      },
+      {
+        "id": "FAA-2000-7467-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-06-10T03:59:59Z",
+          "title": "Prohibition of Smoking on Scheduled Passenger Flights",
+          "postedDate": "2000-06-09T04:00:00Z",
+          "docketId": "FAA-2000-7467",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033d136"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7467-0002"
+        }
+      },
+      {
+        "id": "USCG-2000-7386-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-06-10T03:59:59Z",
+          "title": "Notice of Temporary Rules Issued",
+          "postedDate": "2000-06-09T04:00:00Z",
+          "docketId": "USCG-2000-7386",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033c052"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-7386-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-7473-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:19:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-06-10T03:59:59Z",
+          "title": "Smoking Aboard Aircraft",
+          "postedDate": "2000-06-09T04:00:00Z",
+          "docketId": "DOT-OST-2000-7473",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033d3aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-7473-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 22,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-06-09",
+          "toDate": "2000-06-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

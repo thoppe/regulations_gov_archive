@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-1998-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2020-07-24T13:52:02Z",
+          "highlightedContent": "",
+          "frDocNum": "31268",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1998-09-09T03:59:59Z",
+          "title": "Sections 302 and 312 of SARA, Emergency Planning Programs and Community Right to Know; Amendment to Hazardous Chemical Reporting Thresholds, Streamlining Requirements",
+          "postedDate": "1998-06-08T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1998-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1998-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e1933"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1998-0002-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-3917-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-06-09T03:59:59Z",
+          "title": "USCG - Year 2000 (Y2K) Problems in the Maritime Industry - Notice; Solicitation of Comments",
+          "postedDate": "1998-06-08T04:00:00Z",
+          "docketId": "USCG-1998-3917",
+          "subtype": null,
+          "commentStartDate": "1998-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803234b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3917-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-3897-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-06-09T03:59:59Z",
+          "title": "USCG - Merchant Marine Personnel Advisory Committee; Vacancies - Request for Applications",
+          "postedDate": "1998-06-08T04:00:00Z",
+          "docketId": "USCG-1998-3897",
+          "subtype": null,
+          "commentStartDate": "1998-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032343e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3897-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:12:13Z",
+          "highlightedContent": "",
+          "frDocNum": "31266",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "[Correction] Land Disposal Restrictions Phase IV: Final Rule Promulgating Treatment Standards for Metal Wastes and Mineral Processing Wastes; Mineral Processing Secondary Materials and Bevill Exclusion Issues; Treatment Standards for Hazardous Soils",
+          "postedDate": "1998-06-08T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dbdd2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0002-0001"
+        }
+      },
+      {
+        "id": "FMCSA-1997-2979-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1998-06-09T03:59:59Z",
+          "title": "FHWA HQ - Correction - Transportation of Household Goods; Consumer Protection Regulations",
+          "postedDate": "1998-06-08T04:00:00Z",
+          "docketId": "FMCSA-1997-2979",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031d540"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2979-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 27,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-06-08",
+          "toDate": "1998-06-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

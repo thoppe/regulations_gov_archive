@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "SLSDC-2003-15136-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "SLSDC",
+          "commentEndDate": "2003-06-20T03:59:59Z",
+          "title": "U.S. DOT/SLSDC - Final Rule",
+          "postedDate": "2003-06-19T04:00:00Z",
+          "docketId": "SLSDC-2003-15136",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480312fd4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SLSDC-2003-15136-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2002-0052-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:12:23Z",
+          "highlightedContent": "",
+          "frDocNum": "36749",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Pollutant Discharge Elimination System--Amendment of Final Regulations Addressing Cooling Water Intake Structures for New Facilities; Final Rule.",
+          "postedDate": "2003-06-19T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2002-0052",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bf2ac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2002-0052-0014"
+        }
+      },
+      {
+        "id": "FAA-2003-15299-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-06-20T03:59:59Z",
+          "title": "U.S. DOT/FAA - Direct  Final Rule; Request for Comments",
+          "postedDate": "2003-06-19T04:00:00Z",
+          "docketId": "FAA-2003-15299",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480313531"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-15299-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-11346-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:46Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-06-20T03:59:59Z",
+          "title": "U.S. DOT/FAA -  Final Rule",
+          "postedDate": "2003-06-19T04:00:00Z",
+          "docketId": "FAA-2002-11346",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030414c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-11346-0005"
+        }
+      },
+      {
+        "id": "FAA-2002-11346-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-06-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule: Lower Deck Service Compartments on Transport Category Airplanes (Original)",
+          "postedDate": "2003-06-19T04:00:00Z",
+          "docketId": "FAA-2002-11346",
+          "subtype": "Final Rule",
+          "commentStartDate": "2003-06-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030414d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-11346-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 57,
+            "label": "Other"
+          },
+          {
+            "docCount": 48,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "SLSDC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-06-19",
+          "toDate": "2003-06-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

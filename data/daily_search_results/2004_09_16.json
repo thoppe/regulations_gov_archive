@@ -1,0 +1,264 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-2004-19054-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:53:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-09-17T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Proposed Rulemaking",
+          "postedDate": "2004-09-16T04:00:00Z",
+          "docketId": "NHTSA-2004-19054",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aa6b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2004-19054-0001"
+        }
+      },
+      {
+        "id": "NRC-2004-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:13:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Medical Use of Byproduct Material:  Extending the Expiration Date for Subpart J",
+          "postedDate": "2004-09-16T16:31:42Z",
+          "docketId": "NRC-2004-0014",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064807b7244"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2004-0014-0001"
+        }
+      },
+      {
+        "id": "MARAD-2004-17114-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2004-09-17T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice of Extension of Comment Period",
+          "postedDate": "2004-09-16T04:00:00Z",
+          "docketId": "MARAD-2004-17114",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031b6fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2004-17114-0024"
+        }
+      },
+      {
+        "id": "NRC-2004-0008-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-22T01:00:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2004-12-01T04:59:59Z",
+          "title": "Federal Register Notice - Export and Import of Nuclear Equipment and Radioactive Materials:  Security Policies",
+          "postedDate": "2004-09-16T17:09:47Z",
+          "docketId": "NRC-2004-0008",
+          "subtype": null,
+          "commentStartDate": "2004-09-16T17:09:47Z",
+          "openForComment": false,
+          "objectId": "09000064804151df"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2004-0008-0017"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2004-CO-0001-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-19T19:50:48Z",
+          "highlightedContent": "",
+          "frDocNum": "55790",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Notice. Proposed Rule. State of Colorado. Denver Revised Carbon Monoxide Maintenance Plan.",
+          "postedDate": "2004-09-16T12:43:51Z",
+          "docketId": "EPA-R08-OAR-2004-CO-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a85bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2004-CO-0001-0003"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2004-KY-0001-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:10:01Z",
+          "highlightedContent": "",
+          "frDocNum": "55749",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Final Rule for the Lexington 1-hour Ozone Maintenance Plan Update",
+          "postedDate": "2004-09-16T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2004-KY-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a8499"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2004-KY-0001-0020"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 67,
+            "label": "Other"
+          },
+          {
+            "docCount": 52,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-09-16",
+          "toDate": "2004-09-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

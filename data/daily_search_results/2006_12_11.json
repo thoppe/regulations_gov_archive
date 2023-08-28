@@ -1,0 +1,1686 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2006-26558-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-28T01:14:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-12-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "FAA-2006-26558",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cbac0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26558-0001"
+        }
+      },
+      {
+        "id": "OMB-2006-0032-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-09-23T18:43:34Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08589",
+          "withdrawn": false,
+          "agencyId": "OMB",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "OMB-2006-0032",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OMB-2006-0032-0001"
+        }
+      },
+      {
+        "id": "ATBCB-2006-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:37:10Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07557",
+          "withdrawn": false,
+          "agencyId": "ATBCB",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "ATBCB-2006-0014",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac88"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ATBCB-2006-0014-0001"
+        }
+      },
+      {
+        "id": "FCC-2006-0351-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:53:48Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08370",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0351-0001"
+        }
+      },
+      {
+        "id": "FTC-2006-0085-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:04Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07547",
+          "withdrawn": false,
+          "agencyId": "FTC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "FTC-2006-0085",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTC-2006-0085-0001"
+        }
+      },
+      {
+        "id": "CRC-2006-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:38:43Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07775",
+          "withdrawn": false,
+          "agencyId": "CRC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa9d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CRC-2006-0047-0001"
+        }
+      },
+      {
+        "id": "GEO-2006-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:06Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07558",
+          "withdrawn": false,
+          "agencyId": "GEO",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaae3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/GEO-2006-0011-0001"
+        }
+      },
+      {
+        "id": "SSS-2006-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:40Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07774",
+          "withdrawn": false,
+          "agencyId": "SSS",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaae8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSS-2006-0003-0001"
+        }
+      },
+      {
+        "id": "FERC-2006-2318-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T22:00:45Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07773",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2006-2318-0001"
+        }
+      },
+      {
+        "id": "EEOC-2006-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:04:40Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07544",
+          "withdrawn": false,
+          "agencyId": "EEOC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "EEOC-2006-0022",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eabcc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EEOC-2006-0022-0001"
+        }
+      },
+      {
+        "id": "RRB-2006-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:35Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07433",
+          "withdrawn": false,
+          "agencyId": "RRB",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eabd6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RRB-2006-0052-0001"
+        }
+      },
+      {
+        "id": "AID-2006-0028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:12Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07545",
+          "withdrawn": false,
+          "agencyId": "AID",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "AID-2006-0028",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac34"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AID-2006-0028-0001"
+        }
+      },
+      {
+        "id": "STB-2006-0228-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:41Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07700",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac5b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2006-0228-0001"
+        }
+      },
+      {
+        "id": "ARTS-2006-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:37:04Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07698",
+          "withdrawn": false,
+          "agencyId": "ARTS",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda: National Endowment for the Humanities",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ARTS-2006-0078-0001"
+        }
+      },
+      {
+        "id": "HHSIG-2006-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-09-23T16:45:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-20994",
+          "withdrawn": false,
+          "agencyId": "HHSIG",
+          "commentEndDate": "2007-02-10T04:59:59Z",
+          "title": "Solicitation of New Safe Harbors and Special Fraud Alerts",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "HHSIG-2006-0015",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHSIG-2006-0015-0001"
+        }
+      },
+      {
+        "id": "NCUA-2006-0068-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:21Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08149",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "NCUA-2006-0068",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa8c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2006-0068-0001"
+        }
+      },
+      {
+        "id": "CORP-2006-0045-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:38:30Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07554",
+          "withdrawn": false,
+          "agencyId": "CORP",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaac8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CORP-2006-0045-0001"
+        }
+      },
+      {
+        "id": "NARA_FRDOC_0001-0067",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-07-17T14:44:25Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07695",
+          "withdrawn": false,
+          "agencyId": "NARA",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "NARA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab41"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NARA_FRDOC_0001-0067"
+        }
+      },
+      {
+        "id": "FAA-2006-25086-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-12-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "FAA-2006-25086",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b6140"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25086-0009"
+        }
+      },
+      {
+        "id": "FAA-2006-26285-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-12-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "FAA-2006-26285",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b6317"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26285-0001"
+        }
+      },
+      {
+        "id": "ARTS-2006-0077-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:37:07Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08500",
+          "withdrawn": false,
+          "agencyId": "ARTS",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda: Institute of Museum and Library Services",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac23"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ARTS-2006-0077-0001"
+        }
+      },
+      {
+        "id": "FMCS-2006-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T22:03:55Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07541",
+          "withdrawn": false,
+          "agencyId": "FMCS",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCS-2006-0007-0001"
+        }
+      },
+      {
+        "id": "HHS-2006-0258-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:10Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08151",
+          "withdrawn": false,
+          "agencyId": "HHS",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "HHS-2006-0258",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac6b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HHS-2006-0258-0001"
+        }
+      },
+      {
+        "id": "OFHEO-2006-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:24Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07693",
+          "withdrawn": false,
+          "agencyId": "OFHEO",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFHEO-2006-0009-0001"
+        }
+      },
+      {
+        "id": "DOC-2006-0126-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:39:20Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07549",
+          "withdrawn": false,
+          "agencyId": "DOC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "DOC-2006-0126",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaab6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOC-2006-0126-0001"
+        }
+      },
+      {
+        "id": "NSF_FRDOC_0001-0031",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:22Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07556",
+          "withdrawn": false,
+          "agencyId": "NSF",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "NSF_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa17"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NSF_FRDOC_0001-0031"
+        }
+      },
+      {
+        "id": "FAA-2006-26075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-12-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "FAA-2006-26075",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b935f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26075-0001"
+        }
+      },
+      {
+        "id": "CPPBSD-2006-0088-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:38:35Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07697",
+          "withdrawn": false,
+          "agencyId": "CPPBSD",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac56"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPPBSD-2006-0088-0001"
+        }
+      },
+      {
+        "id": "RISC-2006-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2006-12-11T12:04:48Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08765",
+          "withdrawn": false,
+          "agencyId": "RISC",
+          "commentEndDate": null,
+          "title": "Introduction to Unified Agenda of Federal Regulatory and Deregulatory Actions",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa26"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RISC-2006-0002-0001"
+        }
+      },
+      {
+        "id": "CSOSA-2006-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:38:45Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08148",
+          "withdrawn": false,
+          "agencyId": "CSOSA",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa32"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CSOSA-2006-0004-0001"
+        }
+      },
+      {
+        "id": "SEC-2006-1599-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:36Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07691",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2006-1599-0001"
+        }
+      },
+      {
+        "id": "PC-2006-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:32Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07552",
+          "withdrawn": false,
+          "agencyId": "PC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PC-2006-0008-0001"
+        }
+      },
+      {
+        "id": "FMC-2006-0173-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T22:03:40Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07699",
+          "withdrawn": false,
+          "agencyId": "FMC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaad9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMC-2006-0173-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2006-0630-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:07:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-20895",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans; Revisions to the Nevada State Implementation Plan; Monitoring and Volatile Organic Compound Rules",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2006-0630",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaaea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2006-0630-0013"
+        }
+      },
+      {
+        "id": "HUD-2006-0361-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-08-22T15:05:28Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07694",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR-5048-N-02: Semiannual Regulatory Agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "HUD-2006-0361",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801ead16"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2006-0361-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-26400-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-12-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "FAA-2006-26400",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1de4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26400-0001"
+        }
+      },
+      {
+        "id": "DOS-2006-0386-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:40:22Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07692",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "DOS-2006-0386",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2006-0386-0001"
+        }
+      },
+      {
+        "id": "FRS-2006-0466-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-02-09T12:07:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-20956",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": "2007-02-10T04:59:59Z",
+          "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab83"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2006-0466-0001"
+        }
+      },
+      {
+        "id": "CPSC-2006-0055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-04-05T18:35:03Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07546",
+          "withdrawn": false,
+          "agencyId": "CPSC",
+          "commentEndDate": null,
+          "title": "Semi-annual Agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "CPSC-2006-0055",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eabbd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CPSC-2006-0055-0001"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2006-0226-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:22:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-20901",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Maine; Redesignation of the Portland, Maine and the Hancock, Knox, Lincoln and Waldo Counties, Maine Ozone Nonattainment Areas to Attainment and Approval of These Areas Maintenance Plans",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "EPA-R01-OAR-2006-0226",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eabe2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2006-0226-0017"
+        }
+      },
+      {
+        "id": "FHFB-2006-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T22:01:35Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07550",
+          "withdrawn": false,
+          "agencyId": "FHFB",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac15"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHFB-2006-0030-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0160",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2006-12-11T12:10:49Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07553",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Federal Acquisition Regulation (FAR): Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0160"
+        }
+      },
+      {
+        "id": "DOE-HQ-2009-0003-0588",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-07-10T16:38:45Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08150",
+          "withdrawn": false,
+          "agencyId": "DOE",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "DOE-HQ-2009-0003",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac45"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOE-HQ-2009-0003-0588"
+        }
+      },
+      {
+        "id": "CFTC-2006-0092-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:37:54Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08369",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2006-0092-0001"
+        }
+      },
+      {
+        "id": "ARTS-2006-0079-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:37:03Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07772",
+          "withdrawn": false,
+          "agencyId": "ARTS",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda: National Endowment for the Arts",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eac8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ARTS-2006-0079-0001"
+        }
+      },
+      {
+        "id": "ED-2006-0432-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:02:52Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07687",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "ED-2006-0432",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa46"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2006-0432-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-06-0209-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:37:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-20315",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2007-01-03T04:59:59Z",
+          "title": "Multi-Year Revision of Fees for the Fresh Fruit and Vegetable Terminal Market Inspection Services",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "AMS-FV-06-0209",
+          "subtype": "N/A",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801e72d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-06-0209-0001"
+        }
+      },
+      {
+        "id": "PBGC-2006-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:30Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07685",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "PBGC-2006-0047",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab29"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC-2006-0047-0001"
+        }
+      },
+      {
+        "id": "DOL-2007-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:40:05Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07777",
+          "withdrawn": false,
+          "agencyId": "DOL",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "DOL-2007-0001",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab31"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOL-2007-0001-0001"
+        }
+      },
+      {
+        "id": "FRS-2006-0464-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:02Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07565",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab46"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2006-0464-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-25422-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-12-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "FAA-2006-25422",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cb6d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25422-0010"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-5129-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-02T18:07:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2006-12-12T04:59:59Z",
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "DOT-OST-1999-5129",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a770d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-5129-0014"
+        }
+      },
+      {
+        "id": "FAA-2006-26371-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-12-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "FAA-2006-26371",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4e13"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26371-0001"
+        }
+      },
+      {
+        "id": "NRC-2006-0007-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:14:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - List of Approved Spent Fuel Storage Casks:  NUHOMS HD Addition",
+          "postedDate": "2006-12-11T20:26:07Z",
+          "docketId": "NRC-2006-0007",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064807be365"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2006-0007-0011"
+        }
+      },
+      {
+        "id": "FCSIC-2006-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:54:15Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07542",
+          "withdrawn": false,
+          "agencyId": "FCSIC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab5c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCSIC-2006-0008-0001"
+        }
+      },
+      {
+        "id": "FCA-2006-0033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:52:52Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07559",
+          "withdrawn": false,
+          "agencyId": "FCA",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCA-2006-0033-0001"
+        }
+      },
+      {
+        "id": "FDIC-2006-0089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:56:13Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07688",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab7e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2006-0089-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0159",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:19Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07551",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eab93"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0159"
+        }
+      },
+      {
+        "id": "OPM-2006-0100-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:28Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07686",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "OPM-2006-0100",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaa63"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2006-0100-0001"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-06-11T15:46:51Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07543",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Semi-annual agenda",
+          "postedDate": "2006-12-11T05:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2006-12-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801eaaee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 62,
+            "label": "Other"
+          },
+          {
+            "docCount": 56,
+            "label": "Notice"
+          },
+          {
+            "docCount": 48,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 31,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 12,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 8,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 60,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "ARTS"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "AID"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "ATBCB"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "CORP"
+          },
+          {
+            "docCount": 1,
+            "value": "CPPBSD"
+          },
+          {
+            "docCount": 1,
+            "value": "CPSC"
+          },
+          {
+            "docCount": 1,
+            "value": "CRC"
+          },
+          {
+            "docCount": 1,
+            "value": "CSOSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOE"
+          },
+          {
+            "docCount": 1,
+            "value": "DOL"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "EEOC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCSIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHFB"
+          },
+          {
+            "docCount": 1,
+            "value": "FMC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCS"
+          },
+          {
+            "docCount": 1,
+            "value": "FTC"
+          },
+          {
+            "docCount": 1,
+            "value": "GEO"
+          },
+          {
+            "docCount": 1,
+            "value": "HHS"
+          },
+          {
+            "docCount": 1,
+            "value": "HHSIG"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "NARA"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "NSF"
+          },
+          {
+            "docCount": 1,
+            "value": "OFHEO"
+          },
+          {
+            "docCount": 1,
+            "value": "OMB"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "PC"
+          },
+          {
+            "docCount": 1,
+            "value": "RISC"
+          },
+          {
+            "docCount": 1,
+            "value": "RRB"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "SSS"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-12-11",
+          "toDate": "2006-12-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 60,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 60,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-1997-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:14:23Z",
+          "highlightedContent": "",
+          "frDocNum": "67678",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1997-02-22T04:59:59Z",
+          "title": "National Oil and Hazardous Substances Pollution Contingency Plan; The National Priorities \r\nList for Uncontrolled Hazardous Waste Sites; Proposed Rule",
+          "postedDate": "1996-12-23T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1997-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1996-12-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e1f95"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1997-0002-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6189-0228",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:01:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1996-12-24T04:59:59Z",
+          "title": "U.S. DOT/USCG - Final Rule-Amdt. 1-280",
+          "postedDate": "1996-12-23T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1996-12-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f08"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0228"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1996-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:02Z",
+          "highlightedContent": "",
+          "frDocNum": "67656",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Oil and Hazardous Substances Pollution Contingency Plan; The National Priorities \r\nList for Uncontrolled Hazardous Waste Sites; Final Rule",
+          "postedDate": "1996-12-23T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1996-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e26cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1996-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1996-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:20:56Z",
+          "highlightedContent": "",
+          "frDocNum": "67678",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1997-02-22T04:59:59Z",
+          "title": "National Priorities List for Uncontrolled Hazardous Waste Sites,  Proposed Rule No.21",
+          "postedDate": "1996-12-23T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1996-0005",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1996-12-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e270f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1996-0005-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 27,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-12-23",
+          "toDate": "1996-12-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

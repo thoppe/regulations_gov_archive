@@ -1,0 +1,225 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-2000-8366-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2001-07-06T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver of Compliance - Blacklands Railroad",
+          "postedDate": "2001-07-05T04:00:00Z",
+          "docketId": "FRA-2000-8366",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480343c1d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-8366-0005"
+        }
+      },
+      {
+        "id": "NHTSA-2001-9848-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-07-06T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Receipt of Petition for Decision that Nonconforming 1997 Chevrolet Cavalier Passenger Cars are Eligible for Importation",
+          "postedDate": "2001-07-05T04:00:00Z",
+          "docketId": "NHTSA-2001-9848",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480344e2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-9848-0002"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-4470-0038",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2001-07-06T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Technical Hazardous Liquid Pipeline Safety Standards Advisory Committee Meeting",
+          "postedDate": "2001-07-05T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4470",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a6488"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4470-0038"
+        }
+      },
+      {
+        "id": "FRA-2001-9607-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:37:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2001-07-06T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver of Compliance - Boone & Scenic Valley Railroad",
+          "postedDate": "2001-07-05T04:00:00Z",
+          "docketId": "FRA-2001-9607",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802af02b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2001-9607-0003"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2001-8972-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:18:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2001-07-06T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Intent to Consider Waiver and Environmental Assessment of Waiver",
+          "postedDate": "2001-07-05T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2001-8972",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480340fb2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2001-8972-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 38,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-07-05",
+          "toDate": "2001-07-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

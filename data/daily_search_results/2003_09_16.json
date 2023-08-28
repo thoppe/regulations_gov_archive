@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2000-0018-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-02-03T18:29:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Combustible Gas Control in Containment",
+          "postedDate": "2003-09-16T19:06:15Z",
+          "docketId": "NRC-2000-0018",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648068519a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0018-0009"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0049-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:17:07Z",
+          "highlightedContent": "",
+          "frDocNum": "6698",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Control of Air Pollution From New Motor Vehicles:  Tier II Motor Vehicle Emission Standards and Gasoline Sulfur Control Requirements - Final Rule",
+          "postedDate": "2003-09-16T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0049",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bff91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0049-0013"
+        }
+      },
+      {
+        "id": "NRC-2000-0004-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:11:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Combustible Gas Control in Containment",
+          "postedDate": "2003-09-16T20:30:14Z",
+          "docketId": "NRC-2000-0004",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803c44a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0004-0013"
+        }
+      },
+      {
+        "id": "NRC-2002-0011-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:12:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Final Rule:  Combustible Gas Control in Containment",
+          "postedDate": "2003-09-16T19:13:26Z",
+          "docketId": "NRC-2002-0011",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648054c6ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0011-0013"
+        }
+      },
+      {
+        "id": "NRC-2002-0009-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:12:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Geological and Seismological Characteristics for Siting and Design of Dry Cask Independent Spent Fuel Storage Installations and Monitored Retrievable Storage Installations",
+          "postedDate": "2003-09-16T20:36:55Z",
+          "docketId": "NRC-2002-0009",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803fcb4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0009-0012"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 119,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 112,
+            "label": "Other"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-09-16",
+          "toDate": "2003-09-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

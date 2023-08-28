@@ -1,0 +1,191 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-2003-16099-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:19:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-10-07T03:59:59Z",
+          "title": "U.S DOT/RSPA - Final Rule",
+          "postedDate": "2003-10-06T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-16099",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-10-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480316031"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-16099-0001"
+        }
+      },
+      {
+        "id": "FDA-2002-E-0160-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T01:18:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U S Patent and Trademark Office",
+          "postedDate": "2003-10-06T04:00:00Z",
+          "docketId": "FDA-2002-E-0160",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648049406c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2002-E-0160-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2003-0072-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:08:50Z",
+          "highlightedContent": "",
+          "frDocNum": "36741",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-01-05T04:59:59Z",
+          "title": "Water Quality Standards Regulation; Advance Notice of Proposed Rulemaking.",
+          "postedDate": "2003-10-06T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2003-0072",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-10-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800c216a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2003-0072-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 66,
+            "label": "Other"
+          },
+          {
+            "docCount": 56,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 20,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "CEP-Certificate Extending Patent Term"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-10-06",
+          "toDate": "2003-10-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

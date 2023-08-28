@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2003-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:13:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2004-01-21T04:59:59Z",
+          "title": "Federal Register Notice - List of Approved Spent Fuel Storage Casks:  Standardized NUHOMS-24P, -52B, -61BT, -32PT, and -24PHB Revision",
+          "postedDate": "2003-12-18T20:02:21Z",
+          "docketId": "NRC-2003-0029",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2003-12-18T20:02:21Z",
+          "openForComment": false,
+          "objectId": "09000064806e1f2c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2003-0029-0001"
+        }
+      },
+      {
+        "id": "NRC-2003-0029-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:13:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2004-01-21T04:59:59Z",
+          "title": "Federal Register Notice - List of Approved Spent Fuel Storage Casks:  Standardized NUHOMS-24P, -52B, -61BT, -32PT, and -24PHB Revision",
+          "postedDate": "2003-12-18T20:39:03Z",
+          "docketId": "NRC-2003-0029",
+          "subtype": null,
+          "commentStartDate": "2003-12-18T20:39:03Z",
+          "openForComment": false,
+          "objectId": "09000064806e2232"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2003-0029-0002"
+        }
+      },
+      {
+        "id": "FRA-1999-6439-2392",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-06-30T01:01:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2003-12-19T04:59:59Z",
+          "title": "U.S. DOT/FRA - Interim Final Rule",
+          "postedDate": "2003-12-18T05:00:00Z",
+          "docketId": "FRA-1999-6439",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648035ad98"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1999-6439-2392"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 75,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 59,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-12-18",
+          "toDate": "2003-12-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

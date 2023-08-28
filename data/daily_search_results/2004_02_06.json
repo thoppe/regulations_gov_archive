@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-1999-6439-2584",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2004-02-07T04:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of Determination",
+          "postedDate": "2004-02-06T05:00:00Z",
+          "docketId": "FRA-1999-6439",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648035ae73"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1999-6439-2584"
+        }
+      },
+      {
+        "id": "FAA-2003-14972-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Disposition of Comments on Interim Final Rule",
+          "postedDate": "2004-02-06T05:00:00Z",
+          "docketId": "FAA-2003-14972",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480312085"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14972-0008"
+        }
+      },
+      {
+        "id": "FDA-1995-N-0054-13448",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-17T17:40:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "FDA - Final Rule (pages 101 - 200)",
+          "postedDate": "2004-02-06T05:00:00Z",
+          "docketId": "FDA-1995-N-0054",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2004-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648056b418"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1995-N-0054-13448"
+        }
+      },
+      {
+        "id": "FDA-1995-N-0054-13449",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-17T17:38:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "FDA - Final Rule (pages 201 - 263)",
+          "postedDate": "2004-02-06T05:00:00Z",
+          "docketId": "FDA-1995-N-0054",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2004-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648056b41a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1995-N-0054-13449"
+        }
+      },
+      {
+        "id": "FRA-1999-6439-2585",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2004-02-07T04:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of Availability",
+          "postedDate": "2004-02-06T05:00:00Z",
+          "docketId": "FRA-1999-6439",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648035ae74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1999-6439-2585"
+        }
+      },
+      {
+        "id": "FDA-1995-N-0054-13447",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-09-17T17:39:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "FDA - Final Rule (pages 1 - 100)",
+          "postedDate": "2004-02-06T05:00:00Z",
+          "docketId": "FDA-1995-N-0054",
+          "subtype": "NFR-Notice of Final Rule",
+          "commentStartDate": "2004-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648056b417"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1995-N-0054-13447"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 492,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 123,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "NFR-Notice of Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-02-06",
+          "toDate": "2004-02-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

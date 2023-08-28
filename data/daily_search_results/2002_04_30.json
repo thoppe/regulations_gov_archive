@@ -1,0 +1,187 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2003-0045-0170",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-05-21T20:14:49Z",
+          "highlightedContent": "",
+          "frDocNum": "01-37",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2001-05-30T03:59:59Z",
+          "title": "Control of Emissions Hazardous Air Pollutants from Mobile Sources [A2001-11 II-A-68]",
+          "postedDate": "2002-04-30T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0045",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2002-04-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800be51d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0045-0170"
+        }
+      },
+      {
+        "id": "NRC-2002-0006-0184",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:12:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2002-07-30T03:59:59Z",
+          "title": "Federal Register Notice - Proposed Rule:  Compatibility with IAEA Transportation Safety Standards (TS-R-1) and Other Transportation Safety Amendments",
+          "postedDate": "2002-04-30T19:02:56Z",
+          "docketId": "NRC-2002-0006",
+          "subtype": null,
+          "commentStartDate": "2002-04-30T19:02:56Z",
+          "openForComment": false,
+          "objectId": "090000648054fed3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0006-0184"
+        }
+      },
+      {
+        "id": "DOT-OST-2002-11996-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:23:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2002-05-01T03:59:59Z",
+          "title": "U.S. DOT/OST - Notice of Availability and Request for Comment",
+          "postedDate": "2002-04-30T04:00:00Z",
+          "docketId": "DOT-OST-2002-11996",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-04-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803057eb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2002-11996-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 74,
+            "label": "Other"
+          },
+          {
+            "docCount": 14,
+            "label": "Notice"
+          },
+          {
+            "docCount": 13,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-04-30",
+          "toDate": "2002-04-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

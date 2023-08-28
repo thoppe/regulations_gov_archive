@@ -1,0 +1,187 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2000-7147-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2000-06-28T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2000-06-27T04:00:00Z",
+          "docketId": "MARAD-2000-7147",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803391d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2000-7147-0002"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6323-1481",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:32:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-06-29T03:59:59Z",
+          "title": "Coblentz, Patch, Duffy & Bass, LLP - Letter in Support",
+          "postedDate": "2000-06-27T04:00:00Z",
+          "docketId": "DOT-OST-1999-6323",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480339801"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6323-1481"
+        }
+      },
+      {
+        "id": "EPA-HQ-TRI-2005-0005-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-07-15T19:14:46Z",
+          "highlightedContent": "",
+          "frDocNum": "39552",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Phosphoric Acid; Community Right-to-Know Toxic Chemical Release Reporting [A1-003]",
+          "postedDate": "2000-06-27T04:00:00Z",
+          "docketId": "EPA-HQ-TRI-2005-0005",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800c49e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-TRI-2005-0005-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 187,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-06-27",
+          "toDate": "2000-06-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

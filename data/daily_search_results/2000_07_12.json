@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-1999-H-0017-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-07T14:02:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "FDA/CDRH/GCF-1",
+          "postedDate": "2000-07-12T04:00:00Z",
+          "docketId": "FDA-1999-H-0017",
+          "subtype": "SET-Settlement Agreement",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804a5a92"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1999-H-0017-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2000-0059-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:11:32Z",
+          "highlightedContent": "",
+          "frDocNum": "42937",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2000-09-12T03:59:59Z",
+          "title": "Land Disposal Restrictions; Treatment Standards for Spent Potliners from Primary Aluminum Reduction (K088) and Regulatory Classification of K088 Vitrification Units",
+          "postedDate": "2000-07-12T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2000-0059",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2000-07-12T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800dff2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2000-0059-0001"
+        }
+      },
+      {
+        "id": "FRA-2000-7335-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-07-13T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petitions for Waivers of Compliance; Petition for Exemption for Technological Improvements - New Jersey Transit Corporation (NJ Transit)",
+          "postedDate": "2000-07-12T04:00:00Z",
+          "docketId": "FRA-2000-7335",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-12T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033b7b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7335-0002"
+        }
+      },
+      {
+        "id": "FDA-1999-H-0018-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-07-07T14:12:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "FDA/CDRH/GCF",
+          "postedDate": "2000-07-12T04:00:00Z",
+          "docketId": "FDA-1999-H-0018",
+          "subtype": "SET-Settlement Agreement",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804a5a9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1999-H-0018-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 156,
+            "label": "Other"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "SET-Settlement Agreement"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-07-12",
+          "toDate": "2000-07-12"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

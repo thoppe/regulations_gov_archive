@@ -1,0 +1,202 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-2000-7354-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-11-16T04:59:59Z",
+          "title": "U.S. DOT/Honda Motor Co., Ltd.; Grant of Application for Temporary Exemption From Federal Motor Vehicle Safety Standard No. 123",
+          "postedDate": "2000-11-15T05:00:00Z",
+          "docketId": "NHTSA-2000-7354",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-11-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033badd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2000-7354-0025"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-7800-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:21:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-11-16T04:59:59Z",
+          "title": "Notice of Interim Statement of Policy; Request for Comments",
+          "postedDate": "2000-11-15T05:00:00Z",
+          "docketId": "DOT-OST-2000-7800",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-11-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803411e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-7800-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-7640-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:25:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-11-16T04:59:59Z",
+          "title": "Interim Final Rule; Request for Comments",
+          "postedDate": "2000-11-15T05:00:00Z",
+          "docketId": "DOT-OST-2000-7640",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-11-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fc391"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-7640-0001"
+        }
+      },
+      {
+        "id": "FAA-2000-8278-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-11-16T04:59:59Z",
+          "title": "Notice of Intent to Conduct  a Lottery of Takeoff and Landing Times at LaGuardia Airport",
+          "postedDate": "2000-11-15T05:00:00Z",
+          "docketId": "FAA-2000-8278",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-11-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803435f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-8278-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 52,
+            "label": "Other"
+          },
+          {
+            "docCount": 15,
+            "label": "Notice"
+          },
+          {
+            "docCount": 8,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-11-15",
+          "toDate": "2000-11-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

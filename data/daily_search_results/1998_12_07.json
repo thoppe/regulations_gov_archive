@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1998-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:09:41Z",
+          "highlightedContent": "",
+          "frDocNum": "67562",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Project XL Rulemaking for New York State Public Utilities; Hazardous Waste Management System; Request for Comment on Proposed Rule and Draft Final Project Agreement",
+          "postedDate": "1998-12-07T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0047",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800de959"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0047-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-4765-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-12-08T04:59:59Z",
+          "title": "Notice of Intent; Notice of Meetings and Request for Comments; Correction",
+          "postedDate": "1998-12-07T05:00:00Z",
+          "docketId": "USCG-1998-4765",
+          "subtype": null,
+          "commentStartDate": "1998-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480327bf3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4765-0017"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-4952-0477",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-08-26T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Administrative Determination of Preemption by RSPA's Associate Administrator for Hazardous Materials Safety",
+          "postedDate": "1998-12-07T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4952",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a72d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4952-0477"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-14614-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:16:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-03-06T04:59:59Z",
+          "title": "Notice of administrative determination of preemption by RSPA's Associate Administrator for Hazardous Materials Safety",
+          "postedDate": "1998-12-07T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-14614",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-07T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480310581"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-14614-0020"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 39,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-12-07",
+          "toDate": "1998-12-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

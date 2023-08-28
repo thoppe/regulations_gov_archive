@@ -1,0 +1,221 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2002-12540-0002-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2002-06-29T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice of Deadline for submitting Waiver Applications under Existing Waiver Authority",
+          "postedDate": "2002-06-27T04:00:00Z",
+          "docketId": "MARAD-2002-12540",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480307060"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-12540-0002-0002"
+        }
+      },
+      {
+        "id": "USCG-2002-12471-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-06-28T03:59:59Z",
+          "title": "Final Rule; Delay of Effective Date for Certain Amendments",
+          "postedDate": "2002-06-27T04:00:00Z",
+          "docketId": "USCG-2002-12471",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480306de6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2002-12471-0003"
+        }
+      },
+      {
+        "id": "MARAD-2002-12545-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2002-06-28T03:59:59Z",
+          "title": "U.S. DOT/MARAD -  Notice and Request for Comments",
+          "postedDate": "2002-06-27T04:00:00Z",
+          "docketId": "MARAD-2002-12545",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480307081"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-12545-0001"
+        }
+      },
+      {
+        "id": "MARAD-2002-12540-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2002-06-29T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice of Deadline for submitting Waiver Applications under Existing Waiver Authority",
+          "postedDate": "2002-06-27T04:00:00Z",
+          "docketId": "MARAD-2002-12540",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030705f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-12540-0002-0001"
+        }
+      },
+      {
+        "id": "MARAD-2002-12540-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2002-06-28T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice of Deadline for Submitting Waiver Applications under Existing Waiver Authority",
+          "postedDate": "2002-06-27T04:00:00Z",
+          "docketId": "MARAD-2002-12540",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-06-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030705e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-12540-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 126,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 18,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-06-27",
+          "toDate": "2002-06-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-1998-4145-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1998-07-30T03:59:59Z",
+          "title": "Federal Motor Carrier Safety Regulations; Waivers, Exemptions, and Pilot Programs; Public Meeting",
+          "postedDate": "1998-07-29T04:00:00Z",
+          "docketId": "FMCSA-1998-4145",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-07-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803245f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-4145-0001"
+        }
+      },
+      {
+        "id": "FHWA-1998-4077-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1998-07-30T03:59:59Z",
+          "title": "Notice of Request for Clearance of a New Information Collection",
+          "postedDate": "1998-07-29T04:00:00Z",
+          "docketId": "FHWA-1998-4077",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-07-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324489"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1998-4077-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-4952-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-08-26T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice No. 96-15 - Advance Notice of Proposed Rulemaking; Notice of Meeting - Applicability of Hazardous Materials Regulations to Loading, Unloading and Storage",
+          "postedDate": "1998-07-29T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4952",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-07-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7135"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4952-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 32,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-07-29",
+          "toDate": "1998-07-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

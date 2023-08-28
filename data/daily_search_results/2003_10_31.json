@@ -1,0 +1,125 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-2000-P-0126-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-03-31T18:12:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2004-01-28T04:59:59Z",
+          "title": "Milk & Cream Products & Yogurt Products; Petition to Revoke Standards for Lowfat Yogurt & Nonfat Yogurt & to Amend Standards for Yogurt and Cultured Milk; Reopening of the Comment Period",
+          "postedDate": "2003-10-31T05:00:00Z",
+          "docketId": "FDA-2000-P-0126",
+          "subtype": "NEC-Notice of Extension",
+          "commentStartDate": "2003-10-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064804cf56d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-P-0126-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 66,
+            "label": "Other"
+          },
+          {
+            "docCount": 36,
+            "label": "Notice"
+          },
+          {
+            "docCount": 23,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "NEC-Notice of Extension"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-10-31",
+          "toDate": "2003-10-31"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-2000-7257-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "1999-08-11T03:59:59Z",
+          "title": "The White House - Executive Order 13132 of August 4, 1999",
+          "postedDate": "1999-08-10T04:00:00Z",
+          "docketId": "FRA-2000-7257",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802caf9c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7257-0002"
+        }
+      },
+      {
+        "id": "MARAD-1999-6057-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "1999-08-12T03:59:59Z",
+          "title": "Notice and Request for Comments",
+          "postedDate": "1999-08-10T04:00:00Z",
+          "docketId": "MARAD-1999-6057",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803300a1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-1999-6057-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1999-5442-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:23:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-08-12T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Chevron Pipe Line; Grant of Waiver - Notice",
+          "postedDate": "1999-08-10T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-5442",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032bcea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-5442-0002"
+        }
+      },
+      {
+        "id": "FAA-1999-6063-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:46Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "1999-08-11T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "1999-08-10T04:00:00Z",
+          "docketId": "FAA-1999-6063",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803300f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-6063-0001"
+        }
+      },
+      {
+        "id": "FHWA-1999-5867-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1999-08-12T03:59:59Z",
+          "title": "Notice of Applications for Exemptions and Intent to Grant Exemptions; Request for Comments",
+          "postedDate": "1999-08-10T04:00:00Z",
+          "docketId": "FHWA-1999-5867",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032e7fd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-5867-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 22,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-08-10",
+          "toDate": "1999-08-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

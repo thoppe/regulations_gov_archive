@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-2000-7363-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:06:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-01-14T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2003-01-13T05:00:00Z",
+          "docketId": "FMCSA-2000-7363",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c6319"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-7363-0007"
+        }
+      },
+      {
+        "id": "FMCSA-2000-7165-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:06:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-01-14T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2003-01-13T05:00:00Z",
+          "docketId": "FMCSA-2000-7165",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c1e9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-7165-0010"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0058-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-01-14T02:00:29Z",
+          "highlightedContent": "",
+          "frDocNum": "1660",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2003-03-15T04:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants for Industrial/Commercial/Institutional Boilers and Process Heaters; Proposed Rule",
+          "postedDate": "2003-01-13T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0058",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800becf1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0058-0013"
+        }
+      },
+      {
+        "id": "FAA-2002-13875-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-01-14T04:59:59Z",
+          "title": "Petitions for Exemption; Summary of Petitions Received",
+          "postedDate": "2003-01-13T05:00:00Z",
+          "docketId": "FAA-2002-13875",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030c869"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13875-0003"
+        }
+      },
+      {
+        "id": "FAA-2002-14089-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-01-14T04:59:59Z",
+          "title": "Modification of Class E Airspace; Caruthersville, MO",
+          "postedDate": "2003-01-13T05:00:00Z",
+          "docketId": "FAA-2002-14089",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030da3f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-14089-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2000-8203-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:08:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-01-14T04:59:59Z",
+          "title": "Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2003-01-13T05:00:00Z",
+          "docketId": "FMCSA-2000-8203",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bd062"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-8203-0009"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 79,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 8,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-01-13",
+          "toDate": "2003-01-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

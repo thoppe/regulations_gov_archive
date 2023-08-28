@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1999-6238-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-09-28T03:59:59Z",
+          "title": "Notice of Meetings",
+          "postedDate": "1999-09-27T04:00:00Z",
+          "docketId": "USCG-1999-6238",
+          "subtype": null,
+          "commentStartDate": "1999-09-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480331718"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6238-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1999-6239-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-09-28T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule",
+          "postedDate": "1999-09-27T04:00:00Z",
+          "docketId": "NHTSA-1999-6239",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-09-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480331725"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-6239-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1999-6209-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:06:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-09-28T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - American Transportation Corporation, Receipt of Application for Decision of Inconsequential Noncompliance",
+          "postedDate": "1999-09-27T04:00:00Z",
+          "docketId": "NHTSA-1999-6209",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-09-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033101f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-6209-0002"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1999-6212-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:25:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-09-28T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Final Rule",
+          "postedDate": "1999-09-27T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-6212",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-09-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033122f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-6212-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1999-6019-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:07:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-09-28T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Response to Petitions for Reconsideration, Technical Amendment; Final Rule",
+          "postedDate": "1999-09-27T04:00:00Z",
+          "docketId": "NHTSA-1999-6019",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-09-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032fe5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-6019-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 63,
+            "label": "Other"
+          },
+          {
+            "docCount": 10,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-09-27",
+          "toDate": "1999-09-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

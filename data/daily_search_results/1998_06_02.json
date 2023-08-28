@@ -1,0 +1,175 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1998-3882-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-06-03T03:59:59Z",
+          "title": "USCG - Commercial Fishing Industry Vessel Advisory Committee (CFIVAC); Vacancies - Request for Applications",
+          "postedDate": "1998-06-02T04:00:00Z",
+          "docketId": "USCG-1998-3882",
+          "subtype": null,
+          "commentStartDate": "1998-06-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323351"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3882-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-3599-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:25:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1998-06-03T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Public Notice and Invitation to Comment",
+          "postedDate": "1998-06-02T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-3599",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-06-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480321391"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-3599-0002"
+        }
+      },
+      {
+        "id": "USCG-1998-3883-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-06-03T03:59:59Z",
+          "title": "USCG - National Offshore Safety Advisory Committee; Vacancies - Request for Applications",
+          "postedDate": "1998-06-02T04:00:00Z",
+          "docketId": "USCG-1998-3883",
+          "subtype": null,
+          "commentStartDate": "1998-06-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323360"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3883-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 43,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-06-02",
+          "toDate": "1998-06-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

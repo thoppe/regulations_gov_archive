@@ -1,0 +1,248 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2000-7222-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-07-27T03:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2000-07-26T04:00:00Z",
+          "docketId": "USCG-2000-7222",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033a2e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-7222-0007"
+        }
+      },
+      {
+        "id": "FHWA-1999-5899-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2000-07-27T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking (NPRM); Extension of Comment Period.",
+          "postedDate": "2000-07-26T04:00:00Z",
+          "docketId": "FHWA-1999-5899",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032eb96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-5899-0007"
+        }
+      },
+      {
+        "id": "FAA-2005-21272-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-06-01T03:59:59Z",
+          "title": "U.S. DOT/FAA - Grant of Exemption",
+          "postedDate": "2000-07-26T04:00:00Z",
+          "docketId": "FAA-2005-21272",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032bdbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-21272-0009"
+        }
+      },
+      {
+        "id": "USCG-2000-7672-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-07-27T03:59:59Z",
+          "title": "Notice of Pilot Program",
+          "postedDate": "2000-07-26T04:00:00Z",
+          "docketId": "USCG-2000-7672",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803403d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-7672-0001"
+        }
+      },
+      {
+        "id": "FHWA-2000-7116-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2000-07-27T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking (NPRM); Request for Comments",
+          "postedDate": "2000-07-26T04:00:00Z",
+          "docketId": "FHWA-2000-7116",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480338954"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2000-7116-0001"
+        }
+      },
+      {
+        "id": "USCG-1999-6097-0120",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-07-27T03:59:59Z",
+          "title": "Notice of Termination",
+          "postedDate": "2000-07-26T04:00:00Z",
+          "docketId": "USCG-1999-6097",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803303e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6097-0120"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 76,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 2,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-07-26",
+          "toDate": "2000-07-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

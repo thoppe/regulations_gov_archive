@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2004-17763-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-06-05T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2004-06-04T04:00:00Z",
+          "docketId": "FAA-2004-17763",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e5c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-17763-0002"
+        }
+      },
+      {
+        "id": "FDA-1998-N-0088-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-15T22:00:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2004-08-17T03:59:59Z",
+          "title": "Exports; Notification and Recordkeeping Requirements; Advance Notice of Proposed Rulemaking",
+          "postedDate": "2004-06-04T04:00:00Z",
+          "docketId": "FDA-1998-N-0088",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2004-06-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480585e6e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-N-0088-0003"
+        }
+      },
+      {
+        "id": "FAA-2000-7479-0290",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-06-05T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Correction",
+          "postedDate": "2004-06-04T04:00:00Z",
+          "docketId": "FAA-2000-7479",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033d68e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7479-0290"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 70,
+            "label": "Other"
+          },
+          {
+            "docCount": 30,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 29,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-06-04",
+          "toDate": "2004-06-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

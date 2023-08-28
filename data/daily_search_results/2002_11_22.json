@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2002-0068-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-12-07T19:11:50Z",
+          "highlightedContent": "",
+          "frDocNum": "32314",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Requirements for Preparation, Adoption and Submittal of Implementation Plans, Approval and Promulgation of Implementation plans; Standards of Performance for New Stationary Sources [A-2002-04 II-J-01]",
+          "postedDate": "2002-11-22T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0068",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a79e9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0068-0035"
+        }
+      },
+      {
+        "id": "FAA-2002-13859-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-11-23T04:59:59Z",
+          "title": "US. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2002-11-22T05:00:00Z",
+          "docketId": "FAA-2002-13859",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030c791"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13859-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 327,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 92,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-11-22",
+          "toDate": "2002-11-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

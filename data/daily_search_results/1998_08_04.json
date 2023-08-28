@@ -1,0 +1,198 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1998-3847-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:04:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-08-06T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule - Federal Motor Vehical Safety Standards; Head Impact Protection",
+          "postedDate": "1998-08-04T04:00:00Z",
+          "docketId": "NHTSA-1998-3847",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480322fc2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3847-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1997-3144-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-01-23T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule - Side Impact Anthropomorphic Test Dummy",
+          "postedDate": "1998-08-04T04:00:00Z",
+          "docketId": "NHTSA-1997-3144",
+          "subtype": "Final Rule",
+          "commentStartDate": "1998-08-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e638"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1997-3144-0009"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4079-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:07:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-08-06T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Decision that Certain Nonconforming Vehicles are Eligible for Importation",
+          "postedDate": "1998-08-04T04:00:00Z",
+          "docketId": "NHTSA-1998-4079",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803244b7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4079-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3866-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-08-06T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule - Consumer Information Regulations; Uniform Tire Quality Grading Standards",
+          "postedDate": "1998-08-04T04:00:00Z",
+          "docketId": "NHTSA-1998-3866",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323233"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3866-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 41,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-08-04",
+          "toDate": "1998-08-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

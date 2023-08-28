@@ -1,0 +1,260 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2002-13378-1749",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-12-11T04:59:59Z",
+          "title": "Alisha L. Mobley",
+          "postedDate": "2002-12-10T05:00:00Z",
+          "docketId": "FAA-2002-13378",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033f21c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13378-1749"
+        }
+      },
+      {
+        "id": "FRA-2001-11068-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-12-11T04:59:59Z",
+          "title": "U.S. DOT/FRA - Proposed Rule; Extension of Comment Period until Further Notice",
+          "postedDate": "2002-12-10T05:00:00Z",
+          "docketId": "FRA-2001-11068",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803035cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2001-11068-0022"
+        }
+      },
+      {
+        "id": "FRA-2001-8728-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-12-11T04:59:59Z",
+          "title": "U.S. DOT/FRA - Final Rule",
+          "postedDate": "2002-12-10T05:00:00Z",
+          "docketId": "FRA-2001-8728",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bf3d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2001-8728-0025"
+        }
+      },
+      {
+        "id": "FDA-2001-N-0178-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-02-03T22:01:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2003-04-10T03:59:59Z",
+          "title": "Electronic Products; Performance Standard for Diagnostic X-Ray Systems and Their Major Components",
+          "postedDate": "2002-12-10T05:00:00Z",
+          "docketId": "FDA-2001-N-0178",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2002-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064804e1548"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2001-N-0178-0001"
+        }
+      },
+      {
+        "id": "FHWA-2000-7799-0050",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-02T17:19:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2002-12-11T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2002-12-10T05:00:00Z",
+          "docketId": "FHWA-2000-7799",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803411d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2000-7799-0050"
+        }
+      },
+      {
+        "id": "FAA-2002-13818-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-12-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2002-12-10T05:00:00Z",
+          "docketId": "FAA-2002-13818",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030c4e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13818-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 76,
+            "label": "Other"
+          },
+          {
+            "docCount": 26,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-12-10",
+          "toDate": "2002-12-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

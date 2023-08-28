@@ -1,0 +1,175 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1998-3355-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:04:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-02-03T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Red River Manufacturing, Inc.; Petition for Temporary Exemption from Federal Motor Vehicle Safety Standard No. 224",
+          "postedDate": "1998-02-02T05:00:00Z",
+          "docketId": "NHTSA-1998-3355",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-02-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031fbdc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3355-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3343-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:04:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-02-03T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Mercedes-Benz U.S. International, Inc.; Application for Temporary Exemption from Five Federal Motor Vehicle Safety Standards",
+          "postedDate": "1998-02-02T05:00:00Z",
+          "docketId": "NHTSA-1998-3343",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-02-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031facb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3343-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1995-223-0051",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:21:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1998-02-03T04:59:59Z",
+          "title": "U.S. DOT/OST - Termination of Rulemaking - Aircraft Disinsection",
+          "postedDate": "1998-02-02T05:00:00Z",
+          "docketId": "DOT-OST-1995-223",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-02-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030964a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1995-223-0051"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 8,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-02-02",
+          "toDate": "1998-02-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

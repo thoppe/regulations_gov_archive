@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-1998-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:06:59Z",
+          "highlightedContent": "",
+          "frDocNum": "40247",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1998-09-29T03:59:59Z",
+          "title": "National Priorities List for Uncontrolled Hazardous Waste Sites; Proposed Rule No. 25",
+          "postedDate": "1998-07-28T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1998-0010",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1998-07-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e1f62"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1998-0010-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1998-4146-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:28:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1998-07-29T03:59:59Z",
+          "title": "TEA-21 Listening Sessions and One-DOT Conferences",
+          "postedDate": "1998-07-28T04:00:00Z",
+          "docketId": "DOT-OST-1998-4146",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-07-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324657"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1998-4146-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 32,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-07-28",
+          "toDate": "1998-07-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

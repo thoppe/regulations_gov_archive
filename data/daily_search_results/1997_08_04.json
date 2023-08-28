@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1998-3437-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-18T17:14:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1997-04-26T03:59:59Z",
+          "title": "U. S. DOT/NHTSA - Correction of Publication/Final Rule",
+          "postedDate": "1997-08-04T04:00:00Z",
+          "docketId": "NHTSA-1998-3437",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1997-08-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480382bcd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3437-0003"
+        }
+      },
+      {
+        "id": "FDA-1996-N-0027-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-19T17:24:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1997-07-30T03:59:59Z",
+          "title": "National Environmental Policy Act Proposed Revision of Policies and Procedures Pages 1 Thru 100",
+          "postedDate": "1997-08-04T04:00:00Z",
+          "docketId": "FDA-1996-N-0027",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-08-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064804fb62f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1996-N-0027-0004"
+        }
+      },
+      {
+        "id": "FDA-1996-N-0027-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-19T17:24:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1997-07-30T03:59:59Z",
+          "title": "National Environmental Policy Act Proposed Revision of Policies and Procedures Pages 101 Thru 157",
+          "postedDate": "1997-08-04T04:00:00Z",
+          "docketId": "FDA-1996-N-0027",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-08-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064804fb630"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1996-N-0027-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 28,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1997-08-04",
+          "toDate": "1997-08-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

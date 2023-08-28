@@ -1,0 +1,460 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2005-22665-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:34:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-06-06T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": "FAA-2005-22665",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aebdf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22665-0002"
+        }
+      },
+      {
+        "id": "USCG-2006-24935-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:17:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2006-06-06T03:59:59Z",
+          "title": "Notice of Meetings",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": "USCG-2006-24935",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aa358"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2006-24935-0001"
+        }
+      },
+      {
+        "id": "FTA-2006-24592-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:52:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2006-06-06T03:59:59Z",
+          "title": "U.S. DOT/FTA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": "FTA-2006-24592",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3344"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2006-24592-0001"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2006-0467-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:18:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-08661",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-07-06T03:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans; State of Missouri",
+          "postedDate": "2006-06-05T13:36:59Z",
+          "docketId": "EPA-R07-OAR-2006-0467",
+          "subtype": null,
+          "commentStartDate": "2006-06-05T13:36:59Z",
+          "openForComment": false,
+          "objectId": "09000064801811cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2006-0467-0001"
+        }
+      },
+      {
+        "id": "ED-2006-0215-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:16:25Z",
+          "highlightedContent": "",
+          "frDocNum": "06-05111",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Service Obligations Under Special Education--Personnel Development to Improve Services and Results for Children With Disabilities",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": "ED-2006-0215",
+          "subtype": null,
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648018112c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2006-0215-0001"
+        }
+      },
+      {
+        "id": "PTO-C-2006-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:55:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-08682",
+          "withdrawn": false,
+          "agencyId": "PTO",
+          "commentEndDate": "2006-07-06T03:59:59Z",
+          "title": "Revision of Patent Fees for Fiscal Year 2007",
+          "postedDate": "2006-06-05T12:13:52Z",
+          "docketId": "PTO-C-2006-0015",
+          "subtype": null,
+          "commentStartDate": "2006-06-05T12:13:52Z",
+          "openForComment": false,
+          "objectId": "090000648018118c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PTO-C-2006-0015-0001"
+        }
+      },
+      {
+        "id": "FRS-2006-0215-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T17:42:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-08642",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Availability of Funds and Collection of Checks",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801811a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2006-0215-0001"
+        }
+      },
+      {
+        "id": "FTA-2005-22658-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:52:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2006-06-06T03:59:59Z",
+          "title": "U.S. DOT/FTA - Final Notice",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": "FTA-2005-22658",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4708"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2005-22658-0010"
+        }
+      },
+      {
+        "id": "HUD-2006-0169-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-08-22T15:04:51Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-08637",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": "2006-08-05T03:59:59Z",
+          "title": "FR\u20134887\u2013A\u201301: Accelerated Claim and Asset Disposition (ACD) Program; Advance Notice of Proposed Rulemaking",
+          "postedDate": "2006-06-05T20:29:11Z",
+          "docketId": "HUD-2006-0169",
+          "subtype": null,
+          "commentStartDate": "2006-06-05T20:29:11Z",
+          "openForComment": false,
+          "objectId": "0900006480181168"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2006-0169-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-24869-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-06-06T03:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Request for Comments",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": "FAA-2006-24869",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b68ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24869-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-24081-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-06-06T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": "FAA-2006-24081",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5ece"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24081-0008"
+        }
+      },
+      {
+        "id": "FAA-2006-24095-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:37:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-06-06T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-06-05T04:00:00Z",
+          "docketId": "FAA-2006-24095",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b494c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24095-0006"
+        }
+      },
+      {
+        "id": "HUD-2006-0168-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-08-22T15:04:50Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-08636",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR\u20134958\u2013F\u201302: Government National Mortgage Association: Excess Yield Securities",
+          "postedDate": "2006-06-05T17:57:53Z",
+          "docketId": "HUD-2006-0168",
+          "subtype": null,
+          "commentStartDate": "2006-06-05T17:57:53Z",
+          "openForComment": false,
+          "objectId": "09000064801810a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2006-0168-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2006-0012-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:12:52Z",
+          "highlightedContent": "",
+          "frDocNum": "06-05052",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of Minnesota Alternative Public Participation Process",
+          "postedDate": "2006-06-05T12:09:54Z",
+          "docketId": "EPA-R05-OAR-2006-0012",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648018115c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2006-0012-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 58,
+            "label": "Notice"
+          },
+          {
+            "docCount": 39,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 7,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 14,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FTA"
+          },
+          {
+            "docCount": 2,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "PTO"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-06-05",
+          "toDate": "2006-06-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 14,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 14,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

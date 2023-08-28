@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2003-0031-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:13:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2003-03-25T04:59:59Z",
+          "title": "List of Approved Spent Fuel Storage Casks:  FuelSolutions Cask System Revision",
+          "postedDate": "2003-02-21T19:44:11Z",
+          "docketId": "NRC-2003-0031",
+          "subtype": null,
+          "commentStartDate": "2003-02-21T19:44:11Z",
+          "openForComment": false,
+          "objectId": "09000064806d0458"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2003-0031-0002"
+        }
+      },
+      {
+        "id": "NRC-2003-0031-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:13:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2003-03-25T04:59:59Z",
+          "title": "List of Approved Spent Fuel Storage Casks:  FuelSolutions Cask System Revision",
+          "postedDate": "2003-02-21T19:35:12Z",
+          "docketId": "NRC-2003-0031",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2003-02-21T19:35:12Z",
+          "openForComment": false,
+          "objectId": "09000064806d0402"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2003-0031-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 49,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-02-21",
+          "toDate": "2003-02-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

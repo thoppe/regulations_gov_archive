@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "id": "FTA-1998-4407-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "1998-12-12T04:59:59Z",
+          "title": "U.S. DOT/FTA - Capital Leases - Final Rule",
+          "postedDate": "1998-12-10T05:00:00Z",
+          "docketId": "FTA-1998-4407",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803258ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-1998-4407-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4813-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:15:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-12-12T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Supplemental Notice of Proposed Rulemaking - Federal Motor Vehicle Standards (FMVSS) 108; Lamps, Reflective Devices and Associated Equipment",
+          "postedDate": "1998-12-10T05:00:00Z",
+          "docketId": "NHTSA-1998-4813",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803283f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4813-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 22,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-12-10",
+          "toDate": "1998-12-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

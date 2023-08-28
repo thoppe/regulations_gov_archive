@@ -1,0 +1,248 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2003-16647-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-03-16T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2004-03-15T05:00:00Z",
+          "docketId": "FAA-2003-16647",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802af5b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-16647-0004"
+        }
+      },
+      {
+        "id": "NHTSA-2003-16699-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-03-16T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Michelin North America, Inc., Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2004-03-15T05:00:00Z",
+          "docketId": "NHTSA-2003-16699",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480319a2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2003-16699-0003"
+        }
+      },
+      {
+        "id": "NHTSA-2003-16656-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-03-16T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Hyundai America Technical Center, Inc., Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2004-03-15T05:00:00Z",
+          "docketId": "NHTSA-2003-16656",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480319699"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2003-16656-0003"
+        }
+      },
+      {
+        "id": "NHTSA-2003-16463-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:14:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-03-16T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Hankook Tire America Corp., Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2004-03-15T05:00:00Z",
+          "docketId": "NHTSA-2003-16463",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480318823"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2003-16463-0003"
+        }
+      },
+      {
+        "id": "FAA-2001-9634-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-03-16T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule (Original)",
+          "postedDate": "2004-03-15T05:00:00Z",
+          "docketId": "FAA-2001-9634",
+          "subtype": "Final Rule",
+          "commentStartDate": "2004-03-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480343d9c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-9634-0005"
+        }
+      },
+      {
+        "id": "NHTSA-2003-16464-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-03-16T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - The Goodyear Tire & Rubber Company, Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2004-03-15T05:00:00Z",
+          "docketId": "NHTSA-2003-16464",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480318831"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2003-16464-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 77,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 53,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-03-15",
+          "toDate": "2004-03-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

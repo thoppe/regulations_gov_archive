@@ -1,0 +1,202 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-2002-13221-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-11-27T04:59:59Z",
+          "title": "U.S. DOT/FRA - Correction - Conforming the Federal Railroad Administration's Accident/Incident Reporting Requirements to the Occupational Safety and Health Administration's Revised Reporting Requirements; Other Amendments",
+          "postedDate": "2002-11-26T05:00:00Z",
+          "docketId": "FRA-2002-13221",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480308e64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2002-13221-0006"
+        }
+      },
+      {
+        "id": "FAA-2002-13982-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-12-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2002-11-26T05:00:00Z",
+          "docketId": "FAA-2002-13982",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030d005"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13982-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2001-9663-0064",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:59:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-11-27T04:59:59Z",
+          "title": "U.S. DOT/NHTSA -  Notice of Public Workshop",
+          "postedDate": "2002-11-26T05:00:00Z",
+          "docketId": "NHTSA-2001-9663",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802befe2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-9663-0064"
+        }
+      },
+      {
+        "id": "FAA-1999-6411-0059",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-11-27T04:59:59Z",
+          "title": "U.S. DOT/FAA - Correction - Equivalent Safety Provisions for Fuel Tank System Fault Tolerance Evaluations (SFAR 88) Correction",
+          "postedDate": "2002-11-26T05:00:00Z",
+          "docketId": "FAA-1999-6411",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033267e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-6411-0059"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 141,
+            "label": "Other"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-11-26",
+          "toDate": "2002-11-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

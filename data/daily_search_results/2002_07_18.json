@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-2002-0001-0031",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:07Z",
+          "highlightedContent": "",
+          "frDocNum": "47310",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Project XL Site-Specific Rulemaking for Implementing Waste Treatment Systems at Two \r\nVirginia Landfills",
+          "postedDate": "2002-07-18T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2002-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800df782"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2002-0001-0031"
+        }
+      },
+      {
+        "id": "NHTSA-2002-12541-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-07-19T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule; Response to Petitions for Reconsideration",
+          "postedDate": "2002-07-18T04:00:00Z",
+          "docketId": "NHTSA-2002-12541",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480307065"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2002-12541-0001"
+        }
+      },
+      {
+        "id": "FHWA-2001-8874-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2002-07-19T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2002-07-18T04:00:00Z",
+          "docketId": "FHWA-2001-8874",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480340826"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2001-8874-0013"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 103,
+            "label": "Other"
+          },
+          {
+            "docCount": 6,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-07-18",
+          "toDate": "2002-07-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

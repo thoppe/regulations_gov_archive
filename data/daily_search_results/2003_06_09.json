@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2003-15330-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2003-06-10T03:59:59Z",
+          "title": "Notice of Temporary Rules Issued",
+          "postedDate": "2003-06-09T04:00:00Z",
+          "docketId": "USCG-2003-15330",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031361f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2003-15330-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-14982-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:21:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-06-10T03:59:59Z",
+          "title": "U.S. DOT/RSPA -  Notice",
+          "postedDate": "2003-06-09T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-14982",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031218e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-14982-0007"
+        }
+      },
+      {
+        "id": "FAA-2003-14848-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-06-10T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2003-06-09T04:00:00Z",
+          "docketId": "FAA-2003-14848",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803117cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14848-0001"
+        }
+      },
+      {
+        "id": "USCG-2003-15189-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2003-06-10T03:59:59Z",
+          "title": "Request for Applications",
+          "postedDate": "2003-06-09T04:00:00Z",
+          "docketId": "USCG-2003-15189",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803131d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2003-15189-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2003-15353-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:04:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2003-06-10T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Receipt of Petition for Decision that Nonconforming 2002 BMW Z8 Passenger Cars are Eligible for Importation",
+          "postedDate": "2003-06-09T04:00:00Z",
+          "docketId": "NHTSA-2003-15353",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031371f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2003-15353-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2000-8410-1683",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:42:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-06-10T03:59:59Z",
+          "title": "Notice of Denial of Petition to Initiate a Pilot Program",
+          "postedDate": "2003-06-09T04:00:00Z",
+          "docketId": "FMCSA-2000-8410",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480334e68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-8410-1683"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 181,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-06-09",
+          "toDate": "2003-06-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

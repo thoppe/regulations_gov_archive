@@ -1,0 +1,606 @@
+[
+  {
+    "data": [
+      {
+        "id": "RUS-2006-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T22:28:02Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01483",
+          "withdrawn": false,
+          "agencyId": "RUS",
+          "commentEndDate": null,
+          "title": "Revision of Delegation of Authority",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "RUS-2006-0009",
+          "subtype": null,
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480133419"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RUS-2006-0009-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22411-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "FAA-2005-22411",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b871f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22411-0010"
+        }
+      },
+      {
+        "id": "FAA-2005-22455-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "FAA-2005-22455",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7b39"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22455-0010"
+        }
+      },
+      {
+        "id": "NARA-06-0002-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:46:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-02303",
+          "withdrawn": false,
+          "agencyId": "NARA",
+          "commentEndDate": "2006-04-19T03:59:59Z",
+          "title": "National Historical Publications and Records Commission Grant Program",
+          "postedDate": "2006-02-17T16:37:28Z",
+          "docketId": "NARA-06-0002",
+          "subtype": null,
+          "commentStartDate": "2006-02-17T16:37:28Z",
+          "openForComment": false,
+          "objectId": "090000648013334a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NARA-06-0002-0002"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1997-2995-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:02:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/PHMSA - Notice of Minimum Annual Percentage Rate for Random Drug Testing",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1997-2995",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a4715"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1997-2995-0009"
+        }
+      },
+      {
+        "id": "FAA-2004-19944-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Confirmation of Effective Date; Approval for Collection of Public Information",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "FAA-2004-19944",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bc111"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19944-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPA-2005-0003-0092",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-03-24T21:56:04Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01502",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Oil Pollution Prevention; Non-Transportation Related Onshore Facilities",
+          "postedDate": "2006-02-17T13:17:29Z",
+          "docketId": "EPA-HQ-OPA-2005-0003",
+          "subtype": null,
+          "commentStartDate": "2006-02-17T13:17:29Z",
+          "openForComment": false,
+          "objectId": "09000064801333ac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPA-2005-0003-0092"
+        }
+      },
+      {
+        "id": "FAA-2005-22872-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "FAA-2005-22872",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5cce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22872-0007"
+        }
+      },
+      {
+        "id": "FAA-2005-22031-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "FAA-2005-22031",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4551"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22031-0007"
+        }
+      },
+      {
+        "id": "FAA-2005-23143-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "FAA-2005-23143",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7c70"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-23143-0010"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2006-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:07:37Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01508",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-03-21T04:59:59Z",
+          "title": "TSCA Inventory Update Reporting Partially Exempted Chemicals List; Addition of Certain Vegetable-based Oils, Soybean Meal, and Xylitol",
+          "postedDate": "2006-02-17T13:08:18Z",
+          "docketId": "EPA-HQ-OPPT-2006-0025",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-02-17T13:08:18Z",
+          "openForComment": false,
+          "objectId": "0900006480133376"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2006-0025-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0122-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:40:13Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01505",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2006-03-07T04:59:59Z",
+          "title": "Atlantic Highly Migratory Species; Atlantic Commercial Shark Management Measures",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "NOAA-2006-0122",
+          "subtype": null,
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801333bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0122-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2005-22461-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/PHMSA - Final Rule",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "PHMSA-2005-22461",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aeb3d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2005-22461-0001"
+        }
+      },
+      {
+        "id": "FERC-2006-0349-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:00:23Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01227",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Rules Concerning Certification of the Electric Reliability Organization; and Procedures for the Establishment, Approval, and Enforcement of Electric Reliability Standards",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480133557"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2006-0349-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22558-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "FAA-2005-22558",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b2e5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22558-0007"
+        }
+      },
+      {
+        "id": "CRC-2006-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:38:41Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01489",
+          "withdrawn": false,
+          "agencyId": "CRC",
+          "commentEndDate": null,
+          "title": "Membership Requirement of State Advisory Committees",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480133499"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CRC-2006-0009-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0123-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:13Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01451",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries Off West Coast States and in the Western Pacific; Pacific Coast Groundfish Fishery; Specifications and Management Measures",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "NOAA-2006-0123",
+          "subtype": null,
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801334ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0123-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23936-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-06-11T18:20:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "FAA-2006-23936",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b18b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23936-0001"
+        }
+      },
+      {
+        "id": "RHS-2006-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:57:05Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01349",
+          "withdrawn": false,
+          "agencyId": "RHS",
+          "commentEndDate": "2006-04-19T03:59:59Z",
+          "title": "Single Family Housing Loans, Payment Assistance",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "RHS-2006-0005",
+          "subtype": null,
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801333ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RHS-2006-0005-0001"
+        }
+      },
+      {
+        "id": "USCG-2005-23167-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2006-02-17T05:00:00Z",
+          "docketId": "USCG-2005-23167",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-17T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bcc97"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2005-23167-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 117,
+            "label": "Notice"
+          },
+          {
+            "docCount": 78,
+            "label": "Other"
+          },
+          {
+            "docCount": 59,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 17,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 11,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 20,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "CRC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "NARA"
+          },
+          {
+            "docCount": 1,
+            "value": "RHS"
+          },
+          {
+            "docCount": 1,
+            "value": "RUS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-02-17",
+          "toDate": "2006-02-17"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 20,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 20,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

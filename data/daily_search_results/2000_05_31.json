@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-1997-2350-2467",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2000-12-16T04:59:59Z",
+          "title": "Proposed Rule; Correction",
+          "postedDate": "2000-05-31T04:00:00Z",
+          "docketId": "FMCSA-1997-2350",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648034e16f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2350-2467"
+        }
+      },
+      {
+        "id": "NHTSA-1999-6270-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:57:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-06-01T03:59:59Z",
+          "title": "U.S. DOT/NHTSA  - Notice of Public Meeting and Internet Forum.",
+          "postedDate": "2000-05-31T04:00:00Z",
+          "docketId": "NHTSA-1999-6270",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a8121"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-6270-0003"
+        }
+      },
+      {
+        "id": "NRC-2000-0004-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:17:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2000-08-15T03:59:59Z",
+          "title": "Federal Register Notice - Notice of Receipt of Petition for Rulemaking",
+          "postedDate": "2000-05-31T19:39:07Z",
+          "docketId": "NRC-2000-0004",
+          "subtype": "Petition for Rulemaking",
+          "commentStartDate": "2000-05-31T19:39:07Z",
+          "openForComment": false,
+          "objectId": "09000064806852e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0004-0014"
+        }
+      },
+      {
+        "id": "NHTSA-2000-7361-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:05:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-06-01T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Freightliner Corporation; Receipt of Application for Decision of Inconsequential Noncompliance",
+          "postedDate": "2000-05-31T04:00:00Z",
+          "docketId": "NHTSA-2000-7361",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-31T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033bb96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2000-7361-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 51,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 39,
+            "label": "Other"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Petition for Rulemaking"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-05-31",
+          "toDate": "2000-05-31"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1998-0031-0061",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:19:49Z",
+          "highlightedContent": "",
+          "frDocNum": "70190",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-02-17T04:59:59Z",
+          "title": "Lead; Management and Disposal of Lead-Based Paint Debris [F-1998-LPDP-S0010]",
+          "postedDate": "1998-12-18T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0031",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1998-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800dde0d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0031-0061"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3813-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-12-19T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice 2, General Motors Corporation; Grant of Application for  Decision of Inconsequential Noncompliance",
+          "postedDate": "1998-12-18T05:00:00Z",
+          "docketId": "NHTSA-1998-3813",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480322cba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3813-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0031-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:15:23Z",
+          "highlightedContent": "",
+          "frDocNum": "70233",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-02-17T04:59:59Z",
+          "title": "Temporary Suspension of Toxicity Characteristic Rule for Specified Lead-Based Paint Debris [F-1998-LPDP-FFFFF]",
+          "postedDate": "1998-12-18T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0031",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1998-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ddcb9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0031-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-4895-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-12-19T04:59:59Z",
+          "title": "Safety Zones, Security Zones, and Special Local Regularitions - Notice of temporary rules issued",
+          "postedDate": "1998-12-18T05:00:00Z",
+          "docketId": "USCG-1998-4895",
+          "subtype": null,
+          "commentStartDate": "1998-12-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480328bd0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4895-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 18,
+            "label": "Other"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-12-18",
+          "toDate": "1998-12-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

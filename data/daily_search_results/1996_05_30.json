@@ -1,0 +1,191 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1996-1805-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:14:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1996-07-16T03:59:59Z",
+          "title": "DOT/NHTSA/NRM-12  -  FINAL RULE",
+          "postedDate": "1996-05-30T04:00:00Z",
+          "docketId": "NHTSA-1996-1805",
+          "subtype": "Final Rule",
+          "commentStartDate": "1996-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480314c61"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1996-1805-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1996-0071-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:23:52Z",
+          "highlightedContent": "",
+          "frDocNum": "27038",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "HAZARDOUS WASTE COMBUSTORS; REVISED STANDARDS; PROPOSED RULE, EXTENSION OF COMMENT PERIOD",
+          "postedDate": "1996-05-30T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1996-0071",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dcba1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1996-0071-0001"
+        }
+      },
+      {
+        "id": "MARAD-1996-1418-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-18T17:14:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "1995-11-02T04:59:59Z",
+          "title": "NOTICE OF APPLICATION FOR PAYMENT OF UNUSED OPERATING-DIFFERENTIAL SUBSIDY",
+          "postedDate": "1996-05-30T04:00:00Z",
+          "docketId": "MARAD-1996-1418",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1996-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480385553"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-1996-1418-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 7,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-05-30",
+          "toDate": "1996-05-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

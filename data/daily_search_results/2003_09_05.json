@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OPP-2003-0284-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:06:28Z",
+          "highlightedContent": "",
+          "frDocNum": "52695",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Propylene Carbonate; Exemption from the Requirement of a Tolerance",
+          "postedDate": "2003-09-05T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2003-0284",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800b8578"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2003-0284-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2003-15892-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:07:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-09-06T03:59:59Z",
+          "title": "Notice of Applications for Exemption from the Vision Standard; Request for Comments",
+          "postedDate": "2003-09-05T04:00:00Z",
+          "docketId": "FMCSA-2003-15892",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3e58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2003-15892-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2003-15024-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-09-06T03:59:59Z",
+          "title": "Notice",
+          "postedDate": "2003-09-05T04:00:00Z",
+          "docketId": "FMCSA-2003-15024",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480312439"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2003-15024-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 63,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 48,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-09-05",
+          "toDate": "2003-09-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2000-7146-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2000-04-05T03:59:59Z",
+          "title": "Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel A QUIT-ALL",
+          "postedDate": "2000-04-03T04:00:00Z",
+          "docketId": "MARAD-2000-7146",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-04-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803391cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2000-7146-0001"
+        }
+      },
+      {
+        "id": "NRC-1999-0026-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:10:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "List of Approved Spent Fuel Storage Casks; Revision, NUHOMS-24P and NUHOMS-52B; Correction",
+          "postedDate": "2000-04-03T13:56:06Z",
+          "docketId": "NRC-1999-0026",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480917f77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-1999-0026-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 35,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-04-03",
+          "toDate": "2000-04-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

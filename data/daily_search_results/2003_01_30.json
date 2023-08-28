@@ -1,0 +1,264 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-R08-OAR-2006-0017-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-06-19T21:13:33Z",
+          "highlightedContent": "",
+          "frDocNum": "03-27269",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Notice. Proposed Rule. Approval and Promulgation of Air Quality Implementation Plans; Montana; Maintenance of Air Pollution Control Equipment for Existing Aluminum Plants.",
+          "postedDate": "2003-01-30T16:08:28Z",
+          "docketId": "EPA-R08-OAR-2006-0017",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648011519d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2006-0017-0001"
+        }
+      },
+      {
+        "id": "RITA-BTS-2003-14317-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "RITA",
+          "commentEndDate": "2003-01-31T04:59:59Z",
+          "title": "U.S. DOT/BTS - Final Rule",
+          "postedDate": "2003-01-30T05:00:00Z",
+          "docketId": "RITA-BTS-2003-14317",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030e95c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RITA-BTS-2003-14317-0001"
+        }
+      },
+      {
+        "id": "MARAD-2003-14370-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:03:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2003-01-31T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice and Request for Comments",
+          "postedDate": "2003-01-30T05:00:00Z",
+          "docketId": "MARAD-2003-14370",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030ef82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2003-14370-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-14010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-01-31T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2003-01-30T05:00:00Z",
+          "docketId": "FAA-2002-14010",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030d208"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-14010-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-13994-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-01-31T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2003-01-30T05:00:00Z",
+          "docketId": "FAA-2002-13994",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030d0b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13994-0001"
+        }
+      },
+      {
+        "id": "FHWA-1999-4968-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2003-01-31T04:59:59Z",
+          "title": "Notice of Public Informational Meeting",
+          "postedDate": "2003-01-30T05:00:00Z",
+          "docketId": "FHWA-1999-4968",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-01-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032939b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-4968-0012"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 57,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "RITA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-01-30",
+          "toDate": "2003-01-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

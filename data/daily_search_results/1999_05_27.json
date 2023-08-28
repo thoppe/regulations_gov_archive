@@ -1,0 +1,175 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-1998-4029-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:24:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-05-28T03:59:59Z",
+          "title": "U.S.DOT/RSPA - Notice of Public Meeting",
+          "postedDate": "1999-05-27T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4029",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-05-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323f2e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4029-0005"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4008-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-05-28T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Grant of Application for a Decision of Inconsequential Noncompliance With Federal Motor Vehicle Safety Standard 108--Lamps, Reflective Devices and Associated Equipment",
+          "postedDate": "1999-05-27T04:00:00Z",
+          "docketId": "NHTSA-1998-4008",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-05-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323db8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4008-0005"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1999-5442-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:21:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-05-28T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Chevron Pipe Line Company; Petition for Waiver - Notice",
+          "postedDate": "1999-05-27T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-5442",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-05-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032bce9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-5442-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 36,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-05-27",
+          "toDate": "1999-05-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

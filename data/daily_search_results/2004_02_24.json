@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2004-17174-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-03-02T04:59:59Z",
+          "title": "Notice of Intent to Prepare Environmental Assessments and Notice of Initiation of Public Scoping (Original)",
+          "postedDate": "2004-02-24T05:00:00Z",
+          "docketId": "FAA-2004-17174",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031bc4f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-17174-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2003-0004-0161",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:23:37Z",
+          "highlightedContent": "",
+          "frDocNum": "8353",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-04-10T03:59:59Z",
+          "title": "Hazardous Waste Management System: Identification and Listing of Hazardous Waste: Conditional Exclusions From Hazardous Waste and Solid Waste for Solvent-Contaminated Industrial Wipes; Notice of Public Hearing and Extension of Comment Period",
+          "postedDate": "2004-02-24T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2003-0004",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-02-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e17fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2003-0004-0161"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 108,
+            "label": "Other"
+          },
+          {
+            "docCount": 83,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 20,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-02-24",
+          "toDate": "2004-02-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

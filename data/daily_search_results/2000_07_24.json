@@ -1,0 +1,202 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2004-0473-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:20:01Z",
+          "highlightedContent": "",
+          "frDocNum": "45526",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Additional Flexibility Amendments to Vehicle Inspection Maintenance Program Requirements; Amendment to the Final Rule [A-99-19]",
+          "postedDate": "2000-07-24T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0473",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800beade"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0473-0002"
+        }
+      },
+      {
+        "id": "DOT-OST-1997-2881-0128",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:29:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-10-24T03:59:59Z",
+          "title": "U.S. DOT/OST - Supplemental Advance Notice of Proposed Rulemaking",
+          "postedDate": "2000-07-24T04:00:00Z",
+          "docketId": "DOT-OST-1997-2881",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031ca0c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1997-2881-0128"
+        }
+      },
+      {
+        "id": "DOT-OST-1997-3014-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:26:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-10-24T03:59:59Z",
+          "title": "U.S. DOT/OST - Supplemental Advance Notice of Proposed Rulemaking",
+          "postedDate": "2000-07-24T04:00:00Z",
+          "docketId": "DOT-OST-1997-3014",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031d9e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1997-3014-0003"
+        }
+      },
+      {
+        "id": "DOT-OST-1998-4775-0048",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:24:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-10-24T03:59:59Z",
+          "title": "U.S. DOT/OST - Supplemental Advance Notice of Proposed Rulemaking",
+          "postedDate": "2000-07-24T04:00:00Z",
+          "docketId": "DOT-OST-1998-4775",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032816c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1998-4775-0048"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 58,
+            "label": "Other"
+          },
+          {
+            "docCount": 58,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-07-24",
+          "toDate": "2000-07-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-2005-20434-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:22:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2005-02-24T04:59:59Z",
+          "title": "U.S. DOT/OST - Notice of Intent to Form a Negotiated Rulemaking Advisory Committee",
+          "postedDate": "2005-02-23T05:00:00Z",
+          "docketId": "DOT-OST-2005-20434",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032915c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2005-20434-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0049-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:10:15Z",
+          "highlightedContent": "",
+          "frDocNum": "32103",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Volatile Organic Compound Emission Standards for Architectural Coatings - Correction",
+          "postedDate": "2005-02-23T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0049",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bfe88"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0049-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0063-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:11:44Z",
+          "highlightedContent": "",
+          "frDocNum": "8753",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-03-26T04:59:59Z",
+          "title": "Protection  of Stratospheric Ozone: Supplemental Proposal for the Allocation of Essential Allowances for Calendar Year 2005",
+          "postedDate": "2005-02-23T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0063",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800c1f8e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0063-0013"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-16560-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:21:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2005-02-24T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Final Rule",
+          "postedDate": "2005-02-23T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-16560",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480318fbb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-16560-0040"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2005-TX-0001-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:14:35Z",
+          "highlightedContent": "",
+          "frDocNum": "8878",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "TX007.11 Correction published February 23, 2005 (70 FR 8878) to Direct Final Rule published February 10, 2005 (70 FR 7041).",
+          "postedDate": "2005-02-23T05:00:00Z",
+          "docketId": "EPA-R06-OAR-2005-TX-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a8ea8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2005-TX-0001-0011"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-06-03T01:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "8753",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-04-26T03:59:59Z",
+          "title": "Prevention of Significant Deterioration for Nitrogen Oxides",
+          "postedDate": "2005-02-23T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0013",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800be113"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0013-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 89,
+            "label": "Other"
+          },
+          {
+            "docCount": 37,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-02-23",
+          "toDate": "2005-02-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

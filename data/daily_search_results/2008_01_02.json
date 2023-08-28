@@ -1,0 +1,998 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2008-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2008-01-03T00:00:00Z",
+          "docketId": "FAA-2008-0007",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480381d58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0007-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2007-1074-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-02-01T12:08:06Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25100",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-02-02T04:59:59Z",
+          "title": "Revisions to the California State Implementation Plan, Monterey Bay Unified Air Pollution Control District and San Joaquin Valley Air Pollution Control District",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2007-1074",
+          "subtype": null,
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648038159a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2007-1074-0002"
+        }
+      },
+      {
+        "id": "USCG-2007-0180-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25491",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2008-03-04T04:59:59Z",
+          "title": "Information Collection Request to Office of Management and Budget; OMB Control numbers: 1625-0001, 1625-0013, and 1625-0096",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "USCG-2007-0180",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2007-0180-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2002-0002-0087",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:09:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25240",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Regulation of Oil-Bearing Hazardous Secondary Materials From the Petroleum Refining Industry Processed in a Gasification System To Produce Synthesis Gas",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2002-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815b8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2002-0002-0087"
+        }
+      },
+      {
+        "id": "ODNI-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-02-11T12:07:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25331",
+          "withdrawn": false,
+          "agencyId": "ODNI",
+          "commentEndDate": "2008-02-12T04:59:59Z",
+          "title": "Privacy Act Regulations",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ODNI-2008-0001-0001"
+        }
+      },
+      {
+        "id": "FHWA-2007-28977-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:23:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24863",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2008-08-01T03:59:59Z",
+          "title": "National Standards for Traffic Control Devices; the Manual on Uniform Traffic Control Devices for Streets and Highways; Revision",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FHWA-2007-28977",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815f0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2007-28977-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:07:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25535",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2008-02-02T04:59:59Z",
+          "title": "Pacific Halibut Fisheries; Catch Sharing Plan",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0001",
+          "subtype": null,
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-0732-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T12:10:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25396",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-03-04T04:59:59Z",
+          "title": "Trifloxystrobin; Pesticide Tolerance",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2006-0732",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-0732-0003"
+        }
+      },
+      {
+        "id": "FAA-2007-0218-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25456",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-03-04T04:59:59Z",
+          "title": "Airworthiness Directives; Lycoming Engines, Fuel Injected Reciprocating Engines",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FAA-2007-0218",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648038156c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0218-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-28688-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:13:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25389",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Bell Helicopter Textron Canada Model 430 Helicopters",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FAA-2007-28688",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28688-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-24145-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25458",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-02-20T04:59:59Z",
+          "title": "Airworthiness Directives; General Electric Company CF6-45 and CF6-50 Series Turbofan Engines",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FAA-2006-24145",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24145-0012"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2007-1074-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-01T12:08:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25103",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-02-02T04:59:59Z",
+          "title": "Revisions to the California State Implementation Plan, Monterey Bay Unified Air Pollution Control District and San Joaquin Valley Air Pollution Control District",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2007-1074",
+          "subtype": null,
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815a1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2007-1074-0001"
+        }
+      },
+      {
+        "id": "USCG-2007-0146-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25495",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Milhomme Bayou, Stephensville, LA",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "USCG-2007-0146",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2007-0146-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T20:30:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions; Adam Aircraft Industries Model A700; External Fuel Tank Protection During Gear-Up or Emergency Landing",
+          "postedDate": "2008-01-03T00:00:00Z",
+          "docketId": "FAA-2008-0010",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480381dce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0010-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-0766-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-11-09T15:12:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25280",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerance Crop Grouping Program; Technical Amendment",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2006-0766",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-0766-0019"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-15852-0071",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25433",
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": null,
+          "title": "Pipeline Safety: Workshop on Public Awareness Programs for Pipeline Operators and Location of Line Markers",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-15852",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480381575"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-15852-0071"
+        }
+      },
+      {
+        "id": "FMCSA-2001-9561-0029",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25489",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Qualification of Drivers; Exemption Renewals; Vision",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FMCSA-2001-9561",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480381580"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2001-9561-0029"
+        }
+      },
+      {
+        "id": "NRC-2008-0121-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:15:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25439",
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "List of Approved Spent Fuel Storage Casks:  HI-STORM 100 Revision 4, Confirmation of Effective Date",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "NRC-2008-0121",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480381593"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2008-0121-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0389-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:13:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25482",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-02-20T04:59:59Z",
+          "title": "Airworthiness Directives; Various Transport Category Airplanes Equipped With Auxiliary Fuel Tanks Installed in Accordance With Certain Supplemental Type Certificates",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FAA-2007-0389",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0389-0001"
+        }
+      },
+      {
+        "id": "USCG-2007-0093-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25496",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2008-02-01T04:59:59Z",
+          "title": "Security Zone; Kahului Harbor, Maui, HI",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "USCG-2007-0093",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815fe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2007-0093-0006"
+        }
+      },
+      {
+        "id": "FMCSA-1999-5578-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-05T15:16:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25490",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Qualification of Drivers; Exemption Renewals; Vision",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FMCSA-1999-5578",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1999-5578-0040"
+        }
+      },
+      {
+        "id": "FMCSA-1999-5748-0053",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:56Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25490",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Qualification of Drivers; Exemption Renewals; Vision",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FMCSA-1999-5748",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648038171a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1999-5748-0053"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2006-0359-0057",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:02:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24836",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants for Iron and Steel Foundries Area Sources",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2006-0359",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803815d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2006-0359-0057"
+        }
+      },
+      {
+        "id": "DOI-2008-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:09:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25484",
+          "withdrawn": false,
+          "agencyId": "DOI",
+          "commentEndDate": "2008-03-04T04:59:59Z",
+          "title": "Implementation of the National Environmental Policy Act (NEPA) of 1969",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "DOI-2008-0002",
+          "subtype": null,
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480381597"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOI-2008-0002-0001"
+        }
+      },
+      {
+        "id": "BIS-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:27:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25423",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Revisions and Technical Corrections to the Export Administration Regulations and the Defense Priorities and Allocations System Regulation",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "BIS-2008-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803815c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2008-0001-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2005-21711-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:58Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25490",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Qualification of Drivers; Exemption Renewals; Vision",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FMCSA-2005-21711",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648038172f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2005-21711-0011"
+        }
+      },
+      {
+        "id": "FMCSA-2005-22194-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25489",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": null,
+          "title": "Qualification of Drivers; Exemption Renewals; Vision",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FMCSA-2005-22194",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480381708"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2005-22194-0009"
+        }
+      },
+      {
+        "id": "USDA_FRDOC_0001-0165",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25388",
+          "withdrawn": false,
+          "agencyId": "USDA",
+          "commentEndDate": null,
+          "title": "Debt Management",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "USDA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USDA_FRDOC_0001-0165"
+        }
+      },
+      {
+        "id": "OTS-2007-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-25T21:36:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25000",
+          "withdrawn": false,
+          "agencyId": "OTS",
+          "commentEndDate": null,
+          "title": "Technical Amendments",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "OTS-2007-0025",
+          "subtype": "Final Rule",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OTS-2007-0025-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-28348-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:13:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25477",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-01-29T04:59:59Z",
+          "title": "Airworthiness Directives; Boeing Model 737-600, -700, -700C, -800 and -900 Series Airplanes",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FAA-2007-28348",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480381561"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28348-0008"
+        }
+      },
+      {
+        "id": "FMCSA-2007-0056-0034",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25468",
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2008-01-26T04:59:59Z",
+          "title": "Hours of Service of Drivers: Dart Transit Company Application for Exemption",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FMCSA-2007-0056",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648038156e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2007-0056-0034"
+        }
+      },
+      {
+        "id": "FAA-2007-0037-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25457",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-02-02T04:59:59Z",
+          "title": "Airworthiness Directives; Rolls-Royce Deutschland Ltd. and Co. KG. (RRD) TAY 650-15 Turbofan Engines",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FAA-2007-0037",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648038157e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0037-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0372-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2013-07-27T20:29:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25481",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-02-02T04:59:59Z",
+          "title": "Airworthiness Directives; Construcciones Aeronauticas, S.A., (CASA) Model C-212 Airplanes",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FAA-2007-0372",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480381595"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0372-0001"
+        }
+      },
+      {
+        "id": "FERC-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25121",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Standards for Business Practices for Interstate Natural Gas Pipelines; Standards for Business Practices for Public Utilities",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648038159f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2008-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25467",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: Boeing Model 787-8 Airplane; Systems and Data Networks Security--Isolation or Protection From Unauthorized Passenger Domain Systems Access",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "FAA-2008-0001",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2008-0001-0001"
+        }
+      },
+      {
+        "id": "USCBP-2007-0077-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:05:24Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25306",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": "2008-03-19T03:59:59Z",
+          "title": "Importer Security Filing and Additional Carrier Requirements",
+          "postedDate": "2008-01-02T05:00:00Z",
+          "docketId": "USCBP-2007-0077",
+          "subtype": null,
+          "commentStartDate": "2008-01-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803815bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2007-0077-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 179,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 41,
+            "label": "Other"
+          },
+          {
+            "docCount": 31,
+            "label": "Rule"
+          },
+          {
+            "docCount": 26,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 19,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 36,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 10,
+            "value": "FAA"
+          },
+          {
+            "docCount": 6,
+            "value": "EPA"
+          },
+          {
+            "docCount": 6,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOI"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "ODNI"
+          },
+          {
+            "docCount": 1,
+            "value": "OTS"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "USDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2008-01-02",
+          "toDate": "2008-01-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 36,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 36,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-1998-3637-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:09:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1998-10-10T03:59:59Z",
+          "title": "Notice of Final Disposition",
+          "postedDate": "1998-10-09T04:00:00Z",
+          "docketId": "FMCSA-1998-3637",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-10-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a568e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3637-0008"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0061-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:20:30Z",
+          "highlightedContent": "",
+          "frDocNum": "54356",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Technical Amendments to Hazardous Waste Management System; Identification and Listing of Hazardous Waste; Petroleum Refining Process Wastes; Land Disposal Restrictions for Newly Identified Wastes; and CERCLA Hazardous Substances Designation and Reportable Quantities; Correction of Effective Date Under Congressional Review Act (CRA)",
+          "postedDate": "1998-10-09T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0061",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800ded81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0061-0001"
+        }
+      },
+      {
+        "id": "FHWA-1998-4262-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1998-10-14T03:59:59Z",
+          "title": "Transportation Equity Act for the 21st Century; Implementation Procedures for the Approval and Administration of Projects To Reduce the Evasion of Motor Fuel and Other Highway Use Taxes - Notice; Request for Comments",
+          "postedDate": "1998-10-09T04:00:00Z",
+          "docketId": "FHWA-1998-4262",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-10-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803249f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1998-4262-0001"
+        }
+      },
+      {
+        "id": "FMCSA-1998-3414-0027",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1998-10-14T03:59:59Z",
+          "title": "Out-of-Service Criteria; Extension of Comment Period - Re-Opening  of Docket; Request for Comments",
+          "postedDate": "1998-10-09T04:00:00Z",
+          "docketId": "FMCSA-1998-3414",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-10-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031ffde"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3414-0027"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 57,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-10-09",
+          "toDate": "1998-10-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

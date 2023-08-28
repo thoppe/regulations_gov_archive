@@ -1,0 +1,202 @@
+[
+  {
+    "data": [
+      {
+        "id": "FTA-2001-9446-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2001-04-21T03:59:59Z",
+          "title": "U.S. DOT/FTA - Notice of Request for Comments",
+          "postedDate": "2001-04-20T04:00:00Z",
+          "docketId": "FTA-2001-9446",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480342fe9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2001-9446-0001"
+        }
+      },
+      {
+        "id": "FMCSA-1997-2341-0026",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:42:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1996-06-25T03:59:59Z",
+          "title": "Parts and Accessories Necessary for Safe Operation; Manufactured Home Tires",
+          "postedDate": "2001-04-20T04:00:00Z",
+          "docketId": "FMCSA-1997-2341",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480318b9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2341-0026"
+        }
+      },
+      {
+        "id": "NHTSA-2001-9430-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:06:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-04-21T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Bajaj Auto, Ltd.; Receipt of Application for Temporary Exemption From Federal Motor Vehicle Safety Standard No. 123",
+          "postedDate": "2001-04-20T04:00:00Z",
+          "docketId": "NHTSA-2001-9430",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480342f14"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-9430-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2001-9440-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-04-21T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule; Delay of Effective Date",
+          "postedDate": "2001-04-20T04:00:00Z",
+          "docketId": "NHTSA-2001-9440",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480342f95"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-9440-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 115,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-04-20",
+          "toDate": "2001-04-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

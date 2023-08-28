@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2001-0003-0034",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:11:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2001-08-14T03:59:59Z",
+          "title": "Federal Register Notice - Decommissioning Trust Provisions",
+          "postedDate": "2001-05-30T19:39:28Z",
+          "docketId": "NRC-2001-0003",
+          "subtype": null,
+          "commentStartDate": "2001-05-30T19:39:28Z",
+          "openForComment": false,
+          "objectId": "0900006480632c87"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2001-0003-0034"
+        }
+      },
+      {
+        "id": "FAA-2001-8994-0099",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-05-31T03:59:59Z",
+          "title": "U.S. DOT/FAA - Disposition of Comments on Final Rule",
+          "postedDate": "2001-05-30T04:00:00Z",
+          "docketId": "FAA-2001-8994",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480341199"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8994-0099"
+        }
+      },
+      {
+        "id": "NRC-2000-0016-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:17:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Denial of Petition for Rulemaking",
+          "postedDate": "2001-05-30T18:11:52Z",
+          "docketId": "NRC-2000-0016",
+          "subtype": "Denial of PRM",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480651a7a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0016-0005"
+        }
+      },
+      {
+        "id": "NRC-2001-0004-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:11:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2001-08-14T03:59:59Z",
+          "title": "Federal Register Notice - Material Control and Accounting Amendments",
+          "postedDate": "2001-05-30T18:56:27Z",
+          "docketId": "NRC-2001-0004",
+          "subtype": null,
+          "commentStartDate": "2001-05-30T18:56:27Z",
+          "openForComment": false,
+          "objectId": "0900006480632aad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2001-0004-0004"
+        }
+      },
+      {
+        "id": "FAA-2001-8994-0114",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-06-02T03:59:59Z",
+          "title": "U.S. DOT/FAA - Disposition of Comments on Final Rule (Original)",
+          "postedDate": "2001-05-30T04:00:00Z",
+          "docketId": "FAA-2001-8994",
+          "subtype": "Final Rule",
+          "commentStartDate": "2001-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480341111"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8994-0114"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2000-8026-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-07-07T01:01:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2001-05-31T03:59:59Z",
+          "title": "Notice Extending Rebuttal Period for Public Comment",
+          "postedDate": "2001-05-30T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2000-8026",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480342411"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2000-8026-0018"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 62,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Denial of PRM"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "NRC"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-05-30",
+          "toDate": "2001-05-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

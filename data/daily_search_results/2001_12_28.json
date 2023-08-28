@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2001-11135-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-12-29T04:59:59Z",
+          "title": "Secretary of State's Advisory Committee on Private International  Law; Study Group on International Carriage of Goods by Sea; Meeting Notice",
+          "postedDate": "2001-12-28T05:00:00Z",
+          "docketId": "MARAD-2001-11135",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480303995"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-11135-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2002-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:12:55Z",
+          "highlightedContent": "",
+          "frDocNum": "67152",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2002-01-29T04:59:59Z",
+          "title": "Project XL Site-Specific Rulemaking for Implementing Waste Treatment Systems at Two Virginia Landfills",
+          "postedDate": "2001-12-28T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2002-0026",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2001-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e06c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2002-0026-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0367-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:15:11Z",
+          "highlightedContent": "",
+          "frDocNum": "67098",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Regulation of Fuels and Fuel Additives: Modifications to Standards and Requirements for Reformulated and Conventional Gasoline",
+          "postedDate": "2001-12-28T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0367",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bdfc2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0367-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1998-20-0239",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-06-14T18:47:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2001-12-29T04:59:59Z",
+          "title": "U.S. DOT/BTS - Notice",
+          "postedDate": "2001-12-28T05:00:00Z",
+          "docketId": "DOT-OST-1998-20",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a0e79"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1998-20-0239"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 23,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-12-28",
+          "toDate": "2001-12-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

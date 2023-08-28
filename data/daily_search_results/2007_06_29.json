@@ -1,0 +1,734 @@
+[
+  {
+    "data": [
+      {
+        "id": "FEMA-2007-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:28Z",
+          "highlightedContent": "",
+          "frDocNum": "02\u201304321",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": "2002-04-30T03:59:59Z",
+          "title": "Hazard Mitigation Planning and Hazard Mitigation Grant Program",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FEMA-2007-0004",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025acd6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2007-0004-0001"
+        }
+      },
+      {
+        "id": "FEMA-2007-0004-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:27Z",
+          "highlightedContent": "",
+          "frDocNum": "02\u201324998",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": "2002-12-03T04:59:59Z",
+          "title": "Hazard Mitigation Planning and Hazard Mitigation Grant Program",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FEMA-2007-0004",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025acd8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2007-0004-0003"
+        }
+      },
+      {
+        "id": "FAA-2007-27508-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-06-30T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FAA-2007-27508",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b500b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27508-0010"
+        }
+      },
+      {
+        "id": "FERC-2007-1155-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T22:01:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12557",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2007-07-31T03:59:59Z",
+          "title": "Revisions to Landowner Notification and Blanket Certificate Regulations",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025aae5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2007-1155-0001"
+        }
+      },
+      {
+        "id": "USPS-2007-0034-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-06-29T11:12:38Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12491",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Rules of Practice Before the Board of Contract Appeals",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ab57"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2007-0034-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-24978-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:28:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-06-30T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FAA-2006-24978",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7f40"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24978-0012"
+        }
+      },
+      {
+        "id": "FAA-2007-27302-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-06-30T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FAA-2007-27302",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1f9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27302-0007"
+        }
+      },
+      {
+        "id": "NOAA-2007-0151-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12660",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Economic Exclusive Zone Off Alaska; Deep-water Species Fishery by Catcher Processor Rockfish Cooperatives in the Gulf of Alaska",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "NOAA-2007-0151",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025aa8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0151-0017"
+        }
+      },
+      {
+        "id": "FEMA-2007-0004-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:28Z",
+          "highlightedContent": "",
+          "frDocNum": "04\u201320609",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": "2004-11-13T04:59:59Z",
+          "title": "Hazard Mitigation Planning and Hazard Mitigation Grant Program",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FEMA-2007-0004",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ad5a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2007-0004-0004"
+        }
+      },
+      {
+        "id": "IRS-2008-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:33:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12590",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Guidance Necessary to Facilitate Business Electronic Filing and Burden Reduction; Correction",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "IRS-2008-0030",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ab59"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0030-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-01-18T17:22:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12384",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "United States Standards for Grades of Table Grapes (European or Vinifera Type)",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "AMS-FV-07-0002",
+          "subtype": "N/A",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ab06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0002-0001"
+        }
+      },
+      {
+        "id": "CMS-2007-0110-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:25:07Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03196",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2007-08-28T03:59:59Z",
+          "title": "Establishment of Revisit User Fee Program for Medicare Survey and Certification Activities",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "CMS-2007-0110",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025aa81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2007-0110-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2002-0043-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:14:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12645",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticide Tolerance Nomenclature Changes; Technical Amendment",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2002-0043",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025aac7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2002-0043-0011"
+        }
+      },
+      {
+        "id": "FERC-2007-1159-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:57:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12553",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Issued June 22, 2007.",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ab25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2007-1159-0001"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0173",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:49:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12656",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": null,
+          "title": "Award Fee Administrative Changes",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ab6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0173"
+        }
+      },
+      {
+        "id": "MSHA-2007-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-06-29T18:46:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12578",
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": null,
+          "title": "OMB Control Numbers Under the Paperwork Reduction Act",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "MSHA-2007-0004",
+          "subtype": "Corrections/Technical Amendments",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ab9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2007-0004-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2007-28055-1964",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:05:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2007-06-30T03:59:59Z",
+          "title": "Manuscript of Future Federal Register Notice Extending Comment Period for the Demonstration Project on NAFTA Trucking Provisions, Issued June 28, 2007",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FMCSA-2007-28055",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802d0e02"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2007-28055-1964"
+        }
+      },
+      {
+        "id": "FAA-2007-27723-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-06-30T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FAA-2007-27723",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b04c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27723-0007"
+        }
+      },
+      {
+        "id": "FEMA-2007-0004-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:22:29Z",
+          "highlightedContent": "",
+          "frDocNum": "03\u201327140",
+          "withdrawn": false,
+          "agencyId": "FEMA",
+          "commentEndDate": "2003-12-30T04:59:59Z",
+          "title": "Hazard Mitigation Planning and Hazard Mitigation Grant Program",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "FEMA-2007-0004",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025acd7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEMA-2007-0004-0002"
+        }
+      },
+      {
+        "id": "NOAA-2007-0472-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:41:09Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03117",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2007-07-31T03:59:59Z",
+          "title": "Pacific Halibut Fisheries; Bering Sea and Aleutian Islands King and Tanner Crab Fisheries; Groundfish Fisheries of the Exclusive Economic Zone Off Alaska; Individual Fishing Quota Program; Western Alaska Community Development Quota Program; Recordkeeping and Reporting; Permits",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "NOAA-2007-0472",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025aae0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0472-0001"
+        }
+      },
+      {
+        "id": "ETA-2007-0016-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:22:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12541",
+          "withdrawn": false,
+          "agencyId": "ETA",
+          "commentEndDate": "2007-08-29T03:59:59Z",
+          "title": "Senior Community Service Employment Program; Performance Accountability",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "ETA-2007-0016",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ab04"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ETA-2007-0016-0001"
+        }
+      },
+      {
+        "id": "VA-2007-VBA-0017-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:22:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12589",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "Veterans and Dependents Education: Topping-Up Tuition Assistance; Licensing and Certification Tests; Duty To Assist Education Claimants; Correction",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "VA-2007-VBA-0017",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648025ab64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2007-VBA-0017-0002"
+        }
+      },
+      {
+        "id": "USCBP-2007-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:05:19Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03153",
+          "withdrawn": false,
+          "agencyId": "USCBP",
+          "commentEndDate": "2007-08-29T03:59:59Z",
+          "title": "United States-Morocco Free Trade Agreement",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "USCBP-2007-0056",
+          "subtype": null,
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025aba6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCBP-2007-0056-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-03T21:03:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12587",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Employer Comparable Contributions to Health Savings Accounts Under Section 4980G; Correction",
+          "postedDate": "2007-06-29T04:00:00Z",
+          "docketId": "IRS-2007-0052",
+          "subtype": "NPRM",
+          "commentStartDate": "2007-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648025ab9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0052-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 58,
+            "label": "Notice"
+          },
+          {
+            "docCount": 43,
+            "label": "Other"
+          },
+          {
+            "docCount": 20,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Corrections/Technical Amendments"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "FEMA"
+          },
+          {
+            "docCount": 2,
+            "value": "FERC"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "ETA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCBP"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "VA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-06-29",
+          "toDate": "2007-06-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

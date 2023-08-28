@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1996-0051-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:48Z",
+          "highlightedContent": "",
+          "frDocNum": "43924",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "EMERGENCY REVISION OF THE LAND DISPOSAL RESTRICTIONS (LDR) PHASE III TREATMENT STANDARDS FOR LISTED HAZARDOUS WASTES FROM CARBAMATE PRODUCTION; IMMEDIATE FINAL RULE",
+          "postedDate": "1996-08-26T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1996-0051",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dadb7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1996-0051-0001"
+        }
+      },
+      {
+        "id": "FMCSA-1997-2349-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-10-27T15:07:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1996-10-26T03:59:59Z",
+          "title": "Motor Carrier Replacement Information/Registration System - Advanced Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "1996-08-26T04:00:00Z",
+          "docketId": "FMCSA-1997-2349",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "1996-08-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a35e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2349-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Other"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-08-26",
+          "toDate": "1996-08-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

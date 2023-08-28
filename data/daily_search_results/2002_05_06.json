@@ -1,0 +1,241 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2002-12199-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-05-07T03:59:59Z",
+          "title": "Final Rule; Request for Comments",
+          "postedDate": "2002-05-06T04:00:00Z",
+          "docketId": "FAA-2002-12199",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030600c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-12199-0001"
+        }
+      },
+      {
+        "id": "FAA-2000-7018-0126",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:27:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-05-07T03:59:59Z",
+          "title": "Notice of Inquiry and Request for Comment",
+          "postedDate": "2002-05-06T04:00:00Z",
+          "docketId": "FAA-2000-7018",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ab68d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7018-0126"
+        }
+      },
+      {
+        "id": "NRC-2001-0030-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:12:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Debt Collection Procedures",
+          "postedDate": "2002-05-06T19:20:58Z",
+          "docketId": "NRC-2001-0030",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064807d93a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2001-0030-0002"
+        }
+      },
+      {
+        "id": "DOT-OST-2002-12200-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:25:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2002-05-07T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2002-05-06T04:00:00Z",
+          "docketId": "DOT-OST-2002-12200",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480306014"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2002-12200-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0076-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-01-08T02:01:39Z",
+          "highlightedContent": "",
+          "frDocNum": "30418",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2002-07-06T03:59:59Z",
+          "title": "Proposed Revisions to Regional Haze Rule to Incorporate Sulfur Dioxide Milestones and Backstop Emissions Trading Program for Nine Western States and Eligible Indian Tribes Within that Geographic Area [A-2000-51-III-A-1]",
+          "postedDate": "2002-05-06T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0076",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2002-05-06T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800b890b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0076-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 66,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-05-06",
+          "toDate": "2002-05-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

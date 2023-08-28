@@ -1,0 +1,386 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2001-10982-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Request for Applications",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "USCG-2001-10982",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480303222"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10982-0001"
+        }
+      },
+      {
+        "id": "FAA-2001-10362-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Notice of Petitions for Exemption Received",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-10362",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480301b75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10362-0002"
+        }
+      },
+      {
+        "id": "FAA-2001-10796-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Nootice of Disposition of Prior Petitions",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-10796",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803029ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10796-0003"
+        }
+      },
+      {
+        "id": "FAA-2001-10469-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-10469",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480301f3b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10469-0003"
+        }
+      },
+      {
+        "id": "FAA-2001-10733-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-10733",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480302774"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10733-0003"
+        }
+      },
+      {
+        "id": "FAA-2001-10415-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-10415",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480301d96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10415-0003"
+        }
+      },
+      {
+        "id": "FAA-2000-7952-0054",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Final Rule; Delay of Effective Date",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2000-7952",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c8206"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7952-0054"
+        }
+      },
+      {
+        "id": "FAA-2001-9687-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-9687",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480344207"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-9687-0007"
+        }
+      },
+      {
+        "id": "FAA-2001-10263-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-10263",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480301749"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10263-0004"
+        }
+      },
+      {
+        "id": "FAA-2001-10480-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-10480",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480301f7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10480-0006"
+        }
+      },
+      {
+        "id": "FAA-2000-7952-0055",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final rule; Delay of Effective Date (Original)",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2000-7952",
+          "subtype": "Final Rule",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c8208"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7952-0055"
+        }
+      },
+      {
+        "id": "FAA-2001-10231-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-24T04:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-11-23T05:00:00Z",
+          "docketId": "FAA-2001-10231",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480301610"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10231-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 12,
+            "label": "Rule"
+          },
+          {
+            "docCount": 8,
+            "label": "Other"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 11,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 12,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-11-23",
+          "toDate": "2001-11-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 12,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 12,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

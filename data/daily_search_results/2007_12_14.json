@@ -1,0 +1,657 @@
+[
+  {
+    "data": [
+      {
+        "id": "IRS-2007-0144-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:33:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24114",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Notification Requirement for Tax-Exempt Entities Not Currently Required To File; Correction",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "IRS-2007-0144",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d7b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0144-0009"
+        }
+      },
+      {
+        "id": "NHTSA-2007-27133-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-12-15T18:00:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24282",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2008-01-15T04:59:59Z",
+          "title": "Highway Safety Programs; Proposed Amendments to Model Specifications for Screening; Devices To Measure Alcohol in Bodily Fluids",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "NHTSA-2007-27133",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379e00"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-27133-0001"
+        }
+      },
+      {
+        "id": "NRC-2006-0023-0078",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:19:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Sally Shaw; Denial of Petition for Rulemaking",
+          "postedDate": "2007-12-14T16:11:55Z",
+          "docketId": "NRC-2006-0023",
+          "subtype": "Denial of PRM",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648067d7c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2006-0023-0078"
+        }
+      },
+      {
+        "id": "NIGC-2007-0012-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-12-14T19:44:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": null,
+          "title": "Extension of Minimum Internal Control Standards for Class II Gaming, PRA",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "NIGC-2007-0012",
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379af5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC-2007-0012-0023"
+        }
+      },
+      {
+        "id": "NIGC-2007-0011-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-12-14T19:43:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NIGC",
+          "commentEndDate": null,
+          "title": "Extension of Definition for Electronic or Electromechanical Facsimile, PRA",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "NIGC-2007-0011",
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379a0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NIGC-2007-0011-0024"
+        }
+      },
+      {
+        "id": "OSHA-2007-0040-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T14:19:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24181",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2008-01-15T04:59:59Z",
+          "title": "Updating OSHA Standards Based on National Consensus Standards; Direct Final Rule",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "OSHA-2007-0040",
+          "subtype": "Direct Final",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379dd1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2007-0040-0003"
+        }
+      },
+      {
+        "id": "FRS-2007-0161-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-12-15T18:00:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24221",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Equal Credit Opportunity",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379dda"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2007-0161-0003"
+        }
+      },
+      {
+        "id": "FCC-2005-0125-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-14T12:09:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24280",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2008-01-15T04:59:59Z",
+          "title": "Rules and Regulations Implementing the Telephone Consumer Protection Act of 1991",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379de1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2005-0125-0004"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0018-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:24Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24203",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Sweet Cherries Grown in Designated Counties in Washington; Section 610 Review",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "AMS-FV-07-0018",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379de3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0018-0004"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2007-1155-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-14T12:07:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24243",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-01-15T04:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans; Revisions to the Nevada State Implementation Plan; Updated Statutory and Regulatory Provisions; Rescissions",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "EPA-R09-OAR-2007-1155",
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d42"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2007-1155-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-0890-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-02-12T12:09:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24164",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2008-02-13T04:59:59Z",
+          "title": "Clethodim; Pesticide Tolerances",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2006-0890",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d4a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-0890-0003"
+        }
+      },
+      {
+        "id": "IRS-2007-0144-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:33:03Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06044",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Notification Requirement for Tax-Exempt Entities Not Currently Required To File; Correction",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "IRS-2007-0144",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0144-0008"
+        }
+      },
+      {
+        "id": "FAA-2007-0294-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:51Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24216",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-01-15T04:59:59Z",
+          "title": "Airworthiness Directives; Piaggio Aero Industries S.p.A. Model P 180 Airplanes",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "FAA-2007-0294",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379db7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0294-0001"
+        }
+      },
+      {
+        "id": "USCG-2006-24196-0884",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:48Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24253",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Transportation Worker Identification Credential (TWIC); Enrollment Dates for the Ports of Peoria and Joliet, IL; Memphis, TN; and Buffalo, NY",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "USCG-2006-24196",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037a011"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2006-24196-0884"
+        }
+      },
+      {
+        "id": "EPA-R07-OAR-2007-0782-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:20:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24230",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans; Missouri; Clean Air Interstate Rule",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "EPA-R07-OAR-2007-0782",
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R07-OAR-2007-0782-0005"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0798-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:05:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24211",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2008-03-14T03:59:59Z",
+          "title": "Endangered and Threatened Species; Conservation of Threatened Elkhorn and Staghorn Corals",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0798",
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0798-0001"
+        }
+      },
+      {
+        "id": "FRS-2007-0163-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-12-15T18:00:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24222",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Truth in Lending",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d5b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2007-0163-0003"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0037",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-12-15T18:00:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24245",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Benefits Payable in Terminated Single-Employer Plans; Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing and Paying Benefits",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0037"
+        }
+      },
+      {
+        "id": "FAA-2007-0258-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24215",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2008-03-01T04:59:59Z",
+          "title": "Airworthiness Directives; Air Tractor, Inc. AT-400, AT-500, AT- 600, and AT-800 Series Airplanes",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "FAA-2007-0258",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379db0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0258-0003"
+        }
+      },
+      {
+        "id": "OSHA-2007-0040-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T14:19:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24182",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2008-01-15T04:59:59Z",
+          "title": "Updating OSHA Standards Based on National Consensus Standards; Notice of Proposed Rulemaking",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "OSHA-2007-0040",
+          "subtype": "NPRM",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379d68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2007-0040-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-28778-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:27Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06038",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment of Class E5 Airspace; Prairie Du Sac, WI",
+          "postedDate": "2007-12-14T05:00:00Z",
+          "docketId": "FAA-2007-28778",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480379dc0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28778-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 61,
+            "label": "Other"
+          },
+          {
+            "docCount": 42,
+            "label": "Notice"
+          },
+          {
+            "docCount": 37,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 16,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Denial of PRM"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 21,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FRS"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NIGC"
+          },
+          {
+            "docCount": 2,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-12-14",
+          "toDate": "2007-12-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 21,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 21,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

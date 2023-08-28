@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OA-2004-0004-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:41Z",
+          "highlightedContent": "",
+          "frDocNum": "62217",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-11-25T04:59:59Z",
+          "title": "National Environmental Performance Track Program; Corrections",
+          "postedDate": "2004-10-25T04:00:00Z",
+          "docketId": "EPA-HQ-OA-2004-0004",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ad745"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OA-2004-0004-0002"
+        }
+      },
+      {
+        "id": "RITA-BTS-2004-19380-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "RITA",
+          "commentEndDate": "2004-10-28T03:59:59Z",
+          "title": "U.S. DOT/BTS - Request for Public Comments",
+          "postedDate": "2004-10-25T04:00:00Z",
+          "docketId": "RITA-BTS-2004-19380",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032529a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RITA-BTS-2004-19380-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OA-2004-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-08-03T22:54:36Z",
+          "highlightedContent": "",
+          "frDocNum": "62237",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-11-25T04:59:59Z",
+          "title": "National Environmental Performance Track Program, Parallel Proposal to Direct Final Rule for RCRA Corrections",
+          "postedDate": "2004-10-25T04:00:00Z",
+          "docketId": "EPA-HQ-OA-2004-0004",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ad727"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OA-2004-0004-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 285,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "RITA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-10-25",
+          "toDate": "2004-10-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

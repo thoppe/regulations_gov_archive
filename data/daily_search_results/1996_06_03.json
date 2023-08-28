@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2004-0085-0026",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:07:34Z",
+          "highlightedContent": "",
+          "frDocNum": "53728",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1995-11-16T04:59:59Z",
+          "title": "State of California; Request for Approval of Section 112(l) Authority for Hazardous Air Pollutants; Perchloroethylene Air Emission Standards From Dry Cleaning Facilities [II-A-3]",
+          "postedDate": "1996-06-03T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0085",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1996-06-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800c583c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0085-0026"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0025-0081",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:19:01Z",
+          "highlightedContent": "",
+          "frDocNum": "27785",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants (NESHAP) for: Chromium Emissions From Hard and Decorative Chromium Electroplating and Chromium Anodizing Tanks; Ethylene Oxide Commercial Sterilization and Fumigation Operations;",
+          "postedDate": "1996-06-03T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0025",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a9001"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0025-0081"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 29,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 21,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-06-03",
+          "toDate": "1996-06-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

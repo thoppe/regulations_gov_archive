@@ -1,0 +1,796 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2006-26364-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-11T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "FAA-2006-26364",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b76f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26364-0003"
+        }
+      },
+      {
+        "id": "PTO-P-2006-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:56:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15591",
+          "withdrawn": false,
+          "agencyId": "PTO",
+          "commentEndDate": "2007-10-10T03:59:59Z",
+          "title": "Examination of Patent Applications That Include Claims Containing Alternative Language",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "PTO-P-2006-0004",
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480274559"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PTO-P-2006-0004-0001"
+        }
+      },
+      {
+        "id": "SEC-2007-1118-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:59:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15608",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Short Selling in Connection With a Public Offering",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027469c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-1118-0001"
+        }
+      },
+      {
+        "id": "OSHA-2007-0028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-04-08T20:20:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15539",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2007-10-10T03:59:59Z",
+          "title": "Procedures for the Handling of Retaliation Complaints Under the Employee Protection Provisions of Six Federal Environmental Statutes and Section 211 of the Energy Reorganization Act of 1974, as Amended. Action: Interim final rule; request for comments.",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "OSHA-2007-0028",
+          "subtype": "Correction",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802746cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2007-0028-0001"
+        }
+      },
+      {
+        "id": "NRC-2007-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:14:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "NRC Size Standards; Revision",
+          "postedDate": "2007-08-10T18:44:50Z",
+          "docketId": "NRC-2007-0030",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803b88ff"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2007-0030-0001"
+        }
+      },
+      {
+        "id": "APHIS-2006-0170-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-01-18T17:23:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15711",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Witchweed Quarantine Regulations; Regulated Areas in North Carolina and South Carolina",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "APHIS-2006-0170",
+          "subtype": "Final rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064802746df"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2006-0170-0002"
+        }
+      },
+      {
+        "id": "AMS-2006-0079-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15391",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2007-09-29T03:59:59Z",
+          "title": "Onions Grown in South Texas; Secretarys Decision and Referendum Order on Proposed Amendments to Marketing Agreement No. 143 and Order No. 959",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "AMS-2006-0079",
+          "subtype": "N/A",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027456c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-2006-0079-0004"
+        }
+      },
+      {
+        "id": "EBSA-2007-0031-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:15:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15568",
+          "withdrawn": false,
+          "agencyId": "EBSA",
+          "commentEndDate": "2007-09-11T03:59:59Z",
+          "title": "Amendments to Civil Penalties Under ERISA Section 502(c)(7)",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "EBSA-2007-0031",
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027457d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EBSA-2007-0031-0001"
+        }
+      },
+      {
+        "id": "COE-2007-0003-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:38:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15694",
+          "withdrawn": false,
+          "agencyId": "COE",
+          "commentEndDate": null,
+          "title": "United States Navy Restricted Area, Key West Harbor, at U.S. Naval Base, Key West, Florida",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "COE-2007-0003",
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027463f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COE-2007-0003-0003"
+        }
+      },
+      {
+        "id": "FAA-2007-28842-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-11T03:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "FAA-2007-28842",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ad671"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28842-0004"
+        }
+      },
+      {
+        "id": "FRTIB-2007-0012-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-09-10T11:16:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15635",
+          "withdrawn": false,
+          "agencyId": "FRTIB",
+          "commentEndDate": "2007-09-11T03:59:59Z",
+          "title": "Employee Contribution Election and Contribution Allocations; Correction of Administrative Errors; Availability of Records; Death Benefits; Loan Program; Thrift Savings Plan",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "FRTIB-2007-0012",
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480274692"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRTIB-2007-0012-0001"
+        }
+      },
+      {
+        "id": "SEC-2007-1117-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-08-10T11:11:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15595",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Deletion of References to IRS Identification Numbers",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480274613"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-1117-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2007-27437-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:53:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-08-11T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Grote Industries, LLC; Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "NHTSA-2007-27437",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bba2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-27437-0003"
+        }
+      },
+      {
+        "id": "FAA-2006-25755-0089",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-11T03:59:59Z",
+          "title": "U.S. DOT/FAA - Operating Limitations at New York LaGuardia Airport; Denial of Request for Extension of Comment Period",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "FAA-2006-25755",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ab8f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25755-0089"
+        }
+      },
+      {
+        "id": "FCC-2006-0180-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:53:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15702",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Recommendations of the Independent Panel Reviewing the Impact of Hurricane Katrina on Communications Networks",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802746cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0180-0004"
+        }
+      },
+      {
+        "id": "SEC-2007-1119-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:59:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15506",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2007-10-10T03:59:59Z",
+          "title": "Revisions of Limited Offering Exemptions in Regulation D",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802746b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-1119-0001"
+        }
+      },
+      {
+        "id": "NOAA-2007-0580-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15693",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Haddock Size Limit Change",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "NOAA-2007-0580",
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802746e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0580-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2007-28136-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:05:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2007-08-11T03:59:59Z",
+          "title": "U.S. DOT/PHMSA - Notice of Policy Statement and Request for Comments",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "PHMSA-2007-28136",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b50cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2007-28136-0001"
+        }
+      },
+      {
+        "id": "EERE-2007-BT-STD-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:17:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15692",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": "2007-09-29T03:59:59Z",
+          "title": "2007-08-10 Energy Efficiency Program for Certain Commercial and Industrial Equipment: Public Meeting and Availability of the Framework Document for Small Electric Motors; Notice of public meeting and availability of the Framework Document.",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "EERE-2007-BT-STD-0007",
+          "subtype": "NA",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480274615"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2007-BT-STD-0007-0001"
+        }
+      },
+      {
+        "id": "EBSA-2007-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:15:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15567",
+          "withdrawn": false,
+          "agencyId": "EBSA",
+          "commentEndDate": "2007-09-11T03:59:59Z",
+          "title": "Amendments to Civil Penalties Under ERISA Section 502(c)(7)",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "EBSA-2007-0030",
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480274634"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EBSA-2007-0030-0001"
+        }
+      },
+      {
+        "id": "FMC-2007-0112-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:23:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15593",
+          "withdrawn": false,
+          "agencyId": "FMC",
+          "commentEndDate": null,
+          "title": "Optional Method of Filing Form FMC-18, Application for a License as an Ocean Transportation Intermediary",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027466b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMC-2007-0112-0001"
+        }
+      },
+      {
+        "id": "NRC-2007-0030-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:14:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "NRC Size Standards; Revision",
+          "postedDate": "2007-08-10T18:45:14Z",
+          "docketId": "NRC-2007-0030",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803b8910"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2007-0030-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-28771-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-11T03:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Request for Comments",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "FAA-2007-28771",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ade2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28771-0001"
+        }
+      },
+      {
+        "id": "EPA-R02-OAR-2004-NJ-0004-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:23:50Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00703",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Implementation Plans; New Jersey Consumer Products Rule",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "EPA-R02-OAR-2004-NJ-0004",
+          "subtype": null,
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480274809"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-OAR-2004-NJ-0004-0009"
+        }
+      },
+      {
+        "id": "NHTSA-2006-26281-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T23:01:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-08-11T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - The Braun Corporation; Denial of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "NHTSA-2006-26281",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b75ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2006-26281-0003"
+        }
+      },
+      {
+        "id": "FAA-2007-0004-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:48:11Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03882",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-10-02T03:59:59Z",
+          "title": "Modification of Class E Airspace; Fort Scott, KS",
+          "postedDate": "2007-08-10T04:00:00Z",
+          "docketId": "FAA-2007-0004",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-08-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802e3242"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0004-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 93,
+            "label": "Notice"
+          },
+          {
+            "docCount": 71,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 13,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 7,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Final rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Foreign Airworthiness Directive"
+          },
+          {
+            "docCount": 1,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "NA"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "SEC"
+          },
+          {
+            "docCount": 2,
+            "value": "EBSA"
+          },
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "COE"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRTIB"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PTO"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-08-10",
+          "toDate": "2007-08-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2004-0542-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-10-10T01:02:58Z",
+          "highlightedContent": "",
+          "frDocNum": "49868",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Plan Requirements for Hospital/Medical/Infectious Waste Incinerators Constructed On or Before June 20, 1996",
+          "postedDate": "2000-08-15T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0542",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bd7b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0542-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2000-7316-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:42:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2000-08-16T03:59:59Z",
+          "title": "Notice",
+          "postedDate": "2000-08-15T04:00:00Z",
+          "docketId": "FMCSA-2000-7316",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033b473"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-7316-0003"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-7761-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:21:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-08-16T03:59:59Z",
+          "title": "U. S. DOT/OST - Final Rule",
+          "postedDate": "2000-08-15T04:00:00Z",
+          "docketId": "DOT-OST-2000-7761",
+          "subtype": "Final Rule",
+          "commentStartDate": "2000-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480340d9d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-7761-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0542-0026",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:19:22Z",
+          "highlightedContent": "",
+          "frDocNum": "49867",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Plan Requirements for Hospital/Medical/Infectious Waste Incinerators Constructed On or Before June 20, 1996; Final Rule [A-98-24 V-A-1]",
+          "postedDate": "2000-08-15T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0542",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bda04"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0542-0026"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0213-0029",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-09-15T18:08:36Z",
+          "highlightedContent": "",
+          "frDocNum": "49868",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Plan Requirements for Hospital/Medical/Infectious Waste Incinerators Constructed On or Before June 20, 1996",
+          "postedDate": "2000-08-15T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0213",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bc286"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0213-0029"
+        }
+      },
+      {
+        "id": "FMCSA-1997-2350-18019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2000-12-16T04:59:59Z",
+          "title": "Proposed Rule; Roundtable Meetings and Extension of Comment Period",
+          "postedDate": "2000-08-15T04:00:00Z",
+          "docketId": "FMCSA-1997-2350",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648034ac9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2350-18019"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 41,
+            "label": "Other"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-08-15",
+          "toDate": "2000-08-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

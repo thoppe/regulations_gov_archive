@@ -1,0 +1,602 @@
+[
+  {
+    "data": [
+      {
+        "id": "USPS-2006-0032-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-12-01T12:05:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18062",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2006-12-02T04:59:59Z",
+          "title": "New Mailing Standards for Division 6.2 Infectious Substances",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc314"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2006-0032-0001"
+        }
+      },
+      {
+        "id": "CFTC-2006-0084-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:03:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18270",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2006-12-02T04:59:59Z",
+          "title": "Membership in a Registered Futures Association",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc48e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2006-0084-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-25888-0003-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-11-02T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petitions for Exemption Received",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "FAA-2006-25888",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b01a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25888-0003-0002"
+        }
+      },
+      {
+        "id": "FHWA-2006-25203-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:03:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2006-11-02T04:59:59Z",
+          "title": "Notice of Proposed Rulemaking (NPRM); Request for Comments",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "FHWA-2006-25203",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ca4ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2006-25203-0003-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-0784-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:15:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18223",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Bacillus Thuringiensis Modified Cry3A Protein and the Genetic Material Necessary for Its Production in Corn; Exemption from the Requirement of a Tolerance",
+          "postedDate": "2006-11-01T13:55:05Z",
+          "docketId": "EPA-HQ-OPP-2006-0784",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-11-01T13:55:05Z",
+          "openForComment": false,
+          "objectId": "09000064801dc3ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-0784-0001"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2006-0564-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-19T21:25:50Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18377",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Utah; Revisions to the Utah Administrative Code; Direct Final Rule",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "EPA-R08-OAR-2006-0564",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc3d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2006-0564-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-25888-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-11-02T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petitions for Exemption Received",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "FAA-2006-25888",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b01a2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25888-0003-0001"
+        }
+      },
+      {
+        "id": "FERC-2006-0185-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:58:51Z",
+          "highlightedContent": "",
+          "frDocNum": "06-08928",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "New PURPA Section 210(m) Regulations Applicable to Small Power Production and Cogeneration Facilities",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc2cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2006-0185-0002"
+        }
+      },
+      {
+        "id": "FHWA-2006-25203-0003-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:01:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2006-11-02T04:59:59Z",
+          "title": "Notice of Proposed Rulemaking (NPRM); Request for Comments",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "FHWA-2006-25203",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ca4ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2006-25203-0003-0002"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2006-0564-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-06-19T21:25:50Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18379",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-12-02T04:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Utah; Revisions to the Utah Administrative Code; Proposed Rule",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "EPA-R08-OAR-2006-0564",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc2b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2006-0564-0002"
+        }
+      },
+      {
+        "id": "ED-2006-0388-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:16:27Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18183",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Federal Student Aid Programs",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "ED-2006-0388",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc330"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2006-0388-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0808-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:40:41Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18384",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Advance Notice of Proposed Rulemaking to Establish a Control Date",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "NOAA-2006-0808",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc2ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0808-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0809-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:40:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18391",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2006-12-02T04:59:59Z",
+          "title": "Fisheries of the Northeastern United States; Regulatory Amendment to Modify Recordkeeping and Reporting and Observer Requirements",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "NOAA-2006-0809",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc322"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0809-0001"
+        }
+      },
+      {
+        "id": "USPS-2006-0033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-11-01T12:08:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18063",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "New Standards for Mailing Sharps and Other Regulated Medical Waste Containers",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc3c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2006-0033-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0813-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:40:42Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09008",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2006-11-14T04:59:59Z",
+          "title": "Atlantic Highly Migratory Species; Atlantic Commercial Shark Management Measures",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "NOAA-2006-0813",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc425"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0813-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19411-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-11-02T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Extension of Expiration Date",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "FAA-2004-19411",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bee9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19411-0028"
+        }
+      },
+      {
+        "id": "NOAA-2006-0810-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:42Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09007",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "NOAA-2006-0810",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc366"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0810-0001"
+        }
+      },
+      {
+        "id": "FCC-2006-0036-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:54:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18401",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Broadcast Services; Childrens Television; Cable Operators",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc3f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0036-0003"
+        }
+      },
+      {
+        "id": "ED-2006-0389-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:16:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-18197",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Student Assistance General Provisions; Federal Pell Grant Program; Academic Competitiveness Grant Program; and National Science and Mathematics Access to Retain Talent Grant Program",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "ED-2006-0389",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc3f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2006-0389-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0811-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:40:42Z",
+          "highlightedContent": "",
+          "frDocNum": "06-09009",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2006-12-19T04:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Individual Fishing Quota Program; Community Development Quota Program",
+          "postedDate": "2006-11-01T05:00:00Z",
+          "docketId": "NOAA-2006-0811",
+          "subtype": null,
+          "commentStartDate": "2006-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801dc403"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0811-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 91,
+            "label": "Notice"
+          },
+          {
+            "docCount": 81,
+            "label": "Other"
+          },
+          {
+            "docCount": 47,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 14,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 20,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "ED"
+          },
+          {
+            "docCount": 2,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 2,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-11-01",
+          "toDate": "2006-11-01"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 20,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 20,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

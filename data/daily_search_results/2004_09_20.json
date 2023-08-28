@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2003-0230-0123",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:21:50Z",
+          "highlightedContent": "",
+          "frDocNum": "56182",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-10-22T03:59:59Z",
+          "title": "Protection of Stratospheric Ozone: Process for Exempting Critical Uses From the Phaseout of Methyl Bromide; Extension of Deadline to Request a New Hearing, New Hearing Date, and New Deadline for Submission of Comments",
+          "postedDate": "2004-09-20T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0230",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bf88b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0230-0123"
+        }
+      },
+      {
+        "id": "FAA-2004-18744-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-09-21T03:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2004-09-20T04:00:00Z",
+          "docketId": "FAA-2004-18744",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032271b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18744-0001"
+        }
+      },
+      {
+        "id": "TSA-2004-19147-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-06-17T23:49:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2004-09-21T03:59:59Z",
+          "title": "U.S. DOT/TSA - Interim Final Rule; Request for Comments (Fed. Reg. Publ.)",
+          "postedDate": "2004-09-20T04:00:00Z",
+          "docketId": "TSA-2004-19147",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bfa63"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2004-19147-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2004-NC-0002-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:56Z",
+          "highlightedContent": "",
+          "frDocNum": "56163",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Direct Final Rule",
+          "postedDate": "2004-09-20T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2004-NC-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a7d33"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2004-NC-0002-0014"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2004-NC-0002-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:56Z",
+          "highlightedContent": "",
+          "frDocNum": "56182",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Proposed Rule",
+          "postedDate": "2004-09-20T04:00:00Z",
+          "docketId": "EPA-R04-OAR-2004-NC-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a7d3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2004-NC-0002-0015"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 81,
+            "label": "Other"
+          },
+          {
+            "docCount": 25,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "TSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-09-20",
+          "toDate": "2004-09-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-1998-3947-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1998-06-17T03:59:59Z",
+          "title": "FHWA HQ -Federal Motor Carrier Safety Regulations; General; Commercial Motor Vehicle Marking - Notice of Proposed Rulemaking; Request for Comments",
+          "postedDate": "1998-06-16T04:00:00Z",
+          "docketId": "FMCSA-1998-3947",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-06-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323738"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3947-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0268-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-04-29T19:01:01Z",
+          "highlightedContent": "",
+          "frDocNum": "32743",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Standards of Performance for New Stationary Sources and Guidelines for Control of Existing Sources: Municipal Solid Waste Landfills",
+          "postedDate": "1998-06-16T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0268",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800c02a1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0268-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-3423-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-06-18T03:59:59Z",
+          "title": "Implementation of the National Invasive Species Act of 1996 (NISA); Notice of Proposed Rulemaking; Correction",
+          "postedDate": "1998-06-16T04:00:00Z",
+          "docketId": "USCG-1998-3423",
+          "subtype": null,
+          "commentStartDate": "1998-06-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480320099"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3423-0041"
+        }
+      },
+      {
+        "id": "USCG-1998-3423-0042",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-06-18T03:59:59Z",
+          "title": "Implementation of the National Invasive Species Act of 1996 (NISA); Extension of Comment Period",
+          "postedDate": "1998-06-16T04:00:00Z",
+          "docketId": "USCG-1998-3423",
+          "subtype": null,
+          "commentStartDate": "1998-06-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032009a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3423-0042"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 287,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 31,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-06-16",
+          "toDate": "1998-06-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

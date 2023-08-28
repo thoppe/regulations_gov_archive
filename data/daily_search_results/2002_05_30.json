@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2002-0007-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-21T01:00:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2002-07-02T03:59:59Z",
+          "title": "Federal Register Notice - Rulemaking Communications Improvements",
+          "postedDate": "2002-05-30T15:01:46Z",
+          "docketId": "NRC-2002-0007",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2002-05-30T15:01:46Z",
+          "openForComment": false,
+          "objectId": "090000648054f7ab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0007-0006"
+        }
+      },
+      {
+        "id": "USCG-1998-3884-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:17:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-05-31T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2002-05-30T04:00:00Z",
+          "docketId": "USCG-1998-3884",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a5a2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3884-0008"
+        }
+      },
+      {
+        "id": "USCG-2002-12376-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-05-31T03:59:59Z",
+          "title": "Request for Applications",
+          "postedDate": "2002-05-30T04:00:00Z",
+          "docketId": "USCG-2002-12376",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480306a64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2002-12376-0001"
+        }
+      },
+      {
+        "id": "USCG-2001-10689-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-05-31T03:59:59Z",
+          "title": "Temporary Final Rule; Change of Effective Date",
+          "postedDate": "2002-05-30T04:00:00Z",
+          "docketId": "USCG-2001-10689",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803025ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10689-0015"
+        }
+      },
+      {
+        "id": "FMCSA-2002-11714-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:09:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-05-31T03:59:59Z",
+          "title": "Notice of Final Disposition",
+          "postedDate": "2002-05-30T04:00:00Z",
+          "docketId": "FMCSA-2002-11714",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3ca1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-11714-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 86,
+            "label": "Other"
+          },
+          {
+            "docCount": 20,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-05-30",
+          "toDate": "2002-05-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

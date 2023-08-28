@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-2000-0035-0073",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:19:29Z",
+          "highlightedContent": "",
+          "frDocNum": "62079",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Joint Nuclear Regulatory Commission (NRC)/USEPA Guidance on Testing Requirements For Mixed Radioactive and Hazardous Waste",
+          "postedDate": "1997-11-20T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2000-0035",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e04d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2000-0035-0073"
+        }
+      },
+      {
+        "id": "NHTSA-1997-3111-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:14:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1997-11-21T04:59:59Z",
+          "title": "U.S. DOT/NHTSA/OCC - Copies of the Final Rule as Submitted to OMB October 1, 1997 and as Issued November 18, 1997",
+          "postedDate": "1997-11-20T05:00:00Z",
+          "docketId": "NHTSA-1997-3111",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-11-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e3cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1997-3111-0008"
+        }
+      },
+      {
+        "id": "NHTSA-1997-3111-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:14:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1997-11-21T04:59:59Z",
+          "title": "U.S. DOT/NHTSA/OCC - Final Rule (Air Bag On-Off Switches) Denial of Petition for Reconsideration",
+          "postedDate": "1997-11-20T05:00:00Z",
+          "docketId": "NHTSA-1997-3111",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-11-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e39b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1997-3111-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1997-2724-0706",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1997-02-06T04:59:59Z",
+          "title": "Air Bag On-Off Switches - Final Rule; Denial of Petition for Reconsideration",
+          "postedDate": "1997-11-20T05:00:00Z",
+          "docketId": "NHTSA-1997-2724",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-11-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031b680"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1997-2724-0706"
+        }
+      },
+      {
+        "id": "NHTSA-1997-3111-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1997-11-21T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Summary of Final Rule",
+          "postedDate": "1997-11-20T05:00:00Z",
+          "docketId": "NHTSA-1997-3111",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-11-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e3c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1997-3111-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 38,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1997-11-20",
+          "toDate": "1997-11-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

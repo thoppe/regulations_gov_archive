@@ -1,0 +1,214 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2002-0069-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:12:37Z",
+          "highlightedContent": "",
+          "frDocNum": "75339",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Commercial and Industrial Solid Waste Incineration Units; Final Rule",
+          "postedDate": "2000-12-01T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0069",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800ce9c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0069-0002"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1999-6355-0071",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-06-01T01:02:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2000-12-02T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Final Rule",
+          "postedDate": "2000-12-01T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-6355",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a81db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-6355-0071"
+        }
+      },
+      {
+        "id": "USCG-2000-7080-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-12-02T04:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2000-12-01T05:00:00Z",
+          "docketId": "USCG-2000-7080",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480338174"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-7080-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2000-8296-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-12-02T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Advance notice of proposed rulemaking (ANPRM)",
+          "postedDate": "2000-12-01T05:00:00Z",
+          "docketId": "NHTSA-2000-8296",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480343764"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2000-8296-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 29,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-12-01",
+          "toDate": "2000-12-01"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

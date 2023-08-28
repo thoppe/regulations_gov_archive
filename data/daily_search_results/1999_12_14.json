@@ -1,0 +1,237 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-1998-4733-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-12-15T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Final Rule",
+          "postedDate": "1999-12-14T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4733",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803277aa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4733-0016"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0025-0079",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:20:50Z",
+          "highlightedContent": "",
+          "frDocNum": "69637",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Title V Operating Permit Deferrals for Area Sources: National Emission Standards for Hazardous Air Pollutants (NESHAP) for Chromium Emissions from Hard and Decorative Chromium Electroplating and Chromium Anodizing Tanks;",
+          "postedDate": "1999-12-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0025",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a8fe5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0025-0079"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3421-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:08:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-12-15T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule; Response to Petitions for Reconsideration",
+          "postedDate": "1999-12-14T05:00:00Z",
+          "docketId": "NHTSA-1998-3421",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480320048"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3421-0002"
+        }
+      },
+      {
+        "id": "USCG-1999-6141-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-12-15T04:59:59Z",
+          "title": "Direct Final Rule",
+          "postedDate": "1999-12-14T05:00:00Z",
+          "docketId": "USCG-1999-6141",
+          "subtype": null,
+          "commentStartDate": "1999-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480330894"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6141-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0373-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-29T19:14:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Title V Operating Permit Deferrals for Area Sources:  (NESHAP) for Chromium Emissions from Hard and Decorative Chromium Electroplating and Chromium Anodizing Tanks; Ethylene Oxide Commercial Sterilization and Fumigation Operations; Perchloroethylene Dry Cleaning Facilities; Halogenated Solvent Cleaning Machines; and Secondary Lead Smelting",
+          "postedDate": "1999-12-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0373",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bebce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0373-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 60,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 24,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-12-14",
+          "toDate": "1999-12-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

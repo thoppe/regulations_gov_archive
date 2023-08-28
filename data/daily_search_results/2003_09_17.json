@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OPP-2003-0286-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:06:28Z",
+          "highlightedContent": "",
+          "frDocNum": "54377",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Trifloxysulfuron; Pesticide Tolerance",
+          "postedDate": "2003-09-17T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2003-0286",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800b85e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2003-0286-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2003-0306-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:15:49Z",
+          "highlightedContent": "",
+          "frDocNum": "54386",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Thiamethoxam; Pesticide Tolerances",
+          "postedDate": "2003-09-17T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2003-0306",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800b5e4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2003-0306-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OA-2002-0001-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-07-15T19:13:00Z",
+          "highlightedContent": "",
+          "frDocNum": "54405",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-01-21T04:59:59Z",
+          "title": "Public Hearings on Participation by Disadvantaged Business Enterprises in Procurement Under Environmental Protection Agency (EPA) Financial Assistance Agreements",
+          "postedDate": "2003-09-17T04:00:00Z",
+          "docketId": "EPA-HQ-OA-2002-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-09-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800acbd1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OA-2002-0001-0040"
+        }
+      },
+      {
+        "id": "FAA-2001-10047-0233",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:32:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-09-18T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule: Regulation of Fractional Aircraft Ownership Programs and On-Demand Operations (Original)",
+          "postedDate": "2003-09-17T04:00:00Z",
+          "docketId": "FAA-2001-10047",
+          "subtype": "Final Rule",
+          "commentStartDate": "2003-09-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300d25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10047-0233"
+        }
+      },
+      {
+        "id": "FAA-2001-10047-0232",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-19T01:04:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-09-18T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2003-09-17T04:00:00Z",
+          "docketId": "FAA-2001-10047",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300d24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10047-0232"
+        }
+      },
+      {
+        "id": "FAA-2003-14402-0071",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-09-18T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2003-09-17T04:00:00Z",
+          "docketId": "FAA-2003-14402",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-17T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030f256"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14402-0071"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 99,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 15,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-09-17",
+          "toDate": "2003-09-17"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-2000-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:32Z",
+          "highlightedContent": "",
+          "frDocNum": "46096",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Priorities List for Uncontrolled Hazardous Waste Sites, Final Rule Number 30",
+          "postedDate": "2000-07-27T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2000-0003",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e1401"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2000-0003-0001"
+        }
+      },
+      {
+        "id": "USCG-1999-6096-0053",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-07-28T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking; Reopening of Comment Period.",
+          "postedDate": "2000-07-27T04:00:00Z",
+          "docketId": "USCG-1999-6096",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033039d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6096-0053"
+        }
+      },
+      {
+        "id": "USCG-1999-6713-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-07-28T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2000-07-27T04:00:00Z",
+          "docketId": "USCG-1999-6713",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480333761"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6713-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4511-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T20:08:46Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-07-28T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "postedDate": "2000-07-27T04:00:00Z",
+          "docketId": "NHTSA-1998-4511",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2000-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032624e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4511-0003"
+        }
+      },
+      {
+        "id": "USCG-1999-6095-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-07-28T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2000-07-27T04:00:00Z",
+          "docketId": "USCG-1999-6095",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480382dbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6095-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 59,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-07-27",
+          "toDate": "2000-07-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

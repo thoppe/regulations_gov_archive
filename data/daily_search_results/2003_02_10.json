@@ -1,0 +1,244 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2003-14449-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2003-02-10T05:00:00Z",
+          "docketId": "FAA-2003-14449",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c2733"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14449-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-13946-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-11T04:59:59Z",
+          "title": "U.S. DOT/FAA -  Final Rule",
+          "postedDate": "2003-02-10T05:00:00Z",
+          "docketId": "FAA-2002-13946",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030cd35"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13946-0002"
+        }
+      },
+      {
+        "id": "FAA-2003-14348-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2003-02-10T05:00:00Z",
+          "docketId": "FAA-2003-14348",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030eb69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14348-0001"
+        }
+      },
+      {
+        "id": "FAA-2003-14347-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Request for Comments",
+          "postedDate": "2003-02-10T05:00:00Z",
+          "docketId": "FAA-2003-14347",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030eb5a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14347-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1999-6223-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-02-11T04:59:59Z",
+          "title": "U.S. DOT/RSPA- Advance Notice of Proposed Rulemaking (ANPRM)",
+          "postedDate": "2003-02-10T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-6223",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7ffc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-6223-0007"
+        }
+      },
+      {
+        "id": "FAA-2003-14374-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Order Designating Voluntarily Submitted Information as Protected from Disclosure",
+          "postedDate": "2003-02-10T05:00:00Z",
+          "docketId": "FAA-2003-14374",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030efcb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14374-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 43,
+            "label": "Other"
+          },
+          {
+            "docCount": 43,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-02-10",
+          "toDate": "2003-02-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

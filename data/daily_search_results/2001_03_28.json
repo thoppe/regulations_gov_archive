@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-2001-8696-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-11T17:20:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2001-03-29T04:59:59Z",
+          "title": "U.S. DOT/OST - Notice",
+          "postedDate": "2001-03-28T05:00:00Z",
+          "docketId": "DOT-OST-2001-8696",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-03-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b52c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2001-8696-0002"
+        }
+      },
+      {
+        "id": "NRC-2001-0005-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:11:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2001-04-28T03:59:59Z",
+          "title": "Federal Register Notice - Revision of Fee Schedules; Fee Recovery for FY 2001",
+          "postedDate": "2001-03-28T21:01:05Z",
+          "docketId": "NRC-2001-0005",
+          "subtype": null,
+          "commentStartDate": "2001-03-28T21:01:05Z",
+          "openForComment": false,
+          "objectId": "0900006480630645"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2001-0005-0015"
+        }
+      },
+      {
+        "id": "USCG-2001-9172-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-03-29T04:59:59Z",
+          "title": "Notice of Charter Renewal",
+          "postedDate": "2001-03-28T05:00:00Z",
+          "docketId": "USCG-2001-9172",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-03-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480341cd0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-9172-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 60,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-03-28",
+          "toDate": "2001-03-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

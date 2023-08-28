@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-2001-10774-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-04-06T13:01:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-03-12T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Proposed Rulemaking",
+          "postedDate": "2002-03-11T05:00:00Z",
+          "docketId": "NHTSA-2001-10774",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803028e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-10774-0003"
+        }
+      },
+      {
+        "id": "FDA-2001-N-0203-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-01T22:00:46Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2002-06-05T03:59:59Z",
+          "title": "Institutional Review Boards: Requiring Sponsors and Investigators to Inform IRBs of Any Prior IRB Reviews",
+          "postedDate": "2002-03-11T05:00:00Z",
+          "docketId": "FDA-2001-N-0203",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2002-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064804e38d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2001-N-0203-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 49,
+            "label": "Other"
+          },
+          {
+            "docCount": 18,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-03-11",
+          "toDate": "2002-03-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

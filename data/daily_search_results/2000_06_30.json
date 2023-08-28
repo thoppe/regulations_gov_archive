@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1999-6586-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:07:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-07-01T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Publication of Final Theft Data",
+          "postedDate": "2000-06-30T04:00:00Z",
+          "docketId": "NHTSA-1999-6586",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480333200"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-6586-0005"
+        }
+      },
+      {
+        "id": "NRC-2000-0016-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:17:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2000-09-14T03:59:59Z",
+          "title": "Federal Register Notice - Notice of Receipt of Petition for Rulemaking",
+          "postedDate": "2000-06-30T20:37:34Z",
+          "docketId": "NRC-2000-0016",
+          "subtype": "Petition for Rulemaking",
+          "commentStartDate": "2000-06-30T20:37:34Z",
+          "openForComment": false,
+          "objectId": "090000648064fc9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0016-0004"
+        }
+      },
+      {
+        "id": "USCG-1998-3868-0047",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:17:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-07-01T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking; Extension of Comment Period",
+          "postedDate": "2000-06-30T04:00:00Z",
+          "docketId": "USCG-1998-3868",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a59c8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3868-0047"
+        }
+      },
+      {
+        "id": "USCG-1999-5149-0039",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-07-01T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2000-06-30T04:00:00Z",
+          "docketId": "USCG-1999-5149",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032a869"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-5149-0039"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 60,
+            "label": "Other"
+          },
+          {
+            "docCount": 48,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Petition for Rulemaking"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-06-30",
+          "toDate": "2000-06-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

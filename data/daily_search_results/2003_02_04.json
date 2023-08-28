@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-1999-5401-0100",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-05T04:59:59Z",
+          "title": "U.S. DOT/FAA - Interim Final Rule; Extension of Comment Period (Original)",
+          "postedDate": "2003-02-04T05:00:00Z",
+          "docketId": "FAA-1999-5401",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2003-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032b938"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5401-0100"
+        }
+      },
+      {
+        "id": "MARAD-2002-11984-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2003-02-05T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Final Rule",
+          "postedDate": "2003-02-04T05:00:00Z",
+          "docketId": "MARAD-2002-11984",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030578f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-11984-0010"
+        }
+      },
+      {
+        "id": "USCG-2003-14378-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2003-02-05T04:59:59Z",
+          "title": "Notice of Meeting",
+          "postedDate": "2003-02-04T05:00:00Z",
+          "docketId": "USCG-2003-14378",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030f06d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2003-14378-0001"
+        }
+      },
+      {
+        "id": "FAA-2003-14293-0183",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-06T04:59:59Z",
+          "title": "Edward W. O'Connor",
+          "postedDate": "2003-02-04T05:00:00Z",
+          "docketId": "FAA-2003-14293",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030e53d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14293-0183"
+        }
+      },
+      {
+        "id": "FAA-1999-5401-0102",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-05T04:59:59Z",
+          "title": "U.S. DOT/FAA - Interim Final Rule; Extension of Comment Period",
+          "postedDate": "2003-02-04T05:00:00Z",
+          "docketId": "FAA-1999-5401",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032b93a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5401-0102"
+        }
+      },
+      {
+        "id": "FAA-1999-5401-0103",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-02-05T04:59:59Z",
+          "title": ".S. DOT/FAA - Notice of Availability and Request for Comments ; Extension of Comment Period",
+          "postedDate": "2003-02-04T05:00:00Z",
+          "docketId": "FAA-1999-5401",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-02-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032b93b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5401-0103"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 62,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-02-04",
+          "toDate": "2003-02-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

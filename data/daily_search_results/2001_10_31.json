@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2001-9188-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-11-01T04:59:59Z",
+          "title": "Notice of Availability",
+          "postedDate": "2001-10-31T05:00:00Z",
+          "docketId": "USCG-2001-9188",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-10-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480341e94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-9188-0008"
+        }
+      },
+      {
+        "id": "FAA-2000-7554-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-01T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2001-10-31T05:00:00Z",
+          "docketId": "FAA-2000-7554",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-10-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033e7b6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7554-0011"
+        }
+      },
+      {
+        "id": "FAA-2000-7554-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-11-01T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2001-10-31T05:00:00Z",
+          "docketId": "FAA-2000-7554",
+          "subtype": "Final Rule",
+          "commentStartDate": "2001-10-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033e7b7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7554-0012"
+        }
+      },
+      {
+        "id": "FHWA-2000-7799-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2001-11-01T04:59:59Z",
+          "title": "Correction to Notice of Proposed Rulemaking",
+          "postedDate": "2001-10-31T05:00:00Z",
+          "docketId": "FHWA-2000-7799",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-10-31T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803411ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2000-7799-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 100,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-10-31",
+          "toDate": "2001-10-31"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

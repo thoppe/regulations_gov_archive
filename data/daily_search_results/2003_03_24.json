@@ -1,0 +1,237 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OW-2002-0052-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:22:40Z",
+          "highlightedContent": "",
+          "frDocNum": "14164",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Withdrawal of Direct Final Rule; National Pollutant Discharge Elimination System - Amendment of Final Regulations Addressing Cooling Water Intake Structures for New Facilities.",
+          "postedDate": "2003-03-24T05:00:00Z",
+          "docketId": "EPA-HQ-OW-2002-0052",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bf23c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2002-0052-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2002-0278-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:06:02Z",
+          "highlightedContent": "",
+          "frDocNum": "14165",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pesticides; Tolerance Exemptions for Active and Inert Ingredients for Use in Antimicrobial Formulations (Food-Contact Surface Sanitizing Soulations); Withdrawal of Direct Final Rule",
+          "postedDate": "2003-03-24T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2002-0278",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800b9a41"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2002-0278-0005"
+        }
+      },
+      {
+        "id": "FAA-2003-14715-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:34:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Supplemental Notice of Proposed Rulemaking: Noise Limitations for Aircraft Operations in the Vicinity of Grand Canyon National Park (Original)",
+          "postedDate": "2003-03-24T05:00:00Z",
+          "docketId": "FAA-2003-14715",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2003-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802abe72"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14715-0002"
+        }
+      },
+      {
+        "id": "FAA-2003-14715-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Supplemental Notice of Proposed Rulemaking",
+          "postedDate": "2003-03-24T05:00:00Z",
+          "docketId": "FAA-2003-14715",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802abe31"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14715-0001"
+        }
+      },
+      {
+        "id": "FHWA-2002-13069-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:46Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2003-03-25T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2003-03-24T05:00:00Z",
+          "docketId": "FHWA-2002-13069",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803082cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2002-13069-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 73,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 68,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-03-24",
+          "toDate": "2003-03-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,798 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-2001-E-0186-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T02:26:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2001-E-0186",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804e2087"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2001-E-0186-0002"
+        }
+      },
+      {
+        "id": "FDA-2001-E-0025-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T01:57:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2001-E-0025",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804b59db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2001-E-0025-0002"
+        }
+      },
+      {
+        "id": "CCC-2006-0044-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:03:01Z",
+          "highlightedContent": "",
+          "frDocNum": "06-07678",
+          "withdrawn": false,
+          "agencyId": "CCC",
+          "commentEndDate": null,
+          "title": "Removal of Obsolete Regulations",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "CCC-2006-0044",
+          "subtype": null,
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801caf08"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CCC-2006-0044-0001"
+        }
+      },
+      {
+        "id": "APHIS-2006-0138-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:46Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-15327",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2006-11-15T04:59:59Z",
+          "title": "Brucellosis in Cattle; State and Area Classifications; Wyoming",
+          "postedDate": "2006-09-15T11:24:43Z",
+          "docketId": "APHIS-2006-0138",
+          "subtype": "Interim rule",
+          "commentStartDate": "2006-09-15T11:24:43Z",
+          "openForComment": false,
+          "objectId": "09000064801caf6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2006-0138-0001"
+        }
+      },
+      {
+        "id": "FDA-2003-E-0221-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:56:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2003-E-0221",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648048cf06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2003-E-0221-0005"
+        }
+      },
+      {
+        "id": "FDA-2002-E-0121-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T01:18:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2002-E-0121",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648049044a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2002-E-0121-0005"
+        }
+      },
+      {
+        "id": "FAA-2006-25581-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-09-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FAA-2006-25581",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bad56"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25581-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2005-0014-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:07:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-15358",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Preliminary Assessment Information Reporting Rule and Health and Safety Data Reporting Rule; Revision of Effective Dates",
+          "postedDate": "2006-09-15T12:22:57Z",
+          "docketId": "EPA-HQ-OPPT-2005-0014",
+          "subtype": null,
+          "commentStartDate": "2006-09-15T12:22:58Z",
+          "openForComment": false,
+          "objectId": "09000064801cae07"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2005-0014-0007"
+        }
+      },
+      {
+        "id": "USCG-2006-25411-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2006-09-16T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "USCG-2006-25411",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b0c31"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2006-25411-0001"
+        }
+      },
+      {
+        "id": "APHIS-2006-0044-0117",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-15328",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Animal Welfare; Elephants",
+          "postedDate": "2006-09-15T11:13:35Z",
+          "docketId": "APHIS-2006-0044",
+          "subtype": "Extension of comment period",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064801cae21"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2006-0044-0117"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2005-0459-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:16:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-15258",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-11-15T04:59:59Z",
+          "title": "Endosulfan, Fenarimol, Imazalil, Oryzalin, Sodium Acifluorfen, Trifluralin, and Ziram; Tolerance Actions",
+          "postedDate": "2006-09-15T13:22:37Z",
+          "docketId": "EPA-HQ-OPP-2005-0459",
+          "subtype": null,
+          "commentStartDate": "2006-09-15T13:22:37Z",
+          "openForComment": false,
+          "objectId": "09000064801cae51"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2005-0459-0010"
+        }
+      },
+      {
+        "id": "IRS-2006-0509-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:31:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-15303",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Guidance Under Section 7874 Regarding Expatriated Entities and Their Foreign Parents; Correction",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "IRS-2006-0509",
+          "subtype": null,
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801caf03"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0509-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-25668-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:49:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-09-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FAA-2006-25668",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ae8b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25668-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-25582-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-09-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FAA-2006-25582",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b8a2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25582-0001"
+        }
+      },
+      {
+        "id": "USCG-2006-25766-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:17:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2006-09-16T03:59:59Z",
+          "title": "Notice of Meeting",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "USCG-2006-25766",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ab469"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2006-25766-0001"
+        }
+      },
+      {
+        "id": "FDA-2003-E-0114-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:56:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2003-E-0114",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480485158"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2003-E-0114-0007"
+        }
+      },
+      {
+        "id": "FDA-2000-E-1543-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T01:56:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2000-E-1543",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804f9093"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-E-1543-0002"
+        }
+      },
+      {
+        "id": "FDA-2003-E-0327-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:56:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2003-E-0327",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648049589c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2003-E-0327-0003"
+        }
+      },
+      {
+        "id": "PBGC-2006-0034-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-03-20T20:35:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-15314",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Benefits Payable in Terminated Single-Employer Plans; Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing and Paying Benefits",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "PBGC-2006-0034",
+          "subtype": null,
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801cae7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC-2006-0034-0001"
+        }
+      },
+      {
+        "id": "APHIS-2006-0107-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:48Z",
+          "highlightedContent": "",
+          "frDocNum": "Z6-14478",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Exportation and importation of animals and animal products: Spring viremia of carp; import restrictions on certain live fish, fertilized eggs, and gametes - CORRECTION",
+          "postedDate": "2006-09-15T11:37:50Z",
+          "docketId": "APHIS-2006-0107",
+          "subtype": "Interim rule",
+          "commentStartDate": "2006-09-15T11:37:50Z",
+          "openForComment": false,
+          "objectId": "09000064801caf46"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2006-0107-0007"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2006-0485-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-15334",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; West Virginia; Redesignation of the Huntington, WV Portion of the Huntington-Ashland 8-Hour Ozone Nonattainment Area to Attainment and Approval of the Areas Maintenance Plan",
+          "postedDate": "2006-09-15T12:59:52Z",
+          "docketId": "EPA-R03-OAR-2006-0485",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-09-15T12:59:52Z",
+          "openForComment": false,
+          "objectId": "09000064801caf5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2006-0485-0005"
+        }
+      },
+      {
+        "id": "FDA-2003-E-0066-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:56:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2003-E-0066",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480481c09"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2003-E-0066-0007"
+        }
+      },
+      {
+        "id": "FAA-2006-25824-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-09-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FAA-2006-25824",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ae906"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25824-0001"
+        }
+      },
+      {
+        "id": "FDA-2001-E-0079-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T02:24:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2001-E-0079",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804b83ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2001-E-0079-0002"
+        }
+      },
+      {
+        "id": "FDA-2003-E-0325-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-12T00:56:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2003-E-0325",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648049584d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2003-E-0325-0007"
+        }
+      },
+      {
+        "id": "FDA-2000-E-0238-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T01:46:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-2000-E-0238",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804d59b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-E-0238-0003"
+        }
+      },
+      {
+        "id": "FDA-1998-E-0082-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-05-16T21:24:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "FDA-1998-E-0082",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064805849c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-E-0082-0001"
+        }
+      },
+      {
+        "id": "EAB-2006-0013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:15:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-15304",
+          "withdrawn": false,
+          "agencyId": "EAB",
+          "commentEndDate": "2006-11-15T04:59:59Z",
+          "title": "International Services Surveys: BE-120, Benchmark Survey of Transactions in Selected Services and Intangible Assets With Foreign Persons",
+          "postedDate": "2006-09-15T04:00:00Z",
+          "docketId": "EAB-2006-0013",
+          "subtype": null,
+          "commentStartDate": "2006-09-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801cafa3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EAB-2006-0013-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 241,
+            "label": "Other"
+          },
+          {
+            "docCount": 74,
+            "label": "Notice"
+          },
+          {
+            "docCount": 44,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 25,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 12,
+            "label": "CEP-Certificate Extending Patent Term"
+          },
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Interim rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of comment period"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 28,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 12,
+            "value": "FDA"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "CCC"
+          },
+          {
+            "docCount": 1,
+            "value": "EAB"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-09-15",
+          "toDate": "2006-09-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 28,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 28,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

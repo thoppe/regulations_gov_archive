@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1998-4327-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-08-20T03:59:59Z",
+          "title": "Agency Information Collection Activities Under OMB Review - Request for Comments",
+          "postedDate": "1998-08-19T04:00:00Z",
+          "docketId": "USCG-1998-4327",
+          "subtype": null,
+          "commentStartDate": "1998-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324fd0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4327-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-3790-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:22:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1998-09-01T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Applications for Modification of Exemption",
+          "postedDate": "1998-08-19T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-3790",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480322af4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-3790-0012"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3945-1470",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:15:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-06-18T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice Extending the Comment Period",
+          "postedDate": "1998-08-19T04:00:00Z",
+          "docketId": "NHTSA-1998-3945",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033898e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3945-1470"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-4142-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1998-09-04T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Applications for Modification of Exemption",
+          "postedDate": "1998-08-19T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4142",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803245b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4142-0005"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2004-0040-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:13:48Z",
+          "highlightedContent": "",
+          "frDocNum": "44512",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Primary Drinking Water Regulation: Consumer Confidence Reports; Final Rule",
+          "postedDate": "1998-08-19T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2004-0040",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800c2031"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2004-0040-0013"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 53,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-08-19",
+          "toDate": "1998-08-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

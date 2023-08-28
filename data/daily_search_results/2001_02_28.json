@@ -1,0 +1,241 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2000-8460-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-03-01T04:59:59Z",
+          "title": "U.S. DOT/FAA - Correction",
+          "postedDate": "2001-02-28T05:00:00Z",
+          "docketId": "FAA-2000-8460",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648034427e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-8460-0016"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6189-0257",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:01:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2001-12-29T04:59:59Z",
+          "title": "Organization and Delegation of Powers and Duties to the Under Secretary of Transportation for Security, Transportation Security Administration",
+          "postedDate": "2001-02-28T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "2001-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0257"
+        }
+      },
+      {
+        "id": "NHTSA-2001-8907-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:10:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-03-01T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Public Comment on Proposed Collection of Information",
+          "postedDate": "2001-02-28T05:00:00Z",
+          "docketId": "NHTSA-2001-8907",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480340a3f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-8907-0001"
+        }
+      },
+      {
+        "id": "USCG-2000-8252-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-03-01T04:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2001-02-28T05:00:00Z",
+          "docketId": "USCG-2000-8252",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803433e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-8252-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OEI-2003-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-07-15T19:13:06Z",
+          "highlightedContent": "",
+          "frDocNum": "12746",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2001-03-31T04:59:59Z",
+          "title": "Advanced Notice of proposed rulemaking and recordkeeping and delayed effective date of recordkeeping provisions in the electronic signatures in  Global and National Commerce Act of 2000",
+          "postedDate": "2001-02-28T05:00:00Z",
+          "docketId": "EPA-HQ-OEI-2003-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2001-02-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ae415"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OEI-2003-0001-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 33,
+            "label": "Other"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-02-28",
+          "toDate": "2001-02-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

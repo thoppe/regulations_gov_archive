@@ -1,0 +1,214 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2001-10486-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:17:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-03-05T04:59:59Z",
+          "title": "ANPRM Standards for Living Organisms in Ship's Ballast Water Discharged in U.S. Waters",
+          "postedDate": "2002-03-04T05:00:00Z",
+          "docketId": "USCG-2001-10486",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ac7af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10486-0001"
+        }
+      },
+      {
+        "id": "FAA-2001-11134-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-03-05T04:59:59Z",
+          "title": "Notice of Petitions for Exemption Received",
+          "postedDate": "2002-03-04T05:00:00Z",
+          "docketId": "FAA-2001-11134",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480303990"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-11134-0004"
+        }
+      },
+      {
+        "id": "NHTSA-2001-10854-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:04:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-03-05T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Michelin North America, Inc., Grant of Application for Decision of Inconsequential Noncompliance",
+          "postedDate": "2002-03-04T05:00:00Z",
+          "docketId": "NHTSA-2001-10854",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480302b1f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-10854-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OECA-2005-0057-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-07-15T19:14:05Z",
+          "highlightedContent": "",
+          "frDocNum": "9781",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Notice of Lodging of Consent Decree Under the Resource Conservation and Recovery Act, Toxic Substances Control Act, and Clean Water Act [III-A-001]",
+          "postedDate": "2002-03-04T05:00:00Z",
+          "docketId": "EPA-HQ-OECA-2005-0057",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800ba299"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OECA-2005-0057-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 65,
+            "label": "Other"
+          },
+          {
+            "docCount": 18,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-03-04",
+          "toDate": "2002-03-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

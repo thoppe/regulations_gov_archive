@@ -1,0 +1,202 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1998-4673-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-04-12T03:59:59Z",
+          "title": "U. S. DOT/NHTSA - Extension of Comment Period for a Notice of Proposed Rulemaking - Federal Motor Vehicle Safety Standards; Lamps, Reflective Devices and Associated Equipment",
+          "postedDate": "1999-02-08T05:00:00Z",
+          "docketId": "NHTSA-1998-4673",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803271b7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4673-0002"
+        }
+      },
+      {
+        "id": "NHTSA-1999-5020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-04-10T03:59:59Z",
+          "title": "U. S. DOT/NHTSA - Request for Public Comment on Proposed Collection of Information - Reports, Forms, and Record Keeping Requirements",
+          "postedDate": "1999-02-08T05:00:00Z",
+          "docketId": "NHTSA-1999-5020",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480329894"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5020-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-3584-0036",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-04-14T03:59:59Z",
+          "title": "Notice of Availability of the Finding of No Significant Impact (FONSI) for the National Distress System Modernization Project (NDSMP)",
+          "postedDate": "1999-02-08T05:00:00Z",
+          "docketId": "USCG-1998-3584",
+          "subtype": null,
+          "commentStartDate": "1999-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480320bf9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3584-0036"
+        }
+      },
+      {
+        "id": "FHWA-1998-4715-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1999-03-11T04:59:59Z",
+          "title": "Notice of Proposed Rulemaking (NPRM); Request for Comments - Credit Assistance for Surface Transportation Projects",
+          "postedDate": "1999-02-08T05:00:00Z",
+          "docketId": "FHWA-1998-4715",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803275c3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1998-4715-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 33,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-02-08",
+          "toDate": "1999-02-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

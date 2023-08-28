@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1998-4273-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-08-08T03:59:59Z",
+          "title": "Merchant Marine Personnel Advisory Committee - Notice of Meeting",
+          "postedDate": "1998-08-07T04:00:00Z",
+          "docketId": "USCG-1998-4273",
+          "subtype": null,
+          "commentStartDate": "1998-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324aec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4273-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0064-0080",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:22:26Z",
+          "highlightedContent": "",
+          "frDocNum": "54356",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Technical Amendments to Hazardous Waste Management System; Identification and Listing of Hazardous Waste; Petroleum Refining Process Wastes; Land Disposal Restrictions for Newly Identified Wastes; and CERCLA Hazardous Substances Designation and Reportable Quantities; Correction of Effective Date Under Congressional Review Act (CRA) [F-1998-PRLF-S0068]",
+          "postedDate": "1998-08-07T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0064",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800df05d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0064-0080"
+        }
+      },
+      {
+        "id": "USCG-1998-4271-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-08-08T03:59:59Z",
+          "title": "Application for Recertification of Prince William Sound Regional Citizens' Advisory Council",
+          "postedDate": "1998-08-07T04:00:00Z",
+          "docketId": "USCG-1998-4271",
+          "subtype": null,
+          "commentStartDate": "1998-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324a9f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4271-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4124-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:53:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-08-08T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Proposed Rulemaking",
+          "postedDate": "1998-08-07T04:00:00Z",
+          "docketId": "NHTSA-1998-4124",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a5dea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4124-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-4272-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-08-08T03:59:59Z",
+          "title": "Application for Recertification of Cook Inlet Regional Citizens' Advisory Council - Notice of Availability;Request for Comments",
+          "postedDate": "1998-08-07T04:00:00Z",
+          "docketId": "USCG-1998-4272",
+          "subtype": null,
+          "commentStartDate": "1998-08-07T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324acb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4272-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 23,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-08-07",
+          "toDate": "1998-08-07"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

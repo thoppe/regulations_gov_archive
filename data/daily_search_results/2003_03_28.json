@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OPPT-2002-0060-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:05Z",
+          "highlightedContent": "",
+          "frDocNum": "15061",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2003-04-29T03:59:59Z",
+          "title": "Significant New Uses of Certain Chemical Substances",
+          "postedDate": "2003-03-28T05:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2002-0060",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-03-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800b3c65"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2002-0060-0001"
+        }
+      },
+      {
+        "id": "USCG-2001-8773-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2003-03-04T04:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2003-03-28T05:00:00Z",
+          "docketId": "USCG-2001-8773",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-03-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345e2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-8773-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 146,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 87,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-03-28",
+          "toDate": "2003-03-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

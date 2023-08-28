@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "id": "TSA-2002-11334-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-30T18:59:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2002-02-26T04:59:59Z",
+          "title": "IFR Correction:  Aviation Security Infrastructure Fees (Federal Register Publication)",
+          "postedDate": "2002-02-25T05:00:00Z",
+          "docketId": "TSA-2002-11334",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c766d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2002-11334-0003"
+        }
+      },
+      {
+        "id": "NHTSA-2001-10900-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-02-27T04:59:59Z",
+          "title": "U.S. DOT/NHTSA -  Notice of Decision by NHTSA that Nonconforming 1998 Chrysler Grand Voyager multi-purpose passenger Vehicles (MPVs) are Eligible for Importion",
+          "postedDate": "2002-02-25T05:00:00Z",
+          "docketId": "NHTSA-2001-10900",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480302d85"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-10900-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 51,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "TSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-02-25",
+          "toDate": "2002-02-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

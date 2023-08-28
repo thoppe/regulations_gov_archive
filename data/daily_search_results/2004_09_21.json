@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2004-19140-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-09-22T03:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2004-09-21T04:00:00Z",
+          "docketId": "FAA-2004-19140",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b84b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19140-0001"
+        }
+      },
+      {
+        "id": "FTA-2004-19141-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2004-09-22T03:59:59Z",
+          "title": "U.S. DOT/FTA - Notice of Request for Comments",
+          "postedDate": "2004-09-21T04:00:00Z",
+          "docketId": "FTA-2004-19141",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323f96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2004-19141-0001"
+        }
+      },
+      {
+        "id": "USCG-2004-19106-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-09-22T03:59:59Z",
+          "title": "U.S. DOT/USCG - Notice; Request for Public Comments on PREP Triennial Exercise Schedule for 2005, 2006, and 2007, an PREP Guidelines",
+          "postedDate": "2004-09-21T04:00:00Z",
+          "docketId": "USCG-2004-19106",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323daf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-19106-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19017-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-09-22T03:59:59Z",
+          "title": "U.S. DOT/FAA - Correction -Airworthiness Directives; McDonnell Douglas Model MD-10-10F, MD-10-10F, MD-10-30F, MD-11, MD-11F, and 717-200 Airplanes",
+          "postedDate": "2004-09-21T04:00:00Z",
+          "docketId": "FAA-2004-19017",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032372e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19017-0002"
+        }
+      },
+      {
+        "id": "FMCSA-2003-15818-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:08:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2004-09-22T03:59:59Z",
+          "title": "U.S. DOT/FMCSA - Grant of Exemption",
+          "postedDate": "2004-09-21T04:00:00Z",
+          "docketId": "FMCSA-2003-15818",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-09-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb6e2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2003-15818-0013"
+        }
+      },
+      {
+        "id": "FAA-2004-19158-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-09-22T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments (Original)",
+          "postedDate": "2004-09-21T04:00:00Z",
+          "docketId": "FAA-2004-19158",
+          "subtype": "Final Rule",
+          "commentStartDate": "2004-09-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324045"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19158-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 49,
+            "label": "Other"
+          },
+          {
+            "docCount": 40,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-09-21",
+          "toDate": "2004-09-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

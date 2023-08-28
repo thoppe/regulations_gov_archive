@@ -1,0 +1,272 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OPP-2004-0327-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:19:52Z",
+          "highlightedContent": "",
+          "frDocNum": "61599",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-12-21T04:59:59Z",
+          "title": "Cyprodinil; Pesticide Tolerances",
+          "postedDate": "2004-10-20T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2004-0327",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800b7cc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2004-0327-0001"
+        }
+      },
+      {
+        "id": "APHIS-2004-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": "2004-12-21T04:59:59Z",
+          "title": "Pine Shoot Beetle Host Material From Canada",
+          "postedDate": "2004-10-20T04:00:00Z",
+          "docketId": "APHIS-2004-0015",
+          "subtype": "Interim Rule",
+          "commentStartDate": "2004-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648008890b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2004-0015-0001"
+        }
+      },
+      {
+        "id": "MARAD-2004-19397-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2004-10-21T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Interim Final Rule With Request for comments",
+          "postedDate": "2004-10-20T04:00:00Z",
+          "docketId": "MARAD-2004-19397",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803253a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2004-19397-0001"
+        }
+      },
+      {
+        "id": "NRC-2004-0013-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:13:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "List of Approved Fuel Storage Casks:  NAC-MPC Revision",
+          "postedDate": "2004-10-20T19:11:04Z",
+          "docketId": "NRC-2004-0013",
+          "subtype": "Confirmation of Effective Date",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803e7278"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2004-0013-0004"
+        }
+      },
+      {
+        "id": "FMCSA-1997-2299-0132",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1996-07-30T03:59:59Z",
+          "title": "U.S. DOT/FMCSA - Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "postedDate": "2004-10-20T04:00:00Z",
+          "docketId": "FMCSA-1997-2299",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480318356"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2299-0132"
+        }
+      },
+      {
+        "id": "FAA-2004-19411-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:44:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-10-21T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2004-10-20T04:00:00Z",
+          "docketId": "FAA-2004-19411",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-10-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bee90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19411-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 219,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Notice"
+          },
+          {
+            "docCount": 11,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Confirmation of Effective Date"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-10-20",
+          "toDate": "2004-10-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,456 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2007-27911-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:34:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-31T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "FAA-2007-27911",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b389d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27911-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-29069-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:14:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; Boeing Model 737-100, -200, and -200C Series Airplanes",
+          "postedDate": "2007-08-31T00:00:00Z",
+          "docketId": "FAA-2007-29069",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064802a9e9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-29069-0005"
+        }
+      },
+      {
+        "id": "FCC-2006-0021-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:54:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17123",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2007-10-30T03:59:59Z",
+          "title": "Reexamination of Roaming Obligations of Commercial Mobile Radio Service Providers",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027c968"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0021-0002"
+        }
+      },
+      {
+        "id": "FCC-2007-0225-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:54:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17206",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Telecommunications Services Inside Wiring Customer Premises Equipment, Implementation of the Cable Television Consumer Protection and Competition Act of 1992: Cable Home Wiring",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027c972"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2007-0225-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2007-0103-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:50:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17149",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-10-16T03:59:59Z",
+          "title": "Insurer Reporting Requirements; List of Insurers Required to File Reports",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "NHTSA-2007-0103",
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aa0f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-0103-0002"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2007-0373-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:08:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17002",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-10-02T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Connecticut; Establishment of Interim Progress for the Fine Particle National Ambient Air Quality Standard",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2007-0373",
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027c966"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2007-0373-0004"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2007-0373-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:11:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17004",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-10-02T03:59:59Z",
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Connecticut; Establishment of Interim Progress for the Annual Fine Particle National Ambient Air Quality Standard",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "EPA-R01-OAR-2007-0373",
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027c97a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2007-0373-0005"
+        }
+      },
+      {
+        "id": "SBA-2007-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:57:33Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17130",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": null,
+          "title": "Agency Titling Procedure Revision; Nomenclature Changes",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "SBA-2007-0007",
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027c9c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2007-0007-0001"
+        }
+      },
+      {
+        "id": "FRA-2006-25630-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2007-08-31T03:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of Application for Approval of Discontinuance or Modification of a Railroad Signal System or Relief From the Requirements of Title 49 Code of Federal Regulations Part 236",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "FRA-2006-25630",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ae89a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2006-25630-0006"
+        }
+      },
+      {
+        "id": "FCC-2006-0021-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:53:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17122",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Reexamination of Roaming Obligations of Commercial Mobile Radio Service Providers",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027c976"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0021-0003"
+        }
+      },
+      {
+        "id": "RUS-07-ELECTRIC-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:57:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17194",
+          "withdrawn": false,
+          "agencyId": "RUS",
+          "commentEndDate": "2007-10-30T03:59:59Z",
+          "title": "Specifications for Primary Underground Power Cable",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "RUS-07-ELECTRIC-0009",
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027c983"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RUS-07-ELECTRIC-0009-0001"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-07-11T15:01:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-17054",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Cuban Assets Control Regulations, Burmese Sanctions Regulations, Sudanese Sanctions Regulations, and Iranian Transactions Regulations",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027c8e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-0006"
+        }
+      },
+      {
+        "id": "NHTSA-2007-27240-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:57:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-08-31T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "NHTSA-2007-27240",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b2a8a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-27240-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-29073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:34:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-31T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments",
+          "postedDate": "2007-08-30T04:00:00Z",
+          "docketId": "FAA-2007-29073",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b0708"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-29073-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 37,
+            "label": "Notice"
+          },
+          {
+            "docCount": 34,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 14,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          },
+          {
+            "docCount": 1,
+            "value": "RUS"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-08-30",
+          "toDate": "2007-08-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 14,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 14,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

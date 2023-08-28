@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OPP-2003-0281-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:20:27Z",
+          "highlightedContent": "",
+          "frDocNum": "24984",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Rhamnolipid Biosurfactant; Exemption from the Requirement of a Tolerance; Technical Correction",
+          "postedDate": "2004-05-05T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2003-0281",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800b84ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2003-0281-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0056-1886",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:07:29Z",
+          "highlightedContent": "",
+          "frDocNum": "25052",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-06-30T03:59:59Z",
+          "title": "Reopening of the Comment Period for the Proposed National Emission Standards for Hazardous Air Pollutants; and, in the Alternative, Proposed Standards of Performance for New and Existing Stationary Sources: Electric Utility Steam Generating Units",
+          "postedDate": "2004-05-05T13:29:13Z",
+          "docketId": "EPA-HQ-OAR-2002-0056",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-05-05T13:29:13Z",
+          "openForComment": false,
+          "objectId": "09000064800ab5c4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0056-1886"
+        }
+      },
+      {
+        "id": "USCG-2001-10714-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-05-06T03:59:59Z",
+          "title": "U.S.DOT/USCG - Final Rule",
+          "postedDate": "2004-05-05T04:00:00Z",
+          "docketId": "USCG-2001-10714",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-05-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803026d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10714-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 98,
+            "label": "Other"
+          },
+          {
+            "docCount": 28,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 17,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-05-05",
+          "toDate": "2004-05-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

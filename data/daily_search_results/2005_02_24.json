@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-2000-7762-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:18:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2005-02-25T04:59:59Z",
+          "title": "U.S. DOT/PHMSA - Final Rule",
+          "postedDate": "2005-02-24T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2000-7762",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-02-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480340dca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2000-7762-0030"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2003-0001-0281",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:11:31Z",
+          "highlightedContent": "",
+          "frDocNum": "9138",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hazardous Waste Management System; Identification and Listing of Hazardous Waste; Dyes and/or Pigments Production Wastes; Land Disposal Restrictions for Newly Identified Wastes; CERCLA Hazardous Substance Designation and Reportable Quantities; Designation of Five Chemicals as Appendix VIII Constituents",
+          "postedDate": "2005-02-24T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2003-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dfd97"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2003-0001-0281"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2005-TX-0020-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:09:06Z",
+          "highlightedContent": "",
+          "frDocNum": "9017",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-09-10T03:59:59Z",
+          "title": "TX026.04 Proposed Rule Published February 24, 2005 (70 FR 9017): Low-Emission Diesel Fuel Compliance Dates.  3 pages",
+          "postedDate": "2005-02-24T05:00:00Z",
+          "docketId": "EPA-R06-OAR-2005-TX-0020",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-02-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800a7d60"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2005-TX-0020-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 59,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-02-24",
+          "toDate": "2005-02-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

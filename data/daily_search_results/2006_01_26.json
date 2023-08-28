@@ -1,0 +1,748 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2006-23545-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Request for Comments",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "FAA-2006-23545",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802af280"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23545-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2005-23171-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:51:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Bridgestone Firestone North America Tire, LLC, Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "NHTSA-2005-23171",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5a23"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2005-23171-0003"
+        }
+      },
+      {
+        "id": "CCC-2006-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:02:54Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00742",
+          "withdrawn": false,
+          "agencyId": "CCC",
+          "commentEndDate": null,
+          "title": "Cottonseed Payment Program",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "CCC-2006-0005",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d6db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CCC-2006-0005-0001"
+        }
+      },
+      {
+        "id": "IRS-2006-0041-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:31:05Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00585",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Determination of Basis of Stock or Securities Received in Exchange for, or With Respect to, Stock or Securities in Certain Transactions; Treatment of Excess Loss Accounts",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "IRS-2006-0041",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d720"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0041-0001"
+        }
+      },
+      {
+        "id": "USCG-2006-23670-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:17:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "Notice of Meeting",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "USCG-2006-23670",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802af50f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2006-23670-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2005-23169-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:53:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Cooper Tire & Rubber Company, Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "NHTSA-2005-23169",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ba370"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2005-23169-0003"
+        }
+      },
+      {
+        "id": "IRS-2006-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:31:06Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00587",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Revision of Income Tax Regulations Under Sections 367, 884, and 6038B Dealing With Statutory Mergers or Consolidations Under Section 368(a)(1)(A) Involving One or More Foreign Corporations, and Guidance Necessary To Facilitate Business Electronic Filing Under Section 6038B",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "IRS-2006-0043",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d776"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0043-0001"
+        }
+      },
+      {
+        "id": "SEC-2006-0098-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T22:53:45Z",
+          "highlightedContent": "",
+          "frDocNum": "06-55503",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Trusts",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d6c7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2006-0098-0001"
+        }
+      },
+      {
+        "id": "NCUA-2006-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T20:30:00Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00686",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Uninsured Secondary Capital",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "NCUA-2006-0005",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d7cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2006-0005-0001"
+        }
+      },
+      {
+        "id": "DOD-2006-OS-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:07:45Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00730",
+          "withdrawn": false,
+          "agencyId": "DOD",
+          "commentEndDate": "2006-03-28T04:59:59Z",
+          "title": "User Charges",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "DOD-2006-OS-0005",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d83c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOD-2006-OS-0005-0001"
+        }
+      },
+      {
+        "id": "FPPO-2006-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2006-09-02T17:29:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-00975",
+          "withdrawn": false,
+          "agencyId": "FPPO",
+          "commentEndDate": "2006-03-28T04:59:59Z",
+          "title": "Cost Accounting Standards Board; Accounting for Insurance Costs",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d6d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FPPO-2006-0002-0001"
+        }
+      },
+      {
+        "id": "NOAA-2005-0137-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:11Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00764",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pollock in Statistical Area 610 of the Gulf of Alaska",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "NOAA-2005-0137",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d74c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2005-0137-0002"
+        }
+      },
+      {
+        "id": "IRS-2006-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:31:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-00945",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2006-04-27T03:59:59Z",
+          "title": "Designated Roth Accounts Under Section 402A",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "IRS-2006-0047",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d84b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0047-0001"
+        }
+      },
+      {
+        "id": "IRS-2006-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:31:07Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00588",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Statutory Mergers and Consolidations",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "IRS-2006-0048",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d85f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0048-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0064-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:11Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00765",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Rocket Launches from KodiakIsland, AK",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "NOAA-2006-0064",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d767"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0064-0001"
+        }
+      },
+      {
+        "id": "IRS-2006-0046-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:31:06Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00586",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2006-04-27T03:59:59Z",
+          "title": "Treatment of Excess Loss Accounts",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "IRS-2006-0046",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d838"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0046-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-23275-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:26:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "FAA-2005-23275",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aef39"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-23275-0001"
+        }
+      },
+      {
+        "id": "MSHA-2006-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:44:40Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00803",
+          "withdrawn": false,
+          "agencyId": "MSHA",
+          "commentEndDate": "2006-02-18T04:59:59Z",
+          "title": "Diesel Particulate Matter Exposure of Underground Metal and Nonmetal Miners",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "MSHA-2006-0004",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d711"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MSHA-2006-0004-0001"
+        }
+      },
+      {
+        "id": "SEC-2006-0098-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T22:53:45Z",
+          "highlightedContent": "",
+          "frDocNum": "06-55504",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Schedule 14A--Information Required in Proxy Statement",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d758"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2006-0098-0002"
+        }
+      },
+      {
+        "id": "NHTSA-2005-23168-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T23:01:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Cooper Tire & Rubber Company, Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "NHTSA-2005-23168",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5a0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2005-23168-0003"
+        }
+      },
+      {
+        "id": "FAA-2005-20643-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:28:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Correction",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "FAA-2005-20643",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b9c10"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-20643-0004"
+        }
+      },
+      {
+        "id": "FAA-2006-23690-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:44:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "FAA-2006-23690",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b9ca6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23690-0001"
+        }
+      },
+      {
+        "id": "FERC-2005-0347-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:58:38Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00716",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": null,
+          "title": "Prohibition of Energy Market Manipulation",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d6e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2005-0347-0003"
+        }
+      },
+      {
+        "id": "NOAA-2006-0063-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:10Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00762",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "NOAA-2006-0063",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d734"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0063-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0066-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:40:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-01007",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2006-04-27T03:59:59Z",
+          "title": "Endangered and Threatened Species; Notice of 90-day Finding on a Petition to List the North Pacific Right Whale as an Endangered Species Under the Endangered Species Act",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "NOAA-2006-0066",
+          "subtype": null,
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648011d88a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0066-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22855-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-01-27T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-01-26T05:00:00Z",
+          "docketId": "FAA-2005-22855",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-01-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aec99"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22855-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 92,
+            "label": "Other"
+          },
+          {
+            "docCount": 72,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 60,
+            "label": "Notice"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "IRS"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 2,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "CCC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOD"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FPPO"
+          },
+          {
+            "docCount": 1,
+            "value": "MSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-01-26",
+          "toDate": "2006-01-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

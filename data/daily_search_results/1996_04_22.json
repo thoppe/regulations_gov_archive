@@ -1,0 +1,225 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-1996-1264-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:29:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1996-04-23T03:59:59Z",
+          "title": "Final Rule - Notice 96-11 -  Use of the Official Seal",
+          "postedDate": "1996-04-22T04:00:00Z",
+          "docketId": "DOT-OST-1996-1264",
+          "subtype": "Final Rule",
+          "commentStartDate": "1996-04-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480310673"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1996-1264-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1996-1260-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:29:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1996-04-23T03:59:59Z",
+          "title": "Final Rule - Notice 96-10 Release of International Staff Memoranda Relatig to Public Meetings of the Civil Aeronautics Board  Final Rule - Notice 96-10",
+          "postedDate": "1996-04-22T04:00:00Z",
+          "docketId": "DOT-OST-1996-1260",
+          "subtype": "Final Rule",
+          "commentStartDate": "1996-04-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480310634"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1996-1260-0001"
+        }
+      },
+      {
+        "id": "FHWA-1997-2263-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1996-06-22T03:59:59Z",
+          "title": "Design Standards for Highways;  Geometric Design of Highways and Streets - Interim Final Rule",
+          "postedDate": "1996-04-22T04:00:00Z",
+          "docketId": "FHWA-1997-2263",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "1996-04-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480317be8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1997-2263-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1996-1259-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:24:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1996-04-23T03:59:59Z",
+          "title": "Final Rule - Notice 96-9 National Security Information - Removal  Final Rule - Notice 96-9",
+          "postedDate": "1996-04-22T04:00:00Z",
+          "docketId": "DOT-OST-1996-1259",
+          "subtype": "Final Rule",
+          "commentStartDate": "1996-04-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480310625"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1996-1259-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1996-1258-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:27:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1996-04-23T03:59:59Z",
+          "title": "Final Rule - Notice 96-8 - Medals of Honor",
+          "postedDate": "1996-04-22T04:00:00Z",
+          "docketId": "DOT-OST-1996-1258",
+          "subtype": "Final Rule",
+          "commentStartDate": "1996-04-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480310613"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1996-1258-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 23,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-04-22",
+          "toDate": "1996-04-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

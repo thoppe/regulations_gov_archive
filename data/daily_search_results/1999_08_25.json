@@ -1,0 +1,187 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1999-6136-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-08-26T03:59:59Z",
+          "title": "Notice of Meetings",
+          "postedDate": "1999-08-25T04:00:00Z",
+          "docketId": "USCG-1999-6136",
+          "subtype": null,
+          "commentStartDate": "1999-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033085e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6136-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1999-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:22:31Z",
+          "highlightedContent": "",
+          "frDocNum": "99-20753",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-11-24T04:59:59Z",
+          "title": "Hazardous Waste Management System; Identification and Listing of Hazardous Waste; Chlorinated Aliphatics Production Wastes; Land Disposal Restrictions for Newly Identified Waste; and CERCLA Hazardous Substance Designation and Reportable Quantities [F-1999-CALP-FFFFF]",
+          "postedDate": "1999-08-25T16:58:44Z",
+          "docketId": "EPA-HQ-RCRA-1999-0008",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-08-25T16:58:44Z",
+          "openForComment": false,
+          "objectId": "09000064800dbf58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0008-0001"
+        }
+      },
+      {
+        "id": "FRA-1999-6086-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:57:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "1999-08-26T03:59:59Z",
+          "title": "Notice of Public Meeting",
+          "postedDate": "1999-08-25T04:00:00Z",
+          "docketId": "FRA-1999-6086",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480330293"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1999-6086-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 49,
+            "label": "Other"
+          },
+          {
+            "docCount": 10,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-08-25",
+          "toDate": "1999-08-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

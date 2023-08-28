@@ -1,0 +1,237 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1998-4920-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-01-06T04:59:59Z",
+          "title": "Navigaion Safety Advisory Council; Vacancies - Request for application",
+          "postedDate": "1999-01-05T05:00:00Z",
+          "docketId": "USCG-1998-4920",
+          "subtype": null,
+          "commentStartDate": "1999-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480328dd7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4920-0001"
+        }
+      },
+      {
+        "id": "FDA-1998-N-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2018-04-09T14:35:53Z",
+          "highlightedContent": "",
+          "frDocNum": "98\u201334733",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1999-04-06T03:59:59Z",
+          "title": "External Penile Rigidity Devices; Proposed Classification for the External Penile Rigidity Device",
+          "postedDate": "1999-01-05T05:00:00Z",
+          "docketId": "FDA-1998-N-0043",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "1999-01-04T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648056e625"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-N-0043-0001"
+        }
+      },
+      {
+        "id": "FTA-1998-3474-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "1998-06-02T03:59:59Z",
+          "title": "U.S. DOT/FTA - Final Rule - \"Maintenance\" Under Definition of Safety-Sensitive Functions in Drug and Alcohol Rules",
+          "postedDate": "1999-01-05T05:00:00Z",
+          "docketId": "FTA-1998-3474",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480320508"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-1998-3474-0013"
+        }
+      },
+      {
+        "id": "USCG-1998-4955-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-01-06T04:59:59Z",
+          "title": "Navigation Safety Advisory Council; charter renewal - Notice of charter renewal",
+          "postedDate": "1999-01-05T05:00:00Z",
+          "docketId": "USCG-1998-4955",
+          "subtype": null,
+          "commentStartDate": "1999-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032927f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4955-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4956-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:13:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-02-19T04:59:59Z",
+          "title": "U. S. DOT/NHTSA - Notice of Public Workshop/Request for Comments - Agency Priorities and Public Participation in the Implementation of the 1998 Agreement on Global Technical Regulations; Statement of Policy",
+          "postedDate": "1999-01-05T05:00:00Z",
+          "docketId": "NHTSA-1998-4956",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-01-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032928d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4956-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 27,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-01-05",
+          "toDate": "1999-01-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

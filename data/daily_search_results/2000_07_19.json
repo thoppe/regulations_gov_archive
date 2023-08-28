@@ -1,0 +1,218 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-1999-0041-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-04-07T19:34:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Antitrust Review Authority:  Clarification",
+          "postedDate": "2000-07-19T19:34:51Z",
+          "docketId": "NRC-1999-0041",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480947524"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-1999-0041-0012"
+        }
+      },
+      {
+        "id": "FDA-1999-N-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-11-20T16:44:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Notice of Proposed Rulemaking re Food Additives: Food Contact Substance Notification System",
+          "postedDate": "2000-07-19T04:00:00Z",
+          "docketId": "FDA-1999-N-0036",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804a5d57"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1999-N-0036-0001"
+        }
+      },
+      {
+        "id": "MARAD-1999-5609-0060",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "1999-07-02T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Final Rule",
+          "postedDate": "2000-07-19T04:00:00Z",
+          "docketId": "MARAD-1999-5609",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032cd99"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-1999-5609-0060"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-7401-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:25:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-07-20T03:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule",
+          "postedDate": "2000-07-19T04:00:00Z",
+          "docketId": "DOT-OST-2000-7401",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-07-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033c466"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-7401-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 82,
+            "label": "Other"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-07-19",
+          "toDate": "2000-07-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2000-6942-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-04-21T03:59:59Z",
+          "title": "Notice of Meeting; Change of Location",
+          "postedDate": "2000-04-20T04:00:00Z",
+          "docketId": "USCG-2000-6942",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033653a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-6942-0007"
+        }
+      },
+      {
+        "id": "USCG-2000-6927-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-04-26T03:59:59Z",
+          "title": "Notice of Meeting; Request for Comments",
+          "postedDate": "2000-04-20T04:00:00Z",
+          "docketId": "USCG-2000-6927",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803362d2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-6927-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 48,
+            "label": "Other"
+          },
+          {
+            "docCount": 27,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-04-20",
+          "toDate": "2000-04-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

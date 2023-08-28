@@ -1,0 +1,187 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2002-12413-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-06-13T03:59:59Z",
+          "title": "Request for Application",
+          "postedDate": "2002-06-11T04:00:00Z",
+          "docketId": "USCG-2002-12413",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480306c22"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2002-12413-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2002-0002-0026",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:20:04Z",
+          "highlightedContent": "",
+          "frDocNum": "39927",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2002-09-11T03:59:59Z",
+          "title": "Extension of Comment Period for Proposed Regulation of Oil-Bearing Secondary Materials From the Petroleum Refining Industry and Other Hazardous Secondary Materials Processed in a Gasification Device to Produce Synthesis Gas",
+          "postedDate": "2002-06-11T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2002-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2002-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800df853"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2002-0002-0026"
+        }
+      },
+      {
+        "id": "FTA-2001-9877-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2002-06-12T03:59:59Z",
+          "title": "U.S. DOT/FTA - Final Rule",
+          "postedDate": "2002-06-11T04:00:00Z",
+          "docketId": "FTA-2001-9877",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-06-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803450e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2001-9877-0018"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 72,
+            "label": "Other"
+          },
+          {
+            "docCount": 25,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-06-11",
+          "toDate": "2002-06-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

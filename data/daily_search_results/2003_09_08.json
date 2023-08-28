@@ -1,0 +1,237 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2003-16076-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2003-09-09T03:59:59Z",
+          "title": "U.S. DOT/MARAD -  Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel SV NAMASTE",
+          "postedDate": "2003-09-08T04:00:00Z",
+          "docketId": "MARAD-2003-16076",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480315ed6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2003-16076-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-15372-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:24:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-09-09T03:59:59Z",
+          "title": "U.S. DOT/RSPA -  Final Rule",
+          "postedDate": "2003-09-08T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-15372",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480313795"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-15372-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0049-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:19:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Proposed Rule to Implement 8 Hour Ozone National Ambient Air Quality Standard",
+          "postedDate": "2003-09-08T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0049",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bff9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0049-0014"
+        }
+      },
+      {
+        "id": "DOT-OST-1996-1255-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:26:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2003-09-09T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2003-09-08T04:00:00Z",
+          "docketId": "DOT-OST-1996-1255",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803105e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1996-1255-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-2002-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:10:08Z",
+          "highlightedContent": "",
+          "frDocNum": "52978",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Emergency Planning and Community Right-to-Know Act; Extremely Hazardous Substances List; Modification of Threshold Planning Quantity for Isophorone Diisocyanate; Final Rule",
+          "postedDate": "2003-09-08T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2002-0009",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e23d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2002-0009-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 82,
+            "label": "Other"
+          },
+          {
+            "docCount": 76,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 17,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-09-08",
+          "toDate": "2003-09-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

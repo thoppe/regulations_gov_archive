@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-1997-3013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "1997-10-15T03:59:59Z",
+          "title": "Reduced Vertical Separation Minimum Operations - Final Rule; Request For Comments",
+          "postedDate": "1997-04-09T04:00:00Z",
+          "docketId": "FAA-1997-3013",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-04-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031d8d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1997-3013-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6189-0234",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:07:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1997-04-10T03:59:59Z",
+          "title": "U.S. DOT/USCG - Final Rule-Amdt. 1-286",
+          "postedDate": "1997-04-09T04:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-04-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f0f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0234"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-14614-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:24:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-03-06T04:59:59Z",
+          "title": "Application by Association of Waste Hazardous Materials Transporters for a Preemption Determination as to Houston, TX, Requirements on the Storage, Use, Dispensing and Handling of Hazardous Materials",
+          "postedDate": "1997-04-09T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-14614",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1997-04-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480310577"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-14614-0012"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 63,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1997-04-09",
+          "toDate": "1997-04-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

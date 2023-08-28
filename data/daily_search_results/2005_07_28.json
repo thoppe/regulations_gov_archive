@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2005-20138-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-07-29T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-07-28T04:00:00Z",
+          "docketId": "FAA-2005-20138",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-07-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5856"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-20138-0009"
+        }
+      },
+      {
+        "id": "FDA-2000-N-0109-0136",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T01:26:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "HF-1",
+          "postedDate": "2005-07-28T04:00:00Z",
+          "docketId": "FDA-2000-N-0109",
+          "subtype": "CMD-Commissioner's Decision",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804cddd8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-N-0109-0136"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2004-19173-0033",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2005-07-29T03:59:59Z",
+          "title": "U.S. DOT/PHMSA - Final Rule",
+          "postedDate": "2005-07-28T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2004-19173",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-07-28T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803244bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2004-19173-0033"
+        }
+      },
+      {
+        "id": "FDA-2000-N-0109-0137",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T01:28:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "HF-1",
+          "postedDate": "2005-07-28T04:00:00Z",
+          "docketId": "FDA-2000-N-0109",
+          "subtype": "CMD-Commissioner's Decision",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804cddd9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-N-0109-0137"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 61,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 38,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "CMD-Commissioner's Decision"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-07-28",
+          "toDate": "2005-07-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

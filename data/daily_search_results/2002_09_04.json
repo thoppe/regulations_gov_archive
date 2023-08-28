@@ -1,0 +1,198 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-1991-13289-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:23:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1991-03-27T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Advance Notice of Proposed Rulemaking",
+          "postedDate": "2002-09-04T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1991-13289",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480309512"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1991-13289-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1991-13289-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:19:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1991-03-27T04:59:59Z",
+          "title": "Safeguarding Food From Contamination During Transportation; Extension of Comment Period",
+          "postedDate": "2002-09-04T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1991-13289",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030958d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1991-13289-0002"
+        }
+      },
+      {
+        "id": "FAA-2002-13235-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-09-06T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2002-09-04T04:00:00Z",
+          "docketId": "FAA-2002-13235",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480308fa0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13235-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1991-13289-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:23:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1991-03-27T04:59:59Z",
+          "title": "Safeguarding Food From Contamination During Transportation",
+          "postedDate": "2002-09-04T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1991-13289",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-04T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803095cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1991-13289-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 105,
+            "label": "Other"
+          },
+          {
+            "docCount": 51,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 14,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-09-04",
+          "toDate": "2002-09-04"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

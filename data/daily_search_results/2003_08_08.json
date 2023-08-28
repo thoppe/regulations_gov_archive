@@ -1,0 +1,244 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2003-14830-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-08-09T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2003-08-08T04:00:00Z",
+          "docketId": "FAA-2003-14830",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480383ece"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-14830-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-11346-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-08-09T03:59:59Z",
+          "title": "U.S. DOT/FAA -  Final Rule - Correction",
+          "postedDate": "2003-08-08T04:00:00Z",
+          "docketId": "FAA-2002-11346",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030414e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-11346-0007"
+        }
+      },
+      {
+        "id": "FAA-2002-13959-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-08-09T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2003-08-08T04:00:00Z",
+          "docketId": "FAA-2002-13959",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030ce0a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13959-0003"
+        }
+      },
+      {
+        "id": "FAA-2002-11346-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-08-09T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Correction (Original)",
+          "postedDate": "2003-08-08T04:00:00Z",
+          "docketId": "FAA-2002-11346",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030414f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-11346-0008"
+        }
+      },
+      {
+        "id": "USCG-2003-15813-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2003-08-09T03:59:59Z",
+          "title": "Notice of Temporary Rules Issued",
+          "postedDate": "2003-08-08T04:00:00Z",
+          "docketId": "USCG-2003-15813",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480314e01"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2003-15813-0001"
+        }
+      },
+      {
+        "id": "FAA-2003-15745-0037",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-08-09T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice Rescheduling the Date of the Lottery to Allocate Slots at Reagan Washington National Airport",
+          "postedDate": "2003-08-08T04:00:00Z",
+          "docketId": "FAA-2003-15745",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803148b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-15745-0037"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 142,
+            "label": "Other"
+          },
+          {
+            "docCount": 57,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 13,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-08-08",
+          "toDate": "2003-08-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

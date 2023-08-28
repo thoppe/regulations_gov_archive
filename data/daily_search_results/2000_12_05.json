@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2000-0028-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:11:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - List of Approved Spent Fuel Storage Casks:  TN-32 Revision",
+          "postedDate": "2000-12-05T20:32:03Z",
+          "docketId": "NRC-2000-0028",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064807dcc06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0028-0002"
+        }
+      },
+      {
+        "id": "FAA-2000-8278-0056",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-06T04:59:59Z",
+          "title": "Notice of lottery for takeoff and landing times at LaGuardia Airport",
+          "postedDate": "2000-12-05T05:00:00Z",
+          "docketId": "FAA-2000-8278",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480343623"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-8278-0056"
+        }
+      },
+      {
+        "id": "FAA-2000-8218-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-15T04:59:59Z",
+          "title": "U.S DOT/FAA - Notice of a Petitions for Exemption Received and of Dispositions of Prior Petitions",
+          "postedDate": "2000-12-05T05:00:00Z",
+          "docketId": "FAA-2000-8218",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480343086"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-8218-0003"
+        }
+      },
+      {
+        "id": "NRC-2000-0028-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:11:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2001-01-05T04:59:59Z",
+          "title": "Federal Register Notice - List of Approved Spent Fuel Storage Casks:  TN-32 Revision",
+          "postedDate": "2000-12-05T20:31:06Z",
+          "docketId": "NRC-2000-0028",
+          "subtype": null,
+          "commentStartDate": "2000-12-05T20:31:06Z",
+          "openForComment": false,
+          "objectId": "09000064807dcbf3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0028-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 46,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-12-05",
+          "toDate": "2000-12-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

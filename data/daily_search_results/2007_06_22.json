@@ -1,0 +1,449 @@
+[
+  {
+    "data": [
+      {
+        "id": "OPM-2007-0050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:53:50Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12096",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": "2007-08-22T03:59:59Z",
+          "title": "Locality Pay Areas",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "OPM-2007-0050",
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480255405"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2007-0050-0001"
+        }
+      },
+      {
+        "id": "VA-2007-VACO-0027-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:51:35Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03085",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": "2007-08-22T03:59:59Z",
+          "title": "AM63 - Data Breaches",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "VA-2007-VACO-0027",
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802554a4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2007-VACO-0027-0001"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-07-11T15:01:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12148",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Burmese Sanctions Regulations",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802554c0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-0004"
+        }
+      },
+      {
+        "id": "FHWA-2007-28524-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:02:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2007-06-23T03:59:59Z",
+          "title": "Notice and Request for Comments",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "FHWA-2007-28524",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ad985"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2007-28524-0001"
+        }
+      },
+      {
+        "id": "CFTC-2007-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:03:47Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12045",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2007-07-24T03:59:59Z",
+          "title": "Maintenance of Books, Records and Reports by Traders",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802553f3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2007-0048-0001"
+        }
+      },
+      {
+        "id": "PRC-2007-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-07-16T11:11:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-11939",
+          "withdrawn": false,
+          "agencyId": "PRC",
+          "commentEndDate": "2007-07-17T03:59:59Z",
+          "title": "Administrative Practice and Procedure, Postal Service",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480255411"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PRC-2007-0014-0001"
+        }
+      },
+      {
+        "id": "VA-2007-VACO-0026-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:51:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12058",
+          "withdrawn": false,
+          "agencyId": "VA",
+          "commentEndDate": null,
+          "title": "AM66 - Delegations of Authority: Office of Regulation Policy and Management (ORPM)",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "VA-2007-VACO-0026",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648025542b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/VA-2007-VACO-0026-0001"
+        }
+      },
+      {
+        "id": "CMS-2007-0108-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:25:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-11721",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program; Provider Reimbursement Determinations and Appeals; Extension of Timeline for Publication of Final Rule",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "CMS-2007-0108",
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480255518"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2007-0108-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-0523-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:18:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-11794",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-08-22T03:59:59Z",
+          "title": "Thiamethoxam; Pesticide Tolerance",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2006-0523",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802553e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-0523-0004"
+        }
+      },
+      {
+        "id": "NOAA-2006-0450-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:08Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03068",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Northeast (NE) Multispecies Fishery; Closure of the Eastern U.S./Canada Area",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "NOAA-2006-0450",
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480255413"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0450-0002"
+        }
+      },
+      {
+        "id": "CFTC-2007-0052-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:37:57Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-11984",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2007-07-24T03:59:59Z",
+          "title": "Special Calls",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802554a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2007-0052-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2007-27662-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:55:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-06-23T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Correcting Amendments",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "NHTSA-2007-27662",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b740e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-27662-0009"
+        }
+      },
+      {
+        "id": "DOS-2007-0007-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:14:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-11810",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": "2007-08-22T03:59:59Z",
+          "title": "Exchange Visitor Program--Fees and Charges for Exchange Visitor Program Services",
+          "postedDate": "2007-06-22T04:00:00Z",
+          "docketId": "DOS-2007-0007",
+          "subtype": null,
+          "commentStartDate": "2007-06-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480255511"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2007-0007-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 61,
+            "label": "Other"
+          },
+          {
+            "docCount": 57,
+            "label": "Notice"
+          },
+          {
+            "docCount": 43,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 8,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 13,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 2,
+            "value": "VA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "PRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-06-22",
+          "toDate": "2007-06-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 13,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 13,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

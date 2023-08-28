@@ -1,0 +1,214 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2001-9465-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:03:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-04-25T03:59:59Z",
+          "title": "U.S. DOT/MARAD- Invitation for Public Comments on a Request Administrative Waiver of the Coastwise Trade Laws for the Vessel MYSTIC DREAM",
+          "postedDate": "2001-04-24T04:00:00Z",
+          "docketId": "MARAD-2001-9465",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-04-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480343116"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-9465-0002"
+        }
+      },
+      {
+        "id": "USCG-2001-9433-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-04-25T03:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2001-04-24T04:00:00Z",
+          "docketId": "USCG-2001-9433",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-04-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480342f33"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-9433-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2001-0037-0032",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:12:35Z",
+          "highlightedContent": "",
+          "frDocNum": "27282",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Regulatory Reinvention (XL) Pilot Projects [F-2001-YCLP-S0031]",
+          "postedDate": "2001-04-24T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2001-0037",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e2a64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2001-0037-0032"
+        }
+      },
+      {
+        "id": "NHTSA-2000-7139-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:10:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-04-25T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Decision by NHTSA that nonconforming 1999-2000 Mercedes Benz Gelaendewagen multi-purpose Passenger Vehicles (MPVs) are eligible for Importation",
+          "postedDate": "2001-04-24T04:00:00Z",
+          "docketId": "NHTSA-2000-7139",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-04-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480338f9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2000-7139-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 97,
+            "label": "Other"
+          },
+          {
+            "docCount": 29,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-04-24",
+          "toDate": "2001-04-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

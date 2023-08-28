@@ -1,0 +1,272 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-1998-20-0255",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-06-14T18:47:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2002-04-06T04:59:59Z",
+          "title": "Notice of Availabilty",
+          "postedDate": "2002-04-05T05:00:00Z",
+          "docketId": "DOT-OST-1998-20",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-04-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803822e9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1998-20-0255"
+        }
+      },
+      {
+        "id": "FMCSA-2002-11733-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-05-16T03:59:59Z",
+          "title": "Notice and Request for Comments",
+          "postedDate": "2002-04-05T05:00:00Z",
+          "docketId": "FMCSA-2002-11733",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-04-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480304e4d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-11733-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPPT-2002-0010-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:17:15Z",
+          "highlightedContent": "",
+          "frDocNum": "16345",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2002-07-10T03:59:59Z",
+          "title": "Perfluoroalkyl Sulfonates; Proposed Significant New Use Rule; Extension of Comment \r\nPeriod",
+          "postedDate": "2002-04-05T05:00:00Z",
+          "docketId": "EPA-HQ-OPPT-2002-0010",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2002-04-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800b21d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPPT-2002-0010-0001"
+        }
+      },
+      {
+        "id": "USCG-2001-10998-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-05-16T03:59:59Z",
+          "title": "Notice of Availability",
+          "postedDate": "2002-04-05T05:00:00Z",
+          "docketId": "USCG-2001-10998",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-04-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803032c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10998-0013"
+        }
+      },
+      {
+        "id": "NRC-2001-0007-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:11:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Revision of the Skin Dose Limit",
+          "postedDate": "2002-04-05T15:20:07Z",
+          "docketId": "NRC-2001-0007",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648062f314"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2001-0007-0011"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1999-6132-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:23:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-05-16T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Proposed Rulemaking",
+          "postedDate": "2002-04-05T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-6132",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-04-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033082b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-6132-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 56,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-04-05",
+          "toDate": "2002-04-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

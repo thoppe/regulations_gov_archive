@@ -1,0 +1,225 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-2002-13272-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-09-10T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Public Comments on Proposed Collection of Information",
+          "postedDate": "2002-09-09T04:00:00Z",
+          "docketId": "NHTSA-2002-13272",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480309372"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2002-13272-0001"
+        }
+      },
+      {
+        "id": "FHWA-1999-6156-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-02-07T18:36:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2002-09-10T03:59:59Z",
+          "title": "Notice of Renewal of Exemption; Request for Comments",
+          "postedDate": "2002-09-09T04:00:00Z",
+          "docketId": "FHWA-1999-6156",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7da1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-6156-0009"
+        }
+      },
+      {
+        "id": "FMCSA-2000-7006-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:08:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-09-10T03:59:59Z",
+          "title": "Notice of Renewal of Exemption; Request for Comments",
+          "postedDate": "2002-09-09T04:00:00Z",
+          "docketId": "FMCSA-2000-7006",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c1121"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-7006-0006"
+        }
+      },
+      {
+        "id": "FMCSA-2000-7165-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:05:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-09-10T03:59:59Z",
+          "title": "Notice of Renewal of Exemption; Request for Comments",
+          "postedDate": "2002-09-09T04:00:00Z",
+          "docketId": "FMCSA-2000-7165",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c1eba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-7165-0004"
+        }
+      },
+      {
+        "id": "FMCSA-2002-12294-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:06:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-09-10T03:59:59Z",
+          "title": "Notice of Final Disposition",
+          "postedDate": "2002-09-09T04:00:00Z",
+          "docketId": "FMCSA-2002-12294",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802baf32"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-12294-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 85,
+            "label": "Other"
+          },
+          {
+            "docCount": 72,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 19,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-09-09",
+          "toDate": "2002-09-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

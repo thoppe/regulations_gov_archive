@@ -1,0 +1,202 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2001-10772-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-10-23T03:59:59Z",
+          "title": "Notice of Meetings",
+          "postedDate": "2001-10-22T04:00:00Z",
+          "docketId": "USCG-2001-10772",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-10-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803028a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10772-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1999-5572-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-12-14T03:00:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-10-23T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Comments",
+          "postedDate": "2001-10-22T04:00:00Z",
+          "docketId": "NHTSA-1999-5572",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-10-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a78a5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5572-0008"
+        }
+      },
+      {
+        "id": "NHTSA-2001-10044-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:06:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-10-23T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Reliance Trailer Co., LLC; Grant of Application for Temporary Exemption from Federal Motor Vehicle Safety Standards No. 224",
+          "postedDate": "2001-10-22T04:00:00Z",
+          "docketId": "NHTSA-2001-10044",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-10-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300c7e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-10044-0004"
+        }
+      },
+      {
+        "id": "FMCSA-2000-7174-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2001-10-23T03:59:59Z",
+          "title": "Advance Notice of Proposed Rulemaking (ANPRM); Request for Comments",
+          "postedDate": "2001-10-22T04:00:00Z",
+          "docketId": "FMCSA-2000-7174",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-10-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480339566"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-7174-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 38,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-10-22",
+          "toDate": "2001-10-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

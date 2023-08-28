@@ -1,0 +1,187 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OW-2004-0040-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:48Z",
+          "highlightedContent": "",
+          "frDocNum": "7606",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1998-03-31T04:59:59Z",
+          "title": "National Primary Drinking Water Regulations: Consumer Confidence; Proposed Rule",
+          "postedDate": "1998-02-13T05:00:00Z",
+          "docketId": "EPA-HQ-OW-2004-0040",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1998-02-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800c2015"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2004-0040-0012"
+        }
+      },
+      {
+        "id": "DOT-OST-1996-1472-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:27:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1998-02-18T04:59:59Z",
+          "title": "Privacy Act; Implementation; Final Rule; Correction",
+          "postedDate": "1998-02-13T05:00:00Z",
+          "docketId": "DOT-OST-1996-1472",
+          "subtype": "Final Rule",
+          "commentStartDate": "1998-02-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480311b3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1996-1472-0008"
+        }
+      },
+      {
+        "id": "USCG-1998-3324-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-02-18T04:59:59Z",
+          "title": "USCG - Critical Ship Safety Systems Table and Components of a Supplement Under the Alternate Compliance Program - Notice of Policy Concerning Critical Ship Safety Systems and U. S. Supplement Review Process; Request for Comments",
+          "postedDate": "1998-02-13T05:00:00Z",
+          "docketId": "USCG-1998-3324",
+          "subtype": null,
+          "commentStartDate": "1998-02-13T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f97c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3324-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 26,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-02-13",
+          "toDate": "1998-02-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "OSHA-C11-2006-0210-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-08-10T20:11:50Z",
+          "highlightedContent": "",
+          "frDocNum": "04-7612",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2004-04-06T03:59:59Z",
+          "title": "1: PROCEDURES FOR THE HANDLING OF DISCRIMINATION COMPLAINTS UNDER SECTION 6 OF THE PIPELINE SAFETY IMPROVEMENT ACT OF 2002. INTERIM FINAL RULE, REQUEST FOR COMMENTS.",
+          "postedDate": "2004-04-05T04:00:00Z",
+          "docketId": "OSHA-C11-2006-0210",
+          "subtype": "Federal Register Notices",
+          "commentStartDate": "2004-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801fba26"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-C11-2006-0210-0001"
+        }
+      },
+      {
+        "id": "FRA-2002-12836-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:57:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2004-04-06T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver of Compliance - Union Pacific Railroad Company",
+          "postedDate": "2004-04-05T04:00:00Z",
+          "docketId": "FRA-2002-12836",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480307a24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2002-12836-0015"
+        }
+      },
+      {
+        "id": "NHTSA-2002-11398-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-04-06T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Denial of Petition for Rulemaking",
+          "postedDate": "2004-04-05T04:00:00Z",
+          "docketId": "NHTSA-2002-11398",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803042ed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2002-11398-0010"
+        }
+      },
+      {
+        "id": "FRA-2004-17192-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2004-04-06T03:59:59Z",
+          "title": "U.S. DOT/FRA -  Notice of Application of Approval of Discontinuance or Modification of a Railroad Signal System or Relief from the Requirements of Title 49 Code of Federal Regulation Part 236 - Alaska Railroad Corporation",
+          "postedDate": "2004-04-05T04:00:00Z",
+          "docketId": "FRA-2004-17192",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-04-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031c068"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2004-17192-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 126,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 83,
+            "label": "Other"
+          },
+          {
+            "docCount": 29,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Notices"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-04-05",
+          "toDate": "2004-04-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

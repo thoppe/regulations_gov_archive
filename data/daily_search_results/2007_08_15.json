@@ -1,0 +1,675 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2007-28591-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:34:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "FAA-2007-28591",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802adb18"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28591-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-RCRA-2007-0889-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:20:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-16009",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-09-15T03:59:59Z",
+          "title": "Arkansas: Final Authorization of State Hazardous Waste Management Program Revision",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "EPA-R06-RCRA-2007-0889",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480277281"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-RCRA-2007-0889-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0521-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:14Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03993",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Spiny Dogfish Fishery; Commercial Period 1 Quota Harvested",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "NOAA-2006-0521",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802772bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0521-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-0329-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:25Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-16057",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-10-16T03:59:59Z",
+          "title": "Zucchini Yellow Mosaic Virus-Weak Strain; Exemption from the Requirement of a Tolerance",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2006-0329",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802773ad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-0329-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2005-0545-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:23:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-16050",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-10-16T03:59:59Z",
+          "title": "Lambda-Cyhalothrin; Pesticide Tolerance",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2005-0545",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802773bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2005-0545-0008"
+        }
+      },
+      {
+        "id": "EPA-R06-OAR-2007-0651-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:14:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-16044",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-09-15T03:59:59Z",
+          "title": "LA018.17 Approval and Promulgation of Implementation Plans; Louisiana; Clean Air Interstate Rule Nitrogen Oxides Trading Programs",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "EPA-R06-OAR-2007-0651",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802773e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-OAR-2007-0651-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2006-1026-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15698",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-10-16T03:59:59Z",
+          "title": "Pyrasulfotole; Pesticide Tolerance",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2006-1026",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802773fe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2006-1026-0005"
+        }
+      },
+      {
+        "id": "FCC-2007-0209-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:53:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15922",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Digital Audio Broadcasting Systems and Their Impact on the Terrestrial Radio Broadcast Service",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480277425"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2007-0209-0001"
+        }
+      },
+      {
+        "id": "PBGC_FRDOC_0001-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-08-15T11:20:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15986",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": null,
+          "title": "Benefits Payable in Terminated Single-Employer Plans; Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing and Paying Benefits",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "PBGC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480277336"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC_FRDOC_0001-0020"
+        }
+      },
+      {
+        "id": "HUD-2007-0113-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:30:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-15962",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": "2007-10-16T03:59:59Z",
+          "title": "Project Design and Cost Standards for the Section 202 and Section 811 Programs",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "HUD-2007-0113",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480277258"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2007-0113-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2007-0220-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:18:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-16055",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-10-16T03:59:59Z",
+          "title": "Cis-isomer of 1-(3-chloroallyl)-3,5,7-triaza-1-azoniaadamantane chloride (CAS Reg. No. 51229-78-8); Exemption from the Requirement of a Tolerance",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2007-0220",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480277405"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2007-0220-0001"
+        }
+      },
+      {
+        "id": "FCC-2007-0209-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:53:13Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03958",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2007-10-16T03:59:59Z",
+          "title": "Digital Audio Broadcasting Systems and Their Impact on the Terrestrial Radio Broadcast Service",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480277438"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2007-0209-0002"
+        }
+      },
+      {
+        "id": "ICEB-2006-0004-0230",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2015-03-16T04:58:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-16066",
+          "withdrawn": false,
+          "agencyId": "ICEB",
+          "commentEndDate": null,
+          "title": "Safe-Harbor Procedures for Employers Who Receive a No-Match Letter",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "ICEB-2006-0004",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648027746b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ICEB-2006-0004-0230"
+        }
+      },
+      {
+        "id": "FAA-2007-0004-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:38:48Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03961",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Proposed Amendment of Class E Airspace; Scottsboro, AL",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "FAA-2007-0004",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064802e326f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0004-0009"
+        }
+      },
+      {
+        "id": "FAA-2007-28843-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:42:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "FAA-2007-28843",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a97ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28843-0001"
+        }
+      },
+      {
+        "id": "EPA-R06-RCRA-2007-0889-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:40Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-16012",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-09-15T03:59:59Z",
+          "title": "Arkansas: Final Authorization of State Hazardous Waste Management Program Revisions",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "EPA-R06-RCRA-2007-0889",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802772bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R06-RCRA-2007-0889-0002"
+        }
+      },
+      {
+        "id": "SSA-2007-0045-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2012-04-18T21:13:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-16071",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": "2007-11-14T04:59:59Z",
+          "title": "Proposed Suspension of New Claims to the Federal Reviewing Official Review Level, Changes to the Role of the Medical and Vocational Expert System, and Future Demonstration Projects",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "SSA-2007-0045",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480277305"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2007-0045-0001"
+        }
+      },
+      {
+        "id": "NOAA-2007-0151-0030",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:14Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03994",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Shallow- water Species Fishery by Vessels Using Trawl Gear in the Gulf of Alaska",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "NOAA-2007-0151",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648027730e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0151-0030"
+        }
+      },
+      {
+        "id": "FAA-2005-22449-0101",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "FAA-2005-22449",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aa5b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22449-0101"
+        }
+      },
+      {
+        "id": "FAA-2007-28853-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Correction",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "FAA-2007-28853",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b0691"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28853-0007"
+        }
+      },
+      {
+        "id": "FAA-2007-28635-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "FAA-2007-28635",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802adbe6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28635-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-28669-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-08-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "FAA-2007-28669",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802adc6f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28669-0001"
+        }
+      },
+      {
+        "id": "NOAA-2007-0151-0031",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:14Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03995",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Economic Exclusive Zone Off Alaska; Deep-water Species Fishery by Vessels Using Trawl Gear in the Gulf of Alaska",
+          "postedDate": "2007-08-15T04:00:00Z",
+          "docketId": "NOAA-2007-0151",
+          "subtype": null,
+          "commentStartDate": "2007-08-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802773b8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0151-0031"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 75,
+            "label": "Notice"
+          },
+          {
+            "docCount": 71,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 61,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Foreign Airworthiness Directive"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 23,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 7,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "ICEB"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-08-15",
+          "toDate": "2007-08-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 23,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 23,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

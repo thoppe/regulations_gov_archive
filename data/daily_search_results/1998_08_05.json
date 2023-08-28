@@ -1,0 +1,187 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-TRI-2005-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-07-15T19:14:26Z",
+          "highlightedContent": "",
+          "frDocNum": "41819",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1998-08-15T03:59:59Z",
+          "title": "Toxics Data Reporting Committee of the National Advisory Council for Environmental Policy and Technology; Notice of Public Meeting [A1-001]",
+          "postedDate": "1998-08-05T04:00:00Z",
+          "docketId": "EPA-HQ-TRI-2005-0003",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1998-08-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800c32ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-TRI-2005-0003-0001"
+        }
+      },
+      {
+        "id": "FHWA-1998-3542-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1998-08-06T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking; Physical Qualification of Drivers; MedicalExamination; Certificate - Notice of Proposed Rulemaking (NPRM); Request for Comments",
+          "postedDate": "1998-08-05T04:00:00Z",
+          "docketId": "FHWA-1998-3542",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480320819"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1998-3542-0001"
+        }
+      },
+      {
+        "id": "FMCSA-1997-2858-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1998-08-06T03:59:59Z",
+          "title": "Advance Notice of Proposed Rulemaking; Federal Motor Carrier Safety Regulations; Definition of Commercial Motor Vehicle - Advance Notice of Proposed Rulemaking; Request for Comments",
+          "postedDate": "1998-08-05T04:00:00Z",
+          "docketId": "FMCSA-1997-2858",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031c668"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2858-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 16,
+            "label": "Other"
+          },
+          {
+            "docCount": 6,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-08-05",
+          "toDate": "1998-08-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

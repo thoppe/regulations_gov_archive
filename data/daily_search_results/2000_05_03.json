@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-1999-6210-0285",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:18:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-05-17T03:59:59Z",
+          "title": "U. S. DOT/OST - Ex Parte Letter to The Honorable Sharpe James",
+          "postedDate": "2000-05-03T04:00:00Z",
+          "docketId": "DOT-OST-1999-6210",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480331154"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6210-0285"
+        }
+      },
+      {
+        "id": "NHTSA-2000-7163-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-05-04T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Evenflo Company, Inc.,; Receipt of Application for Decision of Inconsequential Noncompliance",
+          "postedDate": "2000-05-03T04:00:00Z",
+          "docketId": "NHTSA-2000-7163",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803394dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2000-7163-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6210-0288",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:21:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-05-17T03:59:59Z",
+          "title": "U. S. DOT/OST - Ex Parte Letter to The Honorable Kirk Fordice",
+          "postedDate": "2000-05-03T04:00:00Z",
+          "docketId": "DOT-OST-1999-6210",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480331157"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6210-0288"
+        }
+      },
+      {
+        "id": "USCG-2000-7288-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-05-04T03:59:59Z",
+          "title": "Notice of Availability and Request for Comments",
+          "postedDate": "2000-05-03T04:00:00Z",
+          "docketId": "USCG-2000-7288",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033aea8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-7288-0001"
+        }
+      },
+      {
+        "id": "FRA-2000-7290-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-05-04T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver to Operate Special Train",
+          "postedDate": "2000-05-03T04:00:00Z",
+          "docketId": "FRA-2000-7290",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033af2c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7290-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 69,
+            "label": "Other"
+          },
+          {
+            "docCount": 24,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-05-03",
+          "toDate": "2000-05-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

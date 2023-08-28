@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1998-4335-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:13:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-09-24T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Receipt of Petition for Decision that Nonconforming 1993 Chrysler Town and Country Multi-Purpose Passenger Vehicles (MPVs) are Eligible for Importation",
+          "postedDate": "1998-08-24T04:00:00Z",
+          "docketId": "NHTSA-1998-4335",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-08-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480325084"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4335-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0003-0167",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Land Disposal Restrictions Phase IV: Final Rule Promulgating Treatment Standards for Metal Wastes and Mineral Processing Wastes; Mineral Processing Secondary Materials and Bevill Exclusion Issues; Treatment Standards for Hazardous Soils, and Exclusion of Recycled Wood Preserving Wastewaters",
+          "postedDate": "1998-08-24T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0003",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dc18a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0003-0167"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0373-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-29T19:12:21Z",
+          "highlightedContent": "",
+          "frDocNum": "45036",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1998-09-24T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants from Secondary Lead Smelting; Proposed Rule; Amendments to Rule",
+          "postedDate": "1998-08-24T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0373",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1998-08-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bebb8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0373-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 30,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-08-24",
+          "toDate": "1998-08-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

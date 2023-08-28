@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-1999-5455-0072",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:20:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2001-02-09T04:59:59Z",
+          "title": "U.S.DOT/RSPA - Final Rule; Delay of Effective Date",
+          "postedDate": "2001-02-08T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-5455",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032be09"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-5455-0072"
+        }
+      },
+      {
+        "id": "FAA-2001-8607-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-02-09T04:59:59Z",
+          "title": "Final Rule; Delay of Effective Date",
+          "postedDate": "2001-02-08T05:00:00Z",
+          "docketId": "FAA-2001-8607",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480344fbe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8607-0003"
+        }
+      },
+      {
+        "id": "FAA-2000-7953-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-02-09T04:59:59Z",
+          "title": "Licensing and Safety Requirements for Launch (Corrections)",
+          "postedDate": "2001-02-08T05:00:00Z",
+          "docketId": "FAA-2000-7953",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cbb32"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7953-0004"
+        }
+      },
+      {
+        "id": "FAA-2001-8607-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-02-10T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Delay of Effective Date (Draft)",
+          "postedDate": "2001-02-08T05:00:00Z",
+          "docketId": "FAA-2001-8607",
+          "subtype": "Final Rule",
+          "commentStartDate": "2001-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480344fbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8607-0004"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4515-0021",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:06:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-02-09T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule; Delay of Effective Date",
+          "postedDate": "2001-02-08T05:00:00Z",
+          "docketId": "NHTSA-1998-4515",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032648a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4515-0021"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1999-6355-0072",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:04:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2001-02-09T04:59:59Z",
+          "title": "U.S.DOT/RSPA - Final Rule; Delay of Effective Date",
+          "postedDate": "2001-02-08T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-6355",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a81dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-6355-0072"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 55,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-02-08",
+          "toDate": "2001-02-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

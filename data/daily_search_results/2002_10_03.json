@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "RITA-BTS-2001-11069-0064",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "RITA",
+          "commentEndDate": "2002-10-04T03:59:59Z",
+          "title": "U.S. DOT/BTS - Notice of Availability",
+          "postedDate": "2002-10-03T04:00:00Z",
+          "docketId": "RITA-BTS-2001-11069",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480303624"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RITA-BTS-2001-11069-0064"
+        }
+      },
+      {
+        "id": "DOT-OST-2002-13179-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:27:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2002-10-04T03:59:59Z",
+          "title": "Withrdrawal of Notices of Proposed Rulemakings",
+          "postedDate": "2002-10-03T04:00:00Z",
+          "docketId": "DOT-OST-2002-13179",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480308b68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2002-13179-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-13458-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-10-04T03:59:59Z",
+          "title": "U.S. DOTFAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2002-10-03T04:00:00Z",
+          "docketId": "FAA-2002-13458",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bbbd9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13458-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2002-13409-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:04:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2002-10-04T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice",
+          "postedDate": "2002-10-03T04:00:00Z",
+          "docketId": "NHTSA-2002-13409",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030a100"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2002-13409-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 104,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Notice"
+          },
+          {
+            "docCount": 12,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "RITA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-10-03",
+          "toDate": "2002-10-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,941 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRS-2007-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:25:23Z",
+          "highlightedContent": "",
+          "frDocNum": "07-00079",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": "2007-02-13T04:59:59Z",
+          "title": "Management Official Interlocks",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b18"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2007-0011-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2005-MD-0009-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:13:16Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00252",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Maryland; VOC RACT for Perdue Farms, Inc.",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2005-MD-0009",
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3bde"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2005-MD-0009-0010"
+        }
+      },
+      {
+        "id": "SEC-2007-0046-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:58:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00238",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Amendment to Rule Filing Requirements for Self-Regulatory Organizations Regarding New Derivative Securities Products; Correction",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-0046-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-26031-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date and Correction.",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-26031",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b13e1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26031-0002"
+        }
+      },
+      {
+        "id": "FTA-2006-25750-0037",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:52:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FTA - Final Policy Statement",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FTA-2006-25750",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c24cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2006-25750-0037"
+        }
+      },
+      {
+        "id": "FAA-2006-25942-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Request for Comments.",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-25942",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b126b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25942-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-26236-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-26236",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4dc4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26236-0005"
+        }
+      },
+      {
+        "id": "OCC-2007-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:52:11Z",
+          "highlightedContent": "",
+          "frDocNum": "07-00079",
+          "withdrawn": false,
+          "agencyId": "OCC",
+          "commentEndDate": "2007-02-13T04:59:59Z",
+          "title": "Management Official Interlocks",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "OCC-2007-0001",
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3aee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OCC-2007-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-26311-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking; Correction.",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-26311",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b763d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26311-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-25436-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-25436",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b0c63"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25436-0002"
+        }
+      },
+      {
+        "id": "FISCAL-2007-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:23:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00127",
+          "withdrawn": false,
+          "agencyId": "FISCAL",
+          "commentEndDate": "2007-03-13T03:59:59Z",
+          "title": "Administrative Offset Under Reciprocal Agreements With States",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FISCAL-2007-0002",
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3c4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FISCAL-2007-0002-0001"
+        }
+      },
+      {
+        "id": "FDIC-2007-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:21:39Z",
+          "highlightedContent": "",
+          "frDocNum": "07-00079",
+          "withdrawn": false,
+          "agencyId": "FDIC",
+          "commentEndDate": "2007-02-13T04:59:59Z",
+          "title": "Management Official Interlocks",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3bc7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDIC-2007-0001-0001"
+        }
+      },
+      {
+        "id": "OTS-2007-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:54:47Z",
+          "highlightedContent": "",
+          "frDocNum": "07-00079",
+          "withdrawn": false,
+          "agencyId": "OTS",
+          "commentEndDate": "2007-02-13T04:59:59Z",
+          "title": "Management Official Interlocks",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "OTS-2007-0003",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3bfb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OTS-2007-0003-0001"
+        }
+      },
+      {
+        "id": "FCA-2007-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:20:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00221",
+          "withdrawn": false,
+          "agencyId": "FCA",
+          "commentEndDate": "2007-02-27T04:59:59Z",
+          "title": "Eligibility and Scope of Financing; Processing and Marketing",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3c0e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCA-2007-0003-0001"
+        }
+      },
+      {
+        "id": "SEC-2007-0045-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:58:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-22405",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2007-02-13T04:59:59Z",
+          "title": "Termination of a Foreign Private Issuers Registration of a Class of Securities Under Section 12(g) and Duty To File Reports Under Section 13(a) or 15(d) of the Securities Exchange Act of 1934",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-0045-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2006-0399-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:15:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00255",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Approval of Allen County, Indiana 8-hour Ozone Redesignation",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "EPA-R05-OAR-2006-0399",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b35"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2006-0399-0009"
+        }
+      },
+      {
+        "id": "SEC-2007-0044-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-01-11T12:05:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00210",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Investment Company Governance; Correction",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-0044-0001"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2006-0638-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:23:08Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00250",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Maryland; Control of Volatile Organic Compounds From Medical Device Manufacturing",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "EPA-R03-OAR-2006-0638",
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b6e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2006-0638-0006"
+        }
+      },
+      {
+        "id": "EERE-2006-STD-0119-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-29T19:37:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00230",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2007-01-11  Energy Conservation Standards for Certain Ceiling Fan Light Kits; Final rule; technical amendment.",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "EERE-2006-STD-0119",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b7e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2006-STD-0119-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-26493-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-26493",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4e2c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26493-0004"
+        }
+      },
+      {
+        "id": "FAA-2006-26497-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-26497",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4e71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26497-0007"
+        }
+      },
+      {
+        "id": "FAA-2006-26496-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive, Page 16 of 17",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-26496",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4e58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26496-0005"
+        }
+      },
+      {
+        "id": "FAA-2006-25945-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Request for Comments.",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-25945",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b12a1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-25945-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-03T20:25:11Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00219",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2007-04-12T03:59:59Z",
+          "title": "Release of Lien or Discharge of Property",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "IRS-2007-0009",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3bdc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0009-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-24277-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule (Original)",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-24277",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bacdc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24277-0016"
+        }
+      },
+      {
+        "id": "DOT-OST-2007-26828-0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:39:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "Interim Final Rule",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "DOT-OST-2007-26828",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb64b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2007-26828-0001-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-26518-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Emergency Airworthiness Directive",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-26518",
+          "subtype": "Emergency Airworthiness Directive",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1e45"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26518-0004"
+        }
+      },
+      {
+        "id": "FCA-2007-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:20:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-00214",
+          "withdrawn": false,
+          "agencyId": "FCA",
+          "commentEndDate": null,
+          "title": "Organization; Termination of System Institution Status; Effective Date",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b1d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCA-2007-0002-0001"
+        }
+      },
+      {
+        "id": "DHS-2007-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:07:06Z",
+          "highlightedContent": "",
+          "frDocNum": "07-00061",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": "2007-02-13T04:59:59Z",
+          "title": "Revision of Department of Homeland Security Acquisition Regulation",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "DHS-2007-0001",
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3c2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2007-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-18596-0726",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:51:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Technical Amendment (Original)",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2004-18596",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802d09a7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18596-0726"
+        }
+      },
+      {
+        "id": "DOS-2010-0032-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-02-04T15:40:47Z",
+          "highlightedContent": "",
+          "frDocNum": "7",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "07 - Exchange Visitor Program--Professors and Research Scholars",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "DOS-2010-0032",
+          "subtype": null,
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801f3b5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS-2010-0032-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2007-26828-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:53:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "Interim Final Rule",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "DOT-OST-2007-26828",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb64a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2007-26828-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-26032-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-01-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule; Confirmation of Effective Date and Correction",
+          "postedDate": "2007-01-11T05:00:00Z",
+          "docketId": "FAA-2006-26032",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-01-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b13ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26032-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 76,
+            "label": "Other"
+          },
+          {
+            "docCount": 53,
+            "label": "Notice"
+          },
+          {
+            "docCount": 29,
+            "label": "Rule"
+          },
+          {
+            "docCount": 24,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 9,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Foreign Airworthiness Directive"
+          },
+          {
+            "docCount": 1,
+            "label": "Emergency Airworthiness Directive"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 33,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 13,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "SEC"
+          },
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 2,
+            "value": "FCA"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "FDIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FISCAL"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "OCC"
+          },
+          {
+            "docCount": 1,
+            "value": "OTS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-01-11",
+          "toDate": "2007-01-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 33,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 33,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

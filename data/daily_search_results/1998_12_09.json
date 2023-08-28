@@ -1,0 +1,194 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1998-4800-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:08:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-12-10T04:59:59Z",
+          "title": "U. S. DOT/NHTSA - Notice of Receipt of Petition for Decision That Nonconforming 1984-1992 BMW K100 Motorcycles are Eligible for Importation/Request for Comments",
+          "postedDate": "1998-12-09T05:00:00Z",
+          "docketId": "NHTSA-1998-4800",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480328335"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4800-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4803-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:42Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-12-10T04:59:59Z",
+          "title": "U. S. DOT/NHTSA - Notice of Receipt of Petition for Decision - 1988-1989 Volkswagen Transporter Multi-Purpose Passenger Vehicles/Request for Comments",
+          "postedDate": "1998-12-09T05:00:00Z",
+          "docketId": "NHTSA-1998-4803",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032835c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4803-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4801-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:06:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-12-10T04:59:59Z",
+          "title": "U. S. DOT/NHTSA - Notice of Receipt of Petition for Decision - 1990/1991 BMW 3201 Passenger Cars/Request for Comments",
+          "postedDate": "1998-12-09T05:00:00Z",
+          "docketId": "NHTSA-1998-4801",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480328343"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4801-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4802-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:13:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-12-10T04:59:59Z",
+          "title": "U. S. DOT/NHTSA - Notice of Receipt of Petition for Decision - 1995 Mercedes-Benz Sl320 Passenger Cars/Request for Comments",
+          "postedDate": "1998-12-09T05:00:00Z",
+          "docketId": "NHTSA-1998-4802",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032834e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4802-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 51,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-12-09",
+          "toDate": "1998-12-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

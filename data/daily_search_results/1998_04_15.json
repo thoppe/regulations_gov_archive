@@ -1,0 +1,221 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1998-3717-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:14:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-04-16T03:59:59Z",
+          "title": "U,S. DOT/NHTSA - Notice of Receipt of Petition for Decision that Nonconforming 1990 Volkswagen Transporter Multi-purpose Passenger Vehicles are Eligible for Importation",
+          "postedDate": "1998-04-15T04:00:00Z",
+          "docketId": "NHTSA-1998-3717",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-04-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480322474"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3717-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3716-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-04-16T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Receipt of Petition for Decision that Nonconforming 1995-1998 Ford Winstar Multipurpose Passenger Vehicles (MPVs) are Eligible for Importation",
+          "postedDate": "1998-04-15T04:00:00Z",
+          "docketId": "NHTSA-1998-3716",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-04-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480322464"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3716-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3724-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-04-16T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Public Comment on Proposed Collection of Information",
+          "postedDate": "1998-04-15T04:00:00Z",
+          "docketId": "NHTSA-1998-3724",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-04-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803224d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3724-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3715-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-05-16T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Receipt of Petition for Decision that Nonconforming 1981-1988 Toyota Landcruiser Multi-purpose Passnger Vehicles",
+          "postedDate": "1998-04-15T04:00:00Z",
+          "docketId": "NHTSA-1998-3715",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-04-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032245b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3715-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-3604-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-04-16T03:59:59Z",
+          "title": "USCG - Notice of Proposed Rulemaking (NPRM) - Amendment of State Waters for Private Aids to Navigation in Wisconsin and Alabama",
+          "postedDate": "1998-04-15T04:00:00Z",
+          "docketId": "USCG-1998-3604",
+          "subtype": null,
+          "commentStartDate": "1998-04-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803214b7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3604-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 42,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 19,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-04-15",
+          "toDate": "1998-04-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

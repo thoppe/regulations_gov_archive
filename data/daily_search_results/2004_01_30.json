@@ -1,0 +1,237 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-2004-16970-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:22:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2004-01-31T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule",
+          "postedDate": "2004-01-30T05:00:00Z",
+          "docketId": "DOT-OST-2004-16970",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-01-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031ac57"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2004-16970-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2003-0004-0150",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:03Z",
+          "highlightedContent": "",
+          "frDocNum": "4463",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-03-20T04:59:59Z",
+          "title": "Hazardous Waste Management System: Identification and Listing of Hazardous Waste: Conditional Exclusions From Hazardous Waste and Solid Waste for Solvent-Contaminated Industrial Wipes, Extension of Comment Period",
+          "postedDate": "2004-01-30T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2003-0004",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-01-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e17a4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2003-0004-0150"
+        }
+      },
+      {
+        "id": "DOT-OST-2004-16951-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:24:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2004-01-31T04:59:59Z",
+          "title": "U.S. DOT/OST - Notice and Request for Comments",
+          "postedDate": "2004-01-30T05:00:00Z",
+          "docketId": "DOT-OST-2004-16951",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-01-30T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ae74d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2004-16951-0001"
+        }
+      },
+      {
+        "id": "NRC-2002-0008-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:12:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Regiser Notice - Final Rule:  Financial Information Requirements for Applications to Renew or Extend the Term of an Operating License for a Power Reactor",
+          "postedDate": "2004-01-30T15:32:24Z",
+          "docketId": "NRC-2002-0008",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803c51b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0008-0010"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-01-18T02:01:08Z",
+          "highlightedContent": "",
+          "frDocNum": "4652",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-03-31T04:59:59Z",
+          "title": "Proposed National Emission Standards for Hazardous Air Pollutants; and, in the Alternative, Proposed Standards of Performance for New and Existing Stationary Sources: Electric Utility Steam Generating Units; Proposed Rule",
+          "postedDate": "2004-01-30T14:37:44Z",
+          "docketId": "EPA-HQ-OAR-2002-0056",
+          "subtype": null,
+          "commentStartDate": "2004-01-30T14:37:44Z",
+          "openForComment": false,
+          "objectId": "09000064800a6d58"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0056-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 105,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 83,
+            "label": "Other"
+          },
+          {
+            "docCount": 24,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-01-30",
+          "toDate": "2004-01-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

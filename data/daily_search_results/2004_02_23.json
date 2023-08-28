@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-1999-5748-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:09:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2004-02-24T04:59:59Z",
+          "title": "U.S. DOT/FMCSA - Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2004-02-23T05:00:00Z",
+          "docketId": "FMCSA-1999-5748",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7ac0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1999-5748-0018"
+        }
+      },
+      {
+        "id": "NHTSA-2004-16920-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:04:57Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-02-24T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Denial of Petition for Rulemaking",
+          "postedDate": "2004-02-23T05:00:00Z",
+          "docketId": "NHTSA-2004-16920",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031a954"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2004-16920-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2000-7918-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:04:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2004-02-24T04:59:59Z",
+          "title": "U.S. DOT/FMCSA - Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2004-02-23T05:00:00Z",
+          "docketId": "FMCSA-2000-7918",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c1ecb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2000-7918-0016"
+        }
+      },
+      {
+        "id": "FMCSA-1999-5578-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:07:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1999-06-18T03:59:59Z",
+          "title": "U.S. DOT/FMCSA - Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2004-02-23T05:00:00Z",
+          "docketId": "FMCSA-1999-5578",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a78cb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1999-5578-0019"
+        }
+      },
+      {
+        "id": "MARAD-2004-17127-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2004-02-24T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Information Collection Available for Public Comments and",
+          "postedDate": "2004-02-23T05:00:00Z",
+          "docketId": "MARAD-2004-17127",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031b85c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2004-17127-0001"
+        }
+      },
+      {
+        "id": "FHWA-1999-6156-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-02-07T18:36:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2004-02-24T04:59:59Z",
+          "title": "U.S. DOT/FMCSA - Qualification of Drivers; Exemption Applications; Vision",
+          "postedDate": "2004-02-23T05:00:00Z",
+          "docketId": "FHWA-1999-6156",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-02-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7d83"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-6156-0015"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 135,
+            "label": "Other"
+          },
+          {
+            "docCount": 77,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-02-23",
+          "toDate": "2004-02-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

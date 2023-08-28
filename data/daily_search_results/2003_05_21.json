@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "TSA-2002-11334-0047",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-30T19:51:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2003-05-22T03:59:59Z",
+          "title": "Temporary Final Rule:  Temporary Suspension of the September 11th Security Fee and the Aviation Security Infrastructure Fee (Federal Register Publication)",
+          "postedDate": "2003-05-21T04:00:00Z",
+          "docketId": "TSA-2002-11334",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-05-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480382ca7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2002-11334-0047"
+        }
+      },
+      {
+        "id": "TSA-2001-11120-0063",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:56:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2003-05-22T03:59:59Z",
+          "title": "U.S. DOT/TSA - Temporary Final Rule",
+          "postedDate": "2003-05-21T04:00:00Z",
+          "docketId": "TSA-2001-11120",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-05-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c8406"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2001-11120-0063"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2003-0163-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:13:15Z",
+          "highlightedContent": "",
+          "frDocNum": "27729",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Pyraflufen-ethyl; Pesticide Tolerance",
+          "postedDate": "2003-05-21T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2003-0163",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800b7edb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2003-0163-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 66,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "TSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-05-21",
+          "toDate": "2003-05-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "data": [
+      {
+        "id": "FHWA-1999-5899-0109",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2001-01-09T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2001-01-08T05:00:00Z",
+          "docketId": "FHWA-1999-5899",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-01-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032eb4c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-5899-0109"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0223-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-11-05T01:01:21Z",
+          "highlightedContent": "",
+          "frDocNum": "1263",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants from Off-Site Waste and Recovery Operations",
+          "postedDate": "2001-01-08T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0223",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bde77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0223-0003"
+        }
+      },
+      {
+        "id": "DOT-OST-1996-1437-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-12-26T13:45:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2001-01-09T04:59:59Z",
+          "title": "Proposed Rulemaking",
+          "postedDate": "2001-01-08T05:00:00Z",
+          "docketId": "DOT-OST-1996-1437",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-01-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480311780"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1996-1437-0004"
+        }
+      },
+      {
+        "id": "NHTSA-2000-8273-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:08:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-01-09T04:59:59Z",
+          "title": "Request for Public Comment on Proposed Collections of Information",
+          "postedDate": "2001-01-08T05:00:00Z",
+          "docketId": "NHTSA-2000-8273",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-01-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803434e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2000-8273-0001"
+        }
+      },
+      {
+        "id": "USCG-2001-8602-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-01-09T04:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2001-01-08T05:00:00Z",
+          "docketId": "USCG-2001-8602",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-01-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480344f2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-8602-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 71,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-01-08",
+          "toDate": "2001-01-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

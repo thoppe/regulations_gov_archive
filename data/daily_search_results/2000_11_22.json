@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2000-0027-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:11:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Export and Import of Nuclear Equipment and Materials",
+          "postedDate": "2000-11-22T20:50:14Z",
+          "docketId": "NRC-2000-0027",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064807dcc5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2000-0027-0001"
+        }
+      },
+      {
+        "id": "FHWA-1999-6232-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2000-11-28T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2000-11-22T05:00:00Z",
+          "docketId": "FHWA-1999-6232",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803316cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-6232-0010"
+        }
+      },
+      {
+        "id": "FRA-2000-7926-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-11-28T04:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver of Compliance - The Burlington Northern and Santa Fe Railway Company",
+          "postedDate": "2000-11-22T05:00:00Z",
+          "docketId": "FRA-2000-7926",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480341a1b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7926-0004"
+        }
+      },
+      {
+        "id": "FRA-2000-7926-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-11-23T04:59:59Z",
+          "title": "Petition for Waiver of Compliance",
+          "postedDate": "2000-11-22T05:00:00Z",
+          "docketId": "FRA-2000-7926",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480341a1a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7926-0003"
+        }
+      },
+      {
+        "id": "FHWA-1999-6232-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2000-11-23T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2000-11-22T05:00:00Z",
+          "docketId": "FHWA-1999-6232",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-11-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803316d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-6232-0009"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 32,
+            "label": "Other"
+          },
+          {
+            "docCount": 13,
+            "label": "Notice"
+          },
+          {
+            "docCount": 11,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-11-22",
+          "toDate": "2000-11-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

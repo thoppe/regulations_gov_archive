@@ -1,0 +1,217 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2000-8552-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-27T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule (Draft)",
+          "postedDate": "2000-12-22T05:00:00Z",
+          "docketId": "FAA-2000-8552",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480344923"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-8552-0002"
+        }
+      },
+      {
+        "id": "FAA-1999-6265-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-27T04:59:59Z",
+          "title": "Correction",
+          "postedDate": "2000-12-22T05:00:00Z",
+          "docketId": "FAA-1999-6265",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803318bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-6265-0016"
+        }
+      },
+      {
+        "id": "FAA-2000-8552-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-27T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2000-12-22T05:00:00Z",
+          "docketId": "FAA-2000-8552",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648034491f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-8552-0001"
+        }
+      },
+      {
+        "id": "FAA-2000-8560-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:28:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-23T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Intent",
+          "postedDate": "2000-12-22T05:00:00Z",
+          "docketId": "FAA-2000-8560",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bc528"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-8560-0001"
+        }
+      },
+      {
+        "id": "FAA-2000-7952-0048",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2000-12-23T04:59:59Z",
+          "title": "Final Rule; Delay of Effective Date",
+          "postedDate": "2000-12-22T05:00:00Z",
+          "docketId": "FAA-2000-7952",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-12-22T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c81f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7952-0048"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 36,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-12-22",
+          "toDate": "2000-12-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2001-10532-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:32:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-03-07T04:59:59Z",
+          "title": "Notice of Petitions for Exemptions Received",
+          "postedDate": "2002-03-06T05:00:00Z",
+          "docketId": "FAA-2001-10532",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030215d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10532-0003"
+        }
+      },
+      {
+        "id": "USCG-2001-11105-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-03-07T04:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2002-03-06T05:00:00Z",
+          "docketId": "USCG-2001-11105",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030376a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-11105-0003"
+        }
+      },
+      {
+        "id": "MARAD-2002-11719-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2002-03-07T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice and Request for Comments",
+          "postedDate": "2002-03-06T05:00:00Z",
+          "docketId": "MARAD-2002-11719",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480304e03"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-11719-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2002-11270-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:18:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-03-07T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Safety Advisory Notice",
+          "postedDate": "2002-03-06T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2002-11270",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480303f24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2002-11270-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 75,
+            "label": "Other"
+          },
+          {
+            "docCount": 20,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-03-06",
+          "toDate": "2002-03-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

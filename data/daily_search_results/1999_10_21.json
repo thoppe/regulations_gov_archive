@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-1999-5836-0193",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "1999-10-22T03:59:59Z",
+          "title": "Proposed Rule; Extension of Comment Period",
+          "postedDate": "1999-10-21T04:00:00Z",
+          "docketId": "FAA-1999-5836",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-10-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032e1d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5836-0193"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-5947-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:15:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1999-10-22T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "1999-10-21T04:00:00Z",
+          "docketId": "DOT-OST-1999-5947",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-10-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480382db6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-5947-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0056-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:06:32Z",
+          "highlightedContent": "",
+          "frDocNum": "28556",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Land Disposal Restrictions Phase IV: Final Rule Promulgating Treatment Standards for Metal Wastes and Mineral Processing Wastes, Mineral\r\nProcessing Secondary Materials and\r\nBevill Exclusion Issues; Treatment\r\nStandards for Hazardous Soils...Final Rule",
+          "postedDate": "1999-10-21T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0056",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dec3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0056-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-5843-0313",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:30:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1999-10-22T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "1999-10-21T04:00:00Z",
+          "docketId": "DOT-OST-1999-5843",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-10-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032e5e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-5843-0313"
+        }
+      },
+      {
+        "id": "USCG-1999-6097-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-10-22T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "1999-10-21T04:00:00Z",
+          "docketId": "USCG-1999-6097",
+          "subtype": null,
+          "commentStartDate": "1999-10-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803303c9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6097-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 17,
+            "label": "Notice"
+          },
+          {
+            "docCount": 17,
+            "label": "Other"
+          },
+          {
+            "docCount": 6,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-10-21",
+          "toDate": "1999-10-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

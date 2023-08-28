@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-2003-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:07:23Z",
+          "highlightedContent": "",
+          "frDocNum": "68813",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1994-02-10T04:59:59Z",
+          "title": "Comprehensive Procurement Guideline V for Procurement of Products Containing Recovered Materials; Proposed Rule",
+          "postedDate": "2003-12-10T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2003-0005",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e21f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2003-0005-0001"
+        }
+      },
+      {
+        "id": "FAA-2003-16502-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-12-11T04:59:59Z",
+          "title": "U.S. DOT/FAA - Correction - Modification of Class E Airspace; Waverly, IA",
+          "postedDate": "2003-12-10T05:00:00Z",
+          "docketId": "FAA-2003-16502",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480318b7b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-16502-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2003-0265-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:11:24Z",
+          "highlightedContent": "",
+          "frDocNum": "68806",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-02-10T04:59:59Z",
+          "title": "Bitertanol, Chlorpropham, Cloprop, Combustion Product Gas, Cyanazine, et al.; Proposed Tolerance Actions",
+          "postedDate": "2003-12-10T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2003-0265",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800b7506"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2003-0265-0001"
+        }
+      },
+      {
+        "id": "FAA-1999-5401-0141",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-12-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule: Technical Amendment (Original)",
+          "postedDate": "2003-12-10T05:00:00Z",
+          "docketId": "FAA-1999-5401",
+          "subtype": "Final Rule",
+          "commentStartDate": "2003-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032b96a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5401-0141"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 62,
+            "label": "Other"
+          },
+          {
+            "docCount": 60,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 15,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-12-10",
+          "toDate": "2003-12-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

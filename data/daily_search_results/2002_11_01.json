@@ -1,0 +1,264 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-1999-5013-0094",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:20:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-11-02T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Proposed Rulemaking; Status",
+          "postedDate": "2002-11-01T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-5013",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480329824"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-5013-0094"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2002-0298-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:07:19Z",
+          "highlightedContent": "",
+          "frDocNum": "66561",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2003-01-01T04:59:59Z",
+          "title": "Thiamethoxam; Pesticide Tolerance",
+          "postedDate": "2002-11-01T05:00:00Z",
+          "docketId": "EPA-HQ-OPP-2002-0298",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2002-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ba62a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2002-0298-0001"
+        }
+      },
+      {
+        "id": "NRC-2002-0017-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:12:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2003-01-16T04:59:59Z",
+          "title": "Federal Register Notice - Proposed Rule:  Voluntary Fire Protection Requirements for Light-Water Reactors; Adoption of NFPA 805 as a Risk-Informed, Performance-Based Alternative",
+          "postedDate": "2002-11-01T18:49:22Z",
+          "docketId": "NRC-2002-0017",
+          "subtype": null,
+          "commentStartDate": "2002-11-01T18:49:22Z",
+          "openForComment": false,
+          "objectId": "0900006480549222"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0017-0011"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2001-10568-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:21:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-11-02T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Final Rule; Response to Appeals",
+          "postedDate": "2002-11-01T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2001-10568",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030229b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2001-10568-0024"
+        }
+      },
+      {
+        "id": "NRC-2002-0022-0062",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:18:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2003-01-16T04:59:59Z",
+          "title": "Federal Register Notice - Notice of Receipt of Petition for Rulemaking PRM-50-79; Lawrence T. Christian",
+          "postedDate": "2002-11-01T21:06:48Z",
+          "docketId": "NRC-2002-0022",
+          "subtype": "Petition for Rulemaking",
+          "commentStartDate": "2002-11-01T21:06:48Z",
+          "openForComment": false,
+          "objectId": "090000648053e285"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0022-0062"
+        }
+      },
+      {
+        "id": "FAA-2002-13062-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-11-02T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petition for Exemption Received",
+          "postedDate": "2002-11-01T05:00:00Z",
+          "docketId": "FAA-2002-13062",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480308208"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13062-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 76,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Petition for Rulemaking"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-11-01",
+          "toDate": "2002-11-01"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

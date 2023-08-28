@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-1999-5578-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:10:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1999-06-18T03:59:59Z",
+          "title": "Notice of Renewal of Exemption; Request for Comments",
+          "postedDate": "2001-12-05T05:00:00Z",
+          "docketId": "FMCSA-1999-5578",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-12-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a78c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1999-5578-0010"
+        }
+      },
+      {
+        "id": "FMCSA-1999-5748-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:07:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2001-12-06T04:59:59Z",
+          "title": "Notice of Renewal of Exemption; Request for Comments",
+          "postedDate": "2001-12-05T05:00:00Z",
+          "docketId": "FMCSA-1999-5748",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-12-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7ae1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1999-5748-0007"
+        }
+      },
+      {
+        "id": "FAA-1999-5926-0563",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-12-07T04:59:59Z",
+          "title": "Modifications of the Dimensions of the Grand Canyon National Park",
+          "postedDate": "2001-12-05T05:00:00Z",
+          "docketId": "FAA-1999-5926",
+          "subtype": "Final Rule",
+          "commentStartDate": "2001-12-05T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032efbc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5926-0563"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 34,
+            "label": "Other"
+          },
+          {
+            "docCount": 18,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-12-05",
+          "toDate": "2001-12-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

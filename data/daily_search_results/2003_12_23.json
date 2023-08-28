@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2003-15486-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2003-12-24T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2003-12-23T05:00:00Z",
+          "docketId": "USCG-2003-15486",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-12-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480313b74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2003-15486-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2003-15642-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-12-24T04:59:59Z",
+          "title": "Notice of Statutory Compliance Date",
+          "postedDate": "2003-12-23T05:00:00Z",
+          "docketId": "FMCSA-2003-15642",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-12-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031410b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2003-15642-0002"
+        }
+      },
+      {
+        "id": "FMCSA-2001-11060-0037",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-12-24T04:59:59Z",
+          "title": "Notice of Statutory Compliance Date",
+          "postedDate": "2003-12-23T05:00:00Z",
+          "docketId": "FMCSA-2001-11060",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-12-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030357d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2001-11060-0037"
+        }
+      },
+      {
+        "id": "USCG-2003-16712-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2003-12-24T04:59:59Z",
+          "title": "Notice of Study; Request for Comments",
+          "postedDate": "2003-12-23T05:00:00Z",
+          "docketId": "USCG-2003-16712",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-12-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480319b2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2003-16712-0001"
+        }
+      },
+      {
+        "id": "FAA-2000-7952-0061",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:29:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-12-24T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Delay of Effective Date (Original)",
+          "postedDate": "2003-12-23T05:00:00Z",
+          "docketId": "FAA-2000-7952",
+          "subtype": "Final Rule",
+          "commentStartDate": "2003-12-23T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c8215"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7952-0061"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 83,
+            "label": "Other"
+          },
+          {
+            "docCount": 81,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-12-23",
+          "toDate": "2003-12-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

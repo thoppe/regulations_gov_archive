@@ -1,0 +1,906 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-1999-E-0149-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T00:15:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FDA-1999-E-0149",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804af0f2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1999-E-0149-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2006-0534-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:02:17Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-01617",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-04-10T03:59:59Z",
+          "title": "Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Hospital/Medical/Infectious Waste Incinerators",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2006-0534",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801fb114"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2006-0534-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-27154-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FAA-2007-27154",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b73e9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27154-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2006-26656-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:53:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Continental Tire North America, Grant of Petition for Decision of Inconsequential Noncompliance",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "NHTSA-2006-26656",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7b03"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2006-26656-0003"
+        }
+      },
+      {
+        "id": "CMS-2007-0015-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-15T01:19:26Z",
+          "highlightedContent": "",
+          "frDocNum": "C7-00392",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program; Prospective Payment System for Long-Term Care Hospitals RY2008: Proposed Annual Payment Rate Updates, and Policy Changes; and Proposed Hospital Direct and Indirect Graduate Medical Education Policy Changes",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "CMS-2007-0015",
+          "subtype": null,
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801fb168"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2007-0015-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-24289-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FAA-2006-24289",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bc3d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24289-0020"
+        }
+      },
+      {
+        "id": "FDA-1999-E-0149-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-04-25T00:15:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FDA-1999-E-0149",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064804af0f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1999-E-0149-0004"
+        }
+      },
+      {
+        "id": "FDA-1998-E-0073-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-05-16T21:24:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office to Wood, Herron &amp; Evans, LLP",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FDA-1998-E-0073",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480583e37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-E-0073-0008"
+        }
+      },
+      {
+        "id": "NHTSA-2007-27159-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T23:01:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Comments, Highway Safety Program Guidelines",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "NHTSA-2007-27159",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb3f8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-27159-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-26494-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FAA-2006-26494",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b93cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26494-0001"
+        }
+      },
+      {
+        "id": "FDA-1998-E-0073-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-05-16T21:24:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "U.S. Patent and Trademark Office to Wood, Herron &amp; Evans, LLP",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FDA-1998-E-0073",
+          "subtype": "CEP-Certificate Extending Patent Term",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480583e38"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-E-0073-0009"
+        }
+      },
+      {
+        "id": "AMS-FV-06-0208-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:35Z",
+          "highlightedContent": "",
+          "frDocNum": "07-00502",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2007-04-10T03:59:59Z",
+          "title": "Tomatoes Grown in Florida; Change in Handling Requirements",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "AMS-FV-06-0208",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801fb101"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-06-0208-0001"
+        }
+      },
+      {
+        "id": "HUD-2007-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-08-22T15:05:32Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-01941",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR-5104-F-01: Inflation Adjustment of Civil Money Penalty Amounts",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "HUD-2007-0022",
+          "subtype": null,
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801fb176"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2007-0022-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0156-0042",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:51Z",
+          "highlightedContent": "",
+          "frDocNum": "07-00503",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pollock in Statistical Area 630 of the Gulf of Alaska",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "NOAA-2006-0156",
+          "subtype": null,
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801fb184"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0156-0042"
+        }
+      },
+      {
+        "id": "EPA-R02-RCRA-2006-0804-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:12:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-01618",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hazardous Waste Management System; Identification and Listing of Hazardous Waste; Final Exclusion",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "EPA-R02-RCRA-2006-0804",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801fb651"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-RCRA-2006-0804-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-27154-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FAA-2007-27154",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b73f1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27154-0005"
+        }
+      },
+      {
+        "id": "NOAA-2006-0073-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:51Z",
+          "highlightedContent": "",
+          "frDocNum": "07-00504",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic; Trip Limit Reduction",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "NOAA-2006-0073",
+          "subtype": null,
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801fb0a6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0073-0009"
+        }
+      },
+      {
+        "id": "FMCSA-2004-17984-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:08:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "Notice of Renewal of Exemption; Request for Comments",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FMCSA-2004-17984",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802baa44"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2004-17984-0013"
+        }
+      },
+      {
+        "id": "USCG-2006-26697-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "Notice of Temporary Rules Issued",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "USCG-2006-26697",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802be257"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2006-26697-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-26135-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Proposed Rulemaking (NPRM); Extension of Comment Period",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FAA-2006-26135",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bd37e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26135-0009"
+        }
+      },
+      {
+        "id": "NHTSA-2007-27159-0001-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:55:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Comments, Highway Safety Program Guidelines",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "NHTSA-2007-27159",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb3fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2007-27159-0001-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-26494-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FAA-2006-26494",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b93d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26494-0004"
+        }
+      },
+      {
+        "id": "FAA-2006-26494-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FAA-2006-26494",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b93da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26494-0005"
+        }
+      },
+      {
+        "id": "DOT-OST-2006-26442-0108",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:23:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "DOT-OST-2006-26442",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ab046"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2006-26442-0108"
+        }
+      },
+      {
+        "id": "MARAD-2006-23804-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T21:00:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Final Rule",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "MARAD-2006-23804",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7cda"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2006-23804-0011"
+        }
+      },
+      {
+        "id": "FAA-2006-26775-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FAA-2006-26775",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1ec3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-26775-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2006-23882-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:49:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "NHTSA-2006-23882",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b318e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2006-23882-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2004-19477-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:58Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "Notice of Renewal of Exemptions; Request for Comments",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FMCSA-2004-19477",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480384318"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2004-19477-0006"
+        }
+      },
+      {
+        "id": "FMCSA-2002-12423-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:08:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "Notice of Renewal of Exemptions; Request for Comments",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FMCSA-2002-12423",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ba921"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-12423-0014"
+        }
+      },
+      {
+        "id": "EPA-R02-RCRA-2006-0804-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:20:49Z",
+          "highlightedContent": "",
+          "frDocNum": "54",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hazardous Waste Management System; Identification and Listing of Hazardous Waste; Final Exclusion",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "EPA-R02-RCRA-2006-0804",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064801d289a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-RCRA-2006-0804-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2002-12844-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "Notice of Renewal of Exemptions; Request for Comments",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FMCSA-2002-12844",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480382edd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-12844-0013"
+        }
+      },
+      {
+        "id": "FMCSA-2006-26321-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:09:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2007-02-07T04:59:59Z",
+          "title": "Notice of Final Disposition",
+          "postedDate": "2007-02-06T05:00:00Z",
+          "docketId": "FMCSA-2006-26321",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7661"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2006-26321-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 241,
+            "label": "Other"
+          },
+          {
+            "docCount": 198,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 47,
+            "label": "Notice"
+          },
+          {
+            "docCount": 29,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 15,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "CEP-Certificate Extending Patent Term"
+          },
+          {
+            "docCount": 4,
+            "label": "Foreign Airworthiness Directive"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 8,
+            "value": "FAA"
+          },
+          {
+            "docCount": 5,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 4,
+            "value": "FDA"
+          },
+          {
+            "docCount": 4,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-02-06",
+          "toDate": "2007-02-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

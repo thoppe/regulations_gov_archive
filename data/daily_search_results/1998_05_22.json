@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-1997-2356-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:24:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1998-05-23T03:59:59Z",
+          "title": "Aviation Charter Rules - Final Rule",
+          "postedDate": "1998-05-22T04:00:00Z",
+          "docketId": "DOT-OST-1997-2356",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-05-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480318ce1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1997-2356-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0308-0015",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:23:51Z",
+          "highlightedContent": "",
+          "frDocNum": "28309",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Control of Emissions of Air Pollution from New CI Marine Engines at or Above 37 Kilowatts [A-97-50 I-A-01]",
+          "postedDate": "1998-05-22T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0308",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bc29b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0308-0015"
+        }
+      },
+      {
+        "id": "DOT-OST-1996-1472-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:20:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1998-05-23T03:59:59Z",
+          "title": "Privacy Act of 1974; Notice to Amend System of Records to Include a New Routine Use - USCG",
+          "postedDate": "1998-05-22T04:00:00Z",
+          "docketId": "DOT-OST-1996-1472",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-05-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480311b37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1996-1472-0010"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 67,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-05-22",
+          "toDate": "1998-05-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2004-18058-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-06-22T03:59:59Z",
+          "title": "U.S.DOT/USCG - Request for Applications",
+          "postedDate": "2004-06-21T04:00:00Z",
+          "docketId": "USCG-2004-18058",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f94b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-18058-0001"
+        }
+      },
+      {
+        "id": "FAA-2003-15410-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-06-22T03:59:59Z",
+          "title": "U.S. DOT/FAA - Correction - Establishment of Restricted Area 2204, Oliktok Point; AK",
+          "postedDate": "2004-06-21T04:00:00Z",
+          "docketId": "FAA-2003-15410",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803138db"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-15410-0010"
+        }
+      },
+      {
+        "id": "USCG-2004-17615-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-06-22T03:59:59Z",
+          "title": "U.S. DOT/USCG - Notice of Policy",
+          "postedDate": "2004-06-21T04:00:00Z",
+          "docketId": "USCG-2004-17615",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031ddf7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-17615-0001"
+        }
+      },
+      {
+        "id": "USCG-2004-17674-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-06-22T03:59:59Z",
+          "title": "U.S.DOT/USCG - Notice of Proposed Policy; Request for Comments",
+          "postedDate": "2004-06-21T04:00:00Z",
+          "docketId": "USCG-2004-17674",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e1ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-17674-0001"
+        }
+      },
+      {
+        "id": "MARAD-2004-18059-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2004-06-22T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Final Rule",
+          "postedDate": "2004-06-21T04:00:00Z",
+          "docketId": "MARAD-2004-18059",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f959"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2004-18059-0001"
+        }
+      },
+      {
+        "id": "FHWA-2001-9182-0048",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2004-06-22T03:59:59Z",
+          "title": "U.S. DOT/FHWA - Notice of Proposed Rulemaking Request for Comments",
+          "postedDate": "2004-06-21T04:00:00Z",
+          "docketId": "FHWA-2001-9182",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-06-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480341dfb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2001-9182-0048"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 68,
+            "label": "Other"
+          },
+          {
+            "docCount": 50,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-06-21",
+          "toDate": "2004-06-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-1998-4470-0031",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:05:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2000-09-19T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice; Meeting of the Hazardous Liquid Pipeline Safety Standards Committee",
+          "postedDate": "2000-09-18T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4470",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a6481"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4470-0031"
+        }
+      },
+      {
+        "id": "NRC-1999-0027-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:10:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Domestic Licensing of Special Nuclear Material; Possession of a Critical Mass of Special Nuclear Material",
+          "postedDate": "2000-09-18T17:39:21Z",
+          "docketId": "NRC-1999-0027",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480918c02"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-1999-0027-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2000-0060-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:23:17Z",
+          "highlightedContent": "",
+          "frDocNum": "56287",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2000-12-12T04:59:59Z",
+          "title": "Land Disposal Restrictions; Treatment Standards for Spent Potliners from Primary Aluminum Reduction (K088) and Regulatory Classification of K088 Vitrification Units",
+          "postedDate": "2000-09-18T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2000-0060",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2000-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e077f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2000-0060-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2000-0059-0055",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:32Z",
+          "highlightedContent": "",
+          "frDocNum": "56287",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2000-12-12T04:59:59Z",
+          "title": "Land Disposal Restrictions; Treatment \r\nStandards for Spent Potliners From Primary Aluminum Reduction (K088) and Regulatory Classification of K088 Vitrification Units; [F-2000-TSSP-S0020]",
+          "postedDate": "2000-09-18T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2000-0059",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2000-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e00ac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2000-0059-0055"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 60,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-09-18",
+          "toDate": "2000-09-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

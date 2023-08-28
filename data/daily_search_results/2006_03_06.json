@@ -1,0 +1,387 @@
+[
+  {
+    "data": [
+      {
+        "id": "USPS-2006-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-03T00:31:50Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02030",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Office of Inspector General; Technical Amendments",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648013f03e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2006-0006-0001"
+        }
+      },
+      {
+        "id": "NRC-2005-0003-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:13:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Fire Protection Program - Post-Fire Operator Manual Actions; Withdrawal of Proposed Rule",
+          "postedDate": "2006-03-06T15:11:29Z",
+          "docketId": "NRC-2005-0003",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064807c73fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2005-0003-0016"
+        }
+      },
+      {
+        "id": "EPA-R10-OAR-2006-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:17:19Z",
+          "highlightedContent": "",
+          "frDocNum": "FRL-8035-6",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "Federal Register Notice: Proposed Rule",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": "EPA-R10-OAR-2006-0001",
+          "subtype": null,
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648013a717"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R10-OAR-2006-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23605-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:27:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": "FAA-2006-23605",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802afdd2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23605-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0156-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:15Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02063",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Vessels Catching Pacific Cod for Processing by the Inshore Component in the Central Regulatory Area of the Gulf of Alaska",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": "NOAA-2006-0156",
+          "subtype": null,
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648013f051"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0156-0003"
+        }
+      },
+      {
+        "id": "FAA-2005-20856-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-07T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": "FAA-2005-20856",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b798f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-20856-0006"
+        }
+      },
+      {
+        "id": "RHS-2006-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:57:05Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02072",
+          "withdrawn": false,
+          "agencyId": "RHS",
+          "commentEndDate": "2006-05-06T03:59:59Z",
+          "title": "Direct Single Family Housing Loans and Grants",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": "RHS-2006-0007",
+          "subtype": null,
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648013ef55"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RHS-2006-0007-0001"
+        }
+      },
+      {
+        "id": "USPS-2006-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-03T00:31:49Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02029",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Conduct on Postal Property",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648013efb9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2006-0005-0001"
+        }
+      },
+      {
+        "id": "EPA-R08-OAR-2005-SD-0002-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2009-06-19T21:06:19Z",
+          "highlightedContent": "",
+          "frDocNum": "06-2013",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Notice. Final Rule. Designation of Areas for Air Quality Planning Purposes; State of South Dakota; Approval of Redesignation Request.",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": "EPA-R08-OAR-2005-SD-0002",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648013f11e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R08-OAR-2005-SD-0002-0007"
+        }
+      },
+      {
+        "id": "NOAA-2006-0162-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:15Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02099",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Taking of Marine Mammals Incidental to Commercial Fishing Operations; Atlantic Large Whale Take Reduction Plan",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": "NOAA-2006-0162",
+          "subtype": null,
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648013eed6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0162-0001"
+        }
+      },
+      {
+        "id": "CCC-2006-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:02:55Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02091",
+          "withdrawn": false,
+          "agencyId": "CCC",
+          "commentEndDate": null,
+          "title": "Grassland Reserve Program",
+          "postedDate": "2006-03-06T05:00:00Z",
+          "docketId": "CCC-2006-0011",
+          "subtype": null,
+          "commentStartDate": "2006-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648013f045"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CCC-2006-0011-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 82,
+            "label": "Other"
+          },
+          {
+            "docCount": 72,
+            "label": "Notice"
+          },
+          {
+            "docCount": 21,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 8,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 11,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "USPS"
+          },
+          {
+            "docCount": 1,
+            "value": "CCC"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "RHS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-03-06",
+          "toDate": "2006-03-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 11,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 11,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

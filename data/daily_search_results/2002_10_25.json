@@ -1,0 +1,248 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2001-8690-0089",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-10-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2002-10-25T04:00:00Z",
+          "docketId": "FAA-2001-8690",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cbbf9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8690-0089"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1994-13559-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:23:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1994-12-13T04:59:59Z",
+          "title": "Alternate Standards for Open-Head Fiber Drum Packaging",
+          "postedDate": "2002-10-25T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1994-13559",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030afcf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1994-13559-0003"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1994-13559-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:21:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1994-12-13T04:59:59Z",
+          "title": "Alternate Standards for Open-Head Fiber Drum Packaging",
+          "postedDate": "2002-10-25T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1994-13559",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030afbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1994-13559-0002-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1994-13559-0002-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:22:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1994-12-13T04:59:59Z",
+          "title": "Alternate Standards for Open-Head Fiber Drum Packaging",
+          "postedDate": "2002-10-25T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1994-13559",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030afc0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1994-13559-0002-0002"
+        }
+      },
+      {
+        "id": "FAA-2002-12461-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-10-26T03:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Proposed Rulemaking (NPRM); Correction",
+          "postedDate": "2002-10-25T04:00:00Z",
+          "docketId": "FAA-2002-12461",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ab272"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-12461-0008"
+        }
+      },
+      {
+        "id": "FAA-2002-12461-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:49:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-10-26T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule (Original)",
+          "postedDate": "2002-10-25T04:00:00Z",
+          "docketId": "FAA-2002-12461",
+          "subtype": "Final Rule",
+          "commentStartDate": "2002-10-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ab267"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-12461-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 97,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-10-25",
+          "toDate": "2002-10-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

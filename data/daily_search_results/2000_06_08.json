@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-2000-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:21:19Z",
+          "highlightedContent": "",
+          "frDocNum": "36365",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Organobromine Production Wastes; Petroleum Refining Wastes; Identification and Listing of Hazardous Waste; Land Disposal Restrictions; Final Rule and Correcting Amendments",
+          "postedDate": "2000-06-08T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2000-0043",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e066f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2000-0043-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0064-0082",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:42Z",
+          "highlightedContent": "",
+          "frDocNum": "36365",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Organobromines Production Wastes; Petroleum Refining Wastes; Identification and Listing of Hazardous Waste; Land Disposal Restrictions; Final Rule and Correcting Amendments [F-1998-PRLF-S0070]",
+          "postedDate": "2000-06-08T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0064",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800df06a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0064-0082"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2000-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:07:57Z",
+          "highlightedContent": "",
+          "frDocNum": "36365",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Organobromine Production Wastes; Petroleum Refining Wastes; Identification and Listing of Hazardous Waste; Land Disposal Restrictions; Final Rule and Correcting Amendments",
+          "postedDate": "2000-06-08T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2000-0048",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e0721"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2000-0048-0001"
+        }
+      },
+      {
+        "id": "USCG-2000-6950-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-06-09T03:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2000-06-08T04:00:00Z",
+          "docketId": "USCG-2000-6950",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033670f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-6950-0004"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-7473-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:19:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2000-06-09T03:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule; Disposition of Comments; Disposition of Petition for Rulemaking (DRAFT)",
+          "postedDate": "2000-06-08T04:00:00Z",
+          "docketId": "DOT-OST-2000-7473",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033d3a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-7473-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 75,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-06-08",
+          "toDate": "2000-06-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

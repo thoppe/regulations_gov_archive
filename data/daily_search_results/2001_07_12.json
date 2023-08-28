@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1999-6098-0043",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:15Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-07-13T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2001-07-12T04:00:00Z",
+          "docketId": "USCG-1999-6098",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-12T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480330479"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6098-0043"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0007-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:12:45Z",
+          "highlightedContent": "",
+          "frDocNum": "36473",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2001-08-14T03:59:59Z",
+          "title": "Standards of Performance for Large Municipal Waste Combustors for Which Construction is Commenced After September 20, 1994 or for Which Modification or Reconstruction is Commenced After June 19, 1996 and Emission Guidelines and Compliance Times for",
+          "postedDate": "2001-07-12T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0007",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2001-07-12T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bbef7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0007-0006"
+        }
+      },
+      {
+        "id": "NRC-2001-0007-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:11:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2001-09-26T03:59:59Z",
+          "title": "Federal Register Notice - Revision of the Skin Dose Limit",
+          "postedDate": "2001-07-12T14:15:55Z",
+          "docketId": "NRC-2001-0007",
+          "subtype": null,
+          "commentStartDate": "2001-07-12T14:15:55Z",
+          "openForComment": false,
+          "objectId": "090000648062f2ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2001-0007-0010"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 38,
+            "label": "Other"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-07-12",
+          "toDate": "2001-07-12"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

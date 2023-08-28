@@ -1,0 +1,237 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-2001-0047-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:17:02Z",
+          "highlightedContent": "",
+          "frDocNum": "24240",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Guides for the Use of Environmental Marketing Claims; Final Rule",
+          "postedDate": "2001-06-29T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2001-0047",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e2d71"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2001-0047-0009"
+        }
+      },
+      {
+        "id": "NRC-2001-0006-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:11:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2001-07-31T03:59:59Z",
+          "title": "Federal Register Notice - List of Approved Spent Fuel Storage Casks:  Standardized NUHOMS -24P and -52B Revision",
+          "postedDate": "2001-06-29T18:40:56Z",
+          "docketId": "NRC-2001-0006",
+          "subtype": null,
+          "commentStartDate": "2001-06-29T18:40:56Z",
+          "openForComment": false,
+          "objectId": "09000064806302dd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2001-0006-0010"
+        }
+      },
+      {
+        "id": "USCG-2001-8825-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-06-30T03:59:59Z",
+          "title": "Extension of Comment Period",
+          "postedDate": "2001-06-29T04:00:00Z",
+          "docketId": "USCG-2001-8825",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480346125"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-8825-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-2001-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:20:56Z",
+          "highlightedContent": "",
+          "frDocNum": "45256",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Comprehensive Guideline for Procurement of Products Containing Recovered Material, Proposed Rule",
+          "postedDate": "2001-06-29T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-2001-0047",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e2d0a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-2001-0047-0001"
+        }
+      },
+      {
+        "id": "NRC-2001-0006-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:11:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2001-07-31T03:59:59Z",
+          "title": "Federal Register Notice - List of Approved Spent Fuel Storage Casks:  Standarized NUHOMS -24 and -52B Revision",
+          "postedDate": "2001-06-29T18:58:11Z",
+          "docketId": "NRC-2001-0006",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "2001-06-29T18:58:11Z",
+          "openForComment": false,
+          "objectId": "09000064806303b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2001-0006-0011"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 85,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 57,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-06-29",
+          "toDate": "2001-06-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

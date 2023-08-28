@@ -1,0 +1,622 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2007-28620-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-07-10T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "FAA-2007-28620",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cbe90"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28620-0001"
+        }
+      },
+      {
+        "id": "FCC-2007-0154-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:53:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12905",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2007-08-09T03:59:59Z",
+          "title": "Third Periodic Review of the Commissions Rules and Policies Affecting the Conversion to Digital Television",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263c42"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2007-0154-0001"
+        }
+      },
+      {
+        "id": "SEC-2007-0927-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:58:59Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13018",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2007-09-08T03:59:59Z",
+          "title": "Electronic Filing and Simplification of Form D",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263d7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-0927-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2007-0467-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-04-07T18:55:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13206",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-08-09T03:59:59Z",
+          "title": "Withdrawal of Federal Marine Aquatic Life Water Quality Criteria for Toxic Pollutants Applicable to Washington State",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2007-0467",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263d96"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2007-0467-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-28058-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:40:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-07-10T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "FAA-2007-28058",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b057d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28058-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-27865-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:34:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-07-10T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "FAA-2007-27865",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b052a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27865-0004"
+        }
+      },
+      {
+        "id": "IRS-2007-0142-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-04-05T15:21:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13255",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 1221(a)(4) Capital Asset Exclusion for Accounts and Notes Receivable; Hearing",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "IRS-2007-0142",
+          "subtype": "NPRM",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263df4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0142-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0163-0268",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:01:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13297",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-08-09T03:59:59Z",
+          "title": "Supplemental Notice of Proposed Rulemaking for Prevention of Significant Deterioration and Nonattainment New Source Review: Emission Increases for Electric Generating Units",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0163",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263cde"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0163-0268"
+        }
+      },
+      {
+        "id": "NCUA-2007-0043-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-08-20T11:21:51Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13273",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": "2007-08-21T03:59:59Z",
+          "title": "Federal Credit Union Bylaws",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "NCUA-2007-0043",
+          "subtype": null,
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263ced"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2007-0043-0001"
+        }
+      },
+      {
+        "id": "DOL-2007-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:40:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-12765",
+          "withdrawn": false,
+          "agencyId": "DOL",
+          "commentEndDate": null,
+          "title": "Department of Labor Regulatory Review and Update",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "DOL-2007-0006",
+          "subtype": null,
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263cfb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOL-2007-0006-0001"
+        }
+      },
+      {
+        "id": "OSHA-2007-0032-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T14:19:30Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13198",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2007-07-14T03:59:59Z",
+          "title": "Explosives; Extension of Comment Period",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "OSHA-2007-0032",
+          "subtype": "Extension of Comment Period",
+          "commentStartDate": "2007-07-13T19:30:48Z",
+          "openForComment": false,
+          "objectId": "0900006480263d59"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2007-0032-0018"
+        }
+      },
+      {
+        "id": "NOAA-2007-0490-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:41:09Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03329",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2007-07-25T03:59:59Z",
+          "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to the U.S. Navy Operations of Surveillance Towed Array Sensor System Low Frequency Active Sonar",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "NOAA-2007-0490",
+          "subtype": null,
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263d84"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0490-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2002-0049-2793",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:08:29Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13202",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Pollutant Discharge Elimination System--Suspension of Regulations Establishing Requirements for Cooling Water Intake Structures at Phase II Existing Facilities",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2002-0049",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480263d94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2002-0049-2793"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2006-0699-0071",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:02:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13203",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-08-09T03:59:59Z",
+          "title": "Standards of Performance for Equipment Leaks of VOC in the Synthetic Organic Chemicals Manufacturing Industry; Standards of Performance for Equipment Leaks of VOC in Petroleum Refineries",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2006-0699",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263cbe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2006-0699-0071"
+        }
+      },
+      {
+        "id": "USAF-2007-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-07-09T11:50:10Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13253",
+          "withdrawn": false,
+          "agencyId": "USAF",
+          "commentEndDate": null,
+          "title": "Environmental Impact Analysis Process (EIAP); Correction",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "USAF-2007-0025",
+          "subtype": null,
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263cf9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USAF-2007-0025-0001"
+        }
+      },
+      {
+        "id": "FMCSA-2007-28479-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:08:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2007-07-10T03:59:59Z",
+          "title": "Notice of Application for Exemption; Request for Comments",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "FMCSA-2007-28479",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7496"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2007-28479-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2007-0467-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-04-07T18:56:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-13207",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-08-09T03:59:59Z",
+          "title": "Withdrawal of Federal Marine Aquatic Life Water Quality Criteria for Toxic Pollutants Applicable to Washington State",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2007-0467",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263c2f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2007-0467-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-28598-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-07-10T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "FAA-2007-28598",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5121"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28598-0001"
+        }
+      },
+      {
+        "id": "AID-2007-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:55:05Z",
+          "highlightedContent": "",
+          "frDocNum": "07-03309",
+          "withdrawn": false,
+          "agencyId": "AID",
+          "commentEndDate": "2007-09-08T03:59:59Z",
+          "title": "Rules and Procedures Applicable to Commodity Transactions Financed by USAID: Miscellaneous Amendments",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "AID-2007-0005",
+          "subtype": null,
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480263d8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AID-2007-0005-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-28599-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:26:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-07-10T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM",
+          "postedDate": "2007-07-09T04:00:00Z",
+          "docketId": "FAA-2007-28599",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-07-09T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aedad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28599-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 78,
+            "label": "Notice"
+          },
+          {
+            "docCount": 75,
+            "label": "Other"
+          },
+          {
+            "docCount": 57,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 10,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 5,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Extension of Comment Period"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 20,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "AID"
+          },
+          {
+            "docCount": 1,
+            "value": "DOL"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USAF"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-07-09",
+          "toDate": "2007-07-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 20,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 20,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

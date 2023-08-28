@@ -1,0 +1,214 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2005-20024-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-19T04:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-01-18T05:00:00Z",
+          "docketId": "FAA-2005-20024",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480327762"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-20024-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6189-0273",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:41:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2005-01-19T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule",
+          "postedDate": "2005-01-18T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-01-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f37"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0273"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2002-0068-0158",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:07:00Z",
+          "highlightedContent": "",
+          "frDocNum": "2832",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-02-18T04:59:59Z",
+          "title": "Extension of National Pollutant Discharge Elimination System (NPDES) Permit Deadline for Storm Water Discharge for Oil and Gas Construction Activity That Disturbs One to Five Acres",
+          "postedDate": "2005-01-18T05:00:00Z",
+          "docketId": "EPA-HQ-OW-2002-0068",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-01-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bf96c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2002-0068-0158"
+        }
+      },
+      {
+        "id": "FAA-2004-18678-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-12T00:35:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-01-22T04:59:59Z",
+          "title": "U.S. DOT/FAA - Supplemental NPRM 2001-NM-312-AD",
+          "postedDate": "2005-01-18T05:00:00Z",
+          "docketId": "FAA-2004-18678",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2005-01-18T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480322414"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18678-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 86,
+            "label": "Other"
+          },
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-01-18",
+          "toDate": "2005-01-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

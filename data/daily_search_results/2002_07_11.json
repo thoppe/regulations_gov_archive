@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "FMCSA-2002-12294-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:06:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-07-12T03:59:59Z",
+          "title": "Notice of Applications for Exemptionfrom the Vision Standard; Request for Comments",
+          "postedDate": "2002-07-11T04:00:00Z",
+          "docketId": "FMCSA-2002-12294",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802baf25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-12294-0001"
+        }
+      },
+      {
+        "id": "MARAD-2002-12711-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2002-07-12T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel THE OBJECTIVE",
+          "postedDate": "2002-07-11T04:00:00Z",
+          "docketId": "MARAD-2002-12711",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803075a3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-12711-0001"
+        }
+      },
+      {
+        "id": "MARAD-2002-12709-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2002-07-12T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel LUCKY LADY",
+          "postedDate": "2002-07-11T04:00:00Z",
+          "docketId": "MARAD-2002-12709",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480307595"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-12709-0001"
+        }
+      },
+      {
+        "id": "MARAD-2002-12710-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2002-07-12T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel SERENITY",
+          "postedDate": "2002-07-11T04:00:00Z",
+          "docketId": "MARAD-2002-12710",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030759c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2002-12710-0001"
+        }
+      },
+      {
+        "id": "FAA-2001-11032-0044",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:32:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-07-12T03:59:59Z",
+          "title": "Funding for Mandated Security Modifications to Flightcrew Compartment Doors - Correction",
+          "postedDate": "2002-07-11T04:00:00Z",
+          "docketId": "FAA-2001-11032",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-07-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fc3d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-11032-0044"
+        }
+      },
+      {
+        "id": "FAA-2000-7587-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-07-12T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments - Original",
+          "postedDate": "2002-07-11T04:00:00Z",
+          "docketId": "FAA-2000-7587",
+          "subtype": "Final Rule",
+          "commentStartDate": "2002-07-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033edb2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2000-7587-0011"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 117,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-07-11",
+          "toDate": "2002-07-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

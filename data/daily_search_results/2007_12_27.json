@@ -1,0 +1,818 @@
+[
+  {
+    "data": [
+      {
+        "id": "SSA-2007-0009-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-04-18T21:14:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24915",
+          "withdrawn": false,
+          "agencyId": "SSA",
+          "commentEndDate": null,
+          "title": "Private Printing of Prescribed Applications, Forms, and Other Publications",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "SSA-2007-0009",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SSA-2007-0009-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-0115-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:12:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24638",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; REIMS AVIATION S.A. Model F406 Airplanes",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "FAA-2007-0115",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0115-0004"
+        }
+      },
+      {
+        "id": "MARAD-2007-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:13Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25009",
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": null,
+          "title": "Marine Transportation System National Advisory Council",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "MARAD-2007-0025",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037eea7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2007-0025-0001"
+        }
+      },
+      {
+        "id": "OTS-2007-0007-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-25T21:30:16Z",
+          "highlightedContent": "",
+          "frDocNum": "Z7-24676",
+          "withdrawn": false,
+          "agencyId": "OTS",
+          "commentEndDate": null,
+          "title": "Savings and loan holding companies; permissible activities Correction",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "OTS-2007-0007",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037edfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OTS-2007-0007-0009"
+        }
+      },
+      {
+        "id": "SBA-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:57:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25056",
+          "withdrawn": false,
+          "agencyId": "SBA",
+          "commentEndDate": "2008-02-26T04:59:59Z",
+          "title": "Women-Owned Small Business Federal Contract Assistance Procedures",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "SBA-2008-0001",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037edf3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SBA-2008-0001-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0398-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:20Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25020",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Aviation Rulemaking Advisory Committee Meeting on Transport Airplane and Engine Issues",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "FAA-2007-0398",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee19"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0398-0001"
+        }
+      },
+      {
+        "id": "USCG-2007-0168-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24977",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulations; Atlantic Intracoastal Waterway (AIWW), at Scotts Hill, NC",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "USCG-2007-0168",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee6c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2007-0168-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0402-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T20:25:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: Boeing Model 787-8 Airplane; Systems and Data Networks Security-Protection of Airplane Systems and Data Networks from Unauthorized External Access",
+          "postedDate": "2007-12-28T00:00:00Z",
+          "docketId": "FAA-2007-0402",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648037f804"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0402-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0408-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-19T14:33:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Petition for Exemption; Summary of Petition Received",
+          "postedDate": "2007-12-28T00:00:00Z",
+          "docketId": "FAA-2007-0408",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648037f8f4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0408-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-0409-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-03-03T20:25:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Special Conditions: Boeing Model 757 Series Airplanes; Seats With Non-Traditional, Large, Non-Metallic Panels",
+          "postedDate": "2007-12-28T00:00:00Z",
+          "docketId": "FAA-2007-0409",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648037f923"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0409-0001"
+        }
+      },
+      {
+        "id": "FRTIB-2007-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:42:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25007",
+          "withdrawn": false,
+          "agencyId": "FRTIB",
+          "commentEndDate": null,
+          "title": "Participants Choices of TSP Funds",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "FRTIB-2007-0021",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee27"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRTIB-2007-0021-0001"
+        }
+      },
+      {
+        "id": "USCG-2007-0196-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24978",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Regulated Navigation Area; Buzzards Bay, Massachusetts; Navigable Waterways Within the First Coast Guard District",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "USCG-2007-0196",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee5f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2007-0196-0001"
+        }
+      },
+      {
+        "id": "SEC-2007-1760-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:59:07Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24968",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": null,
+          "title": "Revisions to the Eligibility Requirements for Primary Securities Offerings on Forms S-3 and F-3",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2007-1760-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2007-0384-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:03:39Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25091",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Protection of Stratospheric Ozone: Extension of Global Laboratory and Analytical Use Exemption for Essential Class I Ozone-Depleting Substances",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2007-0384",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648037ee9a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2007-0384-0012"
+        }
+      },
+      {
+        "id": "HUD-2007-0042-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:30:04Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-24908",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR-5071-P-01: Implementation of OMB Guidance on Nonprocurement Debarment and Suspension",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "HUD-2007-0042",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037eea5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2007-0042-0003"
+        }
+      },
+      {
+        "id": "FHWA-2007-0034-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25027",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Environmental Impact Statement: Chautauqua County, NY",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "FHWA-2007-0034",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee17"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2007-0034-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-20856-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:15Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25035",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives; MT-Propeller Entwicklung GmbH Propellers",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "FAA-2005-20856",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-20856-0014"
+        }
+      },
+      {
+        "id": "RHS-08-SFH-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:57:01Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25107",
+          "withdrawn": false,
+          "agencyId": "RHS",
+          "commentEndDate": null,
+          "title": "Single Family Housing Loans, Payment Assistance",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "RHS-08-SFH-0001",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee0e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/RHS-08-SFH-0001-0001"
+        }
+      },
+      {
+        "id": "FHWA-2007-0035-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:51Z",
+          "highlightedContent": "",
+          "frDocNum": "C7-04127",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Environmental Impact Statement: New London County, CO",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "FHWA-2007-0035",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee47"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2007-0035-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0716-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:04:45Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25073",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Framework Adjustment 42",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0716",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee57"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0716-0011"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0843-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:05:57Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06200",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Coastal Migratory Pelagic Resources of the Gulf of Mexico and South Atlantic; Trip Limit Reduction",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0843",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T15:37:13Z",
+          "openForComment": false,
+          "objectId": "090000648037eea3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0843-0001"
+        }
+      },
+      {
+        "id": "IRS-2008-0066-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:33:52Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25014",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Disclosure of Return Information to the Bureau of the Census",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "IRS-2008-0066",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037eea9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2008-0066-0001"
+        }
+      },
+      {
+        "id": "OPM-2008-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:53:53Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25108",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": "2008-02-26T04:59:59Z",
+          "title": "Medical Qualification Determinations",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "OPM-2008-0001",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037eed9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2008-0001-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2008-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:07:22Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25068",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Revision of Vessel Monitoring System (VMS) Requirements for Commercial Gulf Reef Fish Vessels",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "NOAA-NMFS-2008-0011",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee03"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2008-0011-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0796-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:05:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25080",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2008-01-29T04:59:59Z",
+          "title": "Fisheries of the Northeastern United States; Atlantic Bluefish Fisheries; 2008 Atlantic Bluefish Specifications",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0796",
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee91"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0796-0001"
+        }
+      },
+      {
+        "id": "FERC-2007-1962-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-25T22:26:19Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25001",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2008-01-26T04:59:59Z",
+          "title": "Enhancement of Competition in the Secondary Release Market; Notice of Extension of Time",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037eea1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2007-1962-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-0399-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:17Z",
+          "highlightedContent": "",
+          "frDocNum": "07-06179",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Notice of Airport Level Designation for Newark Liberty International Airport for the Summer 2008 Scheduling Season",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "FAA-2007-0399",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee5d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-0399-0001"
+        }
+      },
+      {
+        "id": "FHWA-2007-0036-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:51Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-25023",
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Environmental Impact Statement: Deschutes County, OR",
+          "postedDate": "2007-12-27T05:00:00Z",
+          "docketId": "FHWA-2007-0036",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-12-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648037ee73"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2007-0036-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 71,
+            "label": "Other"
+          },
+          {
+            "docCount": 41,
+            "label": "Notice"
+          },
+          {
+            "docCount": 24,
+            "label": "Rule"
+          },
+          {
+            "docCount": 11,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 10,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 28,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRTIB"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "OTS"
+          },
+          {
+            "docCount": 1,
+            "value": "RHS"
+          },
+          {
+            "docCount": 1,
+            "value": "SBA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "SSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-12-27",
+          "toDate": "2007-12-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 28,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 28,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

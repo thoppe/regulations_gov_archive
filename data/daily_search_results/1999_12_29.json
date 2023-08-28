@@ -1,0 +1,260 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-1999-6189-0249",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:29:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1999-12-30T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule -Amendment 1-300",
+          "postedDate": "1999-12-29T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803825f9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0249"
+        }
+      },
+      {
+        "id": "USCG-1999-6635-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-12-30T04:59:59Z",
+          "title": "Notice of Meeting; Request for Comments",
+          "postedDate": "1999-12-29T05:00:00Z",
+          "docketId": "USCG-1999-6635",
+          "subtype": null,
+          "commentStartDate": "1999-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803333b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6635-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-6698-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:26:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1999-12-30T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule -Amendment 1-300",
+          "postedDate": "1999-12-29T05:00:00Z",
+          "docketId": "DOT-OST-2000-6698",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803336e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-6698-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OECA-2002-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:15:41Z",
+          "highlightedContent": "",
+          "frDocNum": "72972",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2000-03-30T04:59:59Z",
+          "title": "Consolidation of Good Laboratory Practice Standards",
+          "postedDate": "1999-12-29T05:00:00Z",
+          "docketId": "EPA-HQ-OECA-2002-0003",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800b754c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OECA-2002-0003-0001"
+        }
+      },
+      {
+        "id": "USCG-1999-5938-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-12-30T04:59:59Z",
+          "title": "Notice of Temporary Rules Issued",
+          "postedDate": "1999-12-29T05:00:00Z",
+          "docketId": "USCG-1999-5938",
+          "subtype": null,
+          "commentStartDate": "1999-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032f538"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-5938-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-3783-0049",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:24:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-12-10T04:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Public Meeting",
+          "postedDate": "1999-12-29T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-3783",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-12-29T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803229e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-3783-0049"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 43,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "DOT"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-12-29",
+          "toDate": "1999-12-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

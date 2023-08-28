@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2001-10630-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:01:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-09-19T03:59:59Z",
+          "title": "Invitation for Public Comments on a Requested Administrative Waiver of The Coastwise Trade Laws for the Vessel THREE D",
+          "postedDate": "2001-09-18T04:00:00Z",
+          "docketId": "MARAD-2001-10630",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480302438"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-10630-0001"
+        }
+      },
+      {
+        "id": "FHWA-2001-10077-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2001-09-19T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking (NPRM); Request for Comments",
+          "postedDate": "2001-09-18T04:00:00Z",
+          "docketId": "FHWA-2001-10077",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300f3d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2001-10077-0001"
+        }
+      },
+      {
+        "id": "USCG-2001-10613-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-09-19T03:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2001-09-18T04:00:00Z",
+          "docketId": "USCG-2001-10613",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-09-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803023bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10613-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 34,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-09-18",
+          "toDate": "2001-09-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-1997-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:16:44Z",
+          "highlightedContent": "",
+          "frDocNum": "15572",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Oil and Hazardous Substances Pollution Contingency Plan; The National Priorities \r\nList for Uncontrolled Hazardous Waste Sites; Final Rule",
+          "postedDate": "1997-04-01T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1997-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e1f7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1997-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1997-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:16:44Z",
+          "highlightedContent": "",
+          "frDocNum": "15594",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1997-06-03T03:59:59Z",
+          "title": "National Priorities List for Uncontrolled Hazardous Waste Sites, Proposed Rule No.22",
+          "postedDate": "1997-04-01T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1997-0009",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1997-04-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e201a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1997-0009-0001"
+        }
+      },
+      {
+        "id": "FHWA-1997-2263-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1996-06-22T03:59:59Z",
+          "title": "Design Standards for Highways; Geometric Design of Highways and Streets - Final Rule",
+          "postedDate": "1997-04-01T05:00:00Z",
+          "docketId": "FHWA-1997-2263",
+          "subtype": "Final Rule",
+          "commentStartDate": "1997-04-01T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480317beb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1997-2263-0012"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 27,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1997-04-01",
+          "toDate": "1997-04-01"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

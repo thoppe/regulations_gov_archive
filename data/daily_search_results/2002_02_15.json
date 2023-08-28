@@ -1,0 +1,233 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2002-0002-0144",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2009-02-03T19:25:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Availability of Draft Outline and Rule Wording",
+          "postedDate": "2002-02-15T17:55:41Z",
+          "docketId": "NRC-2002-0002",
+          "subtype": null,
+          "commentStartDate": "2002-02-15T17:55:41Z",
+          "openForComment": false,
+          "objectId": "0900006480557abb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0002-0144"
+        }
+      },
+      {
+        "id": "DOT-OST-2002-11577-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:21:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2002-02-16T04:59:59Z",
+          "title": "Notice of Proposed Rulemaking",
+          "postedDate": "2002-02-15T05:00:00Z",
+          "docketId": "DOT-OST-2002-11577",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480304898"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2002-11577-0001"
+        }
+      },
+      {
+        "id": "TSA-2002-11604-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2002-02-16T04:59:59Z",
+          "title": "U.S. DOT/TSA - Final Rule; Request for Comments",
+          "postedDate": "2002-02-15T05:00:00Z",
+          "docketId": "TSA-2002-11604",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803049ee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2002-11604-0001"
+        }
+      },
+      {
+        "id": "TSA-2002-11612-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2002-02-16T04:59:59Z",
+          "title": "U.S. DOT/TSA - Assumption of Civil Aviation Security Functions and Responsibilities Under Chapter 449, U.S.C.",
+          "postedDate": "2002-02-15T05:00:00Z",
+          "docketId": "TSA-2002-11612",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480304a72"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2002-11612-0001"
+        }
+      },
+      {
+        "id": "FHWA-2001-8846-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-04-07T01:00:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2002-02-16T04:59:59Z",
+          "title": "Interim Final Rule; Request for Comments",
+          "postedDate": "2002-02-15T05:00:00Z",
+          "docketId": "FHWA-2001-8846",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-15T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480346236"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2001-8846-0010"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 47,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Notice"
+          },
+          {
+            "docCount": 9,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "TSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-02-15",
+          "toDate": "2002-02-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

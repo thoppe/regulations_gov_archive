@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "id": "FTA-1999-5474-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "1999-05-14T03:59:59Z",
+          "title": "Proposed Rule; Notice of Meeting",
+          "postedDate": "1999-05-13T04:00:00Z",
+          "docketId": "FTA-1999-5474",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-05-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032bf9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-1999-5474-0003"
+        }
+      },
+      {
+        "id": "FRA-1999-6073-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "1999-08-11T03:59:59Z",
+          "title": "Agency Information Collection Activities: Proposed Collection; Comment Request -- FRA F 6180.71, U.S. DOT AAR Crossing Inventory Form",
+          "postedDate": "1999-05-13T04:00:00Z",
+          "docketId": "FRA-1999-6073",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-05-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480330178"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1999-6073-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 32,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-05-13",
+          "toDate": "1999-05-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

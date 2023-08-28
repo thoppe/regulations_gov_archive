@@ -1,0 +1,756 @@
+[
+  {
+    "data": [
+      {
+        "id": "IRS-2006-0179-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:31:14Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02844",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Revised Regulations Concerning Disclosure of Relative Values of Optional Forms of Benefit",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "IRS-2006-0179",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014d537"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2006-0179-0001"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2005-NC-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:11:19Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02869",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-04-25T03:59:59Z",
+          "title": "Federal Register Proposed Rule, North Carolina: Charlotte, Raleigh-Durham, and Winston-Salem Areas Second 10- Year Maintenance Plan for the Carbon Monoxide National Ambient Air Quality Standard",
+          "postedDate": "2006-03-24T15:00:06Z",
+          "docketId": "EPA-R04-OAR-2005-NC-0002",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T15:00:06Z",
+          "openForComment": false,
+          "objectId": "090000648014d421"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2005-NC-0002-0001"
+        }
+      },
+      {
+        "id": "EPA-R01-OAR-2005-ME-0006-0016",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:10:13Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02815",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval and Promulgation of Air Quality Implementation Plans; Maine; 15% and 5% Emission Reduction Plans, Inventories, and Transportation Conformity Budgets for the Portland One and Eight Hour Ozone Nonattainment Areas",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "EPA-R01-OAR-2005-ME-0006",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014d493"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2005-ME-0006-0016"
+        }
+      },
+      {
+        "id": "FAA-2006-24064-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2006-24064",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802afbcc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24064-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23604-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive - AD No: 2005-0025",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2006-23604",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b308d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23604-0007"
+        }
+      },
+      {
+        "id": "FAA-2004-18648-0022",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Airworthiness Directive Final Rule (Original)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2004-18648",
+          "subtype": "Final Rule",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bc826"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18648-0022"
+        }
+      },
+      {
+        "id": "FAA-2005-21242-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments (Original)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2005-21242",
+          "subtype": "Final Rule",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bc2e6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-21242-0011"
+        }
+      },
+      {
+        "id": "NOAA-2006-0206-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:17Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02883",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries off West Coast States and in the Western Pacific; Western Pacific Pelagic Fisheries; Fishery Closure",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "NOAA-2006-0206",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014d637"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0206-0002"
+        }
+      },
+      {
+        "id": "FAA-2005-23072-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments (Original)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2005-23072",
+          "subtype": "Final Rule",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7c60"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-23072-0007"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0074-0152",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-11-19T19:09:35Z",
+          "highlightedContent": "",
+          "frDocNum": "99-3141",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-03-31T04:59:59Z",
+          "title": "Proposed Alternative Tier 2 Requirements for Methycyclotadienyl Manganese Tricarbonyl (MMT)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0074",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014cbe5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0074-0152"
+        }
+      },
+      {
+        "id": "FAA-2005-23184-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2005-23184",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aee69"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-23184-0002"
+        }
+      },
+      {
+        "id": "SLSDC-2006-23839-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:44:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "SLSDC",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/SLSDC - Fianl Rule",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "SLSDC-2006-23839",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802af740"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SLSDC-2006-23839-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-23604-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:27:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Correction (Original)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2006-23604",
+          "subtype": "Final Rule",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3089"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23604-0003"
+        }
+      },
+      {
+        "id": "NOAA-2006-0156-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:17Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02882",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pollock in StatisticalArea 620 of the Gulf of Alaska",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "NOAA-2006-0156",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014d4ce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0156-0007"
+        }
+      },
+      {
+        "id": "APHIS-2005-0017-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:40Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02865",
+          "withdrawn": false,
+          "agencyId": "APHIS",
+          "commentEndDate": null,
+          "title": "Emerald Ash Borer; Quarantined Areas",
+          "postedDate": "2006-03-24T14:39:27Z",
+          "docketId": "APHIS-2005-0017",
+          "subtype": "Affirmation of an interim rule as a final rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648014d5bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/APHIS-2005-0017-0002"
+        }
+      },
+      {
+        "id": "NARA-05-0005-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:46:50Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02866",
+          "withdrawn": false,
+          "agencyId": "NARA",
+          "commentEndDate": null,
+          "title": "Declassification of National Security Information",
+          "postedDate": "2006-03-24T16:57:26Z",
+          "docketId": "NARA-05-0005",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T16:57:26Z",
+          "openForComment": false,
+          "objectId": "090000648014d4b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NARA-05-0005-0010"
+        }
+      },
+      {
+        "id": "NOAA-2006-0156-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:17Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02881",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "NOAA-2006-0156",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014d58e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0156-0008"
+        }
+      },
+      {
+        "id": "ED-2006-0117-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:16:24Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02890",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "Equal Access to Public School Facilities for the Boy Scouts of America and Other Designated Youth Groups",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "ED-2006-0117",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014d44b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2006-0117-0001"
+        }
+      },
+      {
+        "id": "AMS-2006-0042-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:20Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02896",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Regulatory Flexibility Act: Review of Regulations",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "AMS-2006-0042",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014d667"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-2006-0042-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23604-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments (Original)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2006-23604",
+          "subtype": "Final Rule",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b308b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23604-0005"
+        }
+      },
+      {
+        "id": "EPA-R04-OAR-2005-NC-0002-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:15:28Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02870",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-04-25T03:59:59Z",
+          "title": "Federal Register Direct Final Rule; North Carolina: Charlotte, Raleigh-Durham, and Winston-Salem Areas Second 10- Year Maintenance Plan for the Carbon Monoxide National Ambient Air Quality Standard",
+          "postedDate": "2006-03-24T15:02:18Z",
+          "docketId": "EPA-R04-OAR-2005-NC-0002",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T15:02:18Z",
+          "openForComment": false,
+          "objectId": "090000648014d42d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R04-OAR-2005-NC-0002-0002"
+        }
+      },
+      {
+        "id": "FAA-2006-24036-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:28:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA  -Foreign Authority AD (MCAI)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2006-24036",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7d48"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24036-0005"
+        }
+      },
+      {
+        "id": "FAA-2005-23271-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Direct Final Rule, Request for Comments; Correction",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2005-23271",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5ac3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-23271-0002"
+        }
+      },
+      {
+        "id": "FAA-2005-22055-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule (Original)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2005-22055",
+          "subtype": "Final Rule",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b90dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22055-0012"
+        }
+      },
+      {
+        "id": "FAA-2006-23895-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-03-25T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FAA-2006-23895",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802af7e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23895-0001"
+        }
+      },
+      {
+        "id": "FCIC-2006-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:54:13Z",
+          "highlightedContent": "",
+          "frDocNum": "06-02893",
+          "withdrawn": false,
+          "agencyId": "FCIC",
+          "commentEndDate": "2006-04-25T03:59:59Z",
+          "title": "Common Crop Insurance Regulations; Mint Crop Insurance Provisions",
+          "postedDate": "2006-03-24T05:00:00Z",
+          "docketId": "FCIC-2006-0007",
+          "subtype": null,
+          "commentStartDate": "2006-03-24T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648014d507"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCIC-2006-0007-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 107,
+            "label": "Notice"
+          },
+          {
+            "docCount": 78,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 71,
+            "label": "Other"
+          },
+          {
+            "docCount": 22,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Foreign Airworthiness Directive"
+          },
+          {
+            "docCount": 1,
+            "label": "Affirmation of an interim rule as a final rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 26,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 12,
+            "value": "FAA"
+          },
+          {
+            "docCount": 4,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "AMS"
+          },
+          {
+            "docCount": 1,
+            "value": "APHIS"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FCIC"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NARA"
+          },
+          {
+            "docCount": 1,
+            "value": "SLSDC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-03-24",
+          "toDate": "2006-03-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 26,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 26,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

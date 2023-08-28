@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1999-0076-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:12:07Z",
+          "highlightedContent": "",
+          "frDocNum": "68968",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2000-02-08T04:59:59Z",
+          "title": "Proposed Exclusion from the Definition of Solid Waste; Hazardous Waste Management System; Identification and Listing of Hazardous Waste",
+          "postedDate": "1999-12-09T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1999-0076",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800df116"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0076-0001"
+        }
+      },
+      {
+        "id": "FRA-2000-7257-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2018-10-26T01:03:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-04-22T03:59:59Z",
+          "title": "U.S. DOT/OST - Notice of Proposed Rulemaking - Procedures for Transportation Workplace Drug and Alcohol Testing Programs",
+          "postedDate": "1999-12-09T05:00:00Z",
+          "docketId": "FRA-2000-7257",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-12-09T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803826b0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7257-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 45,
+            "label": "Other"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-12-09",
+          "toDate": "1999-12-09"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-2001-8622-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2002-11-13T04:59:59Z",
+          "title": "U.S. DOT/FRA - Notice of Public Hearing; Wheeling and Lake Erie Railway Company",
+          "postedDate": "2002-11-12T05:00:00Z",
+          "docketId": "FRA-2001-8622",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345096"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2001-8622-0013"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2001-0014-0297",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2021-01-12T03:08:18Z",
+          "highlightedContent": "",
+          "frDocNum": "68242",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Control of Emissions From Nonroad Large Spark-Ignition Engines, and Recreational Engines (Marine and Land Based) [A-2000-01-V-A-03]",
+          "postedDate": "2002-11-12T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2001-0014",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e3b2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2001-0014-0297"
+        }
+      },
+      {
+        "id": "FHWA-2001-10836-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2002-11-13T04:59:59Z",
+          "title": "U.S. DOT/FHWA - Correction to Final Rule",
+          "postedDate": "2002-11-12T05:00:00Z",
+          "docketId": "FHWA-2001-10836",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480302aad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2001-10836-0002"
+        }
+      },
+      {
+        "id": "FMCSA-2002-12844-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:04:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-11-13T04:59:59Z",
+          "title": "U.S. DOT/FMCSA - Notice of Applications for Exemption From the Vision Standard; Request for Comments",
+          "postedDate": "2002-11-12T05:00:00Z",
+          "docketId": "FMCSA-2002-12844",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bd0c6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2002-12844-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 91,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-11-12",
+          "toDate": "2002-11-12"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

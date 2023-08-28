@@ -1,0 +1,148 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-R01-OAR-2004-NH-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:21:26Z",
+          "highlightedContent": "",
+          "frDocNum": "4903",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2004-03-04T04:59:59Z",
+          "title": "Federal Register Notice of Proposed Rulemaking.\r\nFebruary 2, 2004;  69 FR 4903.  Written comments must be received on or before March 3, 2004.",
+          "postedDate": "2004-02-02T05:00:00Z",
+          "docketId": "EPA-R01-OAR-2004-NH-0001",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2004-02-02T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800a70d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R01-OAR-2004-NH-0001-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0056-0092",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-12-19T18:02:01Z",
+          "highlightedContent": "",
+          "frDocNum": "4901",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Public Hearings for Rule to Reduce Interstate Transport of Fine Particulate Matter and Ozone (Interstate Air Quality Rule) and Proposed National Emission Standards for Hazardous Air Pollutants; and, in the Alternative, Proposed Standards of Performance for New and Existing Stationary Sources: Electric Utility Steam Generating Units",
+          "postedDate": "2004-02-02T14:00:12Z",
+          "docketId": "EPA-HQ-OAR-2002-0056",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a6db4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0056-0092"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 467,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-02-02",
+          "toDate": "2004-02-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "data": [
+      {
+        "id": "IRS-2005-0121-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:31:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E5-07582",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 482: Methods To Determine Taxable Income in Connection With a Cost Sharing Arrangement; Correction",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "IRS-2005-0121",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcdd8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2005-0121-0001"
+        }
+      },
+      {
+        "id": "ED-2005-0129-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:04:14Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24321",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": null,
+          "title": "State Charter School Facilities Incentive Program",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "ED-2005-0129",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcd87"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2005-0129-0001"
+        }
+      },
+      {
+        "id": "NCUA-2005-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2006-09-02T20:29:44Z",
+          "highlightedContent": "",
+          "frDocNum": "E5-07584",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": "2006-02-22T04:59:59Z",
+          "title": "Third-Party Servicing of Indirect Vehicle Loans",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "NCUA-2005-0021",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcc88"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2005-0021-0001"
+        }
+      },
+      {
+        "id": "IRS-2005-0119-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:31:00Z",
+          "highlightedContent": "",
+          "frDocNum": "E5-07583",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2006-03-22T04:59:59Z",
+          "title": "Application of Normalization Accounting Rules to Balances of Excess Deferred Income Taxes and Accumulated Deferred Investment Tax Credits of Public Utilities Whose Assets Cease To Be Public Utility Property",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "IRS-2005-0119",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fccbf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2005-0119-0001"
+        }
+      },
+      {
+        "id": "FRS-2005-0137-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T17:36:31Z",
+          "highlightedContent": "",
+          "frDocNum": "E5-07579",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Home Mortgage Disclosure",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcdb6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2005-0137-0001"
+        }
+      },
+      {
+        "id": "USPS-2005-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-03T00:31:37Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24209",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "New Preparation Requirements for Bundles of Mail on Pallets",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcdc4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2005-0020-0001"
+        }
+      },
+      {
+        "id": "FCC-2005-0130-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:53:52Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24217",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "DTV Tuner Requirements",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcde9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2005-0130-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22403-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:28:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-12-22T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "FAA-2005-22403",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b6c9b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22403-0009"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2005-0292-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:19:18Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24322",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-02-22T04:59:59Z",
+          "title": "Extension of Tolerances for Emergency Exemptions (Multiple Chemicals)",
+          "postedDate": "2005-12-21T13:25:30Z",
+          "docketId": "EPA-HQ-OPP-2005-0292",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T13:25:30Z",
+          "openForComment": false,
+          "objectId": "09000064800fcdfa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2005-0292-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2005-0036-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-06-25T01:03:13Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24303",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-01-21T04:59:59Z",
+          "title": "Revised Compliance Dates for National Pollutant Discharge Elimination System Permit Regulation and Effluent Limitation Guidelines for Concentrated Animal Feeding Operations",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "EPA-HQ-OW-2005-0036",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fce85"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2005-0036-0012"
+        }
+      },
+      {
+        "id": "NCUA-2005-0022-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T20:29:45Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24285",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Member Business Loans",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "NCUA-2005-0022",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcc9c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2005-0022-0001"
+        }
+      },
+      {
+        "id": "FEC-2005-0021-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:56:21Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24297",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": null,
+          "title": "Electioneering Communications",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcd6a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2005-0021-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0217-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:59:56Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24298",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Regulation of Fuel and Fuel Additives: Extension of California Enforcement Exemptions for Reformulated Gasoline to California Phase 3 Gasoline",
+          "postedDate": "2005-12-21T14:44:58Z",
+          "docketId": "EPA-HQ-OAR-2003-0217",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800fcdac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0217-0010"
+        }
+      },
+      {
+        "id": "SLSDC-2005-23248-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-01-10T14:44:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "SLSDC",
+          "commentEndDate": "2005-12-22T04:59:59Z",
+          "title": "U.S. DOT/SLSDC - Notice of Proposed Rulemaking",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "SLSDC-2005-23248",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aef0a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SLSDC-2005-23248-0001"
+        }
+      },
+      {
+        "id": "NCUA-2005-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:49:46Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24284",
+          "withdrawn": false,
+          "agencyId": "NCUA",
+          "commentEndDate": null,
+          "title": "Requirements for Insurance",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "NCUA-2005-0023",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fccb5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NCUA-2005-0023-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0178-0051",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:59:46Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24300",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: Miscellaneous Coating Manufacturing",
+          "postedDate": "2005-12-21T15:04:02Z",
+          "docketId": "EPA-HQ-OAR-2003-0178",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800fcd50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0178-0051"
+        }
+      },
+      {
+        "id": "FMCSA-2005-20930-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:04:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2005-12-22T04:59:59Z",
+          "title": "U.S. DOT/FMCSA - Notice",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "FMCSA-2005-20930",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bbcde"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2005-20930-0012"
+        }
+      },
+      {
+        "id": "USCG-2005-23172-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2005-12-22T04:59:59Z",
+          "title": "Technical Amendment",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "USCG-2005-23172",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480330a77"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2005-23172-0001"
+        }
+      },
+      {
+        "id": "MARAD-2005-23311-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T21:00:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2005-12-22T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel TI AMO",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "MARAD-2005-23311",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5b15"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2005-23311-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0155-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T16:00:43Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24071",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-02-07T04:59:59Z",
+          "title": "National Perchloroethylene Air Emission Standards for Dry Cleaning Facilities",
+          "postedDate": "2005-12-21T20:23:58Z",
+          "docketId": "EPA-HQ-OAR-2005-0155",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-12-21T20:23:58Z",
+          "openForComment": false,
+          "objectId": "09000064800bf165"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0155-0001"
+        }
+      },
+      {
+        "id": "IRS-2005-0120-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:31:00Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24283",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 1374 Effective Dates",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "IRS-2005-0120",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcd1e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2005-0120-0001"
+        }
+      },
+      {
+        "id": "OPM-2005-0024-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:53:31Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24286",
+          "withdrawn": false,
+          "agencyId": "OPM",
+          "commentEndDate": "2006-02-22T04:59:59Z",
+          "title": "Examining System and Programs for Specific Positions and Examinations (Miscellaneous)",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "OPM-2005-0024",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcc61"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OPM-2005-0024-0002"
+        }
+      },
+      {
+        "id": "DOC-2005-0030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:07:28Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24295",
+          "withdrawn": false,
+          "agencyId": "DOC",
+          "commentEndDate": null,
+          "title": "Disclosure of Government Information; Addition of Designated Official",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "DOC-2005-0030",
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fcc8d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOC-2005-0030-0001"
+        }
+      },
+      {
+        "id": "FEC-2005-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:56:32Z",
+          "highlightedContent": "",
+          "frDocNum": "05-24296",
+          "withdrawn": false,
+          "agencyId": "FEC",
+          "commentEndDate": null,
+          "title": "Extension of Administrative Fines Program",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800fccce"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FEC-2005-0020-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22627-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-12-22T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2005-12-21T05:00:00Z",
+          "docketId": "FAA-2005-22627",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-12-21T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b46e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22627-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 215,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 91,
+            "label": "Notice"
+          },
+          {
+            "docCount": 84,
+            "label": "Other"
+          },
+          {
+            "docCount": 19,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 4,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 25,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "IRS"
+          },
+          {
+            "docCount": 3,
+            "value": "NCUA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FEC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOC"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "OPM"
+          },
+          {
+            "docCount": 1,
+            "value": "SLSDC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "USPS"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-12-21",
+          "toDate": "2005-12-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 25,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 25,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

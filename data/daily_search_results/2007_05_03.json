@@ -1,0 +1,561 @@
+[
+  {
+    "data": [
+      {
+        "id": "ED-2007-OGC-0129-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:03:49Z",
+          "highlightedContent": "",
+          "frDocNum": "07-01243",
+          "withdrawn": false,
+          "agencyId": "ED",
+          "commentEndDate": "2007-10-02T03:59:59Z",
+          "title": "Semi-annual agenda",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "ED-2007-OGC-0129",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480231b35"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ED-2007-OGC-0129-0002"
+        }
+      },
+      {
+        "id": "NOAA-2007-0320-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:41:02Z",
+          "highlightedContent": "",
+          "frDocNum": "07-02204",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fishery conservation and management: West Coast States and Western Pacific fisheries--",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "NOAA-2007-0320",
+          "subtype": null,
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648023463c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2007-0320-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-27822-0003-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:37:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-05-04T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petition for Exemption Received",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "FAA-2007-27822",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aec2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27822-0003-0002"
+        }
+      },
+      {
+        "id": "PHMSA-2005-23141-0028",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2007-05-04T03:59:59Z",
+          "title": "U.S. DOT/PHMSA - Final Rule",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "PHMSA-2005-23141",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bf049"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2005-23141-0028"
+        }
+      },
+      {
+        "id": "DHS-2007-0001-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:07:05Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-08420",
+          "withdrawn": false,
+          "agencyId": "DHS",
+          "commentEndDate": null,
+          "title": "Department of Homeland Security Acquisition Regulation: Board of Contract Appeals Change",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "DHS-2007-0001",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064802345ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DHS-2007-0001-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0009-0132",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:58:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-07668",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Air Emission Standards for Hazardous Air Pollutants: Halogenated Sovent Cleaning",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0009",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480234686"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0009-0132"
+        }
+      },
+      {
+        "id": "CMS-2007-0069-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T15:25:02Z",
+          "highlightedContent": "",
+          "frDocNum": "07-01920",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": "2007-06-13T03:59:59Z",
+          "title": "Medicare Program; Proposed Changes to the Hospital Inpatient Prospective Payment Systems and Fiscal Year 2008 Rates",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "CMS-2007-0069",
+          "subtype": null,
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802346e5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2007-0069-0001"
+        }
+      },
+      {
+        "id": "FAA-2007-27822-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:37:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-05-04T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petition for Exemption Received",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "FAA-2007-27822",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aec2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-27822-0003-0001"
+        }
+      },
+      {
+        "id": "PHMSA-2006-25589-0524-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2007-05-04T03:59:59Z",
+          "title": "U.S. DOT/PHMSA - Final Rule",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "PHMSA-2006-25589",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c8de1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2006-25589-0524-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-06-0208-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:36:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-08459",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Tomatoes grown in Florida",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "AMS-FV-06-0208",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802346bf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-06-0208-0002"
+        }
+      },
+      {
+        "id": "AMS-FV-07-0029-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:18Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-08458",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": "2007-06-05T03:59:59Z",
+          "title": "Grapes grown in Southeast California",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "AMS-FV-07-0029",
+          "subtype": "N/A",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802346ec"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-07-0029-0001"
+        }
+      },
+      {
+        "id": "AMS-FV-06-0186-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:36:36Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-08443",
+          "withdrawn": false,
+          "agencyId": "AMS",
+          "commentEndDate": null,
+          "title": "Cherries (tart) grown in Michigan, et al.",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "AMS-FV-06-0186",
+          "subtype": "N/A",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648023470e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/AMS-FV-06-0186-0001"
+        }
+      },
+      {
+        "id": "FCIC-2006-0003-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:54:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-08340",
+          "withdrawn": false,
+          "agencyId": "FCIC",
+          "commentEndDate": null,
+          "title": "Crop insurance regulations: Mint crop insurance provisions",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "FCIC-2006-0003",
+          "subtype": null,
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480234694"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCIC-2006-0003-0002"
+        }
+      },
+      {
+        "id": "PHMSA-2006-25589-0524-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:04:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2007-05-04T03:59:59Z",
+          "title": "U.S. DOT/PHMSA - Final Rule",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "PHMSA-2006-25589",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c8de2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-2006-25589-0524-0002"
+        }
+      },
+      {
+        "id": "FAR-FAR-2007-0001-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:20:05Z",
+          "highlightedContent": "",
+          "frDocNum": "07-02168",
+          "withdrawn": false,
+          "agencyId": "FAR",
+          "commentEndDate": "2007-07-03T03:59:59Z",
+          "title": "FAR Case 2005-039, Use of Products Containing Recovered Materials In Service and Construction Contracts",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "FAR-FAR-2007-0001",
+          "subtype": "Proposed Rules",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480235350"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAR-FAR-2007-0001-0009"
+        }
+      },
+      {
+        "id": "NASA_FRDOC_0001-0169",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-05-03T11:10:43Z",
+          "highlightedContent": "",
+          "frDocNum": "07-02168",
+          "withdrawn": false,
+          "agencyId": "NASA",
+          "commentEndDate": "2007-07-03T03:59:59Z",
+          "title": "Federal Acquisition Regulation (FAR): Construction and service contracts; use of products containing recovered materials",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "NASA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802345fd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NASA_FRDOC_0001-0169"
+        }
+      },
+      {
+        "id": "IRS-2007-0074-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-10T18:03:10Z",
+          "highlightedContent": "",
+          "frDocNum": "Z7-04618",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Income taxes:  Dual consolidated losses",
+          "postedDate": "2007-05-03T04:00:00Z",
+          "docketId": "IRS-2007-0074",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-05-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480234671"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0074-0004"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 61,
+            "label": "Notice"
+          },
+          {
+            "docCount": 38,
+            "label": "Other"
+          },
+          {
+            "docCount": 24,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "N/A"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rules"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 17,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "AMS"
+          },
+          {
+            "docCount": 3,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DHS"
+          },
+          {
+            "docCount": 1,
+            "value": "ED"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAR"
+          },
+          {
+            "docCount": 1,
+            "value": "FCIC"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "NASA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-05-03",
+          "toDate": "2007-05-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 17,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 17,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

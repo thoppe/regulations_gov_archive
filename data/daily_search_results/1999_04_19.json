@@ -1,0 +1,260 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1999-5116-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:07:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-04-20T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Johnson Sweeper Co.; Grant of Application for Temporary Exemption From Federal Motor Vehicle Safety Standard No. 105",
+          "postedDate": "1999-04-19T04:00:00Z",
+          "docketId": "NHTSA-1999-5116",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-04-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032a32d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5116-0003"
+        }
+      },
+      {
+        "id": "NHTSA-1999-5403-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-04-20T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Denial of Petitions for Rulemaking",
+          "postedDate": "1999-04-19T04:00:00Z",
+          "docketId": "NHTSA-1999-5403",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-04-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032ba60"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5403-0002"
+        }
+      },
+      {
+        "id": "NHTSA-1999-5503-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:11:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-05-20T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Receipt of Petition for Decision that Nonconforming 1998 and 1999 Lexus RX300 Multi-Purpose Passenger Vehicles (MPV'S) are Eligible for Importation",
+          "postedDate": "1999-04-19T04:00:00Z",
+          "docketId": "NHTSA-1999-5503",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-04-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032c228"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5503-0001"
+        }
+      },
+      {
+        "id": "NRC-1999-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:10:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "1999-07-06T03:59:59Z",
+          "title": "Energy Compensation Sources for Well Logging and Other Regulatory Clarifications",
+          "postedDate": "1999-04-19T19:29:46Z",
+          "docketId": "NRC-1999-0014",
+          "subtype": null,
+          "commentStartDate": "1999-04-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648081f42e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-1999-0014-0001"
+        }
+      },
+      {
+        "id": "FDA-1998-N-0051-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-08-08T18:54:06Z",
+          "highlightedContent": "",
+          "frDocNum": "64FR18571",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Over-The-Counter Human Drugs; Labeling Requirements;",
+          "postedDate": "1999-04-19T04:00:00Z",
+          "docketId": "FDA-1998-N-0051",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648056e85a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-N-0051-0002"
+        }
+      },
+      {
+        "id": "FAA-1999-5536-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "1999-08-18T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "1999-04-19T04:00:00Z",
+          "docketId": "FAA-1999-5536",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-04-19T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032c54d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5536-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 31,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-04-19",
+          "toDate": "1999-04-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

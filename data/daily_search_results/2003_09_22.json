@@ -1,0 +1,260 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2003-16083-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-09-23T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2003-09-22T04:00:00Z",
+          "docketId": "FAA-2003-16083",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480315f3a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-16083-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2003-0068-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:10:01Z",
+          "highlightedContent": "",
+          "frDocNum": "36741",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-01-05T04:59:59Z",
+          "title": "Water Quality Standards Regulation;  Advanced Notice of Proposed Rulemaking.",
+          "postedDate": "2003-09-22T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2003-0068",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2003-09-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800c3db0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2003-0068-0035"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2000-7092-0018",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:25:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-09-23T03:59:59Z",
+          "title": "U.S. DOT/RSPA -  Decision on Petition for Reconsideration of Administrative Determination of Preemption",
+          "postedDate": "2003-09-22T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2000-7092",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480338511"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2000-7092-0018"
+        }
+      },
+      {
+        "id": "NHTSA-2003-16170-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:08:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2003-09-23T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Grant of Application of Motive Power Industry Co., Ltd. for Temporary Exemption from Federal Motor Vehicle Safety Standard No. 123",
+          "postedDate": "2003-09-22T04:00:00Z",
+          "docketId": "NHTSA-2003-16170",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480316449"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2003-16170-0001"
+        }
+      },
+      {
+        "id": "FAA-2003-16075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-09-23T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2003-09-22T04:00:00Z",
+          "docketId": "FAA-2003-16075",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480315ec8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-16075-0001"
+        }
+      },
+      {
+        "id": "FAA-2003-16079-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:11Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-09-23T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2003-09-22T04:00:00Z",
+          "docketId": "FAA-2003-16079",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-09-22T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480315f06"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-16079-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 90,
+            "label": "Other"
+          },
+          {
+            "docCount": 66,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 25,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-09-22",
+          "toDate": "2003-09-22"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

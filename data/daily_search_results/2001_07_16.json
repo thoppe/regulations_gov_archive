@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "FTA-2001-10120-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2001-07-17T03:59:59Z",
+          "title": "U.S. DOT/FTA - Notice of Request for Comments",
+          "postedDate": "2001-07-16T04:00:00Z",
+          "docketId": "FTA-2001-10120",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803010c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2001-10120-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2000-7740-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:25:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2001-07-17T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Notice of Administrative Determination of Preemption by RSPA's Associate Administrator for Hazardous Materials Safety",
+          "postedDate": "2001-07-16T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2000-7740",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480340bab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2000-7740-0014"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2001-0005-0252",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:12:35Z",
+          "highlightedContent": "",
+          "frDocNum": "36924",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emission Standards for Hazardous Air Pollutants: Group I Polymers and Resins and Group IV Polymers and Resins [A-92-44 and A-92-45)",
+          "postedDate": "2001-07-16T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2001-0005",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e3205"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2001-0005-0252"
+        }
+      },
+      {
+        "id": "USCG-2001-10067-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-07-17T03:59:59Z",
+          "title": "Notice of Meeting",
+          "postedDate": "2001-07-16T04:00:00Z",
+          "docketId": "USCG-2001-10067",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-07-16T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300efe"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10067-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 39,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-07-16",
+          "toDate": "2001-07-16"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

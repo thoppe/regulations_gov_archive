@@ -1,0 +1,198 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1998-3976-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-08-19T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "1998-06-29T04:00:00Z",
+          "docketId": "USCG-1998-3976",
+          "subtype": null,
+          "commentStartDate": "1998-06-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480323b3c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3976-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0064-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:42Z",
+          "highlightedContent": "",
+          "frDocNum": "56583",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Hazardous Waste Management System: Identification and Listing of Hazardous Waste [F-1998-PRLF-S0012.C]",
+          "postedDate": "1998-06-29T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0064",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800def54"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0064-0024"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:14:09Z",
+          "highlightedContent": "",
+          "frDocNum": "35147",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Organobromine Production Wastes; Identification and Listing of Hazardous Waste; Land Disposal Restrictions; Listing of CERCLA Hazardous Substances, Reportable Quantities; Final Rule; Technical Amendment",
+          "postedDate": "1998-06-29T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0050",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800deadb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0050-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0064-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:06:33Z",
+          "highlightedContent": "",
+          "frDocNum": "31147",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Notice: Excerpts from Volume 53, Number 159, Pages 31147-31148 [F-1998-PRLF-S0012.B]",
+          "postedDate": "1998-06-29T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0064",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800def50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0064-0023"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 27,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 21,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-06-29",
+          "toDate": "1998-06-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

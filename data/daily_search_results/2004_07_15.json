@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2004-18033-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-07-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2004-07-15T04:00:00Z",
+          "docketId": "FAA-2004-18033",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f7d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18033-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-18601-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-07-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2004-07-15T04:00:00Z",
+          "docketId": "FAA-2004-18601",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480321e53"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18601-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-18014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-07-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - D irect Final Rule; Request for Comments",
+          "postedDate": "2004-07-15T04:00:00Z",
+          "docketId": "FAA-2004-18014",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f567"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18014-0001"
+        }
+      },
+      {
+        "id": "FDA-2004-N-0189-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-06-02T15:08:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2004-08-14T03:59:59Z",
+          "title": "Notice of Proposed Rule from FDA/CFSAN re Recordkeeping Requirements for Human Food and Cosmetics Manufactured from Processed With, or Otherwise Containing Material form Cattle",
+          "postedDate": "2004-07-15T04:00:00Z",
+          "docketId": "FDA-2004-N-0189",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2004-07-14T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064804708ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2004-N-0189-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-18603-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:26:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-07-16T03:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2004-07-15T04:00:00Z",
+          "docketId": "FAA-2004-18603",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3fab"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18603-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-18030-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-07-16T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2004-07-15T04:00:00Z",
+          "docketId": "FAA-2004-18030",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-07-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f794"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18030-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 109,
+            "label": "Other"
+          },
+          {
+            "docCount": 35,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-07-15",
+          "toDate": "2004-07-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

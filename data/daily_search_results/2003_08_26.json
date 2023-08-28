@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2003-0025-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:13:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Federal Register Notice - Nondiscrimination on the Basis of Race, Color, National Origin, Handicap, or Age in Programs or Activities Receiving Federal Financial Assistance",
+          "postedDate": "2003-08-26T17:31:57Z",
+          "docketId": "NRC-2003-0025",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064806fb314"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2003-0025-0001"
+        }
+      },
+      {
+        "id": "FMCSA-1998-3299-0293",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T12:41:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-08-27T03:59:59Z",
+          "title": "Notice of Intent",
+          "postedDate": "2003-08-26T04:00:00Z",
+          "docketId": "FMCSA-1998-3299",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480382b83"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3299-0293"
+        }
+      },
+      {
+        "id": "FMCSA-1998-3298-0289",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2003-08-27T03:59:59Z",
+          "title": "Notice of Intent",
+          "postedDate": "2003-08-26T04:00:00Z",
+          "docketId": "FMCSA-1998-3298",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031f48a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3298-0289"
+        }
+      },
+      {
+        "id": "FAA-2003-15792-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-09-18T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Petitions for Exemption Received and of Dispositions of Prior Petitions",
+          "postedDate": "2003-08-26T04:00:00Z",
+          "docketId": "FAA-2003-15792",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480314bf9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-15792-0002"
+        }
+      },
+      {
+        "id": "FAA-2003-15887-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-08-27T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking",
+          "postedDate": "2003-08-26T04:00:00Z",
+          "docketId": "FAA-2003-15887",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-08-26T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031535a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-15887-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 140,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 77,
+            "label": "Other"
+          },
+          {
+            "docCount": 8,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-08-26",
+          "toDate": "2003-08-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

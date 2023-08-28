@@ -1,0 +1,179 @@
+[
+  {
+    "data": [
+      {
+        "id": "FHWA-1997-2364-0039",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2014-07-09T01:04:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FHWA",
+          "commentEndDate": null,
+          "title": "Parts and Accessories Necessary for Safe Operation; Glazing in Specified Openings",
+          "postedDate": "1998-01-09T00:00:00Z",
+          "docketId": "FHWA-1997-2364",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480357d55"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1997-2364-0039"
+        }
+      },
+      {
+        "id": "FDA-1996-P-0309-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-02-21T02:01:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1998-03-25T04:59:59Z",
+          "title": "Food Labeling; Serving Sizes; Reference Amounts for Candies",
+          "postedDate": "1998-01-08T05:00:00Z",
+          "docketId": "FDA-1996-P-0309",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-02-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480504c79"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1996-P-0309-0006"
+        }
+      },
+      {
+        "id": "FDA-1996-P-0246-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-02-21T02:01:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1998-03-25T04:59:59Z",
+          "title": "Food Labeling; Serving Sizes; Reference Amounts for Candies",
+          "postedDate": "1998-01-08T05:00:00Z",
+          "docketId": "FDA-1996-P-0246",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2014-02-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480503975"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1996-P-0246-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 26,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-01-08",
+          "toDate": "1998-01-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

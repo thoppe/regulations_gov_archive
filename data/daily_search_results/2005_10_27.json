@@ -1,0 +1,694 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2005-22109-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Foreign Airworthiness Directive",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22109",
+          "subtype": "Foreign Airworthiness Directive",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b45bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22109-0005"
+        }
+      },
+      {
+        "id": "COLC-2005-0003-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-01-29T19:18:54Z",
+          "highlightedContent": "",
+          "frDocNum": "05-21381",
+          "withdrawn": false,
+          "agencyId": "COLC",
+          "commentEndDate": null,
+          "title": "Preregistration of Certain Unpublished Copyright Claims",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "COLC-2005-0003",
+          "subtype": null,
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480097788"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/COLC-2005-0003-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0122-0132",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:12:46Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Notice (Tolerances for Sulfuryl Fluoride)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0122",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800be1cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0122-0132"
+        }
+      },
+      {
+        "id": "FAA-2005-22479-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:29Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Disposition of Prior Petition",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22479",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bc92b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22479-0003"
+        }
+      },
+      {
+        "id": "FAA-2001-9862-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Disposition of Prior Petition",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2001-9862",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648034501c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-9862-0009"
+        }
+      },
+      {
+        "id": "FAA-2005-22791-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22791",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b2f09"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22791-0001"
+        }
+      },
+      {
+        "id": "FERC-2005-0347-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:56:48Z",
+          "highlightedContent": "",
+          "frDocNum": "05-21423",
+          "withdrawn": false,
+          "agencyId": "FERC",
+          "commentEndDate": "2005-11-18T04:59:59Z",
+          "title": "Prohibition of Energy Market Manipulation",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480097819"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FERC-2005-0347-0001"
+        }
+      },
+      {
+        "id": "NRC-2005-0032-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T18:14:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": null,
+          "title": "Price-Anderson Act Financial Protection Regulations and Elimination of Antitrust Reviews",
+          "postedDate": "2005-10-27T17:47:40Z",
+          "docketId": "NRC-2005-0032",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064803bb5d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2005-0032-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22792-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22792",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b2f1e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22792-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22497-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Disposition of Prior Petition",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22497",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bc94f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22497-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0122-0133",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:14:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Register Notice (Registration of Sulfuryl Fluoride at Federal Level)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0122",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800be1d6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0122-0133"
+        }
+      },
+      {
+        "id": "FAA-2005-22812-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22812",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802babcd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22812-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0122-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:10:27Z",
+          "highlightedContent": "",
+          "frDocNum": "62030",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2005-11-29T04:59:59Z",
+          "title": "Protection of Stratospheric Ozone: The 2006 Critical Use Exemption From the Phaseout of Methyl Bromide",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0122",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bda47"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0122-0001"
+        }
+      },
+      {
+        "id": "FAA-2004-19630-0064",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:35:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Correction",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2004-19630",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803262dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-19630-0064"
+        }
+      },
+      {
+        "id": "FAA-2005-22810-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:43:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Nptice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22810",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b4748"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22810-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22171-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Disposition of Prior Petition",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22171",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032e821"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22171-0004"
+        }
+      },
+      {
+        "id": "FAA-2003-16254-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Disposition of Prior Petition",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2003-16254",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b0da4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-16254-0006"
+        }
+      },
+      {
+        "id": "FAA-2004-18598-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Disposition of Prior Petition",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2004-18598",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802addc1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-18598-0005"
+        }
+      },
+      {
+        "id": "FAA-2002-12181-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Disposition of Prior Petition",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2002-12181",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480305f8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-12181-0006"
+        }
+      },
+      {
+        "id": "NHTSA-2005-21048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:15:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Denial of Petition for Rulemaking",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "NHTSA-2005-21048",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032b0e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2005-21048-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22794-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22794",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b880f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22794-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22793-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:27:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22793",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5cad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22793-0001"
+        }
+      },
+      {
+        "id": "NOAA-2005-0127-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:02Z",
+          "highlightedContent": "",
+          "frDocNum": "05-21485",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Sea Turtle Conservation; Shrimp Trawling Requirements",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "NOAA-2005-0127",
+          "subtype": null,
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648009778d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2005-0127-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22749-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:06Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2005-10-28T03:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2005-10-27T04:00:00Z",
+          "docketId": "FAA-2005-22749",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2005-10-27T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1668"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22749-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 112,
+            "label": "Other"
+          },
+          {
+            "docCount": 101,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 70,
+            "label": "Notice"
+          },
+          {
+            "docCount": 20,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 16,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Foreign Airworthiness Directive"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 24,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 16,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "COLC"
+          },
+          {
+            "docCount": 1,
+            "value": "FERC"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NRC"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2005-10-27",
+          "toDate": "2005-10-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 24,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 24,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2003-14472-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-03-12T04:59:59Z",
+          "title": "U.S. DOT/USCG - Proposed Rule; Notice of Public Meeting",
+          "postedDate": "2004-03-11T05:00:00Z",
+          "docketId": "USCG-2003-14472",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030f799"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2003-14472-0003"
+        }
+      },
+      {
+        "id": "FAA-2004-16989-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-03-12T04:59:59Z",
+          "title": "U.S. DOT/FAA - Correction - Modification of Class E Airspace; Hays, KS",
+          "postedDate": "2004-03-11T05:00:00Z",
+          "docketId": "FAA-2004-16989",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031ad2b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-16989-0002"
+        }
+      },
+      {
+        "id": "FRA-2003-16130-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:58:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2004-03-12T04:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver of Compliance - Mississippi Lime Company",
+          "postedDate": "2004-03-11T05:00:00Z",
+          "docketId": "FRA-2003-16130",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803161e8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2003-16130-0003"
+        }
+      },
+      {
+        "id": "MARAD-2003-15171-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2004-03-12T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Proposed Rule; Notice of Public Meeting",
+          "postedDate": "2004-03-11T05:00:00Z",
+          "docketId": "MARAD-2003-15171",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-03-11T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031313f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2003-15171-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 161,
+            "label": "Other"
+          },
+          {
+            "docCount": 71,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 9,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-03-11",
+          "toDate": "2004-03-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

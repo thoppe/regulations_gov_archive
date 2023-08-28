@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-1999-6364-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-05-12T03:59:59Z",
+          "title": "U.S. DOT/FRA - Northeast Illinois Railroad Corporation; Cancellation of Public  Hearing",
+          "postedDate": "2000-05-11T04:00:00Z",
+          "docketId": "FRA-1999-6364",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-05-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033216a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1999-6364-0009"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-2000-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:02Z",
+          "highlightedContent": "",
+          "frDocNum": "30482",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2000-06-13T03:59:59Z",
+          "title": "National Priorities List for Uncontrolled Hazardous Waste Sites [NPL-FRU28-1-59]",
+          "postedDate": "2000-05-11T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-2000-0015",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2000-05-11T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e25ac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-2000-0015-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 58,
+            "label": "Other"
+          },
+          {
+            "docCount": 17,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-05-11",
+          "toDate": "2000-05-11"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

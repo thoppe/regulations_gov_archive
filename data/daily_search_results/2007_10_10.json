@@ -1,0 +1,614 @@
+[
+  {
+    "data": [
+      {
+        "id": "OSM-2007-0009-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-10T12:35:09Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19851",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "Montana Regulatory Program",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "OSM-2007-0009",
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe268"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2007-0009-0001"
+        }
+      },
+      {
+        "id": "USPS-2007-0047-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-10T11:14:35Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19875",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": null,
+          "title": "Temporary Mail Forwarding Policy",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe176"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2007-0047-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-24926-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:11:28Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19745",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Establishment, Modification and Revocation of VOR Federal Airways; East CentralUnited States",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "FAA-2006-24926",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe1ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-24926-0008"
+        }
+      },
+      {
+        "id": "USPS-2007-0050-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-12-10T14:22:02Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19931",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2007-12-11T04:59:59Z",
+          "title": "New Address Requirements for Automation, Presorted, and Carrier Route Rate Letters",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe22c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2007-0050-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0727-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:04:54Z",
+          "highlightedContent": "",
+          "frDocNum": "07-04992",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Atka Mackerel in the Western Aleutian District of the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0727",
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe27a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0727-0001"
+        }
+      },
+      {
+        "id": "CMS-2007-0194-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:25:18Z",
+          "highlightedContent": "",
+          "frDocNum": "07-04875",
+          "withdrawn": false,
+          "agencyId": "CMS",
+          "commentEndDate": null,
+          "title": "Medicare Program; Changes to the Hospital Inpatient Prospective Payment Systems and Fiscal Year 2008 Rates; Correction",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "CMS-2007-0194",
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe157"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CMS-2007-0194-0001"
+        }
+      },
+      {
+        "id": "USPS-2007-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-11-09T12:10:43Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19934",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2007-11-10T04:59:59Z",
+          "title": "Elimination of Cash and Check Deposits Into Local Trust Accounts for Express Mail Corporate Accounts",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe1bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2007-0048-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2007-0557-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:07:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19829",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-12-11T04:59:59Z",
+          "title": "Furilazole; Inert Ingredient Tolerances",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2007-0557",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe1e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2007-0557-0001"
+        }
+      },
+      {
+        "id": "USCG-2007-0024-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:14Z",
+          "highlightedContent": "",
+          "frDocNum": "07-04998",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulations; Kennebec River, Bath and Woolwich, ME",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "USCG-2007-0024",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe204"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2007-0024-0001"
+        }
+      },
+      {
+        "id": "FWS-R8-ES-2007-0005-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2013-02-26T17:27:29Z",
+          "highlightedContent": "",
+          "frDocNum": "07-04959",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2007-12-11T04:59:59Z",
+          "title": "Designation of Critical Habitat for the Peninsular Bighorn Sheep (Ovis canadensis nelsoni) and Proposed Taxonomic Revision: Proposed rule",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "FWS-R8-ES-2007-0005",
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480375a82"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R8-ES-2007-0005-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2007-0740-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T15:05:03Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19928",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Rescission of Commercial Closure for Connecticut",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "NOAA-NMFS-2007-0740",
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe261"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2007-0740-0001"
+        }
+      },
+      {
+        "id": "USPS-2007-0049-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2007-12-10T14:21:54Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19932",
+          "withdrawn": false,
+          "agencyId": "USPS",
+          "commentEndDate": "2007-12-11T04:59:59Z",
+          "title": "New Address and Barcode Requirements for Automation, Presorted, and Carrier Route Flat-Size Mail",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe1ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USPS-2007-0049-0001"
+        }
+      },
+      {
+        "id": "IRS-2007-0063-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:32:23Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19869",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Section 1045 Application to Partnerships; Correction",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "IRS-2007-0063",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe214"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0063-0002"
+        }
+      },
+      {
+        "id": "DOT-OST-2007-0024-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:41:21Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19916",
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2007-12-11T04:59:59Z",
+          "title": "Notice of Request for Renewal of a Previously Approved Collection",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "DOT-OST-2007-0024",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe1cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2007-0024-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2007-0876-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:09:26Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19947",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2007-12-11T04:59:59Z",
+          "title": "Spinetoram; Pesticide Tolerance",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "EPA-HQ-OPP-2007-0876",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe26a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2007-0876-0002"
+        }
+      },
+      {
+        "id": "FAA-2007-29110-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:14:14Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19927",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2007-12-11T04:59:59Z",
+          "title": "Airworthiness Directives; Pratt and Whitney PW4090 and PW4090-3 Turbofan Engines",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "FAA-2007-29110",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe281"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-29110-0001"
+        }
+      },
+      {
+        "id": "OSM-2007-0007-1840",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:54:37Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19961",
+          "withdrawn": false,
+          "agencyId": "OSM",
+          "commentEndDate": null,
+          "title": "Excess Spoil, Coal Mine Waste, and Buffers for Waters of the United States",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "OSM-2007-0007",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064802fe299"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSM-2007-0007-1840"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2005-0034-0097",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:08:42Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19432",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Primary Drinking Water Regulations for Lead and Copper: Short-Term Regulatory Revisions and Clarifications",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2005-0034",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064802fe186"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2005-0034-0097"
+        }
+      },
+      {
+        "id": "FAA-2007-28134-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:13:34Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19742",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Revision of Jet Routes J-29 and J-101; South Central United States",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "FAA-2007-28134",
+          "subtype": "Final Rule",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe188"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2007-28134-0002"
+        }
+      },
+      {
+        "id": "IRS-2007-0082-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2022-03-17T15:52:49Z",
+          "highlightedContent": "",
+          "frDocNum": "E7-19871",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": null,
+          "title": "Exclusions From Gross Income of Foreign Corporations; Hearing Cancellation",
+          "postedDate": "2007-10-10T04:00:00Z",
+          "docketId": "IRS-2007-0082",
+          "subtype": "NPRM",
+          "commentStartDate": "2007-10-10T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802fe256"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2007-0082-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 76,
+            "label": "Notice"
+          },
+          {
+            "docCount": 38,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 34,
+            "label": "Other"
+          },
+          {
+            "docCount": 14,
+            "label": "Rule"
+          },
+          {
+            "docCount": 6,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "NPRM"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 20,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "USPS"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "IRS"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "OSM"
+          },
+          {
+            "docCount": 1,
+            "value": "CMS"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2007-10-10",
+          "toDate": "2007-10-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 20,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 20,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

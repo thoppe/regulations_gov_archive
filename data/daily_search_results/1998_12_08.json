@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "FTA-1997-2925-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "1998-12-10T04:59:59Z",
+          "title": "Prevention of Prohibited Drug Use in Transit Operations: Prevention of Alcohol Misuse in Transit Operations - Final Rule",
+          "postedDate": "1998-12-08T05:00:00Z",
+          "docketId": "FTA-1997-2925",
+          "subtype": "Final Rule",
+          "commentStartDate": "1998-12-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031d11d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-1997-2925-0011"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4208-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:08:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-12-11T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - MHT Luxury Alloys, Denial of Application for Decision of Inconsequential Noncompliance",
+          "postedDate": "1998-12-08T05:00:00Z",
+          "docketId": "NHTSA-1998-4208",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480324972"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4208-0008"
+        }
+      },
+      {
+        "id": "FMCSA-1998-4145-0012",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1998-12-09T04:59:59Z",
+          "title": "Interim Final Rule; Request for Comments",
+          "postedDate": "1998-12-08T05:00:00Z",
+          "docketId": "FMCSA-1998-4145",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-12-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803245f6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-4145-0012"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 16,
+            "label": "Other"
+          },
+          {
+            "docCount": 8,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-12-08",
+          "toDate": "1998-12-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

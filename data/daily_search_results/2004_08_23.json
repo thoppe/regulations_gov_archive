@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OW-2002-0026-0871",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:10:36Z",
+          "highlightedContent": "",
+          "frDocNum": "51892",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Effluent Limitation Guidelines and New Source Performance Standards for the Concentrated Aquatic Animal Production Point Source Category",
+          "postedDate": "2004-08-23T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2002-0026",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800ae426"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2002-0026-0871"
+        }
+      },
+      {
+        "id": "FMCSA-2004-18536-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:40:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2004-08-24T03:59:59Z",
+          "title": "U.S. DOT/FMCSA - Notice and Request for Comments",
+          "postedDate": "2004-08-23T04:00:00Z",
+          "docketId": "FMCSA-2004-18536",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-08-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803218fa"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2004-18536-0001"
+        }
+      },
+      {
+        "id": "MARAD-2003-15030-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:48Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2004-08-24T03:59:59Z",
+          "title": "U.S. DOT/MARAD - Final Rule",
+          "postedDate": "2004-08-23T04:00:00Z",
+          "docketId": "MARAD-2003-15030",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-08-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480312469"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2003-15030-0003"
+        }
+      },
+      {
+        "id": "FAA-2001-10267-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-08-24T03:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Exemption Petitions for Received",
+          "postedDate": "2004-08-23T04:00:00Z",
+          "docketId": "FAA-2001-10267",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-08-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b75fc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-10267-0010"
+        }
+      },
+      {
+        "id": "FAA-2004-17681-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-08-24T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule; Request for Comments; Extension of Comment Period",
+          "postedDate": "2004-08-23T04:00:00Z",
+          "docketId": "FAA-2004-17681",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-08-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031e22b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-17681-0005"
+        }
+      },
+      {
+        "id": "FAA-2004-16901-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-08-24T03:59:59Z",
+          "title": "U.S. DOT/FAA -  Notice of Petitions for Exempton Received",
+          "postedDate": "2004-08-23T04:00:00Z",
+          "docketId": "FAA-2004-16901",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-08-23T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802adc75"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2004-16901-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 148,
+            "label": "Other"
+          },
+          {
+            "docCount": 14,
+            "label": "Notice"
+          },
+          {
+            "docCount": 14,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "MARAD"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-08-23",
+          "toDate": "2004-08-23"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "data": [
+      {
+        "id": "FTA-2004-17894-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:00:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "2004-05-22T03:59:59Z",
+          "title": "U.S. DOT/FTA - Request for Emergency Approval Process",
+          "postedDate": "2004-05-21T04:00:00Z",
+          "docketId": "FTA-2004-17894",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-05-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031ec94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-2004-17894-0001"
+        }
+      },
+      {
+        "id": "USCG-2004-17638-0097",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-05-22T03:59:59Z",
+          "title": "U.S. DOT/USCG - Correcting Amendments",
+          "postedDate": "2004-05-21T04:00:00Z",
+          "docketId": "USCG-2004-17638",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-05-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031dfaf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-17638-0097"
+        }
+      },
+      {
+        "id": "USCG-2004-17621-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-05-22T03:59:59Z",
+          "title": "U.S. DOT/USCG - Request for Applications",
+          "postedDate": "2004-05-21T04:00:00Z",
+          "docketId": "USCG-2004-17621",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-05-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031de68"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-17621-0001"
+        }
+      },
+      {
+        "id": "FMCSA-1997-2199-0218",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-05-04T01:01:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1993-08-21T03:59:59Z",
+          "title": "U.S. DOT/FMCSA - Final Rule",
+          "postedDate": "2004-05-21T04:00:00Z",
+          "docketId": "FMCSA-1997-2199",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-05-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a3435"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1997-2199-0218"
+        }
+      },
+      {
+        "id": "FRA-2004-16891-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:57:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2004-05-22T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver of Compliance - Northeast Illinois Regional Commuter Railroad Corporation (Metra)",
+          "postedDate": "2004-05-21T04:00:00Z",
+          "docketId": "FRA-2004-16891",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-05-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031a7b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2004-16891-0003"
+        }
+      },
+      {
+        "id": "FRA-2004-17566-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2004-05-22T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Modification of Single Car Air Brake Test Procedures - The Association of American Railroads",
+          "postedDate": "2004-05-21T04:00:00Z",
+          "docketId": "FRA-2004-17566",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-05-21T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031daa3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2004-17566-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 94,
+            "label": "Other"
+          },
+          {
+            "docCount": 53,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-05-21",
+          "toDate": "2004-05-21"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

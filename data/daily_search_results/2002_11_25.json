@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2002-0069-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-03-17T01:00:24Z",
+          "highlightedContent": "",
+          "frDocNum": "70640",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2003-01-25T04:59:59Z",
+          "title": "Federal Plan Requirements for Commercial and Industrial Solid Waste Incinerators Constructed on or Before November 30, 1999; Proposed Rule",
+          "postedDate": "2002-11-25T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0069",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2002-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ce9b2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0069-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2000-8164-0059",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:23:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2002-11-26T04:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "2002-11-25T05:00:00Z",
+          "docketId": "DOT-OST-2000-8164",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480342db1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2000-8164-0059"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0069-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:22:59Z",
+          "highlightedContent": "",
+          "frDocNum": "70640",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2003-01-25T04:59:59Z",
+          "title": "Federal Plan Requirements for Commercial and Industrial Solid Waste Incinerators Constructed on or Before November 30, 1999; Proposed Rule",
+          "postedDate": "2002-11-25T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0069",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2002-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800cec1c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0069-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0069-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:12:37Z",
+          "highlightedContent": "",
+          "frDocNum": "70640",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2003-01-25T04:59:59Z",
+          "title": "Federal Plan Requirements for Commercial and Industrial Solid Waste Incinerators Constructed on or Before November 30, 1999; Proposed Rule",
+          "postedDate": "2002-11-25T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0069",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2002-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800ced54"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0069-0013"
+        }
+      },
+      {
+        "id": "FAA-2002-13817-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-11-26T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2002-11-25T05:00:00Z",
+          "docketId": "FAA-2002-13817",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030c4d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13817-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-13820-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-11-26T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2002-11-25T05:00:00Z",
+          "docketId": "FAA-2002-13820",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-11-25T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030c503"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-13820-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 142,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-11-25",
+          "toDate": "2002-11-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

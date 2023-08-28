@@ -1,0 +1,171 @@
+[
+  {
+    "data": [
+      {
+        "id": "FRA-1998-4898-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "1999-12-11T04:59:59Z",
+          "title": "U.S. DOT/FRA - Final Rule",
+          "postedDate": "1999-12-10T05:00:00Z",
+          "docketId": "FRA-1998-4898",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480328c94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1998-4898-0002"
+        }
+      },
+      {
+        "id": "FRA-1999-6356-0017",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T19:59:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2003-01-16T04:59:59Z",
+          "title": "U.S. DOT/FRA - Petition for Waiver of Compliance -  New Jersey Transit Rail Operations Inc. (NJTROI)",
+          "postedDate": "1999-12-10T05:00:00Z",
+          "docketId": "FRA-1999-6356",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803320d4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-1999-6356-0017"
+        }
+      },
+      {
+        "id": "FRA-2000-7257-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:37:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "1999-12-11T04:59:59Z",
+          "title": "U.S. DOT/FRA - Final Rule - Annual Adjustment of Monetary Threshold for Reporting Rail Equipment Accidents/Incidents and Other Technical Amendment",
+          "postedDate": "1999-12-10T05:00:00Z",
+          "docketId": "FRA-2000-7257",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-12-10T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cafe9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7257-0009"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 46,
+            "label": "Other"
+          },
+          {
+            "docCount": 11,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FRA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-12-10",
+          "toDate": "1999-12-10"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

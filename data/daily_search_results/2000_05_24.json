@@ -1,0 +1,148 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2004-0007-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:21:11Z",
+          "highlightedContent": "",
+          "frDocNum": "33461",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2000-07-25T03:59:59Z",
+          "title": "Federal Plan Requirements for Large Municipal Waste Combustors Constructed On or Before September20, 1994",
+          "postedDate": "2000-05-24T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0007",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2000-05-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bbee3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0007-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0306-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2020-08-11T01:01:42Z",
+          "highlightedContent": "",
+          "frDocNum": "33461",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Federal Plan requirements for Large Municipal Waste Combustors Constructed On or Before September 20, 1994",
+          "postedDate": "2000-05-24T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0306",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800bc0ef"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0306-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 73,
+            "label": "Other"
+          },
+          {
+            "docCount": 15,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-05-24",
+          "toDate": "2000-05-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

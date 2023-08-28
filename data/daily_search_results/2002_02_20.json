@@ -1,0 +1,198 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2002-11490-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-02-21T04:59:59Z",
+          "title": "Notice of Meetings",
+          "postedDate": "2002-02-20T05:00:00Z",
+          "docketId": "USCG-2002-11490",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480304596"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2002-11490-0001"
+        }
+      },
+      {
+        "id": "USCG-2001-11106-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-02-21T04:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2002-02-20T05:00:00Z",
+          "docketId": "USCG-2001-11106",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480303775"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-11106-0006"
+        }
+      },
+      {
+        "id": "TSA-2002-11612-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:26:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2002-03-14T04:59:59Z",
+          "title": "U.S. DOT/TSA - Notice",
+          "postedDate": "2002-02-20T05:00:00Z",
+          "docketId": "TSA-2002-11612",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480304a73"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2002-11612-0002"
+        }
+      },
+      {
+        "id": "TSA-2002-11334-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-08-30T18:56:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2002-02-21T04:59:59Z",
+          "title": "IFR and Notice:  Aviation Security Infrastructure Fees and Assumption of Civial Aviation Security Functions and Responsibilities (Federal Register Publication)",
+          "postedDate": "2002-02-20T05:00:00Z",
+          "docketId": "TSA-2002-11334",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-02-20T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c7660"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2002-11334-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 54,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "TSA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-02-20",
+          "toDate": "2002-02-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

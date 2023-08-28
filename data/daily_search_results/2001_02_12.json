@@ -1,0 +1,221 @@
+[
+  {
+    "data": [
+      {
+        "id": "MARAD-2001-8770-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-02-13T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice and Request for Comments",
+          "postedDate": "2001-02-12T05:00:00Z",
+          "docketId": "MARAD-2001-8770",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345e24"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-8770-0001"
+        }
+      },
+      {
+        "id": "MARAD-2001-8757-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:03:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-02-13T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comment on a Request Administrative Waiver of  the Coastwise Trade Laws for the Vessel FAIR WINDS",
+          "postedDate": "2001-02-12T05:00:00Z",
+          "docketId": "MARAD-2001-8757",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345d99"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-8757-0002"
+        }
+      },
+      {
+        "id": "FHWA-2001-8774-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "2001-02-13T04:59:59Z",
+          "title": "Notice and Request for Comments",
+          "postedDate": "2001-02-12T05:00:00Z",
+          "docketId": "FHWA-2001-8774",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345eb2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-2001-8774-0001"
+        }
+      },
+      {
+        "id": "MARAD-2001-8758-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-02-13T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Invitation for Public Comments on a Requested Administrative Waiver of the Coastwise Trade Laws for the Vessel ADVENTURE",
+          "postedDate": "2001-02-12T05:00:00Z",
+          "docketId": "MARAD-2001-8758",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345da0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-8758-0002"
+        }
+      },
+      {
+        "id": "MARAD-2001-8759-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:02:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2001-02-13T04:59:59Z",
+          "title": "Invitation",
+          "postedDate": "2001-02-12T05:00:00Z",
+          "docketId": "MARAD-2001-8759",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-02-12T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345da7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2001-8759-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 46,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 1,
+            "value": "FHWA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-02-12",
+          "toDate": "2001-02-12"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

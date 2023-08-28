@@ -1,0 +1,198 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-2001-9732-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-06-06T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Receipt of Petition for Decision that Nonconforming 1993 Ford Mustang Passenger Cars are Eligible for Impoortation",
+          "postedDate": "2001-06-05T04:00:00Z",
+          "docketId": "NHTSA-2001-9732",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648034450e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-9732-0002"
+        }
+      },
+      {
+        "id": "FAA-2001-8811-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:19Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-06-06T03:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-06-05T04:00:00Z",
+          "docketId": "FAA-2001-8811",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480346019"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8811-0003"
+        }
+      },
+      {
+        "id": "FAA-2001-8750-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:37:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-06-06T03:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-06-05T04:00:00Z",
+          "docketId": "FAA-2001-8750",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b39f7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8750-0003"
+        }
+      },
+      {
+        "id": "FAA-2001-8805-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:55Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2001-06-06T03:59:59Z",
+          "title": "Notice of Dispositions of Prior Petitions",
+          "postedDate": "2001-06-05T04:00:00Z",
+          "docketId": "FAA-2001-8805",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-06-05T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480345fe2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2001-8805-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 48,
+            "label": "Other"
+          },
+          {
+            "docCount": 12,
+            "label": "Notice"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-06-05",
+          "toDate": "2001-06-05"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

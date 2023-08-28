@@ -1,0 +1,221 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1999-5287-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:13:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-04-22T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Dailey Body Company; Grant of Application for Temporary Exemption From Federal Motor Vehicle Safety Standard No. 121",
+          "postedDate": "1999-06-02T04:00:00Z",
+          "docketId": "NHTSA-1999-5287",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-06-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032b0a9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5287-0002"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3343-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-06-03T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Mercedes-Benz U.S. International, Inc.; Grant Application for Temporary Exemption From Five Federal Motor Vehicle Safety Standards",
+          "postedDate": "1999-06-02T04:00:00Z",
+          "docketId": "NHTSA-1998-3343",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-06-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031fad2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3343-0008"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-5728-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:26:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1999-06-03T03:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule",
+          "postedDate": "1999-06-02T04:00:00Z",
+          "docketId": "DOT-OST-1999-5728",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-06-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032d8a0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-5728-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4422-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:09:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-06-03T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Withdrawal of Proposed Rulemaking",
+          "postedDate": "1999-06-02T04:00:00Z",
+          "docketId": "NHTSA-1998-4422",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-06-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803259e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4422-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1999-5737-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:15:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-06-03T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Denial of Petition for Rulemaking",
+          "postedDate": "1999-06-02T04:00:00Z",
+          "docketId": "NHTSA-1999-5737",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-06-02T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032d927"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5737-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 40,
+            "label": "Other"
+          },
+          {
+            "docCount": 10,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-06-02",
+          "toDate": "1999-06-02"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

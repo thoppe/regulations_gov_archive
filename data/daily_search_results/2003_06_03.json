@@ -1,0 +1,229 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-1981-N-0015-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-05-27T15:40:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2003-08-28T03:59:59Z",
+          "title": "Advance Notice of Proposed Rule from FDA/CDER re Oral Health Care Drug Products for Over-the-Counter Human Use Antigingivitis/Antiplaque Drug Products; Establishment of a Monograph",
+          "postedDate": "2003-06-03T04:00:00Z",
+          "docketId": "FDA-1981-N-0015",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2003-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805aed28"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1981-N-0015-0005"
+        }
+      },
+      {
+        "id": "FAA-2003-15080-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-06-04T03:59:59Z",
+          "title": "U.S. DOT/FAA - Correction - Modification of Class E Airspace; Kaiser, MO",
+          "postedDate": "2003-06-03T04:00:00Z",
+          "docketId": "FAA-2003-15080",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480312b6d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-15080-0002"
+        }
+      },
+      {
+        "id": "FAA-2003-15076-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2003-06-04T03:59:59Z",
+          "title": "U.S. DOT/FAA - Correction - Modification of Class E Airspace; Sibley, IA",
+          "postedDate": "2003-06-03T04:00:00Z",
+          "docketId": "FAA-2003-15076",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2003-06-03T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480312b33"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-15076-0002"
+        }
+      },
+      {
+        "id": "FDA-1981-N-0015-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-05-27T15:42:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2003-08-28T03:59:59Z",
+          "title": "Advance Notice of Proposed Rule from FDA/CDER re Oral Health Care Drug Products for Over-the-Counter Human Use Antigingivitis/Antiplaque Drug Products; Establishment of a Monograph",
+          "postedDate": "2003-06-03T04:00:00Z",
+          "docketId": "FDA-1981-N-0015",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2003-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805aed29"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1981-N-0015-0006"
+        }
+      },
+      {
+        "id": "FDA-1981-N-0015-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-06-09T18:29:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2003-08-28T03:59:59Z",
+          "title": "Advance Notice of Proposed Rulemaking FDA/CDER re Oral Health Care Drug Products for Over-the-Counter Human Use; Antigingivitis/Antiplaque Drug Products; Establishment of a Monograph",
+          "postedDate": "2003-06-03T04:00:00Z",
+          "docketId": "FDA-1981-N-0015",
+          "subtype": "Advance Notice of Proposed Rulemaking (ANPRM)",
+          "commentStartDate": "2003-05-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805aed2a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1981-N-0015-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 96,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 94,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Advance Notice of Proposed Rulemaking (ANPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FDA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2003-06-03",
+          "toDate": "2003-06-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

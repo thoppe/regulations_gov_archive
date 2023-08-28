@@ -1,0 +1,244 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1999-6154-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:16Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-09-02T03:59:59Z",
+          "title": "Notice of Meetings",
+          "postedDate": "1999-09-01T04:00:00Z",
+          "docketId": "USCG-1999-6154",
+          "subtype": null,
+          "commentStartDate": "1999-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480330931"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-6154-0001"
+        }
+      },
+      {
+        "id": "FHWA-1999-4968-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:49Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1999-09-02T03:59:59Z",
+          "title": "Advance Notice of Proposed Rulemaking (ANPRM); Request for Comments",
+          "postedDate": "1999-09-01T04:00:00Z",
+          "docketId": "FHWA-1999-4968",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480329398"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-4968-0001"
+        }
+      },
+      {
+        "id": "FHWA-1999-4970-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1999-09-02T03:59:59Z",
+          "title": "Advance Notice of Proposed Rulemaking (ANPRM); Request for Comments",
+          "postedDate": "1999-09-01T04:00:00Z",
+          "docketId": "FHWA-1999-4970",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803293e7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-4970-0001"
+        }
+      },
+      {
+        "id": "FHWA-1997-3201-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:54Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1999-09-02T03:59:59Z",
+          "title": "Final Rule",
+          "postedDate": "1999-09-01T04:00:00Z",
+          "docketId": "FHWA-1997-3201",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031ea50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1997-3201-0010"
+        }
+      },
+      {
+        "id": "FHWA-1999-4969-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2012-11-15T18:50:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1999-09-02T03:59:59Z",
+          "title": "Advance Notice of Proposed Rulemaking (ANPRM); Request for Comments",
+          "postedDate": "1999-09-01T04:00:00Z",
+          "docketId": "FHWA-1999-4969",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803293ca"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-4969-0001"
+        }
+      },
+      {
+        "id": "FHWA-1999-4967-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:39:20Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FHWA",
+          "commentEndDate": "1999-09-02T03:59:59Z",
+          "title": "Advance Notice of Proposed Rulemaking (ANPRM); Request for Comments",
+          "postedDate": "1999-09-01T04:00:00Z",
+          "docketId": "FHWA-1999-4967",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480329377"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FHWA-1999-4967-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 17,
+            "label": "Other"
+          },
+          {
+            "docCount": 9,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 5,
+            "value": "FHWA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-09-01",
+          "toDate": "1999-09-01"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

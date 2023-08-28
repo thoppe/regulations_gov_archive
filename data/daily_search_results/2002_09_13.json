@@ -1,0 +1,248 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2002-12689-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-09-14T03:59:59Z",
+          "title": "Notice of Availability and Request for Comments",
+          "postedDate": "2002-09-13T04:00:00Z",
+          "docketId": "USCG-2002-12689",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480307515"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2002-12689-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-12302-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:00Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-09-14T03:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2002-09-13T04:00:00Z",
+          "docketId": "FAA-2002-12302",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803064d9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-12302-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1999-6561-0019",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-09-14T03:59:59Z",
+          "title": "U.S. DOT/RSPA - List of Applications for Modification of Exemptions",
+          "postedDate": "2002-09-13T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1999-6561",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bdebd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1999-6561-0019"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2002-12397-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:18:37Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-09-14T03:59:59Z",
+          "title": "U.S. DOT/RSPA - List of Applications for Modification of Exemptions",
+          "postedDate": "2002-09-13T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2002-12397",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480306b9e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2002-12397-0011"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2001-11100-0011",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:22:17Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-09-14T03:59:59Z",
+          "title": "U.S. DOT/RSPA - List of Applications for Modification of Exemptions",
+          "postedDate": "2002-09-13T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2001-11100",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480303746"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2001-11100-0011"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2002-12300-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:24:40Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-09-14T03:59:59Z",
+          "title": "U.S. DOT/RSPA - List of Applications for Modification of Exemptions",
+          "postedDate": "2002-09-13T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2002-12300",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-09-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803064bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2002-12300-0006"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 70,
+            "label": "Other"
+          },
+          {
+            "docCount": 49,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 10,
+            "label": "Notice"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-09-13",
+          "toDate": "2002-09-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

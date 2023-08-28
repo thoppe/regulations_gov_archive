@@ -1,0 +1,198 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-1999-6140-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:33:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "1999-08-25T03:59:59Z",
+          "title": "Final Rule; Request for Comments",
+          "postedDate": "1999-08-24T04:00:00Z",
+          "docketId": "FAA-1999-6140",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480330884"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-6140-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1999-6093-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:15:35Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-08-25T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Italjet S.P. A.; Receipt of Application for Temporary Exemption from Federal Motor Vehicle Safety Standard No. 123",
+          "postedDate": "1999-08-24T04:00:00Z",
+          "docketId": "NHTSA-1999-6093",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648033030e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-6093-0001"
+        }
+      },
+      {
+        "id": "FAA-1999-5927-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:36:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "1999-08-25T03:59:59Z",
+          "title": "Notice of Proposed Rulemaking; Correction",
+          "postedDate": "1999-08-24T04:00:00Z",
+          "docketId": "FAA-1999-5927",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032f13d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5927-0009"
+        }
+      },
+      {
+        "id": "NHTSA-1999-6092-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:08:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-08-25T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Lotus Cars Ltd.; Receipt of Application for Temporary Exemption from Federal Motor Vehicle Safety Standard No. 201",
+          "postedDate": "1999-08-24T04:00:00Z",
+          "docketId": "NHTSA-1999-6092",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-08-24T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803302fb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-6092-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 25,
+            "label": "Other"
+          },
+          {
+            "docCount": 7,
+            "label": "Notice"
+          },
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-08-24",
+          "toDate": "1999-08-24"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

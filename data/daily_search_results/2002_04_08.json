@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "NRC-2002-0018-0020",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T18:18:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NRC",
+          "commentEndDate": "2002-06-25T03:59:59Z",
+          "title": "Federal Register Notice - Notice of Receipt of Petition for Rulemaking",
+          "postedDate": "2002-04-08T15:40:38Z",
+          "docketId": "NRC-2002-0018",
+          "subtype": "Petition for Rulemaking",
+          "commentStartDate": "2002-04-08T15:40:38Z",
+          "openForComment": false,
+          "objectId": "0900006480548cc2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NRC-2002-0018-0020"
+        }
+      },
+      {
+        "id": "USCG-2002-11843-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-04-09T03:59:59Z",
+          "title": "Notice of Agency Policy; Request for Comment",
+          "postedDate": "2002-04-08T04:00:00Z",
+          "docketId": "USCG-2002-11843",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-04-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803052c5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2002-11843-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 60,
+            "label": "Other"
+          },
+          {
+            "docCount": 10,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Petition for Rulemaking"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "NRC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-04-08",
+          "toDate": "2002-04-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

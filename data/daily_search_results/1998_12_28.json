@@ -1,0 +1,210 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1998-4919-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:03Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-12-29T04:59:59Z",
+          "title": "Chemical Transportation Advisory Committee, Subcommittee on Proper Cargo Names - Notice of meeting",
+          "postedDate": "1998-12-28T05:00:00Z",
+          "docketId": "USCG-1998-4919",
+          "subtype": null,
+          "commentStartDate": "1998-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480328dd2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4919-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-4934-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:07:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1998-12-29T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule , Correcting Amendment",
+          "postedDate": "1998-12-28T05:00:00Z",
+          "docketId": "NHTSA-1998-4934",
+          "subtype": "Final Rule",
+          "commentStartDate": "1998-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480329091"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-4934-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1998-0048-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:16:19Z",
+          "highlightedContent": "",
+          "frDocNum": "71411",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-01-28T04:59:59Z",
+          "title": "Project XL Rulemaking for New York State Public Utilities; Hazardous Waste Management System; Extension of Comment Period for Draft Final Project Agreement and Proposed Rule",
+          "postedDate": "1998-12-28T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1998-0048",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1998-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800deaa5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1998-0048-0001"
+        }
+      },
+      {
+        "id": "USCG-1998-4623-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-12-29T04:59:59Z",
+          "title": "Limited Service Domestic Voyage Load Lines for River Barges on Lake Michigan - Notice of proposed rulemaking; extension of comment period",
+          "postedDate": "1998-12-28T05:00:00Z",
+          "docketId": "USCG-1998-4623",
+          "subtype": null,
+          "commentStartDate": "1998-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480326dd3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-4623-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 23,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 4,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-12-28",
+          "toDate": "1998-12-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 4,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 4,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-1999-5018-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "1999-02-05T04:59:59Z",
+          "title": "Emission Standards for Turbine Engine Powered Airplanes - Amendment No. 34-3",
+          "postedDate": "1999-02-03T05:00:00Z",
+          "docketId": "FAA-1999-5018",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480329874"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-1999-5018-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1999-5045-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:15:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-02-05T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Federal Motor Vehicle Safety Standards:  Air Brake Systems: Notice of Proposed Rulemaking; Partial Grant/Partial Denial of Petition for Rulemaking",
+          "postedDate": "1999-02-03T05:00:00Z",
+          "docketId": "NHTSA-1999-5045",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1999-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480329ad6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-5045-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 24,
+            "label": "Other"
+          },
+          {
+            "docCount": 15,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-02-03",
+          "toDate": "1999-02-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

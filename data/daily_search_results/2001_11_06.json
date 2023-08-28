@@ -1,0 +1,175 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-2001-10053-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:06:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-11-07T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice, Request for Comments",
+          "postedDate": "2001-11-06T05:00:00Z",
+          "docketId": "NHTSA-2001-10053",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300df0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-10053-0023"
+        }
+      },
+      {
+        "id": "USCG-2001-10936-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:22Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2001-11-07T04:59:59Z",
+          "title": "Notice of Temporary Rules Issued",
+          "postedDate": "2001-11-06T05:00:00Z",
+          "docketId": "USCG-2001-10936",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803030af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2001-10936-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2001-10053-0024",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:12:12Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2001-11-07T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2001-11-06T05:00:00Z",
+          "docketId": "NHTSA-2001-10053",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2001-11-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480300df1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2001-10053-0024"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 47,
+            "label": "Other"
+          },
+          {
+            "docCount": 23,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2001-11-06",
+          "toDate": "2001-11-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2000-7833-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:17:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2000-09-02T03:59:59Z",
+          "title": "Notice of Intent with Request for Comments",
+          "postedDate": "2000-09-01T04:00:00Z",
+          "docketId": "USCG-2000-7833",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802aab94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2000-7833-0001"
+        }
+      },
+      {
+        "id": "NHTSA-1998-3949-0014",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:08:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2000-09-02T03:59:59Z",
+          "title": "U.S. DOT/NHTSA - Response to Petitions for Reconsideration",
+          "postedDate": "2000-09-01T04:00:00Z",
+          "docketId": "NHTSA-1998-3949",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032386a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1998-3949-0014"
+        }
+      },
+      {
+        "id": "FRA-2000-7275-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-09-02T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petitions for Waivers of Compliance - Lackawanna County Railroad Authority (``LCRA')",
+          "postedDate": "2000-09-01T04:00:00Z",
+          "docketId": "FRA-2000-7275",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b74cf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7275-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-OW-2002-0025-0095",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:12:56Z",
+          "highlightedContent": "",
+          "frDocNum": "53301",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2000-10-21T03:59:59Z",
+          "title": "Notice of Availability of Proposed National Pollutant Discharge Elimination System (NPDES) General Permit for Discharges from Concentrated Animal Feeding Operations in Arizona [DCN 00098]",
+          "postedDate": "2000-09-01T04:00:00Z",
+          "docketId": "EPA-HQ-OW-2002-0025",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2000-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800a99c2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OW-2002-0025-0095"
+        }
+      },
+      {
+        "id": "FDA-2000-N-0158-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2014-09-11T01:04:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2000-11-21T04:59:59Z",
+          "title": "Physical Medicine Devices; Revision of the Identification of the Ionotophoresis Device",
+          "postedDate": "2000-09-01T04:00:00Z",
+          "docketId": "FDA-2000-N-0158",
+          "subtype": "NPR-Notice of Proposed Rule-Making",
+          "commentStartDate": "2000-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064804d1701"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2000-N-0158-0001"
+        }
+      },
+      {
+        "id": "FRA-2000-7054-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T20:36:09Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FRA",
+          "commentEndDate": "2000-09-02T03:59:59Z",
+          "title": "U.S. DOT/FRA - Petitions for Waivers of Compliance - Maryland Mass Transit Administration (``MTA')",
+          "postedDate": "2000-09-01T04:00:00Z",
+          "docketId": "FRA-2000-7054",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2000-09-01T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb496"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRA-2000-7054-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 32,
+            "label": "Other"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "NPR-Notice of Proposed Rule-Making"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FRA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2000-09-01",
+          "toDate": "2000-09-01"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

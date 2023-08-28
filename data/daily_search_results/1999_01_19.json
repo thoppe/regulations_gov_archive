@@ -1,0 +1,268 @@
+[
+  {
+    "data": [
+      {
+        "id": "NHTSA-1999-4993-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:13:07Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "1999-01-20T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Temporary Exemption From Motor Vehicle Safety Standards; Bumper Standard",
+          "postedDate": "1999-01-19T05:00:00Z",
+          "docketId": "NHTSA-1999-4993",
+          "subtype": "Final Rule",
+          "commentStartDate": "1999-01-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032962c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-1999-4993-0001"
+        }
+      },
+      {
+        "id": "FDA-1998-P-0086-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2015-12-07T14:12:56Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1999-01-13T04:59:59Z",
+          "title": "Notice of Proposed Rule-Making re Nutrition Labeling of Dietary Supplements on a \u201cPer Day\u201d Basis",
+          "postedDate": "1999-01-19T05:00:00Z",
+          "docketId": "FDA-1998-P-0086",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "1999-01-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480585141"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-P-0086-0003"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1999-0013-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2010-04-14T18:42:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2941",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "The National Priorities List for Uncontrolled Hazardous Waste Sites; Final Rule",
+          "postedDate": "1999-01-19T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1999-0013",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e1255"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1999-0013-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1999-0014-0152",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:10:56Z",
+          "highlightedContent": "",
+          "frDocNum": "2950",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Priorities List for Uncontrolled Hazardous Waste Sites, Proposed Rule No. 27",
+          "postedDate": "1999-01-19T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1999-0014",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e1896"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1999-0014-0152"
+        }
+      },
+      {
+        "id": "FDA-1998-N-0104-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2010-03-17T17:35:01Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "1999-03-24T04:59:59Z",
+          "title": "List of Bulk Drug Substances That May Be Used in Pharmacy Compounding",
+          "postedDate": "1999-01-19T05:00:00Z",
+          "docketId": "FDA-1998-N-0104",
+          "subtype": "NPR-Notice of Proposed Rule-Making",
+          "commentStartDate": "1999-01-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064805876cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1998-N-0104-0001"
+        }
+      },
+      {
+        "id": "USCG-1999-4975-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:19:04Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1999-01-20T04:59:59Z",
+          "title": "Regulatory Flexibility Act Section 610 Review/Request for Comment",
+          "postedDate": "1999-01-19T05:00:00Z",
+          "docketId": "USCG-1999-4975",
+          "subtype": null,
+          "commentStartDate": "1999-01-19T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648032948c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1999-4975-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 24,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "NPR-Notice of Proposed Rule-Making"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-01-19",
+          "toDate": "1999-01-19"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

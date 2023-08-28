@@ -1,0 +1,894 @@
+[
+  {
+    "data": [
+      {
+        "id": "FSIS-2005-0040-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T17:26:20Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01101",
+          "withdrawn": false,
+          "agencyId": "FSIS",
+          "commentEndDate": "2006-03-11T04:59:59Z",
+          "title": "Ante-Mortem Inspection of Horses",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FSIS-2005-0040",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b0a7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FSIS-2005-0040-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2005-0508-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:06:24Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01036",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-04-11T03:59:59Z",
+          "title": "Imazethapyr; Pesticide Tolerance",
+          "postedDate": "2006-02-08T15:13:40Z",
+          "docketId": "EPA-HQ-OPP-2005-0508",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-02-08T15:13:40Z",
+          "openForComment": false,
+          "objectId": "090000648012b0d8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2005-0508-0001"
+        }
+      },
+      {
+        "id": "ARTS-2005-0021-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-06-11T16:56:34Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01124",
+          "withdrawn": false,
+          "agencyId": "ARTS",
+          "commentEndDate": null,
+          "title": "Institute of Museum and Library Services; Technical Amendments To Reflect the New Authorizing Legislation of the Institute of Museum and Library Services",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b1ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ARTS-2005-0021-0002"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2005-AZ-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:21:38Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01174",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-03-11T04:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans; Designation of Areas for Air Quality Planning Purposes; State of Arizona; Finding of Attainment for Ajo Particulate Matter of 10 Microns or Less (PM10) Nonattainment Area; Determination Regarding Applicability of Certain Clean Air Act Requirements",
+          "postedDate": "2006-02-08T19:32:35Z",
+          "docketId": "EPA-R09-OAR-2005-AZ-0006",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T19:32:35Z",
+          "openForComment": false,
+          "objectId": "090000648012b2d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2005-AZ-0006-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23817-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:41:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2006-23817",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b5e50"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23817-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23798-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:31:51Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2006-23798",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1879"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23798-0001"
+        }
+      },
+      {
+        "id": "MARAD-2006-23804-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T21:00:31Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice of Proposed Rulemaking",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "MARAD-2006-23804",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b7cd8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2006-23804-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23820-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:47:21Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2006-23820",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b314f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23820-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22876-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:28:14Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2005-22876",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b6d6e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22876-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2005-CA-0014-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:12:31Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01172",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-03-11T04:59:59Z",
+          "title": "Revisions to the California State Implementation Plan, South Coast Air Quality Management District",
+          "postedDate": "2006-02-08T21:37:36Z",
+          "docketId": "EPA-R09-OAR-2005-CA-0014",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T21:37:36Z",
+          "openForComment": false,
+          "objectId": "090000648012b16b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2005-CA-0014-0002"
+        }
+      },
+      {
+        "id": "HUD-2006-0151-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-08-22T15:04:43Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01121",
+          "withdrawn": false,
+          "agencyId": "HUD",
+          "commentEndDate": null,
+          "title": "FR\u20134169\u2013F\u201304: Delegation of Insuring Authority To Direct Endorsement Mortgages; Announcement of Information Collection Effective Date",
+          "postedDate": "2006-02-08T14:51:51Z",
+          "docketId": "HUD-2006-0151",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T14:51:51Z",
+          "openForComment": false,
+          "objectId": "090000648012b233"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/HUD-2006-0151-0001"
+        }
+      },
+      {
+        "id": "NOAA-2006-0096-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2011-12-01T21:40:12Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01169",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Taking of Marine Mammals Incidental to Commercial Fishing Operations; Atlantic Large Whale Take Reduction Plan (ALWTRP)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "NOAA-2006-0096",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b2ee"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0096-0001"
+        }
+      },
+      {
+        "id": "MARAD-2006-23838-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T21:00:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "MARAD",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/MARAD - Notice and Request for Comments",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "MARAD-2006-23838",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a9684"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/MARAD-2006-23838-0001"
+        }
+      },
+      {
+        "id": "USCG-2006-23736-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:17:59Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "Request for Comments",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "USCG-2006-23736",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802ae4b3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2006-23736-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23816-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:27:41Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2006-23816",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3128"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23816-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0154-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-02-19T19:08:01Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01175",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Final Rule Making Findings of Failure To Submit Required State Implementation Plans for Phase II of the NOX SIP Call",
+          "postedDate": "2006-02-08T13:45:26Z",
+          "docketId": "EPA-HQ-OAR-2005-0154",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "090000648012b324"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0154-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22401-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:38:02Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2005-22401",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802afb4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22401-0006"
+        }
+      },
+      {
+        "id": "FAA-2006-23819-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:27:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2006-23819",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b313b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23819-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2005-CA-0014-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:10:04Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01171",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-03-11T04:59:59Z",
+          "title": "Revisions to the California State Implementation Plan, South Coast Air Quality Management District",
+          "postedDate": "2006-02-08T21:34:40Z",
+          "docketId": "EPA-R09-OAR-2005-CA-0014",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T21:34:40Z",
+          "openForComment": false,
+          "objectId": "090000648012b0e4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2005-CA-0014-0001"
+        }
+      },
+      {
+        "id": "CCC-2006-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-07T22:37:18Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01193",
+          "withdrawn": false,
+          "agencyId": "CCC",
+          "commentEndDate": null,
+          "title": "Procurement of Commodities for Foreign Donation; Public Meeting",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "CCC-2006-0008",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b190"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CCC-2006-0008-0001"
+        }
+      },
+      {
+        "id": "EPA-R09-OAR-2005-AZ-0006-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:16Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01173",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-03-11T04:59:59Z",
+          "title": "Approval and Promulgation of Implementation Plans; Designation of Areas for Air Quality Planning Purposes; State of Arizona; Finding of Attainment for Ajo Particulate Matter of 10 Microns or Less (PM10) Nonattainment Area; Determination Regarding Applicability of Certain Clean Air Act Requirements",
+          "postedDate": "2006-02-08T20:00:05Z",
+          "docketId": "EPA-R09-OAR-2005-AZ-0006",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T20:00:05Z",
+          "openForComment": false,
+          "objectId": "090000648012b2f5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R09-OAR-2005-AZ-0006-0002"
+        }
+      },
+      {
+        "id": "NOAA-2006-0097-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-12-01T21:40:12Z",
+          "highlightedContent": "",
+          "frDocNum": "E6-01726",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Control Date for the Charter Sport Fishery for Pacific Halibut",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "NOAA-2006-0097",
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b306"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-2006-0097-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23815-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:50:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2006-23815",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b88d0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23815-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23803-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:35:36Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2006-23803",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bb935"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23803-0001"
+        }
+      },
+      {
+        "id": "FAA-2006-23818-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:27:25Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2006-23818",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b48dc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2006-23818-0001"
+        }
+      },
+      {
+        "id": "FAA-2005-22748-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:32:05Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/FAA - Final Rule",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "FAA-2005-22748",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b165b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2005-22748-0006"
+        }
+      },
+      {
+        "id": "EPA-HQ-OPP-2005-0145-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:14:05Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01170",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2006-04-11T03:59:59Z",
+          "title": "Boscalid; Pesticide Tolerance",
+          "postedDate": "2006-02-08T15:29:26Z",
+          "docketId": "EPA-HQ-OPP-2005-0145",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "2006-02-08T15:29:26Z",
+          "openForComment": false,
+          "objectId": "090000648012b241"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2005-0145-0003"
+        }
+      },
+      {
+        "id": "FRS-2005-0087-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2006-09-02T17:35:09Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01158",
+          "withdrawn": false,
+          "agencyId": "FRS",
+          "commentEndDate": null,
+          "title": "Extensions of Credit by Federal Reserve Banks",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b30d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FRS-2005-0087-0002"
+        }
+      },
+      {
+        "id": "FCC-2006-0046-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:53:25Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01099",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": null,
+          "title": "Amendment of the Commissions Rules Regarding Petitions for Review",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b33f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2006-0046-0001"
+        }
+      },
+      {
+        "id": "ARTS-2005-0020-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:37:09Z",
+          "highlightedContent": "",
+          "frDocNum": "06-01122",
+          "withdrawn": false,
+          "agencyId": "ARTS",
+          "commentEndDate": null,
+          "title": "Institute of Museum and Library Services; Implementation of the Privacy Act of 1974",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b14c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/ARTS-2005-0020-0002"
+        }
+      },
+      {
+        "id": "SEC-2006-0151-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2011-06-11T17:58:43Z",
+          "highlightedContent": "",
+          "frDocNum": "06-00946",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2006-04-11T03:59:59Z",
+          "title": "Executive Compensation and Related Party Disclosure",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648012b2ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2006-0151-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2006-23634-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:59:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2006-02-09T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Proposed Rule; Correction",
+          "postedDate": "2006-02-08T05:00:00Z",
+          "docketId": "NHTSA-2006-23634",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2006-02-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c1cd3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2006-23634-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 139,
+            "label": "Notice"
+          },
+          {
+            "docCount": 59,
+            "label": "Other"
+          },
+          {
+            "docCount": 55,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 27,
+            "label": "Rule"
+          },
+          {
+            "docCount": 5,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 15,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 32,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 11,
+            "value": "FAA"
+          },
+          {
+            "docCount": 7,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "ARTS"
+          },
+          {
+            "docCount": 2,
+            "value": "MARAD"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FRS"
+          },
+          {
+            "docCount": 1,
+            "value": "FSIS"
+          },
+          {
+            "docCount": 1,
+            "value": "HUD"
+          },
+          {
+            "docCount": 1,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2006-02-08",
+          "toDate": "2006-02-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

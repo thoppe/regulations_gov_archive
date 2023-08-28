@@ -1,0 +1,225 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2004-16877-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:13Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-01-28T04:59:59Z",
+          "title": "Notice of Application",
+          "postedDate": "2004-01-27T05:00:00Z",
+          "docketId": "USCG-2004-16877",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802cd882"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2004-16877-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2004-16932-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:04:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-01-28T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Request for Comments",
+          "postedDate": "2004-01-27T05:00:00Z",
+          "docketId": "NHTSA-2004-16932",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031a9d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2004-16932-0001"
+        }
+      },
+      {
+        "id": "FAA-2003-15465-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:37:52Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2004-01-28T04:59:59Z",
+          "title": "U.S. DOT/FAA - Correction",
+          "postedDate": "2004-01-27T05:00:00Z",
+          "docketId": "FAA-2003-15465",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480313ab6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2003-15465-0003"
+        }
+      },
+      {
+        "id": "USCG-2002-12876-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:28Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2004-01-28T04:59:59Z",
+          "title": "Notice of Study Results",
+          "postedDate": "2004-01-27T05:00:00Z",
+          "docketId": "USCG-2002-12876",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480307b3c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2002-12876-0006"
+        }
+      },
+      {
+        "id": "NHTSA-2003-16476-0010",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-10-31T22:57:34Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2004-01-28T04:59:59Z",
+          "title": "U.S. DOT/NHTSA - Final Rule, Partial Response to Petitions for Reconsideration",
+          "postedDate": "2004-01-27T05:00:00Z",
+          "docketId": "NHTSA-2003-16476",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2004-01-27T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b3eed"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2003-16476-0010"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 132,
+            "label": "Other"
+          },
+          {
+            "docCount": 44,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 21,
+            "label": "Notice"
+          },
+          {
+            "docCount": 5,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FAA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2004-01-27",
+          "toDate": "2004-01-27"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

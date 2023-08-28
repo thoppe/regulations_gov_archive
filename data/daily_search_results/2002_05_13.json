@@ -1,0 +1,256 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-2002-12272-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2002-05-14T03:59:59Z",
+          "title": "Notice of Meeting",
+          "postedDate": "2002-05-13T04:00:00Z",
+          "docketId": "USCG-2002-12272",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480306380"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2002-12272-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-5129-0006",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-10-02T18:05:43Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2002-05-14T03:59:59Z",
+          "title": "Semiannual Regulatory Agenda",
+          "postedDate": "2002-05-13T04:00:00Z",
+          "docketId": "DOT-OST-1999-5129",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7712"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-5129-0006"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2002-11654-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:03:27Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2002-05-14T03:59:59Z",
+          "title": "U.S. DOT/RSPA - Advance Notice of Proposed Rulemaking (ANPRM); Extension of Comment Period",
+          "postedDate": "2002-05-13T04:00:00Z",
+          "docketId": "PHMSA-RSPA-2002-11654",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c640f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2002-11654-0005"
+        }
+      },
+      {
+        "id": "FMCSA-2001-11061-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T22:10:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "2002-05-14T03:59:59Z",
+          "title": "Interim Final Rule (IFR); Request for Comments",
+          "postedDate": "2002-05-13T04:00:00Z",
+          "docketId": "FMCSA-2001-11061",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802c5a16"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-2001-11061-0001"
+        }
+      },
+      {
+        "id": "FAA-2002-12142-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:38:26Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-05-16T03:59:59Z",
+          "title": "Notice of Petition for Exemption Received",
+          "postedDate": "2002-05-13T04:00:00Z",
+          "docketId": "FAA-2002-12142",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480305e25"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-12142-0002"
+        }
+      },
+      {
+        "id": "FAA-2002-11845-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:34:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2002-05-14T03:59:59Z",
+          "title": "Notice of Petition for Exemption Received",
+          "postedDate": "2002-05-13T04:00:00Z",
+          "docketId": "FAA-2002-11845",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "2002-05-13T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803052d5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2002-11845-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 47,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 41,
+            "label": "Other"
+          },
+          {
+            "docCount": 6,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 6,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 6,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "USCG"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2002-05-13",
+          "toDate": "2002-05-13"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 6,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 6,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

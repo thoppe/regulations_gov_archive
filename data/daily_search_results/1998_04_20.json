@@ -1,0 +1,175 @@
+[
+  {
+    "data": [
+      {
+        "id": "USCG-1998-3743-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:53Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-04-21T03:59:59Z",
+          "title": "Chemical Transportation Advisory Committee, Subcommittee on Proper Cargo Names - Notice of Meetings",
+          "postedDate": "1998-04-20T04:00:00Z",
+          "docketId": "USCG-1998-3743",
+          "subtype": null,
+          "commentStartDate": "1998-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480322667"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1998-3743-0001"
+        }
+      },
+      {
+        "id": "USCG-1997-2799-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2017-03-10T22:18:46Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "1998-04-21T03:59:59Z",
+          "title": "User Fees for Licenses, Certificates of Registry, and Merchant Mariner Documents - Correction",
+          "postedDate": "1998-04-20T04:00:00Z",
+          "docketId": "USCG-1997-2799",
+          "subtype": null,
+          "commentStartDate": "1998-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648031c0d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-1997-2799-0005"
+        }
+      },
+      {
+        "id": "FMCSA-1998-3706-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-12T00:41:45Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FMCSA",
+          "commentEndDate": "1998-04-21T03:59:59Z",
+          "title": "FHWA HQ - Notice of Proposed Rulemaking (NPRM);Request for Comment(s)",
+          "postedDate": "1998-04-20T04:00:00Z",
+          "docketId": "FMCSA-1998-3706",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1998-04-20T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006480322278"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FMCSA-1998-3706-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 25,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "FMCSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1998-04-20",
+          "toDate": "1998-04-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

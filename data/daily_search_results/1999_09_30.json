@@ -1,0 +1,175 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1999-0055-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:19:49Z",
+          "highlightedContent": "",
+          "frDocNum": "52828",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "NESHAPS: FINAL STANDARDS FOR HAZARDOUS AIR POLLUTANTS FOR HAZARDOUS WASTE COMBUSTORS; FINAL RULE",
+          "postedDate": "1999-09-30T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1999-0055",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800dda07"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0055-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2003-0084-0057",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2021-09-25T18:03:32Z",
+          "highlightedContent": "",
+          "frDocNum": "52731",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1999-11-30T04:59:59Z",
+          "title": "Air Quality: Revision to Definition of Volatile Organic Compounds-Exclusion of t-Butyl Acetate",
+          "postedDate": "1999-09-30T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2003-0084",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1999-09-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800c3f23"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2003-0084-0057"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1999-0046-0112",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:11Z",
+          "highlightedContent": "",
+          "frDocNum": "52380",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Project XL Site-specific Rulemaking for University Laboratories at the University of Massachusetts Boston, Boston MA, the Boston College, Chestnut Hill, MA, and the University of Vermont, Burlington, VT; Hazardous Waste Management System; Final Rule",
+          "postedDate": "1999-09-30T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1999-0046",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800ddd48"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1999-0046-0112"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 33,
+            "label": "Other"
+          },
+          {
+            "docCount": 18,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 106,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 257,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 482,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1393,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1999-09-30",
+          "toDate": "1999-09-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]
