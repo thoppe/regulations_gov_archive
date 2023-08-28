@@ -19,9 +19,9 @@ This project only collects documents on the first two types: `Rule` and `Propose
 
 
 ## Data Statistics
-+ 130,899 total documents
++ 131,430 total documents
 + Unique agencies: 252
-+ Unique dockets : 60,618
-+ Latest date    : 2023-07-28
-+ Earliest date  : 1996-04-12
++ Unique dockets : 60,896
++ Latest date    : 2023-08-14
++ Earliest date  : 1994-01-31
 

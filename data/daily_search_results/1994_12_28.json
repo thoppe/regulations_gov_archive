@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2005-0144-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-07T01:00:54Z",
+          "highlightedContent": "",
+          "frDocNum": "66856",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1995-01-28T04:59:59Z",
+          "title": "Standards of Performance for New Stationary Sources: Industrial-Commercial-Institutional Steam Generating Units; Louisiana [A-94-48]",
+          "postedDate": "1994-12-28T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0144",
+          "subtype": null,
+          "commentStartDate": "1994-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bec42"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0144-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2005-0145-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2017-04-08T01:00:47Z",
+          "highlightedContent": "",
+          "frDocNum": "66852",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1995-01-28T04:59:59Z",
+          "title": "Standards of Performance for New Stationary Sources; Industrial-Commercial-Institutional Steam Generating Units; Kentucky\r\n\r\n[A-94-49]",
+          "postedDate": "1994-12-28T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2005-0145",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1994-12-28T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800bec94"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2005-0145-0002"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 5,
+            "label": "Other"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 16,
+            "label": "Today",
+            "fromDate": "2023-08-28 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 16,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-26 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 122,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 273,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 498,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1994-12-28",
+          "toDate": "1994-12-28"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

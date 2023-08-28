@@ -1,0 +1,195 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2004-0452-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:20:01Z",
+          "highlightedContent": "",
+          "frDocNum": "140",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1996-02-03T04:59:59Z",
+          "title": "Sales Volume Limit Provisions for Small-Volume Manufacturers Certification of Clean-Fuel and Conventional Vehicle Conversions and Related Provisions [A-92-30]",
+          "postedDate": "1996-01-03T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0452",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1996-01-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800be77e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0452-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0452-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-09-01T20:17:54Z",
+          "highlightedContent": "",
+          "frDocNum": "129",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1996-01-04T04:59:59Z",
+          "title": "Conversions Sales Volume Limit Provisions for Small Volume Manufacturers Certification of the Final Rule Entitled \"Emission Standards for Clean Vehicles and Engines, Requirements for Clean-Fuel Vehicle Conversions, and California Pilot Test Program\" [A-92-30]",
+          "postedDate": "1996-01-03T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0452",
+          "subtype": "Final Rule",
+          "commentStartDate": "1996-01-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800be798"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0452-0004"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0452-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2022-09-01T20:16:53Z",
+          "highlightedContent": "",
+          "frDocNum": "122",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1996-03-05T04:59:59Z",
+          "title": "Requirements for Determining Assigned Deterioration Factors for Alternative Fuel Vehicles, Amendments to Labelling Requirements for Inherently Low-Emission Vehicles, and Related Provisions [A-92-30]",
+          "postedDate": "1996-01-03T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0452",
+          "subtype": "Direct Final Rule",
+          "commentStartDate": "1996-01-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800be789"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0452-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 9,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Notice"
+          },
+          {
+            "docCount": 3,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Direct Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 16,
+            "label": "Today",
+            "fromDate": "2023-08-28 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 16,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-26 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 122,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-22 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 273,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-14 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 498,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-30 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-05-31 00:00:00",
+            "toDate": "2023-08-28 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1996-01-03",
+          "toDate": "1996-01-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]
