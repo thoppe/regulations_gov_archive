@@ -48,15 +48,13 @@ df = df.dropna(subset=["total_comments"]).sort_values(
 # df = df.rename(
 #    columns={"attributes.title": "title", "attributes.agencyId": "agency"}
 # )
-
-content.append("## Data ingestion progress")
 content.append("| docId | comments | Title |")
-content.append("|---- |---- |---- |")
+content.append("|---- |---- :|---- |")
 for _, row in df[:20].iterrows():
     docID = row["id"]
-    title = row["attributes.title"]
+    title = row["attributes.title"].replace("|", r"\|")
     url = f"https://www.regulations.gov/document/{docID}"
-    content.append(f"| [{docID}]({url}) | {row.total_comments} | {title}")
+    content.append(f"| [{docID}]({url}) | {row.total_comments:,} | {title}")
 
 content = "\n".join(content)
 

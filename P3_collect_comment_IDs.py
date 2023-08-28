@@ -87,5 +87,5 @@ def compute(objectId, f1):
 
 
 Pipe(df["attributes.objectId"], "data/comments_meta", output_suffix=".json")(
-    compute, 1
+    compute, 4
 )
