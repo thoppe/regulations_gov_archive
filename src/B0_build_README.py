@@ -20,11 +20,11 @@ content = ["## Data Statistics"]
 
 content.append("|     |     |")
 content.append("|---- |---- |")
-content.append(f"| {len(df):,d} | total documents |")
-content.append(f"| Unique agencies| {n_agency:,} |")
-content.append(f"| Unique dockets | {n_dockets:,} |")
-content.append(f"| Unique FR IDs  | {n_FRID:,} ")
-content.append(f"| Total comments | {n_comments:,} |")
+content.append(f"| Total document | {len(df):,d}    |")
+content.append(f"| Unique agencies| {n_agency:,}    |")
+content.append(f"| Unique dockets | {n_dockets:,}   |")
+content.append(f"| Unique FR IDs  | {n_FRID:,}      |")
+content.append(f"| Total comments | {n_comments:,}  |")
 content.append("")
 
 content.append("## Data ingestion progress")
@@ -35,7 +35,28 @@ content.append(f"| Earliest date | {first_date}    |")
 content.append(
     f"| Fraction of documents scanned for comments  | {frac_known_comments:0.4f} |"
 )
+content.append("")
 
+content.append("## Documents with top comments")
+df = pd.read_csv(
+    "artifacts/LISTING_rules_and_posted_rules.csv",
+    dtype={"total_comments": "Int64"},
+)
+df = df.dropna(subset=["total_comments"]).sort_values(
+    "total_comments", ascending=False
+)
+# df = df.rename(
+#    columns={"attributes.title": "title", "attributes.agencyId": "agency"}
+# )
+
+content.append("## Data ingestion progress")
+content.append("| docId | comments | Title |")
+content.append("|---- |---- |---- |")
+for _, row in df[:20].iterrows():
+    docID = row["id"]
+    title = row["attributes.title"]
+    url = f"https://www.regulations.gov/document/{docID}"
+    content.append(f"| [{docID}]({url}) | {row.total_comments} | {title}")
 
 content = "\n".join(content)
 
