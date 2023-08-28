@@ -53,7 +53,7 @@ content.append("|------|---------:|-------|")
 for _, row in df[:20].iterrows():
     docID = row["id"]
     title = row["attributes.title"].replace("|", r"\|")
-    title = ' '.join(title.split())
+    title = " ".join(title.split())
     url = f"https://www.regulations.gov/document/{docID}"
     content.append(f"| [{docID}]({url}) | {row.total_comments:,} | {title} |")
 

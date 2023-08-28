@@ -27,7 +27,7 @@ check_time = datetime.now().date() - timedelta(days=buffer_days)
 # Make sure we skip items where there commentEndDate is later than the buffer
 idx = df[date_key] > check_time
 if idx.sum():
-    print(f"Filtering {idx.sum()} documents for buffer date")
+    print(f"Filtering {idx.sum()} documents before buffer date {check_time}")
 
 df = df[~idx]
 
@@ -46,8 +46,10 @@ def compute(objectId, f1):
 
     if not r.ok:
         if r.status_code == 429:
-            print("Sleeping for one hour")
-            time.sleep(60 * 60)
+            # Sleep as long as the API tells us
+            sleep_time = int(r.headers["Retry-After"])
+            print(f"Sleeping for {sleep_time} seconds")
+            time.sleep(sleep_time + 4)
             return compute(objectId, f1)
 
         raise ValueError(r.status_code, r.content)
@@ -55,7 +57,6 @@ def compute(objectId, f1):
     js = r.json()
     meta = js["meta"]
 
-    total_pages = meta["totalPages"]
     total_elements = meta["totalElements"]
 
     """
@@ -63,6 +64,7 @@ def compute(objectId, f1):
         # assert js["meta"]["totalElements"] < 5000
 
         data.append(r.json())
+        total_pages = meta["totalPages"]
 
         if total_pages == 0:
             break
@@ -83,7 +85,7 @@ def compute(objectId, f1):
     with open(f1, "w") as FOUT:
         FOUT.write(jsx)
 
-    print(f"Saved {f1} {total_pages} ({total_elements})")
+    print(f"Saved {f1} ({total_elements})")
 
 
 Pipe(df["attributes.objectId"], "data/comments_meta", output_suffix=".json")(
