@@ -18,6 +18,10 @@ df[date_key] = pd.to_datetime(df[date_key]).dt.date
 # Filter out withdrawn documents
 df = df[df["attributes.withdrawn"] == False]
 
+# Drop any items where we've already pulled the comments
+if "total_comments" in df:
+    df = df[df["total_comments"].isnull()]
+
 # Shuffle to get a good sampling
 df = df.sample(frac=1, random_state=102)
 

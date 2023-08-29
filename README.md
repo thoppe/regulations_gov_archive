@@ -16,36 +16,36 @@ Regulations are organized by five document types: `Rule`, `Proposed Rule`, `Noti
 | Unique agencies | 252    |
 | Unique dockets  | 60,896   |
 | Unique FR IDs   | 103,540      |
-| Total comments  | 245,109  |
+| Total comments  | 879,890  |
 
 ## Data ingestion progress
 |     |     |
 |---- |---- |
 | Latest date   | 2023-08-14 |
 | Earliest date | 1994-01-31    |
-| Fraction of documents scanned for comments  | 0.0168 |
+| Fraction of documents scanned for comments  | 0.0700 |
 
 ## Documents with top comments
 | docId | comments | Title |
 |------|---------:|-------|
 | [FDA-2021-N-1349-0001](https://www.regulations.gov/document/FDA-2021-N-1349-0001) | 175,299 | Tobacco Product Standard for Menthol in Cigarettes |
+| [ED-2022-OCR-0143-0001](https://www.regulations.gov/document/ED-2022-OCR-0143-0001) | 156,158 | Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance: Sex-Related Eligibility Criteria for Male and Female Athletic Teams |
+| [FWS-R6-ES-2008-0008-0002](https://www.regulations.gov/document/FWS-R6-ES-2008-0008-0002) | 88,127 | Endangered and Threatened Wildlife and Plants; Designating the Northern Rocky Mountain Population of Gray Wolf as a Distinct Population Segment and Removing This Distinct Population Segment From the Federal List of Endangered and Threatened Wildlife |
+| [HHS-OPHS-2009-0001-0001](https://www.regulations.gov/document/HHS-OPHS-2009-0001-0001) | 53,207 | Rescission of the Regulation entitled "Ensuring That Department of Health and Human Services Funds Do Not Support Coercive or Discriminatory Policies or Practices in Violation of Federal Law" |
+| [BSEE-2018-0002-0001](https://www.regulations.gov/document/BSEE-2018-0002-0001) | 46,813 | Oil and Gas and Sulfur Operations in Outer Continental Shelf: Blowout Preventer Systems and Well Control Revisions |
+| [CMS-2023-0016-0001](https://www.regulations.gov/document/CMS-2023-0016-0001) | 33,634 | Coverage of Certain Preventive Services under the Affordable Care Act |
+| [CMS-2019-0006-0016](https://www.regulations.gov/document/CMS-2019-0006-0016) | 26,114 | Patient Protection and Affordable Care Act; HHS Notice of Benefit and Payment Parameters for 2020 |
+| [NPS-2023-0001-0001](https://www.regulations.gov/document/NPS-2023-0001-0001) | 18,035 | Hunting and Trapping in National Preserves: Alaska |
+| [FWS-HQ-NWRS-2022-0055-0001](https://www.regulations.gov/document/FWS-HQ-NWRS-2022-0055-0001) | 16,083 | 2022-2023 Station-Specific Hunting and Sport Fishing Regulations |
 | [FDA-2011-N-0921-0199](https://www.regulations.gov/document/FDA-2011-N-0921-0199) | 14,552 | Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption; Extension of Comment Periods |
+| [CMS-2014-0115-0002](https://www.regulations.gov/document/CMS-2014-0115-0002) | 13,764 | Coverage of Certain Preventive Services under the Affordable Care Act |
+| [FWS-HQ-ES-2020-0047-48647](https://www.regulations.gov/document/FWS-HQ-ES-2020-0047-48647) | 12,923 | Endangered and Threatened Wildlife and Plants: Listing Endangered and Threatened Species and Designating Critical Habitat |
+| [APHIS-2022-0022-0001](https://www.regulations.gov/document/APHIS-2022-0022-0001) | 12,658 | Wild and Exotic Animal Handling, Training of Personnel Involved with Public Handling of Wild and Exotic Animals, and Environmental Enrichment for Species |
+| [FRA-2021-0032-0001](https://www.regulations.gov/document/FRA-2021-0032-0001) | 12,329 | Train Crew Size Safety Requirements |
+| [HHS-OS-2017-0002-0001](https://www.regulations.gov/document/HHS-OS-2017-0002-0001) | 12,305 | Removing Barriers for Religious and Faith-Based Organizations to Participate in HHS Programs and Receive Public Funding |
 | [HUD-2019-0044-0001](https://www.regulations.gov/document/HUD-2019-0044-0001) | 10,794 | FR-6124-P-01 Housing and Community Development Act of 1980: Verification of Eligible Status |
+| [WHD-2011-0001-0001](https://www.regulations.gov/document/WHD-2011-0001-0001) | 10,278 | Child Labor Regulations, Orders and Statements of Interpretation: Violations-Civil Money Penalties |
+| [CMS-2021-0168-0001](https://www.regulations.gov/document/CMS-2021-0168-0001) | 10,102 | Medicare and Medicaid Programs: Omnibus COVID-19 Health Care Staff Vaccination |
+| [APHIS-2020-0068-0001](https://www.regulations.gov/document/APHIS-2020-0068-0001) | 8,060 | Meetings: Establishing Animal Welfare Act Standards for Birds |
 | [FNS-2017-0021-0001](https://www.regulations.gov/document/FNS-2017-0021-0001) | 7,767 | Child Nutrition Programs: Flexibilities for Milk, Whole Grains, and Sodium Requirements |
-| [OSM-2022-0009-0001](https://www.regulations.gov/document/OSM-2022-0009-0001) | 5,106 | Ten-Day Notices and Corrective Action for State Regulatory Program Issues |
-| [NHTSA-2017-0082-0001](https://www.regulations.gov/document/NHTSA-2017-0082-0001) | 2,917 | Guidance: Automated Driving Systems - A Vision for Safety |
-| [DOI-2015-0005-0001](https://www.regulations.gov/document/DOI-2015-0005-0001) | 2,434 | Procedures for Reestablishing a Government-to-Government Relationship with the Native Hawaiian Community |
-| [EPA-HQ-OAR-2021-0317-1460](https://www.regulations.gov/document/EPA-HQ-OAR-2021-0317-1460) | 2,254 | Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review |
-| [FAA-2009-1093-0001](https://www.regulations.gov/document/FAA-2009-1093-0001) | 2,208 | Flightcrew Member Duty and Rest Requirements |
-| [NOAA-NMFS-2022-0119-0001](https://www.regulations.gov/document/NOAA-NMFS-2022-0119-0001) | 2,201 | Magnuson-Stevens Fishery Conservation and Management Act: Seafood Import Monitoring Program |
-| [DOJ-CRT-2012-0006-0001](https://www.regulations.gov/document/DOJ-CRT-2012-0006-0001) | 1,388 | Implementing Titles II and III of Americans with Disabilities Act: Delaying Compliance Date for Certain Requirements |
-| [CMS-2009-0083-0006](https://www.regulations.gov/document/CMS-2009-0083-0006) | 1,364 | Medicare Programs: End-Stage Renal Disease Prospective Payment System |
-| [APHIS-2008-0023-0001](https://www.regulations.gov/document/APHIS-2008-0023-0001) | 1,103 | Importation, Interstate Movement, and Release Into the Environment of Certain Genetically Engineered Organisms |
-| [CMS-2008-0073-0002](https://www.regulations.gov/document/CMS-2008-0073-0002) | 1,059 | Medicare Program; Revisions to Payment Policies Under the Physician Fee Schedule and Other Revisions to Part B for CY 2009; and Revisions to the Amendment of the E-Prescribing Exemption for Computer Generated Facsimile Transmissions; Proposed Rule |
-| [FAA-2018-1087-0001](https://www.regulations.gov/document/FAA-2018-1087-0001) | 949 | Operation of Small Unmanned Aircraft Systems over People |
-| [FHWA-2010-0159-0001](https://www.regulations.gov/document/FHWA-2010-0159-0001) | 740 | Manual on Uniform Traffic Control Devices (MUTCD) Compliance Dates |
-| [FNS-2019-0005-0001](https://www.regulations.gov/document/FNS-2019-0005-0001) | 672 | Delayed Implementation of Grains Ounce Equivalents in the Child and Adult Care Food Program |
-| [NOAA-NMFS-2019-0045-0040](https://www.regulations.gov/document/NOAA-NMFS-2019-0045-0040) | 549 | Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Shrimp Fishery of the Gulf of Mexico; Amendment 18 |
-| [CMS-2011-0157-0001](https://www.regulations.gov/document/CMS-2011-0157-0001) | 514 | Medicare Program: Changes to the Medicare Advantage and the Medicare Prescription Drug Benefit Programs, etc. |
-| [AMS-FTPP-21-0045-0001](https://www.regulations.gov/document/AMS-FTPP-21-0045-0001) | 402 | Inclusive Competition and Market Integrity under the Packers and Stockyards Act |
 
