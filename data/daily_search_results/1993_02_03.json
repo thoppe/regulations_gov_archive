@@ -1,0 +1,241 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-1999-6189-0059",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:23:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1993-02-04T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule-Amdt. 1-256",
+          "postedDate": "1993-02-03T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1993-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f61"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0059"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6189-0061",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:01:08Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1993-02-04T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule-Amdt. 1-258",
+          "postedDate": "1993-02-03T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1993-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f64"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0061"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6189-0057",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:16:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1993-02-04T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule-Amdt. 1-254",
+          "postedDate": "1993-02-03T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1993-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f5f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0057"
+        }
+      },
+      {
+        "id": "DOT-OST-1999-6189-0056",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:52:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1993-02-04T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule-Amdt. 1-253",
+          "postedDate": "1993-02-03T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1993-02-03T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f5e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0056"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1993-0081-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:23:39Z",
+          "highlightedContent": "",
+          "frDocNum": "6925",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "HAZARDOUS WASTE MANAGEMENT SYSTEM; IDENTIFICATION AND LISTING OF HAZARDOUS WASTE; PROPOSED EXCLUSION (MARATHON OIL COMPANY, PETITION NO. 0841)",
+          "postedDate": "1993-02-03T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1993-0081",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800d6d9b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1993-0081-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 11,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Rule"
+          },
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 4,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 5,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1993-02-03",
+          "toDate": "1993-02-03"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 5,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 5,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

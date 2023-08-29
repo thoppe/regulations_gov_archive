@@ -1,0 +1,164 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-1999-6189-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:16:23Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1991-02-15T04:59:59Z",
+          "title": "U.S. DOT/OST - Final Rule-Amdt. 1-237",
+          "postedDate": "1991-02-14T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1991-02-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f4e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0041"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0025-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:19:01Z",
+          "highlightedContent": "",
+          "frDocNum": "9977",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Air Pollution Control Techniques Advisory Committee; Notice of Open Meeting",
+          "postedDate": "1991-02-14T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0025",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800a8c7c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0025-0013"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 25,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1991-02-14",
+          "toDate": "1991-02-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

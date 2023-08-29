@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1992-0078-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:07:43Z",
+          "highlightedContent": "",
+          "frDocNum": "21524",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "HAZARDOUS WASTE MANAGEMENT SYSTEM; GENERAL; IDENTIFICATION AND LISTING OF HAZARDOUS WASTE; USED OIL; FINAL RULE, (EPA/530-Z-92-006)",
+          "postedDate": "1992-05-20T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1992-0078",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800d48af"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1992-0078-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1992-0034-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:10:28Z",
+          "highlightedContent": "",
+          "frDocNum": "21450",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "HAZARDOUS WASTE MANAGEMENT SYSTEM; IDENTIFICATION AND LISTING OF HAZARDOUS WASTE; PROPOSED RULE, TENTATIVE RESPONSE TO CHEMICAL MANUFACTURERS ASSOCIATION PETITION, AND REQUEST FOR COMMENTS (HAZARDOUS WASTE IDENTIFICATION RULE - HWIR, CONCENTRATION-BASED E",
+          "postedDate": "1992-05-20T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1992-0034",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800d3865"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1992-0034-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2004-0272-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-05-05T13:55:29Z",
+          "highlightedContent": "",
+          "frDocNum": "21368",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Emissions Standards for Hazardous Air Pollutants: Benzene Waste Operations; Correction [A-89-06 XII-A-2]",
+          "postedDate": "1992-05-20T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0272",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800c04d3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0272-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 12,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Other"
+          },
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1992-05-20",
+          "toDate": "1992-05-20"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

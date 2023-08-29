@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2004-0481-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-12-02T02:01:54Z",
+          "highlightedContent": "",
+          "frDocNum": "62262",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Approval of State Programs and Delegation of Federal Authorities [A-92-46-V-A-I]",
+          "postedDate": "1993-11-26T05:00:00Z",
+          "docketId": "EPA-HQ-OAR-2004-0481",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800becf3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0481-0001"
+        }
+      },
+      {
+        "id": "FTA-1995-387-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-18T17:14:10Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FTA",
+          "commentEndDate": "1994-01-26T04:59:59Z",
+          "title": "Private Enterprise Participation",
+          "postedDate": "1993-11-26T05:00:00Z",
+          "docketId": "FTA-1995-387",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1993-11-26T05:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648038540e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FTA-1995-387-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 5,
+            "label": "Other"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FTA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1993-11-26",
+          "toDate": "1993-11-26"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

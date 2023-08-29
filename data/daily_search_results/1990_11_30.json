@@ -1,0 +1,129 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-1978-N-0013-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2019-07-08T19:00:26Z",
+          "highlightedContent": "",
+          "frDocNum": "90-27219",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Medical Devices; Classification of 70 Electromedical Devices",
+          "postedDate": "1990-11-30T05:00:00Z",
+          "docketId": "FDA-1978-N-0013",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006480558c2c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1978-N-0013-0005"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 346,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "FDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1990-11-30",
+          "toDate": "1990-11-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

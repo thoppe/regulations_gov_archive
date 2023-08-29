@@ -1,0 +1,133 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-1999-6189-0039",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:23:44Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1991-02-07T04:59:59Z",
+          "title": "U.S. DOT/USCG- Final Rule-Amdt. 1-235",
+          "postedDate": "1991-02-06T05:00:00Z",
+          "docketId": "DOT-OST-1999-6189",
+          "subtype": "Final Rule",
+          "commentStartDate": "1991-02-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7f4b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-1999-6189-0039"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 16,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "DOT"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1991-02-06",
+          "toDate": "1991-02-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

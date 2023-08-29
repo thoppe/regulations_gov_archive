@@ -1,0 +1,191 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-1999-0005-0038",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:15:15Z",
+          "highlightedContent": "",
+          "frDocNum": "8666",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Priorities List for Uncontrolled Waste Sites; \r\nFinal Federal Facilities Site Update; Final Rule No. \r\n10.",
+          "postedDate": "1990-03-08T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1999-0005",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e0e9c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1999-0005-0038"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-2003-14572-0023",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:23:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "2003-02-25T04:59:59Z",
+          "title": "U.S. Department of Transportation - Federal Register publication",
+          "postedDate": "1990-03-08T05:00:00Z",
+          "docketId": "PHMSA-RSPA-2003-14572",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1990-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064803100b1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-2003-14572-0023"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1998-4952-0168",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2007-11-01T01:04:18Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1999-08-26T03:59:59Z",
+          "title": "U.S. DOT/RSPA - City of San Jose, California; Restrictions on Storage of Hazardous Materials",
+          "postedDate": "1990-03-08T05:00:00Z",
+          "docketId": "PHMSA-RSPA-1998-4952",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1990-03-08T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802a7180"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1998-4952-0168"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 8,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Publication"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "PHMSA"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1990-03-08",
+          "toDate": "1990-03-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

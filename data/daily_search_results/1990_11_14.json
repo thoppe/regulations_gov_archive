@@ -1,0 +1,160 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1990-0011-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:24:05Z",
+          "highlightedContent": "",
+          "frDocNum": "47493",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "HAZARDOUS WASTE MANAGEMENT SYSTEM; IDENTIFICATION AND LISTING OF HAZARDOUS WASTE; PROPOSED EXCLUSION; EXTENSION OF COMMENT PERIOD (BETHLEHEM STEEL CORPORATION, PETITION NO. 0187)",
+          "postedDate": "1990-11-14T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1990-0011",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800d079a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1990-0011-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-RCRA-1990-0051-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:18:58Z",
+          "highlightedContent": "",
+          "frDocNum": "47700",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "DEPARTMENT OF ENERGY WASTE ISOLATION PILOT PLANT; NOTICE OF FINAL NO-MIGRATION DETERMINATION, (EPA/OSWFR91009)",
+          "postedDate": "1990-11-14T05:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1990-0051",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800d0d74"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1990-0051-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 5,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1990-11-14",
+          "toDate": "1990-11-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

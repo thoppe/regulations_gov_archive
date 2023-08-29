@@ -1,0 +1,129 @@
+[
+  {
+    "data": [
+      {
+        "id": "PHMSA-RSPA-1993-13564-0254",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:16:32Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1993-04-06T03:59:59Z",
+          "title": "National Association of State Title III Program Officials - Interim Final Rule",
+          "postedDate": "1993-06-08T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1993-13564",
+          "subtype": "Interim Final Rule",
+          "commentStartDate": "1993-06-08T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030b1da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1993-13564-0254"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Interim Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1993-06-08",
+          "toDate": "1993-06-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

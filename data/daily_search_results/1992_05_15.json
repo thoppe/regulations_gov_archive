@@ -1,0 +1,168 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-RCRA-1992-0020-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:11:02Z",
+          "highlightedContent": "",
+          "frDocNum": "20766",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "HAZARDOUS WASTE MANAGEMENT SYSTEM; LAND DISPOSAL RESTRICTIONS; NOTICE TO APPROVE HAZARDOUS DEBRIS CASE-BY-CASE CAPACITY VARIANCE, (EPA/530-Z-92-009)",
+          "postedDate": "1992-05-15T04:00:00Z",
+          "docketId": "EPA-HQ-RCRA-1992-0020",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800d33cd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-RCRA-1992-0020-0001"
+        }
+      },
+      {
+        "id": "PHMSA-RSPA-1989-13542-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T20:22:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "PHMSA",
+          "commentEndDate": "1989-11-25T04:59:59Z",
+          "title": "RSPA - Department of Transportation - Training for Safe Transportation of Hazardous Materials - Federal Register Publication",
+          "postedDate": "1992-05-15T04:00:00Z",
+          "docketId": "PHMSA-RSPA-1989-13542",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1992-05-15T04:00:00Z",
+          "openForComment": false,
+          "objectId": "090000648030ad2d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PHMSA-RSPA-1989-13542-0003"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 6,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Other"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          },
+          {
+            "docCount": 1,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "PHMSA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1992-05-15",
+          "toDate": "1992-05-15"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

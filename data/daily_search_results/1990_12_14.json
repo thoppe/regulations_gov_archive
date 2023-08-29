@@ -1,0 +1,156 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-1999-0005-0039",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:17:31Z",
+          "highlightedContent": "",
+          "frDocNum": "51532",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1991-01-16T04:59:59Z",
+          "title": "National Priorities List for Uncontrolled Waste Sites; Final Federal Facilities Site Update; Final Rule No. 10.",
+          "postedDate": "1990-12-14T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1999-0005",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1990-12-14T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e0ead"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1999-0005-0039"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1990-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-08T21:11:47Z",
+          "highlightedContent": "",
+          "frDocNum": "51532",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "Amendment to the National Oil and Hazardous Substances Pollution Contingency Plan; Final Rule",
+          "postedDate": "1990-12-14T05:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1990-0007",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e3f3e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1990-0007-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 11,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 2,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Other"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1990-12-14",
+          "toDate": "1990-12-14"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

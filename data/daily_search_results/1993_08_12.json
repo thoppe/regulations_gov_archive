@@ -1,0 +1,137 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-OAR-2004-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2016-11-26T02:01:56Z",
+          "highlightedContent": "",
+          "frDocNum": "43028",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1993-10-13T03:59:59Z",
+          "title": "National Emission Standards for Hazardous Air Pollutants for Chromium Emissions From Industrial Process Cooling Towers; Proposed Rule [A-91-65 III-A-1]",
+          "postedDate": "1993-08-12T14:50:12Z",
+          "docketId": "EPA-HQ-OAR-2004-0004",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1993-08-12T14:50:12Z",
+          "openForComment": false,
+          "objectId": "09000064800bbb20"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2004-0004-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 3,
+            "label": "Notice"
+          },
+          {
+            "docCount": 2,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 1,
+            "label": "Other"
+          },
+          {
+            "docCount": 1,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 1,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 1,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1993-08-12",
+          "toDate": "1993-08-12"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 1,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 1,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

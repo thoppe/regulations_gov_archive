@@ -1,5 +1,7 @@
 import pandas as pd
 
+n_top_comments = 30
+
 content = ""
 
 df = pd.read_csv(
@@ -37,7 +39,7 @@ content.append(
 )
 content.append("")
 
-content.append("## Documents with top comments")
+
 df = pd.read_csv(
     "artifacts/LISTING_rules_and_posted_rules.csv",
     dtype={"total_comments": "Int64"},
@@ -45,12 +47,11 @@ df = pd.read_csv(
 df = df.dropna(subset=["total_comments"]).sort_values(
     "total_comments", ascending=False
 )
-# df = df.rename(
-#    columns={"attributes.title": "title", "attributes.agencyId": "agency"}
-# )
+
+content.append(f"## Top {n_top_comments} documents with most comments")
 content.append("| docId | comments | Title |")
 content.append("|------|---------:|-------|")
-for _, row in df[:20].iterrows():
+for _, row in df[:n_top_comments].iterrows():
     docID = row["id"]
     title = row["attributes.title"].replace("|", r"\|")
     title = " ".join(title.split())

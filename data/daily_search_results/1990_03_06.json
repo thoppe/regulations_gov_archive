@@ -1,0 +1,175 @@
+[
+  {
+    "data": [
+      {
+        "id": "DOT-OST-2006-24225-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T22:42:24Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2006-03-17T04:59:59Z",
+          "title": "U.S. DOT/OST - Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "postedDate": "1990-03-06T05:00:00Z",
+          "docketId": "DOT-OST-2006-24225",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1990-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bc9cc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2006-24225-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2006-24226-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:17:39Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "2006-03-17T04:59:59Z",
+          "title": "U.S. DOT/OST - Notice of Proposed Rulemaking (NPRM)",
+          "postedDate": "1990-03-06T05:00:00Z",
+          "docketId": "DOT-OST-2006-24226",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1990-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802bf836"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2006-24226-0001"
+        }
+      },
+      {
+        "id": "DOT-OST-2006-24222-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2008-01-07T23:16:50Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "DOT",
+          "commentEndDate": "1990-03-07T04:59:59Z",
+          "title": "Federal Register Publication",
+          "postedDate": "1990-03-06T05:00:00Z",
+          "docketId": "DOT-OST-2006-24222",
+          "subtype": "Federal Register Publication",
+          "commentStartDate": "1990-03-06T05:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064802b1949"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOT-OST-2006-24222-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 7,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Federal Register Publication"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "DOT"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1990-03-06",
+          "toDate": "1990-03-06"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

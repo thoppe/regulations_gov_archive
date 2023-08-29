@@ -1,0 +1,183 @@
+[
+  {
+    "data": [
+      {
+        "id": "FDA-1985-N-0022-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-26T21:00:30Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Notice of Final Rule re Drug Price Competition & Patent Term Restoration Act 1984",
+          "postedDate": "1992-05-08T04:00:00Z",
+          "docketId": "FDA-1985-N-0022",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064805b3bad"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1985-N-0022-0008"
+        }
+      },
+      {
+        "id": "FDA-1985-N-0022-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-26T21:02:47Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Notice of Final Rule re Drug Price Competition & Patent Term Restoration Act 1984",
+          "postedDate": "1992-05-08T04:00:00Z",
+          "docketId": "FDA-1985-N-0022",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064805b3bae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1985-N-0022-0009"
+        }
+      },
+      {
+        "id": "FDA-1985-N-0022-0007",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2016-02-26T20:58:33Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": null,
+          "title": "Notice of Final Rule re Drug Price Competition & Patent Term Restoration Act 1984",
+          "postedDate": "1992-05-08T04:00:00Z",
+          "docketId": "FDA-1985-N-0022",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064805b3bac"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-1985-N-0022-0007"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 4,
+            "label": "Other"
+          },
+          {
+            "docCount": 4,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 3,
+            "label": "Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Final Rule"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 3,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 3,
+            "value": "FDA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1992-05-08",
+          "toDate": "1992-05-08"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 3,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 3,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

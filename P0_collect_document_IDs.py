@@ -2,10 +2,13 @@ import json
 from datetime import datetime, timedelta
 from dspipe import Pipe
 import utils
-import time
 
-days_back = 12_000  # Number of days we will go backwards
+
+stop_date = datetime(1990, 1, 1)  # Date we begin collecting data from API
 buffer_days = 14  # Number of days before we start collecting data
+
+today = datetime.today()
+days_back = (today - stop_date).days + 10
 
 selected_documentType = set(
     [
@@ -51,8 +54,7 @@ def compute(days_back, f1):
 
         if not r.ok:
             if r.status_code == 429:
-                print("Sleeping for one hour")
-                time.sleep(60 * 60)
+                utils.sleep_if_needed(r)
                 return compute(days_back, f1)
 
             raise ValueError(r.status_code, r.content)
@@ -77,10 +79,15 @@ def compute(days_back, f1):
 
     jsx = json.dumps(data, indent=2)
 
+    API_left = r.headers["X-Ratelimit-Remaining"]
+
     with open(f_save, "w") as FOUT:
         FOUT.write(jsx)
 
-    print(f"Saved {f_save} {len(data)} {total_pages} ({total_elements})")
+    print(
+        f"Saved {f_save} {len(data)} {total_pages} ({total_elements}) "
+        f"[{API_left}]"
+    )
 
 
 Pipe(range(buffer_days, days_back), "data/daily_search_results")(compute, 1)

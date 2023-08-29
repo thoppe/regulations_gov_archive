@@ -1,0 +1,152 @@
+[
+  {
+    "data": [
+      {
+        "id": "EPA-HQ-SFUND-1991-0004-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:13:35Z",
+          "highlightedContent": "",
+          "frDocNum": "29388",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "National Oil and Hazardous Substances Pollution Contingency Plan; The National Priorities \r\nList for Uncontrolled Hazardous Waste Sites, Tex Tin Corporation, Texas City, TX, \r\nProposed Rule",
+          "postedDate": "1991-07-29T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1991-0004",
+          "subtype": "Federal Register Document",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "09000064800e3eba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1991-0004-0001"
+        }
+      },
+      {
+        "id": "EPA-HQ-SFUND-1999-0005-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2008-01-08T21:19:38Z",
+          "highlightedContent": "",
+          "frDocNum": "35840",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "1991-09-28T03:59:59Z",
+          "title": "National Priorities List for Uncontrolled Hazardous Waste Sites; Proposed Rule FRL-3978-5",
+          "postedDate": "1991-07-29T04:00:00Z",
+          "docketId": "EPA-HQ-SFUND-1999-0005",
+          "subtype": "Federal Register Document",
+          "commentStartDate": "1991-07-29T04:00:00Z",
+          "openForComment": false,
+          "objectId": "09000064800e0ec0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-SFUND-1999-0005-0041"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 2,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 2,
+            "label": "Federal Register Document"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 2,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 2,
+            "value": "EPA"
+          }
+        ],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 22,
+            "label": "Today",
+            "fromDate": "2023-08-29 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 38,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-27 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-23 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 261,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-15 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 520,
+            "label": "Last 30 Days",
+            "fromDate": "2023-07-31 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          },
+          {
+            "docCount": 1409,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-01 00:00:00",
+            "toDate": "2023-08-29 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1991-07-29",
+          "toDate": "1991-07-29"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 2,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 2,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

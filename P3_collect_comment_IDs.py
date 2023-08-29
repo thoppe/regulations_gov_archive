@@ -3,9 +3,6 @@ import json
 from datetime import datetime, timedelta
 from dspipe import Pipe
 import utils
-import time
-
-# url = https://api.regulations.gov/v4/comments?filter[commentOnId]=0900006483a6cba3&api_key=DEMO_KEY
 
 date_key = "attributes.commentEndDate"
 
@@ -35,6 +32,9 @@ if idx.sum():
 
 df = df[~idx]
 
+# For now, don't download objects without commentEndDate
+df = df.dropna(subset=[date_key])
+
 
 def compute(objectId, f1):
     session = utils.get_session()
@@ -50,10 +50,7 @@ def compute(objectId, f1):
 
     if not r.ok:
         if r.status_code == 429:
-            # Sleep as long as the API tells us
-            sleep_time = int(r.headers["Retry-After"])
-            print(f"Sleeping for {sleep_time} seconds")
-            time.sleep(sleep_time + 4)
+            utils.sleep_if_needed(r)
             return compute(objectId, f1)
 
         raise ValueError(r.status_code, r.content)
