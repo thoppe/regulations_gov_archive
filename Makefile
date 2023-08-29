@@ -1,6 +1,6 @@
 collect:
 	python P0_collect_document_IDs.py
-	python P3_collect_comment_IDs.py
+	python P3_collect_comment_meta.py
 #	python P1_download_text.py
 #	python P2_collect_documents.py
 #	python P1_collect_documents.py

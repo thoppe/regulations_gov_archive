@@ -22,7 +22,6 @@ selected_documentType = set(
 
 
 def compute(days_back, f1):
-    
     session = utils.get_session()
     headers = utils.get_API_KEY()
 
@@ -30,7 +29,7 @@ def compute(days_back, f1):
 
     if target_date < stop_date:
         return
-    
+
     y0 = target_date.year
     m0 = target_date.month
     d0 = target_date.day
