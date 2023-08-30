@@ -45,9 +45,10 @@ def compute(objectId, f1):
 
 def process(f0):
     df = pd.read_csv(f0)
-    Pipe(df["id"], "data/comments_detail", output_suffix=".json", limit=250)(
-        compute, 4
-    )
+
+    df = df.sample(n=100, random_state=222)
+
+    Pipe(df["id"], "data/comments_detail", output_suffix=".json")(compute, 4)
 
 
 Pipe("data/comments_objectIDs/", limit=5)(process, 1)
