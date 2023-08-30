@@ -1,10 +1,14 @@
+from pathlib import Path
 import json
 from datetime import datetime, timedelta
 from dspipe import Pipe
 import utils
 
+full_collect_year = 1996
+first_collection_year = 1960
 
-stop_date = datetime(1990, 1, 1)  # Date we begin collecting data from API
+# Date we begin collecting data from API
+stop_date = datetime(full_collect_year, 1, 1)
 buffer_days = 14  # Number of days before we start collecting data
 
 today = datetime.today()
@@ -21,31 +25,38 @@ selected_documentType = set(
 )
 
 
-def compute(days_back, f1):
+def compute(days_back, f1, entire_year=None):
     session = utils.get_session()
     headers = utils.get_API_KEY()
 
-    target_date = datetime.now() - timedelta(days=days_back)
+    params = {
+        "filter[documentType]": list(selected_documentType),
+        "page[size]": 250,
+    }
 
-    if target_date < stop_date:
-        return
+    # If this is non-zero, grab the entire year
+    if entire_year is not None:
+        y0 = entire_year
+        params["filter[postedDate][ge]"] = f"{y0:04d}-{1:02d}-{1:02d}"
+        params["filter[postedDate][le]"] = f"{y0:04d}-{12:02d}-{31:02d}"
+        save_dest = Path("data/daily_search_results/")
+        f_save = save_dest / f"{year}_complete.json"
 
-    y0 = target_date.year
-    m0 = target_date.month
-    d0 = target_date.day
+    else:
+        target_date = datetime.now() - timedelta(days=days_back)
 
-    f_save = f1.parent / f"{y0:04d}_{int(m0):02d}_{int(d0):02d}.json"
+        if target_date < stop_date:
+            return
+
+        y0 = target_date.year
+        m0 = target_date.month
+        d0 = target_date.day
+
+        params["filter[postedDate]"] = f"{y0:04d}-{m0:02d}-{d0:02d}"
+        f_save = f1.parent / f"{y0:04d}_{int(m0):02d}_{int(d0):02d}.json"
 
     if f_save.exists():
         return f_save
-
-    # print(f"Starting {f_save}")
-
-    params = {
-        "filter[documentType]": list(selected_documentType),
-        "filter[postedDate]": f"{y0:04d}-{m0:02d}-{d0:02d}",
-        "page[size]": 250,
-    }
 
     url = "https://api.regulations.gov/v4/documents"
 
@@ -81,6 +92,9 @@ def compute(days_back, f1):
 
         page_n += 1
 
+    # Since we are pulling small chunks, assume we only have one page
+    assert len(data) == 1
+
     jsx = json.dumps(data, indent=2)
 
     API_left = r.headers["X-Ratelimit-Remaining"]
@@ -95,3 +109,7 @@ def compute(days_back, f1):
 
 
 Pipe(range(buffer_days, days_back), "data/daily_search_results")(compute, 1)
+
+# From 1995 and prior, it is safe to grab entire years
+for year in range(first_collection_year, full_collect_year)[::-1]:
+    compute(None, None, year)

@@ -1,0 +1,91 @@
+[
+  {
+    "data": [],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 141,
+            "label": "Supporting & Related Material"
+          }
+        ],
+        "subtype": [],
+        "withinCommentPeriod": [
+          {
+            "docCount": 0,
+            "label": "true"
+          },
+          {
+            "docCount": 0,
+            "label": "false"
+          }
+        ],
+        "agencyId": [],
+        "commentEndDate": [],
+        "postedDate": [
+          {
+            "docCount": 26,
+            "label": "Today",
+            "fromDate": "2023-08-30 00:00:00",
+            "toDate": "2023-08-30 23:59:59"
+          },
+          {
+            "docCount": 83,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-28 00:00:00",
+            "toDate": "2023-08-30 23:59:59"
+          },
+          {
+            "docCount": 132,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-24 00:00:00",
+            "toDate": "2023-08-30 23:59:59"
+          },
+          {
+            "docCount": 281,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-16 00:00:00",
+            "toDate": "2023-08-30 23:59:59"
+          },
+          {
+            "docCount": 540,
+            "label": "Last 30 Days",
+            "fromDate": "2023-08-01 00:00:00",
+            "toDate": "2023-08-30 23:59:59"
+          },
+          {
+            "docCount": 1428,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-02 00:00:00",
+            "toDate": "2023-08-30 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "1964-01-01",
+          "toDate": "1964-12-31"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 0,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 0,
+      "totalPages": 0,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]
