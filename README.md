@@ -12,24 +12,27 @@ Regulations are organized by five document types: `Rule`, `Proposed Rule`, `Noti
 ## Data Statistics
 |     |     |
 |---- |---- |
-| Total documents | 133,096    |
+| Total documents | 133,113    |
 | Unique agencies | 252    |
-| Unique dockets  | 61,950   |
-| Unique FR IDs   | 104,644      |
-| Total comments  | 4,434,740  |
+| Unique dockets  | 61,957   |
+| Unique FR IDs   | 104,660      |
+| Total comments  | 5,129,859  |
+
+![document statistics](artifacts/figures/document_statistics.jpg)
 
 ## Data ingestion progress
 |     |     |
 |---- |---- |
-| Latest date   | 2023-08-16 |
+| Latest date   | 2023-08-17 |
 | Earliest date | 1971-01-01    |
-| Fraction of documents scanned for comments  | 0.2122 |
+| Fraction of documents scanned for comments  | 0.2465 |
 
 ## Top 30 documents with most comments
 | docId | comments | Title |
 |------|---------:|-------|
 | [CEQ-2019-0003-0001](https://www.regulations.gov/document/CEQ-2019-0003-0001) | 720,597 | Update to the Regulations Implementing the Procedural Provisions of the National Environmental Policy Act |
 | [ED-2021-OCR-0166-0001](https://www.regulations.gov/document/ED-2021-OCR-0166-0001) | 238,987 | Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance |
+| [WHD-2017-0003-0001](https://www.regulations.gov/document/WHD-2017-0003-0001) | 218,642 | Tip Regulations under the Fair Labor Standards Act |
 | [CFPB-2016-0025-0001](https://www.regulations.gov/document/CFPB-2016-0025-0001) | 211,885 | Payday, Vehicle Title, and Certain High-Cost Installment Loans |
 | [HHS-OS-2018-0008-0001](https://www.regulations.gov/document/HHS-OS-2018-0008-0001) | 204,771 | Compliance with Statutory Program Integrity Requirements |
 | [FDA-2021-N-1349-0001](https://www.regulations.gov/document/FDA-2021-N-1349-0001) | 175,299 | Tobacco Product Standard for Menthol in Cigarettes |
@@ -50,12 +53,11 @@ Regulations are organized by five document types: `Rule`, `Proposed Rule`, `Noti
 | [FAA-2019-1100-0001](https://www.regulations.gov/document/FAA-2019-1100-0001) | 53,049 | Remote Identification of Unmanned Aircraft Systems |
 | [APHIS-2017-0062-0001](https://www.regulations.gov/document/APHIS-2017-0062-0001) | 47,063 | Animal Welfare: Procedures for Applying for Licenses and Renewals |
 | [BSEE-2018-0002-0001](https://www.regulations.gov/document/BSEE-2018-0002-0001) | 46,813 | Oil and Gas and Sulfur Operations in Outer Continental Shelf: Blowout Preventer Systems and Well Control Revisions |
+| [FS-2019-0010-0001](https://www.regulations.gov/document/FS-2019-0010-0001) | 43,430 | National Environmental Policy Act Compliance |
 | [DEA-2023-0029-0001](https://www.regulations.gov/document/DEA-2023-0029-0001) | 35,458 | Telemedicine Prescribing of Controlled Substances When the Practitioner and the Patient Have Not Had a Prior In-Person Medical Evaluation |
 | [CMS-2021-0119-0053](https://www.regulations.gov/document/CMS-2021-0119-0053) | 35,318 | Medicare Program: CY 2022 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; Provider Enrollment Regulation Updates; Provider and Supplier Prepayment and Post-Payment Medical Review Requirements (CMS-1751-P) |
 | [ED-2021-OESE-0033-0001](https://www.regulations.gov/document/ED-2021-OESE-0033-0001) | 35,296 | Proposed Priorities: American History and Civics Education |
 | [FWS-R7-NWRS-2017-0058-0002](https://www.regulations.gov/document/FWS-R7-NWRS-2017-0058-0002) | 34,309 | Refuge-Specific Regulations; Public Use; Kenai National Wildlife Refuge |
 | [CMS-2023-0016-0001](https://www.regulations.gov/document/CMS-2023-0016-0001) | 33,634 | Coverage of Certain Preventive Services under the Affordable Care Act |
 | [ED-2018-OPE-0027-0001](https://www.regulations.gov/document/ED-2018-OPE-0027-0001) | 31,918 | Student Assistance General Provisions, Federal Perkins Loan Program, Federal Family Education Loan Program, and William D. Ford Federal Direct Loan Program |
-| [NLRB-2018-0001-0001](https://www.regulations.gov/document/NLRB-2018-0001-0001) | 28,986 | Definition of Joint Employer |
-| [CMS-2019-0006-0016](https://www.regulations.gov/document/CMS-2019-0006-0016) | 26,114 | Patient Protection and Affordable Care Act; HHS Notice of Benefit and Payment Parameters for 2020 |
 

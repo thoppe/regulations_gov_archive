@@ -10,6 +10,7 @@ add_data:
 	python src/C1_collate_comments_meta.py
 	python src/B0_build_README.py
 	git add data/daily_search_results
+	python src/A0_analyze_comments_per_year.py
 
 lint:
 	black *.py src --line-length 80

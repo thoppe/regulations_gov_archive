@@ -8,6 +8,9 @@ import diskcache as dc
 
 cache = dc.Cache("tmp_working_cache")
 
+random_seed = 199
+n_samples = 30
+
 
 def cache_download(url, session, headers, params):
     key = (url, headers, params)
@@ -45,10 +48,9 @@ def compute(objectId, f1):
 
 def process(f0):
     df = pd.read_csv(f0)
-
-    df = df.sample(n=100, random_state=222)
+    df = df.sample(n=n_samples, random_state=random_seed)
 
     Pipe(df["id"], "data/comments_detail", output_suffix=".json")(compute, 4)
 
 
-Pipe("data/comments_objectIDs/", limit=5)(process, 1)
+Pipe("data/comments_objectIDs/")(process, 1)

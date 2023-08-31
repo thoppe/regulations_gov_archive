@@ -10,6 +10,8 @@ import diskcache as dc
 cache = dc.Cache("tmp_working_cache")
 # cache = {}
 
+n_min_comments, n_max_comments = 1_000, 10_000
+
 date_key = "attributes.commentEndDate"
 
 df = pd.read_csv(
@@ -42,8 +44,8 @@ df = df.dropna(subset=[date_key])
 df = df.dropna(subset=["total_comments"])
 
 # Drop any with < 1K comments or > 10K comments for now
-df = df[df.total_comments >= 1_000]
-df = df[df.total_comments <= 10_000]
+df = df[df.total_comments >= n_min_comments]
+df = df[df.total_comments <= n_max_comments]
 
 
 def cache_download(url, session, headers, params):
