@@ -1,0 +1,512 @@
+[
+  {
+    "data": [
+      {
+        "id": "DEA-2021-0031-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-18T12:43:23Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17778",
+          "withdrawn": false,
+          "agencyId": "DEA",
+          "commentEndDate": null,
+          "title": "Schedules of Controlled Substances: Placement of Metonitazene in Schedule I",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "DEA-2021-0031",
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485e84a8b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DEA-2021-0031-0005"
+        }
+      },
+      {
+        "id": "NOAA_FRDOC_0001-6697",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-18T12:31:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17803",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Schedule of Fees for Access to NOAA Environmental Data, Information, and Related Products and Services",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "NOAA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485e8da92"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA_FRDOC_0001-6697"
+        }
+      },
+      {
+        "id": "FWS-R4-ES-2022-0070-0034",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-21T16:00:46Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17670",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Endangered and Threatened Species: Magnificent Ramshorn",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "FWS-R4-ES-2022-0070",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485e8db00"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R4-ES-2022-0070-0034"
+        }
+      },
+      {
+        "id": "USCG-2023-0175-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-18T13:35:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17750",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Pequonnock River, Bridgeport, CT",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "USCG-2023-0175",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485e8d4ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0175-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0521-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-18T13:39:43Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17833",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation: Kailua Bay, Ironman World Championship, Kailua-Kona, HI",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "USCG-2023-0521",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485e8d958"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0521-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2023-0021-0013",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-27T03:23:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17592",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-09-19T03:59:59Z",
+          "title": "Fisheries of the Northeastern United States: Northeast Multispecies Fishery; Framework Adjustment 65",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0021",
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485e8d9ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0021-0013"
+        }
+      },
+      {
+        "id": "FCC-2023-0305-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-18T12:30:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17486",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2023-10-03T03:59:59Z",
+          "title": "Connect America Fund: A National Broadband Plan for Our Future High-Cost Universal Service Support; ETC Annual Reports and Certifications; Telecommunications Carriers Eligible to Receive Universal Service Support; Connect America Fund-Alaska Plan; Expanding Broadband Service Through the ACAM Program",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485e8d9bc"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0305-0002"
+        }
+      },
+      {
+        "id": "FAA-2022-1566-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-18T13:22:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17772",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "FAA-2022-1566",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485e8d9b8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1566-0005"
+        }
+      },
+      {
+        "id": "FWS-HQ-MB-2022-0090-0049",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-21T16:03:04Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17684",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": null,
+          "title": "Migratory Bird Hunting: 2023-2024 Seasons for Certain Migratory Game Birds",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "FWS-HQ-MB-2022-0090",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485e8d9bd"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-HQ-MB-2022-0090-0049"
+        }
+      },
+      {
+        "id": "OMB-2023-0015-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-26T01:04:57Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17664",
+          "withdrawn": false,
+          "agencyId": "OMB",
+          "commentEndDate": "2023-10-03T03:59:59Z",
+          "title": "Fundamental Responsibilities of Recognized Statistical Agencies and Units",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "OMB-2023-0015",
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485e8da1b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OMB-2023-0015-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1656-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-29T01:00:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-16858",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-10-18T03:59:59Z",
+          "title": "U.S. Commercial Space Launch Competitiveness Act Incorporation",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "FAA-2023-1656",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485e8d9b5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1656-0001"
+        }
+      },
+      {
+        "id": "NOAA_FRDOC_0001-6696",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-18T12:30:52Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2023-16229",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic; Reef Fish Resources of the Gulf of Mexico; Commercial Trip Limit for Gray Triggerfish",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "NOAA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485e8da1d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA_FRDOC_0001-6696"
+        }
+      },
+      {
+        "id": "BIS_FRDOC_0001-0599",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-18T12:31:16Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-16750",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Commerce Control List: Updates Based on the Latest Nuclear Suppliers Group Plenary Meetings",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "BIS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485e8da8f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS_FRDOC_0001-0599"
+        }
+      },
+      {
+        "id": "PBGC-2023-0006-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-20T01:04:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17521",
+          "withdrawn": false,
+          "agencyId": "PBGC",
+          "commentEndDate": "2023-10-18T03:59:59Z",
+          "title": "Valuation Assumptions and Methods",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "PBGC-2023-0006",
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485e8d9bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/PBGC-2023-0006-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0112-0008",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-21T13:18:13Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17835",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Summer Flounder Fishery; Quota Transfer From North Carolina to Virgina",
+          "postedDate": "2023-08-18T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0112",
+          "subtype": null,
+          "commentStartDate": "2023-08-18T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485e84a8e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0112-0008"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 184,
+            "label": "Other"
+          },
+          {
+            "docCount": 59,
+            "label": "Notice"
+          },
+          {
+            "docCount": 42,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 11,
+            "label": "Rule"
+          },
+          {
+            "docCount": 4,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 1,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 5,
+            "label": "true"
+          },
+          {
+            "docCount": 10,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "FWS"
+          },
+          {
+            "docCount": 2,
+            "value": "USCG"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "DEA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "OMB"
+          },
+          {
+            "docCount": 1,
+            "value": "PBGC"
+          }
+        ],
+        "commentEndDate": [
+          {
+            "docCount": 1,
+            "label": "Next 30 Days",
+            "fromDate": "2023-09-01 00:00:00",
+            "toDate": "2023-09-30 23:59:59"
+          },
+          {
+            "docCount": 5,
+            "label": "Next 90 Days",
+            "fromDate": "2023-09-01 00:00:00",
+            "toDate": "2023-11-29 23:59:59"
+          }
+        ],
+        "postedDate": [
+          {
+            "docCount": 20,
+            "label": "Today",
+            "fromDate": "2023-09-01 00:00:00",
+            "toDate": "2023-09-01 23:59:59"
+          },
+          {
+            "docCount": 65,
+            "label": "Last 3 Days",
+            "fromDate": "2023-08-30 00:00:00",
+            "toDate": "2023-09-01 23:59:59"
+          },
+          {
+            "docCount": 122,
+            "label": "Last 7 Days",
+            "fromDate": "2023-08-26 00:00:00",
+            "toDate": "2023-09-01 23:59:59"
+          },
+          {
+            "docCount": 267,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-18 00:00:00",
+            "toDate": "2023-09-01 23:59:59"
+          },
+          {
+            "docCount": 532,
+            "label": "Last 30 Days",
+            "fromDate": "2023-08-03 00:00:00",
+            "toDate": "2023-09-01 23:59:59"
+          },
+          {
+            "docCount": 1446,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-04 00:00:00",
+            "toDate": "2023-09-01 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-08-18",
+          "toDate": "2023-08-18"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 15,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 15,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

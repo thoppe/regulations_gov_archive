@@ -5,12 +5,14 @@ from dspipe import Pipe
 import utils
 
 date_key = "attributes.commentEndDate"
+date_key2 = "attributes.postedDate"
 
 df = pd.read_csv(
     "artifacts/LISTING_rules_and_posted_rules.csv",
     nrows=None,
 )
 df[date_key] = pd.to_datetime(df[date_key]).dt.date
+df[date_key2] = pd.to_datetime(df[date_key2]).dt.date
 
 # Filter out withdrawn documents
 df = df[df["attributes.withdrawn"] == False]
@@ -26,14 +28,15 @@ buffer_days = 30
 check_time = datetime.now().date() - timedelta(days=buffer_days)
 
 # Make sure we skip items where there commentEndDate is later than the buffer
-idx = df[date_key] > check_time
-if idx.sum():
-    print(f"Filtering {idx.sum()} documents before buffer date {check_time}")
+for key in [date_key, date_key2]:
+    idx = df[key] > check_time
+    if idx.sum():
+        print(f"Filtering {idx.sum()} documents before {key} {check_time}")
+    df = df[~idx]
 
-df = df[~idx]
-
-# For now, don't download objects without commentEndDate
-df = df.dropna(subset=[date_key])
+# Don't download objects without commentEndDate or postedDate
+# Since we can't verify if we are past the date for the buffer
+df = df.dropna(subset=[date_key, date_key2], how='all')
 
 
 def compute(objectId, f1):
