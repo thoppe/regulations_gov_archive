@@ -108,6 +108,7 @@ def compute(days_back, f1, entire_year=None):
     )
 
 
+# Grab data day-by-day for after 1995 due to API restrictions
 Pipe(range(buffer_days, days_back), "data/daily_search_results")(compute, 1)
 
 # From 1995 and prior, it is safe to grab entire years

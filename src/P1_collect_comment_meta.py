@@ -36,7 +36,7 @@ for key in [date_key, date_key2]:
 
 # Don't download objects without commentEndDate or postedDate
 # Since we can't verify if we are past the date for the buffer
-df = df.dropna(subset=[date_key, date_key2], how='all')
+df = df.dropna(subset=[date_key, date_key2], how="all")
 
 
 def compute(objectId, f1):
