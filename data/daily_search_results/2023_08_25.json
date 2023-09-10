@@ -1,0 +1,935 @@
+[
+  {
+    "data": [
+      {
+        "id": "NLRB_FRDOC_0001-0172",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:11:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18129",
+          "withdrawn": false,
+          "agencyId": "NLRB",
+          "commentEndDate": null,
+          "title": "Representation Case Procedures",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "NLRB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485eea954"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NLRB_FRDOC_0001-0172"
+        }
+      },
+      {
+        "id": "OFAC_FRDOC_0001-1721",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:11:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18455",
+          "withdrawn": false,
+          "agencyId": "OFAC",
+          "commentEndDate": null,
+          "title": "Cuban Assets Control Regulations; CFR Correction",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "OFAC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485eea90b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OFAC_FRDOC_0001-1721"
+        }
+      },
+      {
+        "id": "FCC-2023-0319-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T12:11:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18343",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2023-10-11T03:59:59Z",
+          "title": "Television Broadcasting Services: Alamogordo, NM",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea950"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0319-0001"
+        }
+      },
+      {
+        "id": "CFTC-2023-0075-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T12:10:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17747",
+          "withdrawn": false,
+          "agencyId": "CFTC",
+          "commentEndDate": "2023-10-25T03:59:59Z",
+          "title": "Swap Confirmation Requirements for Swap Execution Facilities",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea43a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFTC-2023-0075-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0695-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:52:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18273",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones; Annual Events in the Captain of the Port Buffalo Zone",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2023-0695",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485eea3e9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0695-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0682-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:42:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18327",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; Olympia Harbor Days Tug Boat Races, Budd Inlet, WA",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2023-0682",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485eea367"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0682-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0854-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T13:28:12Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18322",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Drawbridge Operation Regulation; Reynolds Channel, Atlantic Beach, NY",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2022-0854",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea4ba"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0854-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0640-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T13:31:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18326",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Lake Erie, Black River, Lorain, OH, South of East Erie Avenue Bridge Adjacent to Black River Landing",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2023-0640",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485eea956"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0640-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1785-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T13:35:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18344",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airspace Designations; Incorporation by Reference",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "FAA-2023-1785",
+          "subtype": "Final Rule",
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485eea90c"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1785-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1649-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-03T02:21:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17775",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-10-11T03:59:59Z",
+          "title": "Airworthiness Directives: The Boeing Company Airplanes",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "FAA-2023-1649",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea32f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1649-0001"
+        }
+      },
+      {
+        "id": "BOEM-2023-0027-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-08T01:04:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-12916",
+          "withdrawn": false,
+          "agencyId": "BOEM",
+          "commentEndDate": "2023-09-08T03:59:59Z",
+          "title": "Risk Management and Financial Assurance for Outer Continental Shelf Lease and Grant Obligations",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "BOEM-2023-0027",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485c14ca6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BOEM-2023-0027-0001"
+        }
+      },
+      {
+        "id": "NOAA-NOS-2021-0080-1228",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-08T01:01:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18271",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-10-26T03:59:59Z",
+          "title": "Chumash Heritage National Marine Sanctuary proposed rule; Availability of draft environmental impact statement and draft management plan",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "NOAA-NOS-2021-0080",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea43e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NOS-2021-0080-1228"
+        }
+      },
+      {
+        "id": "FDA-2016-P-0147-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-07T12:14:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17916",
+          "withdrawn": false,
+          "agencyId": "FDA",
+          "commentEndDate": "2023-11-25T04:59:59Z",
+          "title": "Fish and Shellfish; Canned Tuna Standard of Identity and Standard of Fill of Container",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "FDA-2016-P-0147",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea43b"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FDA-2016-P-0147-0009"
+        }
+      },
+      {
+        "id": "EPA-R03-OAR-2022-0912-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T14:28:29Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18278",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Maryland; Regional Haze State Implementation Plan for the Second Implementation Period",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "EPA-R03-OAR-2022-0912",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea32a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R03-OAR-2022-0912-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0660-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:36:08Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18347",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Ohio River Mile Markers 79.5\u201380, Wellsburg, WV",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2023-0660",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485ee9be6"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0660-0001"
+        }
+      },
+      {
+        "id": "NLRB_FRDOC_0001-0171",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:09:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18130",
+          "withdrawn": false,
+          "agencyId": "NLRB",
+          "commentEndDate": null,
+          "title": "Representation Case Procedures",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "NLRB_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485eea3e3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NLRB_FRDOC_0001-0171"
+        }
+      },
+      {
+        "id": "EPA-R02-OAR-2022-0648-0035",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T12:44:17Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18283",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Air Quality State Implementation Plans; Approvals and Promulgations: New York; Elements of the 2008 and 2015 Ozone National Air Quality Standards",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "EPA-R02-OAR-2022-0648",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea90e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R02-OAR-2022-0648-0035"
+        }
+      },
+      {
+        "id": "USCG-2023-0572-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:57:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18372",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Lake of the Ozarks, Mile Marker 8, Lake Ozark, MO",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2023-0572",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485eea43f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0572-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0520-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T13:06:02Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18323",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Drawbridge Operation Regulation; Mianus River, Greenwich, CT",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2022-0520",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea477"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0520-0002"
+        }
+      },
+      {
+        "id": "EPA-HQ-OAR-2002-0049-0099",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T13:21:11Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-16747",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": null,
+          "title": "New Source Performance Standards Review for Steel Plants: Electric Arc Furnaces and Argon-Oxygen Decarburization Vessels",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "EPA-HQ-OAR-2002-0049",
+          "subtype": "Final Rule",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485eea364"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-HQ-OAR-2002-0049-0099"
+        }
+      },
+      {
+        "id": "NHTSA-2023-0022-1509",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T13:41:40Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18310",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2023-10-17T03:59:59Z",
+          "title": "Corporate Average Fuel Economy Standards: Passenger Cars and Light Trucks for Model Years 2027\u20132032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030\u20132035; Correction",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "NHTSA-2023-0022",
+          "subtype": "Correction",
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea32d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2023-0022-1509"
+        }
+      },
+      {
+        "id": "FBI-2023-0001-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-28T21:06:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18194",
+          "withdrawn": false,
+          "agencyId": "FBI",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Child Protection Improvements Act Criteria for Designated Entity Determinations",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "FBI-2023-0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea32e"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FBI-2023-0001-0001"
+        }
+      },
+      {
+        "id": "NHTSA-2023-0022-1510",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-07T01:04:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18309",
+          "withdrawn": false,
+          "agencyId": "NHTSA",
+          "commentEndDate": "2023-10-31T03:59:59Z",
+          "title": "Notice of Public Hearing -Corporate Average Fuel Economy Standards: Passenger Cars and Light Trucks for Model Years 2027\u20132032 and Fuel Efficiency Standards for Heavy-Duty Pickup Trucks and Vans for Model Years 2030\u20132035",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "NHTSA-2023-0022",
+          "subtype": "Notice of Hearing",
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea3a8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NHTSA-2023-0022-1510"
+        }
+      },
+      {
+        "id": "NOAA_FRDOC_0001-6704",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:10:38Z",
+          "highlightedContent": "",
+          "frDocNum": "C1-2023-17592",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Northeastern United States: Northeast Multispecies Fishery; Framework Adjustment 65",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "NOAA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485eea476"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA_FRDOC_0001-6704"
+        }
+      },
+      {
+        "id": "FCC-2023-0318-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T12:07:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18357",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2023-10-11T03:59:59Z",
+          "title": "Cybersecurity Labeling for Internet of Things",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485ee9be3"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0318-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0707-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:21:18Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18374",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Ohio River, Mile Markers 322.5 to 323, Ashland, KY",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2023-0707",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485ee9be5"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0707-0001"
+        }
+      },
+      {
+        "id": "USCG-2022-0891-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:17:36Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18324",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Drawbridge Operation Regulation; Mill Neck Creek, Bayville, NY",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "USCG-2022-0891",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485ee9be1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0891-0001"
+        }
+      },
+      {
+        "id": "CFPB-2023-0001-0021",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:48:48Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18240",
+          "withdrawn": false,
+          "agencyId": "CFPB",
+          "commentEndDate": null,
+          "title": "Agency Contact Information; Technical Corrections",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "CFPB-2023-0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485eea3e0"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/CFPB-2023-0001-0021"
+        }
+      },
+      {
+        "id": "BOEM-2023-0027-0026",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-25T13:46:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18370",
+          "withdrawn": false,
+          "agencyId": "BOEM",
+          "commentEndDate": "2023-06-30T03:59:59Z",
+          "title": "Risk Management and Financial Assurance for OCS Lease and Grant Obligations",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "BOEM-2023-0027",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485eea4b8"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BOEM-2023-0027-0026"
+        }
+      },
+      {
+        "id": "FAA-2023-0009-0005",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-30T01:03:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-17773",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-10-11T03:59:59Z",
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "FAA-2023-0009",
+          "subtype": "Supplemental Notice of Proposed Rulemaking (SNPRM)",
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea957"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-0009-0005"
+        }
+      },
+      {
+        "id": "DOS_FRDOC_0001-6266",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-25T12:09:49Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18143",
+          "withdrawn": false,
+          "agencyId": "DOS",
+          "commentEndDate": null,
+          "title": "Access to Information; Privacy Act Provisions",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "DOS_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485eea3ae"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/DOS_FRDOC_0001-6266"
+        }
+      },
+      {
+        "id": "FAA-2023-1640-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-05T01:01:21Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18259",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-09-26T03:59:59Z",
+          "title": "Airworthiness Directives: Pratt and Whitney Engines",
+          "postedDate": "2023-08-25T04:00:00Z",
+          "docketId": "FAA-2023-1640",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-25T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485eea2da"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1640-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 178,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 95,
+            "label": "Other"
+          },
+          {
+            "docCount": 81,
+            "label": "Notice"
+          },
+          {
+            "docCount": 17,
+            "label": "Proposed Rule"
+          },
+          {
+            "docCount": 15,
+            "label": "Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 3,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 2,
+            "label": "Final Rule"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Notice of Hearing"
+          },
+          {
+            "docCount": 1,
+            "label": "Supplemental Notice of Proposed Rulemaking (SNPRM)"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 16,
+            "label": "true"
+          },
+          {
+            "docCount": 16,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 9,
+            "value": "USCG"
+          },
+          {
+            "docCount": 4,
+            "value": "FAA"
+          },
+          {
+            "docCount": 3,
+            "value": "EPA"
+          },
+          {
+            "docCount": 2,
+            "value": "BOEM"
+          },
+          {
+            "docCount": 2,
+            "value": "FCC"
+          },
+          {
+            "docCount": 2,
+            "value": "NHTSA"
+          },
+          {
+            "docCount": 2,
+            "value": "NLRB"
+          },
+          {
+            "docCount": 2,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 1,
+            "value": "CFPB"
+          },
+          {
+            "docCount": 1,
+            "value": "CFTC"
+          },
+          {
+            "docCount": 1,
+            "value": "DOS"
+          },
+          {
+            "docCount": 1,
+            "value": "FBI"
+          },
+          {
+            "docCount": 1,
+            "value": "FDA"
+          },
+          {
+            "docCount": 1,
+            "value": "OFAC"
+          }
+        ],
+        "commentEndDate": [
+          {
+            "docCount": 7,
+            "label": "Next 30 Days",
+            "fromDate": "2023-09-08 00:00:00",
+            "toDate": "2023-10-07 23:59:59"
+          },
+          {
+            "docCount": 16,
+            "label": "Next 90 Days",
+            "fromDate": "2023-09-08 00:00:00",
+            "toDate": "2023-12-06 23:59:59"
+          }
+        ],
+        "postedDate": [
+          {
+            "docCount": 19,
+            "label": "Today",
+            "fromDate": "2023-09-08 00:00:00",
+            "toDate": "2023-09-08 23:59:59"
+          },
+          {
+            "docCount": 56,
+            "label": "Last 3 Days",
+            "fromDate": "2023-09-06 00:00:00",
+            "toDate": "2023-09-08 23:59:59"
+          },
+          {
+            "docCount": 77,
+            "label": "Last 7 Days",
+            "fromDate": "2023-09-02 00:00:00",
+            "toDate": "2023-09-08 23:59:59"
+          },
+          {
+            "docCount": 231,
+            "label": "Last 15 Days",
+            "fromDate": "2023-08-25 00:00:00",
+            "toDate": "2023-09-08 23:59:59"
+          },
+          {
+            "docCount": 501,
+            "label": "Last 30 Days",
+            "fromDate": "2023-08-10 00:00:00",
+            "toDate": "2023-09-08 23:59:59"
+          },
+          {
+            "docCount": 1407,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-11 00:00:00",
+            "toDate": "2023-09-08 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-08-25",
+          "toDate": "2023-08-25"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 32,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 32,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

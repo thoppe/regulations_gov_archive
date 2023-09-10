@@ -12,18 +12,18 @@ Regulations are organized by five document types: `Rule`, `Proposed Rule`, `Noti
 ## Data Statistics
 |     |     |
 |---- |---- |
-| Total documents | 133,209    |
+| Total documents | 133,258    |
 | Unique agencies | 252    |
-| Unique dockets  | 62,004   |
-| Unique FR IDs   | 104,742      |
-| Total comments  | 14,036,376  |
+| Unique dockets  | 62,027   |
+| Unique FR IDs   | 104,791      |
+| Total comments  | 14,039,534  |
 
 ## Data ingestion progress
 |     |     |
 |---- |---- |
-| Latest date   | 2023-08-23 |
+| Latest date   | 2023-08-25 |
 | Earliest date | 1971-01-01    |
-| Fraction of documents scanned for comments  | 0.9708 |
+| Fraction of documents scanned for comments  | 0.9899 |
 
 ## Top 30 documents with most comments
 | docId | comments | Title |
