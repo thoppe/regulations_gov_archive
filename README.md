@@ -12,18 +12,18 @@ Regulations are organized by five document types: `Rule`, `Proposed Rule`, `Noti
 ## Data Statistics
 |     |     |
 |---- |---- |
-| Total documents | 133,258    |
+| Total documents | 133,459    |
 | Unique agencies | 252    |
-| Unique dockets  | 62,027   |
-| Unique FR IDs   | 104,791      |
-| Total comments  | 14,039,534  |
+| Unique dockets  | 62,126   |
+| Unique FR IDs   | 104,965      |
+| Total comments  | 14,403,932  |
 
 ## Data ingestion progress
 |     |     |
 |---- |---- |
-| Latest date   | 2023-08-25 |
+| Latest date   | 2023-09-08 |
 | Earliest date | 1971-01-01    |
-| Fraction of documents scanned for comments  | 0.9899 |
+| Fraction of documents scanned for comments  | 0.9900 |
 
 ## Top 30 documents with most comments
 | docId | comments | Title |
@@ -54,8 +54,8 @@ Regulations are organized by five document types: `Rule`, `Proposed Rule`, `Noti
 | [OFCCP-2019-0003-0002](https://www.regulations.gov/document/OFCCP-2019-0003-0002) | 109,761 | Implementing Legal Requirements Regarding the Equal Opportunity Clause's Religious Exemption |
 | [FWS-HQ-ES-2018-0097-0001](https://www.regulations.gov/document/FWS-HQ-ES-2018-0097-0001) | 107,696 | Endangered and Threatened Wildlife and Plants; Removing the Gray Wolf (Canis lupus) from the List of Endangered and Threatened Wildlife |
 | [FS-2021-0007-0006](https://www.regulations.gov/document/FS-2021-0007-0006) | 106,645 | Special Areas; Roadless Area Conservation: National Forest System Lands in Alaska |
+| [FWS-HQ-ES-2023-0018-0001](https://www.regulations.gov/document/FWS-HQ-ES-2023-0018-0001) | 106,314 | Endangered and Threatened Species: Regulations Pertaining to Endangered and Threatened Wildlife and Plants |
 | [NOAA-NMFS-2008-0209-0007](https://www.regulations.gov/document/NOAA-NMFS-2008-0209-0007) | 102,311 | Magnuson-Stevens Act Provisions; Proposed Environmental Review Process for Fishery Management Actions; Meeting Announcements |
 | [CMS-2012-0031-63161](https://www.regulations.gov/document/CMS-2012-0031-63161) | 102,065 | Coverage of Certain Preventive Services under Affordable Care Act |
-| [ICEB-2018-0002-0001](https://www.regulations.gov/document/ICEB-2018-0002-0001) | 98,208 | Apprehension, Processing, Care, and Custody of Alien Minors and Unaccompanied Alien Children |
-| [ATF-2018-0002-0001](https://www.regulations.gov/document/ATF-2018-0002-0001) | 95,083 | Bump-Stock Type Device |
+| [FWS-HQ-ES-2021-0104-0001](https://www.regulations.gov/document/FWS-HQ-ES-2021-0104-0001) | 101,046 | Endangered and Threatened Species: Interagency Cooperation |
 

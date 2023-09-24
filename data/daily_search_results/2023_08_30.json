@@ -1,0 +1,822 @@
+[
+  {
+    "data": [
+      {
+        "id": "FAA-2023-1807-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-30T14:55:33Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18691",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-10-17T03:59:59Z",
+          "title": "Airworthiness Directives: Embraer S.A. (Type Certificate Previously Held by Yabora Industria Aeronautica S.A.; Embraer S.A.; Empresa Brasileira de Aeronautica S.A. (EMBRAER)) Airplanes",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "FAA-2023-1807",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f10ce2"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1807-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0094-0041",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T16:24:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18758",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-09-15T03:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pacific Cod in the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0094",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485f112d7"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0094-0041"
+        }
+      },
+      {
+        "id": "EERE-2017-BT-TP-0012-0025",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:47:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18529",
+          "withdrawn": false,
+          "agencyId": "EERE",
+          "commentEndDate": null,
+          "title": "2023-08-30  Energy Conservation Program: Test Procedure for Room Air Conditioners; Correcting amendments",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "EERE-2017-BT-TP-0012",
+          "subtype": "Correction",
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485f11245"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EERE-2017-BT-TP-0012-0025"
+        }
+      },
+      {
+        "id": "USCG-2023-0639-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:53:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18711",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Grosse Pointe Farms Fireworks, Lake St. Clair, Grosse Pointe Farms, MI",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "USCG-2023-0639",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485f11247"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0639-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0717-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:42:51Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18713",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; Find Your Way Home Swim; Detroit River, Grosse Ile, MI",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "USCG-2023-0717",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485f111bb"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0717-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0657-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:37:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18712",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zone; Grosse Pointe War Memorial Fireworks, Lake St. Clair, Grosse Pointe Farms, MI",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "USCG-2023-0657",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485f111b4"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0657-0001"
+        }
+      },
+      {
+        "id": "OSHA-2023-0005-0003",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:20:58Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18717",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": null,
+          "title": "Oregon State Plan: Extension of Final Approval of a State Plan To Cover the\nSeparable Portion of Temporary Labor Camps",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "OSHA-2023-0005",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485f11129"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2023-0005-0003"
+        }
+      },
+      {
+        "id": "USCG-2023-0697-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T13:20:47Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18704",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulations; Marine Events Within the Fifth Coast Guard District\u2014Atlantic City, NJ",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "USCG-2023-0697",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485f112d1"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0697-0001"
+        }
+      },
+      {
+        "id": "TTB-2023-0007-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-30T13:08:53Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18587",
+          "withdrawn": false,
+          "agencyId": "TTB",
+          "commentEndDate": "2023-10-31T03:59:59Z",
+          "title": "Notice No. 225:  Proposed Establishment of the San Luis Rey Viticultural Area",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "TTB-2023-0007",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f1124a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TTB-2023-0007-0001"
+        }
+      },
+      {
+        "id": "EPA-R05-OAR-2021-0477-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-11T01:00:44Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18705",
+          "withdrawn": false,
+          "agencyId": "EPA",
+          "commentEndDate": "2023-09-30T03:59:59Z",
+          "title": "Proposed approval of the Indiana Cold Cleaning Degreasing Alternative",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "EPA-R05-OAR-2021-0477",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f111ea"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/EPA-R05-OAR-2021-0477-0001"
+        }
+      },
+      {
+        "id": "FWS-R2-ES-2022-0162-18361",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-23T01:02:34Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18657",
+          "withdrawn": false,
+          "agencyId": "FWS",
+          "commentEndDate": "2023-10-03T03:59:59Z",
+          "title": "Endangered and Threatened Species: Status for the Dunes Sagebrush Lizard",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "FWS-R2-ES-2022-0162",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f10c7f"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FWS-R2-ES-2022-0162-18361"
+        }
+      },
+      {
+        "id": "USCG-2022-0237-0009",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T13:16:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18739",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Drawbridge Operation Regulation; Keweenaw Waterway, Between Houghton and Hancock, MI",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "USCG-2022-0237",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485f11283"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2022-0237-0009"
+        }
+      },
+      {
+        "id": "NOAA_FRDOC_0001-6713",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:09:05Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18764",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": null,
+          "title": "Fisheries of the Caribbean, Gulf of Mexico, and South Atlantic: Reef Fish Fishery of the Gulf of Mexico; 2023 Red Snapper Private Angling Component Closure in Federal Waters off Texas",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "NOAA_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485f11316"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA_FRDOC_0001-6713"
+        }
+      },
+      {
+        "id": "FCIC_FRDOC_0001-0227",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:09:15Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18689",
+          "withdrawn": false,
+          "agencyId": "FCIC",
+          "commentEndDate": null,
+          "title": "Actual Production History and Other Crop Insurance Transparency; Correction",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "FCIC_FRDOC_0001",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485f1131a"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCIC_FRDOC_0001-0227"
+        }
+      },
+      {
+        "id": "USCG-2023-0696-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T13:03:09Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18701",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Safety Zones: Foster Wedding Fireworks, Lake St. Clair; Grosse Pointe Park, MI",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "USCG-2023-0696",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485f1127d"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0696-0001"
+        }
+      },
+      {
+        "id": "USCG-2023-0711-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:30:35Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18698",
+          "withdrawn": false,
+          "agencyId": "USCG",
+          "commentEndDate": null,
+          "title": "Special Local Regulation; St. Petersburg P\u20131 Grand Prix; Waters of Tampa Bay",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "USCG-2023-0711",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485f10cdf"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/USCG-2023-0711-0001"
+        }
+      },
+      {
+        "id": "FCC-2023-0326-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-30T12:07:38Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18659",
+          "withdrawn": false,
+          "agencyId": "FCC",
+          "commentEndDate": "2023-10-17T03:59:59Z",
+          "title": "Television Broadcasting Services: Winnemucca, NV",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f11243"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FCC-2023-0326-0001"
+        }
+      },
+      {
+        "id": "STB-2023-0113-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T12:06:14Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18740",
+          "withdrawn": false,
+          "agencyId": "STB",
+          "commentEndDate": null,
+          "title": "Fees for Services Performed in Connection with Licensing and Related Services",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485f11126"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/STB-2023-0113-0001"
+        }
+      },
+      {
+        "id": "FAA-2023-1804-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-30T14:58:24Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18692",
+          "withdrawn": false,
+          "agencyId": "FAA",
+          "commentEndDate": "2023-10-17T03:59:59Z",
+          "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "FAA-2023-1804",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f11317"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2023-1804-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2022-0094-0040",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T16:22:10Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18746",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-09-15T03:59:59Z",
+          "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pacific Cod in the Bering Sea and Aleutian Islands Management Area",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "NOAA-NMFS-2022-0094",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485f111b9"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2022-0094-0040"
+        }
+      },
+      {
+        "id": "TSA-2023-0002-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-13T01:03:39Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18582",
+          "withdrawn": false,
+          "agencyId": "TSA",
+          "commentEndDate": "2023-10-17T03:59:59Z",
+          "title": "Minimum Standards for Driver\u2019s Licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes; Waiver for Mobile Driver\u2019s Licenses",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "TSA-2023-0002",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f11284"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/TSA-2023-0002-0001"
+        }
+      },
+      {
+        "id": "OSHA-2023-0008-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-23T01:02:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18695",
+          "withdrawn": false,
+          "agencyId": "OSHA",
+          "commentEndDate": "2023-10-31T03:59:59Z",
+          "title": "Worker Walkaround Representative Designation Process",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "OSHA-2023-0008",
+          "subtype": "Request for Comment",
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f10c83"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/OSHA-2023-0008-0001"
+        }
+      },
+      {
+        "id": "SEC-2023-0940-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-08-30T12:05:19Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18667",
+          "withdrawn": false,
+          "agencyId": "SEC",
+          "commentEndDate": "2023-10-31T03:59:59Z",
+          "title": "Safeguarding Advisory Client Assets",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": null,
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f10c84"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/SEC-2023-0940-0001"
+        }
+      },
+      {
+        "id": "BIS-2023-0023-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Rule",
+          "lastModifiedDate": "2023-08-30T13:06:01Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18772",
+          "withdrawn": false,
+          "agencyId": "BIS",
+          "commentEndDate": null,
+          "title": "Temporary Denial Order Provisions to Allow for Extended Renewals in Certain Circumstances",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "BIS-2023-0023",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": false,
+          "objectId": "0900006485f11249"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/BIS-2023-0023-0001"
+        }
+      },
+      {
+        "id": "NOAA-NMFS-2023-0051-0004",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-14T01:04:59Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18411",
+          "withdrawn": false,
+          "agencyId": "NOAA",
+          "commentEndDate": "2023-09-30T03:59:59Z",
+          "title": "Fisheries off West Coast States: Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 32",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "NOAA-NMFS-2023-0051",
+          "subtype": null,
+          "commentStartDate": "2023-08-30T07:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f10c81"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/NOAA-NMFS-2023-0051-0004"
+        }
+      },
+      {
+        "id": "FAA-2022-1378-0002",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-22T15:35:38Z",
+          "highlightedContent": "",
+          "frDocNum": null,
+          "withdrawn": true,
+          "agencyId": "FAA",
+          "commentEndDate": null,
+          "title": "Airworthiness Directives: Airbus SAS Airplanes",
+          "postedDate": "2023-08-31T00:00:00Z",
+          "docketId": "FAA-2022-1378",
+          "subtype": null,
+          "commentStartDate": null,
+          "openForComment": false,
+          "objectId": "0900006485f1e806"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/FAA-2022-1378-0002"
+        }
+      },
+      {
+        "id": "IRS-2023-0042-0001",
+        "type": "documents",
+        "attributes": {
+          "documentType": "Proposed Rule",
+          "lastModifiedDate": "2023-09-19T01:03:32Z",
+          "highlightedContent": "",
+          "frDocNum": "2023-18514",
+          "withdrawn": false,
+          "agencyId": "IRS",
+          "commentEndDate": "2023-10-31T03:59:59Z",
+          "title": "Increased Credit or Deduction Amounts for Satisfying Certain Prevailing Wage and Registered Apprenticeship Requirements",
+          "postedDate": "2023-08-30T04:00:00Z",
+          "docketId": "IRS-2023-0042",
+          "subtype": "Notice of Proposed Rulemaking (NPRM)",
+          "commentStartDate": "2023-08-30T04:00:00Z",
+          "openForComment": true,
+          "objectId": "0900006485f11313"
+        },
+        "links": {
+          "self": "https://api.regulations.gov/v4/documents/IRS-2023-0042-0001"
+        }
+      }
+    ],
+    "meta": {
+      "aggregations": {
+        "documentType": [
+          {
+            "docCount": 119,
+            "label": "Other"
+          },
+          {
+            "docCount": 82,
+            "label": "Notice"
+          },
+          {
+            "docCount": 55,
+            "label": "Supporting & Related Material"
+          },
+          {
+            "docCount": 15,
+            "label": "Rule"
+          },
+          {
+            "docCount": 12,
+            "label": "Proposed Rule"
+          }
+        ],
+        "subtype": [
+          {
+            "docCount": 5,
+            "label": "Notice of Proposed Rulemaking (NPRM)"
+          },
+          {
+            "docCount": 1,
+            "label": "Correction"
+          },
+          {
+            "docCount": 1,
+            "label": "Request for Comment"
+          }
+        ],
+        "withinCommentPeriod": [
+          {
+            "docCount": 11,
+            "label": "true"
+          },
+          {
+            "docCount": 16,
+            "label": "false"
+          }
+        ],
+        "agencyId": [
+          {
+            "docCount": 7,
+            "value": "USCG"
+          },
+          {
+            "docCount": 4,
+            "value": "NOAA"
+          },
+          {
+            "docCount": 3,
+            "value": "FAA"
+          },
+          {
+            "docCount": 2,
+            "value": "OSHA"
+          },
+          {
+            "docCount": 1,
+            "value": "BIS"
+          },
+          {
+            "docCount": 1,
+            "value": "EERE"
+          },
+          {
+            "docCount": 1,
+            "value": "EPA"
+          },
+          {
+            "docCount": 1,
+            "value": "FCC"
+          },
+          {
+            "docCount": 1,
+            "value": "FCIC"
+          },
+          {
+            "docCount": 1,
+            "value": "FWS"
+          },
+          {
+            "docCount": 1,
+            "value": "IRS"
+          },
+          {
+            "docCount": 1,
+            "value": "SEC"
+          },
+          {
+            "docCount": 1,
+            "value": "STB"
+          },
+          {
+            "docCount": 1,
+            "value": "TSA"
+          },
+          {
+            "docCount": 1,
+            "value": "TTB"
+          }
+        ],
+        "commentEndDate": [
+          {
+            "docCount": 2,
+            "label": "Next 7 Days",
+            "fromDate": "2023-09-24 00:00:00",
+            "toDate": "2023-09-30 23:59:59"
+          },
+          {
+            "docCount": 3,
+            "label": "Next 15 Days",
+            "fromDate": "2023-09-24 00:00:00",
+            "toDate": "2023-10-08 23:59:59"
+          },
+          {
+            "docCount": 7,
+            "label": "Next 30 Days",
+            "fromDate": "2023-09-24 00:00:00",
+            "toDate": "2023-10-23 23:59:59"
+          },
+          {
+            "docCount": 11,
+            "label": "Next 90 Days",
+            "fromDate": "2023-09-24 00:00:00",
+            "toDate": "2023-12-22 23:59:59"
+          }
+        ],
+        "postedDate": [
+          {
+            "docCount": 21,
+            "label": "Last 3 Days",
+            "fromDate": "2023-09-22 00:00:00",
+            "toDate": "2023-09-24 23:59:59"
+          },
+          {
+            "docCount": 116,
+            "label": "Last 7 Days",
+            "fromDate": "2023-09-18 00:00:00",
+            "toDate": "2023-09-24 23:59:59"
+          },
+          {
+            "docCount": 197,
+            "label": "Last 15 Days",
+            "fromDate": "2023-09-10 00:00:00",
+            "toDate": "2023-09-24 23:59:59"
+          },
+          {
+            "docCount": 398,
+            "label": "Last 30 Days",
+            "fromDate": "2023-08-26 00:00:00",
+            "toDate": "2023-09-24 23:59:59"
+          },
+          {
+            "docCount": 1384,
+            "label": "Last 90 Days",
+            "fromDate": "2023-06-27 00:00:00",
+            "toDate": "2023-09-24 23:59:59"
+          }
+        ]
+      },
+      "filters": {
+        "postedDate": {
+          "fromDate": "2023-08-30",
+          "toDate": "2023-08-30"
+        },
+        "documentType": [
+          {
+            "label": "Proposed Rule",
+            "value": "Proposed Rule"
+          },
+          {
+            "label": "Rule",
+            "value": "Rule"
+          }
+        ]
+      },
+      "hasNextPage": false,
+      "hasPreviousPage": false,
+      "numberOfElements": 27,
+      "pageNumber": 1,
+      "pageSize": 250,
+      "totalElements": 27,
+      "totalPages": 1,
+      "firstPage": true,
+      "lastPage": true
+    }
+  }
+]

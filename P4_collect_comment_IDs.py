@@ -1,7 +1,7 @@
 from datetime import timedelta, datetime
 import pandas as pd
 from dspipe import Pipe
-import utils
+import src.utils as utils
 import pytz
 
 # Helps when breaking things up
@@ -125,11 +125,23 @@ def compute(objectId, f1):
         if current_search_elements in [0, 1]:
             break
 
+        print(len(data))
+        if len(data) > 20000:
+            break
+
     df = pd.json_normalize(data)
 
     key = "id"
-    df = df.drop_duplicates(subset=[key])
-    df = df.sort_values(key).set_index(key)
+    # df = df.drop_duplicates(subset=[key])
+    # df = df.sort_values(key).set_index(key)
+
+    print(df)
+    print(df["links.self"].str[40:])
+    print(len(df))
+
+    df = df.reset_index().drop_duplicates(subset=[key])
+    print(len(df))
+    exit()
 
     if not len(df) == total_elements:
         print(f"Missing {total_elements - len(df)}, not saving")
@@ -141,7 +153,9 @@ def compute(objectId, f1):
 
 # For testing
 # objectId = "09000064851c6f17"
-# compute(objectId, None)
+objectId = "09000064858c8594"
+compute(objectId, None)
+exit()
 
 Pipe(
     df["attributes.objectId"], "data/comments_objectIDs", output_suffix=".csv"
